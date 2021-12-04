@@ -12,6 +12,19 @@ Understanding how mind emerges from matter is one of the great remaining questio
 
 
 
+<li>
+									<a href="https://github.com/artcogsys"><i class="fa fa-github"></i></a>
+								</li>
+								<li>
+									<a href="https://twitter.com/artcogsys"><i class="fa fa-twitter"></i></a>
+								</li>
+
+
+<div class="col-md-6" id="tweets">
+									<a class="twitter-timeline" data-height="100%" href="https://twitter.com/artcogsys?ref_src=twsrc%5Etfw">Tweets by artcogsys</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+								</div>
+
+
 
 You can use the [editor on GitHub](https://github.com/artcogsys/artcogsys.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

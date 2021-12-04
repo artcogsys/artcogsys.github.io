@@ -1,3 +1,9 @@
 theme: jekyll-theme-midnight
 title: Artificial Cognitive Systems
 description: Homepage of the Artificial Cognitive Systems Lab
+plugins:
+  - jekyll-gist
+source 'https://rubygems.org'
+group :jekyll_plugins do
+    gem 'github-pages'
+end
