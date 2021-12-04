@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Artificial Cognitive Systems
+
+
+Understanding how mind emerges from matter is one of the great remaining questions in science. The Artificial Cognitive Systems lab studies the computational principles that underlie natural intelligence and uses these principles to develop more capable and efficient intelligent technology.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/artcogsys/artcogsys.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
