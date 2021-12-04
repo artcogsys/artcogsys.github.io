@@ -6,11 +6,11 @@ Understanding how mind emerges from matter is one of the great remaining questio
 
 
 [Github page](https://github.com/artcogsys)
+
 [Publications](https://scholar.google.nl/citations?user=sX0ZypwAAAAJ&hl=nl)
  
 
-
-<iframe style="width: 300px; height: 500px;" src="https://yourgithubusername.github.io/twitter-embed/" width="300" height="150"></iframe>
+<a class="twitter-timeline" href="https://twitter.com/artcogsys?ref_src=twsrc%5Etfw">Tweets by artcogsys</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
