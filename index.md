@@ -3,6 +3,7 @@
 
 Understanding how mind emerges from matter is one of the great remaining questions in science. The Artificial Cognitive Systems lab studies the computational principles that underlie natural intelligence and uses these principles to develop more capable and efficient intelligent technology.
 
+The 
 
 
 
