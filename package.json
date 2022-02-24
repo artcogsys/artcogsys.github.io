@@ -10,6 +10,10 @@
     "export": "next export -o docs/"
   },
   "dependencies": {
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.4.2",
+    "@mui/material": "^5.4.3",
     "date-fns": "^2.28.0",
     "gray-matter": "^4.0.3",
     "imagemin-mozjpeg": "^10.0.0",

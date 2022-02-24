@@ -3,6 +3,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 import logo from '../public/acs.png'
+import AppBar from '../components/appBar'
 
 const name = 'ArtCogSys'
 export const siteTitle = 'ArtCogSys Website WIP'
@@ -28,14 +29,7 @@ export default function Layout({
             <header className={styles.header}>
                 {home ? (
                     <>
-                        <img
-                            src={logo.src}
-                            className={utilStyles.borderCircle}
-                            height={144}
-                            width={144}
-                            alt={name}
-                        />
-                        <h1 className={utilStyles.heading2Xl}>{name}</h1>
+                        < AppBar />
                     </>
                 ) : (
                     <>
