@@ -8,7 +8,7 @@ const nextConfig = {
     // your project has ESLint errors.
     ignoreDuringBuilds: true,
   },
-  assetPrefix: isProd ? '/artcogsys.github.io/' : '',
+  assetPrefix: isProd ? '/artcogsys.github.io' : '',
 }
  
 module.exports = nextConfig
