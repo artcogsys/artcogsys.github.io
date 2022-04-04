@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export -o docs/"
+    "export": "next export -o docs/",
+    "prod": "set NODE_ENV=production && next export -o docs/"
   },
   "dependencies": {
     "@emotion/react": "^11.8.1",

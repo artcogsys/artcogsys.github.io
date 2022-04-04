@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-const isProd = process.env.NODE_ENV === 'production'
+const isProd = process.env.NODE_ENV.trim() === 'production'
 
 const nextConfig = {
   reactStrictMode: true,
@@ -8,8 +8,8 @@ const nextConfig = {
     // your project has ESLint errors.
     ignoreDuringBuilds: true,
   },
-  assetPrefix: '/',
-  basePath: '/artcogsys.github.io',
+  //assetPrefix: '/',
+  basePath: isProd ? '/artcogsys.github.io' : "",
 }
  
 module.exports = nextConfig
