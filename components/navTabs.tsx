@@ -14,7 +14,7 @@ function LinkTab(props: LinkTabProps) {
     <Tab
       component="a"
       onClick={(event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
-        event.preventDefault();
+        //event.preventDefault();
       }}
       {...props}
     />
@@ -25,6 +25,7 @@ export default function NavTabs() {
   const [value, setValue] = React.useState(0);
 
   const handleChange = (event: React.SyntheticEvent, newValue: number) => {
+    console.log(newValue)
     setValue(newValue);
   };
 
@@ -38,7 +39,7 @@ export default function NavTabs() {
   return (
     <Box sx={{ width: '100%' }}>
       <Tabs value={value} onChange={handleChange} aria-label="nav tabs example">
-        <Tab icon={appIcon} aria-label="artcogsys" href="/spam" />
+        <Tab icon={appIcon} aria-label="artcogsys" href="/" />
         <LinkTab label="Home" href="/" />
         <LinkTab label="Research" href="/research" />
         <LinkTab label="People" href="/people" />
