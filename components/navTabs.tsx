@@ -35,7 +35,6 @@ export default function NavTabs() {
                 width={40}
                 alt={"artcogsys"}/>
 
-  const pages = ['Home', 'Research', 'People', 'Publications', 'Education', 'Resources', 'Contact' ];
   return (
     <Box sx={{ width: '100%' }}>
       <Tabs value={value} onChange={handleChange} aria-label="nav tabs example">
