@@ -22,11 +22,11 @@ function LinkTab(props: LinkTabProps) {
 }
 
 export default function NavTabs() {
-  const [value, setValue] = React.useState(0);
+  const [value, setValue] = React.useState(1);
 
   const handleChange = (event: React.SyntheticEvent, newValue: number) => {
     console.log(newValue)
-    setValue(newValue);
+    newValue == -1 ? setValue(0) : setValue(newValue);
   };
 
   const appIcon = <img
@@ -39,7 +39,7 @@ export default function NavTabs() {
   return (
     <Box sx={{ width: '100%' }}>
       <Tabs value={value} onChange={handleChange} aria-label="nav tabs example">
-        <Tab icon={appIcon} aria-label="artcogsys" href="/" />
+        <Tab icon={appIcon} aria-label="artcogsys" href="/" value={-1}/>
         <LinkTab label="Home" href="/" />
         <LinkTab label="Research" href="/research" />
         <LinkTab label="People" href="/people" />
