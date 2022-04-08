@@ -26,7 +26,6 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
   const [value, setValue] = React.useState(pageIdx);
 
   const handleChange = (event: React.SyntheticEvent, newValue: number) => {
-    console.log(newValue);
     newValue == -1 ? setValue(0) : setValue(newValue);
   };
 

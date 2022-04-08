@@ -25,7 +25,6 @@ export const getPeopleData = () => {
 
     const fileNames = fs.readdirSync(contentPath);
 
-    console.log("Filenames with the .md extension:");
     fileNames.forEach((file) => {
       const fullPath = path.join(contentPath, file);
 
