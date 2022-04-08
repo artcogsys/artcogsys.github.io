@@ -35,8 +35,6 @@ export const getPeopleData = () => {
         // Use gray-matter to parse the post metadata section
         content = matter(fileContents);
       } else if (path.extname(file) == ".png") {
-        //img = path.join(contentPath, file);
-        //img = fullPath;
         img = fs.readFileSync(fullPath, { encoding: "base64" });
       }
     });
@@ -85,8 +83,7 @@ export async function getPersonData(id: string) {
         .process(matterResult.content);
       contentHtml = processedContent.toString();
     } else if (path.extname(file) == ".png") {
-      img = fullPath;
-      //img = fs.readFileSync(fullPath, { encoding: "base64" });
+      img = fs.readFileSync(fullPath, { encoding: "base64" });
     }
   });
 
