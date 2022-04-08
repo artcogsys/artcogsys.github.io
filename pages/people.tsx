@@ -24,12 +24,22 @@ export default function People({
             <Head>
                 <title>{siteTitle}</title>
             </Head>
-            <img
-                src={`data:image/png;base64, ${allPeopleData[0].img}`}
-                height={400}
-                width={400}
-                alt={"artcogsys"}
-            />
+            <ImageList sx={{ width: 500, height: 400 }}>
+              {allPeopleData.map((person) => (
+                <ImageListItem key={person.img}>
+                  <img
+                    src={`data:image/png;base64,${person.img}`}
+                    alt={person.title}
+                    loading="lazy"
+                  />
+                  <ImageListItemBar
+                    title={person.name}
+                    subtitle={<span>{person.title}</span>}
+                    position="below"
+                  />
+                </ImageListItem>
+              ))}
+            </ImageList>
         </Layout>
     )
 }
