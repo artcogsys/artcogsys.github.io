@@ -24,7 +24,9 @@ export default function People({
         <title>{siteTitle}</title>
       </Head>
       <ImageList
-        sx={{ width: "75%", height: "75%", margin: "auto", marginTop: "20px" }}
+        sx={{ width: "75%", margin: "auto", marginTop: "20px" }}
+        gap={25}
+        cols={3}
       >
         {allPeopleData.map((person) => (
           <ImageListItem key={person.img}>
