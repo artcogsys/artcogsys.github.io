@@ -1,58 +1,58 @@
-import * as React from 'react';
-import Head from 'next/head'
-import ImageList from '@mui/material/ImageList';
-import ImageListItem from '@mui/material/ImageListItem';
-import ImageListItemBar from '@mui/material/ImageListItemBar';
-import Layout, { siteTitle } from '../components/layout';
-import { getPeopleData } from '../lib/people'
-import { GetStaticProps } from 'next';
-
+/* eslint-disable @next/next/no-img-element */
+import * as React from "react";
+import Head from "next/head";
+import ImageList from "@mui/material/ImageList";
+import ImageListItem from "@mui/material/ImageListItem";
+import ImageListItemBar from "@mui/material/ImageListItemBar";
+import Layout, { siteTitle } from "../components/layout";
+import { getPeopleData } from "../lib/people";
+import { GetStaticProps } from "next";
 
 export default function People({
-    allPeopleData
+  allPeopleData,
 }: {
-    allPeopleData: {
-        name: string
-        title: string
-        id: string
-        img: string
-    }[]
+  allPeopleData: {
+    name: string;
+    title: string;
+    id: string;
+    img: string;
+  }[];
 }) {
-    console.log(allPeopleData)
-    return (
-        <Layout home>
-            <Head>
-                <title>{siteTitle}</title>
-            </Head>
-            <ImageList sx={{ width: 500, height: 400 }}>
-              {allPeopleData.map((person) => (
-                <ImageListItem key={person.img}>
-                  <img
-                    src={`data:image/png;base64,${person.img}`}
-                    alt={person.title}
-                    loading="lazy"
-                  />
-                  <ImageListItemBar
-                    title={person.name}
-                    subtitle={<span>{person.title}</span>}
-                    position="below"
-                  />
-                </ImageListItem>
-              ))}
-            </ImageList>
-        </Layout>
-    )
+  return (
+    <Layout home>
+      <Head>
+        <title>{siteTitle}</title>
+      </Head>
+      <ImageList
+        sx={{ width: "75%", height: "75%", margin: "auto", marginTop: "20px" }}
+      >
+        {allPeopleData.map((person) => (
+          <ImageListItem key={person.img}>
+            <img
+              src={`data:image/png;base64,${person.img}`}
+              alt={person.title}
+              loading="lazy"
+            />
+            <ImageListItemBar
+              title={person.name}
+              subtitle={<span>{person.title}</span>}
+              position="below"
+            />
+          </ImageListItem>
+        ))}
+      </ImageList>
+    </Layout>
+  );
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-    const allPeopleData = getPeopleData()
-    return {
-        props: {
-            allPeopleData
-        }
-    }
-}
-
+  const allPeopleData = getPeopleData();
+  return {
+    props: {
+      allPeopleData,
+    },
+  };
+};
 
 /** 
 export default function TitlebarBelowImageList() {
