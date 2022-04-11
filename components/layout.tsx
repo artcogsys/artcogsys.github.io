@@ -8,7 +8,7 @@ import AppBar from "../components/appBar";
 import NavTabs from "../components/navTabs";
 
 const name = "ArtCogSys";
-export const siteTitle = "ArtCogSys Website WIP";
+export const siteTitle = "Artificial Cognitive Systems Research Group";
 
 export default function Layout({
   children,

@@ -1,0 +1,2 @@
+#%%
+from scholarly import scholarly
