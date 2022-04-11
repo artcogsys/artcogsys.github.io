@@ -69,8 +69,11 @@ for idx, pub_query in enumerate(author['publications']):
   publications.append(scholarly.fill(pub_query))
 
 # %%
+print(publications)
+
+# %%
 # Saving the relevant information appropriately
-with open('publications.json', 'w', encoding='utf-8') as f:
+with open(path.join(test_folder, 'publications.json'), 'w', encoding='utf-8') as f:
     json.dump(publications, f, ensure_ascii=False, indent=4)
 
   
