@@ -67,8 +67,9 @@ export async function getPersonData(id: string) {
   let contentHtml;
   let matterResult;
   let img;
+  let publications;
 
-  fileNames.forEach(async (file) => {
+  fileNames.forEach((file) => {
     const fullPath = path.join(contentPath, file);
     if (path.extname(file) == ".md") {
       // Read markdown file as string
@@ -78,12 +79,15 @@ export async function getPersonData(id: string) {
       matterResult = matter(fileContents);
 
       // Use remark to convert markdown into HTML string
-      const processedContent = await remark()
+      const processedContent = remark()
         .use(html)
-        .process(matterResult.content);
+        .processSync(matterResult.content);
       contentHtml = processedContent.toString();
     } else if (path.extname(file) == ".png") {
       img = fs.readFileSync(fullPath, { encoding: "base64" });
+    } else if (path.extname(file) == ".json") {
+      const rawData = fs.readFileSync(fullPath);
+      publications = JSON.parse(rawData.toString());
     }
   });
 
@@ -92,6 +96,7 @@ export async function getPersonData(id: string) {
     id,
     contentHtml,
     img,
+    publications,
     ...(matterResult.data as { name: string; title: string }),
   };
 }
