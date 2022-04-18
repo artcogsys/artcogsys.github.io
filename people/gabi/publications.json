@@ -1,0 +1,235 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Explanation methods in deep learning: Users, values, concerns and challenges",
+            "pub_year": 2018,
+            "author": "Gabriëlle Ras and Marcel van Gerven and Pim Haselager",
+            "pages": "19-36",
+            "publisher": "Springer, Cham",
+            "abstract": "Issues regarding explainable AI involve four components: users, laws and regulations, explanations and algorithms. Together these components provide a context in which explanation methods can be evaluated regarding their adequacy. The goal of this chapter is to bridge the gap between expert users and lay users. Different kinds of users are identified and their concerns revealed, relevant statements from the General Data Protection Regulation are analyzed in the context of Deep Neural Networks (DNNs), a taxonomy for the classification of existing explanation methods is introduced, and finally, the various classes of explanation methods are analyzed to verify if user concerns are justified. Overall, it is clear that (visual) explanations can be given about various aspects of the influence of the input on the output. However, it is noted that explanation methods or interfaces for lay users are missing and we …"
+        },
+        "filled": true,
+        "author_pub_id": "EyH9zNoAAAAJ:qjMakFHDy7sC",
+        "num_citations": 160,
+        "citedby_url": "/scholar?cites=2119736289733814672",
+        "cites_id": [
+            "2119736289733814672"
+        ],
+        "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-98131-4_2",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:kKkWt-zQah0J:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 12,
+            "2019": 23,
+            "2020": 37,
+            "2021": 69,
+            "2022": 15
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Explainable Deep Learning: A Field Guide for the Uninitiated",
+            "pub_year": 2020,
+            "author": "Gabrielle Ras and Ning Xie and Marcel van Gerven and Derek Doran",
+            "journal": "arXiv e-prints",
+            "pages": "arXiv: 2004.14545",
+            "abstract": "Deep neural networks (DNNs) are an indispensable machine learning tool despite the difficulty of diagnosing what aspects of a model’s input drive its decisions. In countless real-world domains, from legislation and law enforcement to healthcare, such diagnosis is essential to ensure that DNN decisions are driven by aspects appropriate in the context of its use. The development of methods and studies enabling the explanation of a DNN’s decisions has thus blossomed into an active and broad area of research. The field’s complexity is exacerbated by competing definitions of what it means “to explain” the actions of a DNN and to evaluate an approach’s “ability to explain”. This article offers a field guide to explore the space of explainable deep learning for those in the AI/ML field who are uninitiated. The field guide: i) Introduces three simple dimensions defining the space of foundational methods that contribute to explainable deep learning, ii) discusses the evaluations for model explanations, iii) places explainability in the context of other related deep learning research areas, and iv) discusses user-oriented explanation design and future directions. We hope the guide is seen as a starting point for those embarking on this research field."
+        },
+        "filled": true,
+        "author_pub_id": "EyH9zNoAAAAJ:WF5omc3nYNoC",
+        "num_citations": 146,
+        "citedby_url": "/scholar?cites=11449641212745103760,5823096581545580132",
+        "cites_id": [
+            "11449641212745103760",
+            "5823096581545580132"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.jair.org/index.php/jair/article/view/13200",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZNbQI33Lz1AJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 23,
+            "2021": 97,
+            "2022": 24
+        },
+        "mandates": [
+            {
+                "agency": "US National Science Foundation",
+                "url_policy": "https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf",
+                "url_policy_cached": "/mandates/nsf-2021-02-13.pdf",
+                "effective_date": "2016/1",
+                "embargo": "12 months",
+                "acknowledgement": " …NSF Fellowship …"
+            },
+            {
+                "agency": "US Department of Defense",
+                "url_policy": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320012p.pdf?ver=2018-12-17-130508-423",
+                "url_policy_cached": "/mandates/dod-2021-02-13.pdf",
+                "effective_date": "2017/1",
+                "embargo": "12 months",
+                "acknowledgement": " …Department of Defense (MURI N00014-00-1-0637) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cognitive image processing for humanoid soccer in dynamic environments",
+            "pub_year": 2015,
+            "author": "Gabriëlle EH Ras",
+            "journal": "Bachelor thesis, Maastricht University",
+            "abstract": "In this paper we consider the problem of object detection. A simple cognitive image processing module (CIP-module) based on the Recognition-By-Components (RBC) is used to extract important features from an image without using the information about color of the features. The developed CIP-module shows that object detection can be achieved without having to rely on a specific color of the object. In this case, a Standard Platform League (SPL) goal and ball are successfully detected in realistic SPL game scenarios. The CIP-module is compared to the most widely used method of object detection within the SPL which is image segmentation based on the scanline method. A comparison is made on grounds of runtime and accuracy."
+        },
+        "filled": true,
+        "author_pub_id": "EyH9zNoAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=6164040427388504482",
+        "cites_id": [
+            "6164040427388504482"
+        ],
+        "pub_url": "http://www.dutchnaoteam.nl/wp-content/uploads/2011/10/G_Ras_Thesis__14-15.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oomjNxwSi1UJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 2,
+            "2017": 0,
+            "2018": 2,
+            "2019": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dutch Nao Team Team Description for RoboCup 2014-Joao Pessoa, Brasil",
+            "pub_year": 2014,
+            "author": "Patrick de Kok and Duncan ten Velthuis and Niels Backer and Jasper van Eck and Fabian Voorter and Arnoud Visser and Jijju Thomas and Gabriel Delgado Lopes and Gabriëlle Ras and Nico Roos",
+            "journal": "University of Amsterdam, TU Delft & Maastricht University",
+            "abstract": "The Dutch Nao Team consists of students and staff members from three Dutch universities. The Dutch Nao Team debuted in the Standard Platform League (SPL) competition at the German Open 2010 [1]. Since their founding the Dutch Nao Team has been qualified for the world-cup competitions in Istanbul [2], Mexico City [3] and Eindhoven [4]. The Dutch Nao Team intends to participate in the main SPL soccer challenge, the drop-in challenge and the technical challenges, with a strong preference for the sound recognition and autonomous refereeing challenge, on one condition. As of now the Dutch Nao Team lacks the funding to send its undergraduate students to the event. Without sponsoring or travel support the Dutch Nao Team will not be able to attend the RoboCup. In table 1 can be seen that the current deficit is 4080 euro with a limited team representation of four members. In previous years the sponsorship, for instance earned by demonstrations, was in the order of 1000 euro."
+        },
+        "filled": true,
+        "author_pub_id": "EyH9zNoAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 4,
+        "citedby_url": "/scholar?cites=6895258242377546264",
+        "cites_id": [
+            "6895258242377546264"
+        ],
+        "pub_url": "https://dare.uva.nl/document/2/138659",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GHp_u9bgsF8J:scholar.google.com/",
+        "cites_per_year": {
+            "2014": 2,
+            "2015": 1,
+            "2016": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyperrealistic neural decoding: Reconstructing faces from fMRI activations via the GAN latent space",
+            "pub_year": 2021,
+            "author": "Thirza Dado and Yağmur Güçlütürk and Luca Ambrogioni and Gabriëlle Ras and Sander E Bosch and Marcel van Gerven and Umut Güçlü",
+            "journal": "bioRxiv",
+            "pages": "2020.07. 01.168849",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Neural decoding can be conceptualized as the problem of mapping brain responses back to sensory stimuli via a feature space. We introduce (i) a novel experimental paradigm that uses well-controlled yet highly naturalistic stimuli with a priori known feature representations and (ii) an implementation thereof for HYPerrealistic reconstruction of PERception (HYPER) of faces from brain recordings. To this end, we embrace the use of generative adversarial networks (GANs) at the earliest step of our neural decoding pipeline by acquiring fMRI data as participants perceive face images synthesized by the generator network of a GAN. We show that the latent vectors used for generation effectively capture the same defining stimulus properties as the fMRI measurements. As such, these latents (conditioned on the GAN) are used as the in-between feature representations underlying the perceived images that can be …"
+        },
+        "filled": true,
+        "author_pub_id": "EyH9zNoAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?cites=14802784632941675685,10524495191383923772",
+        "cites_id": [
+            "14802784632941675685",
+            "10524495191383923772"
+        ],
+        "pub_url": "https://www.nature.com/articles/s41598-021-03938-w",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PNy-ip2EDpIJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Explainable 3D Convolutional Neural Networks by Learning Temporal Transformations",
+            "pub_year": 2020,
+            "author": "Gabriëlle Ras and Luca Ambrogioni and Pim Haselager and Marcel AJ van Gerven and Umut Güçlü",
+            "journal": "arXiv preprint arXiv:2006.15983",
+            "abstract": "In this paper we introduce the temporally factorized 3D convolution (3TConv) as an interpretable alternative to the regular 3D convolution (3DConv). In a 3TConv the 3D convolutional filter is obtained by learning a 2D filter and a set of temporal transformation parameters, resulting in a sparse filter where the 2D slices are sequentially dependent on each other in the temporal dimension. We demonstrate that 3TConv learns temporal transformations that afford a direct interpretation. The temporal parameters can be used in combination with various existing 2D visualization methods. We also show that insight about what the model learns can be achieved by analyzing the transformation parameter statistics on a layer and model level. Finally, we implicitly demonstrate that, in popular ConvNets, the 2DConv can be replaced with a 3TConv and that the weights can be transferred to yield pretrained 3TConvs. pretrained 3TConvnets leverage more than a decade of work on traditional 2DConvNets by being able to make use of features that have been proven to deliver excellent results on image classification benchmarks."
+        },
+        "filled": true,
+        "author_pub_id": "EyH9zNoAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/2006.15983",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HerU1r1wKZ0J:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Background Hardly Matters: Understanding Personality Attribution in Deep Residual Networks",
+            "pub_year": 2019,
+            "author": "Gabriëlle Ras and Ron Dotsch and Luca Ambrogioni and Umut Güçlü and Marcel AJ van Gerven",
+            "journal": "arXiv preprint arXiv:1912.09831",
+            "abstract": "Perceived personality traits attributed to an individual do not have to correspond to their actual personality traits and may be determined in part by the context in which one encounters a person. These apparent traits determine, to a large extent, how other people will behave towards them. Deep neural networks are increasingly being used to perform automated personality attribution (e.g., job interviews). It is important that we understand the driving factors behind the predictions, in humans and in deep neural networks. This paper explicitly studies the effect of the image background on apparent personality prediction while addressing two important confounds present in existing literature; overlapping data splits and including facial information in the background. Surprisingly, we found no evidence that background information improves model predictions for apparent personality traits. In fact, when background is explicitly added to the input, a decrease in performance was measured across all models."
+        },
+        "filled": true,
+        "author_pub_id": "EyH9zNoAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/1912.09831",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cixI_ipzzXEJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal Factorization of 3D Convolutional Kernels",
+            "pub_year": 2019,
+            "author": "Gabriëlle Ras and Luca Ambrogioni and Umut Güçlü and Marcel AJ van Gerven",
+            "journal": "arXiv preprint arXiv:1912.04075",
+            "abstract": "3D convolutional neural networks are difficult to train because they are parameter-expensive and data-hungry. To solve these problems we propose a simple technique for learning 3D convolutional kernels efficiently requiring less training data. We achieve this by factorizing the 3D kernel along the temporal dimension, reducing the number of parameters and making training from data more efficient. Additionally we introduce a novel dataset called Video-MNIST to demonstrate the performance of our method. Our method significantly outperforms the conventional 3D convolution in the low data regime (1 to 5 videos per class). Finally, our model achieves competitive results in the high data regime (>10 videos per class) using up to 45% fewer parameters."
+        },
+        "filled": true,
+        "author_pub_id": "EyH9zNoAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/1912.04075",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8iKgb3ShHTQJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Practical Deep Learning for Person Re-Identification in Video Surveillance Systems",
+            "pub_year": 2017,
+            "author": "Gabrielle E.H. Ras",
+            "abstract": "In an existing particle filter tracking system at Thales Research & Technology it is required for a deep neural network to perform person re-identification on image pairs, maximizing the TPR and minimizing the FPR, in a situation where we have a relatively small gallery size. Current available literature on the use of deep learning in person re-identification focus on improving large dataset benchmarks with large gallery sizes, while improving the CMC ranking on individual benchmarks using very deep neural networks. While CMC ranking is a good test of the discriminative ability of a network, not much is known about the TPR and FPR performance of smaller deep neural networks in situations with small gallery sizes. In this study we found that as the gallery size increases, the ranking performance of the network goes down while the TPR and FPR remain similar. We show that a relatively small neural network can achieve similar performance on benchmark as very deep neural network, assuming that the gallery is small enough (≤300 IDs). We achieve a performance of 50% on ViPER, 56% on PRID450 and 21% on Market1501. Most literature use simple distance metrics such as the L2 or Euclidean distance between the extracted image features to perform metric learning. However, neural metric learning has not been a topic of investigation, which if used, can results in a more natural approach to person reidentification by having a neural network learn the boundary between (mis)match classes. In this study we compare the Euclidean distance to various neural metric learners and found that the Euclidean distance consistently outperforms the …"
+        },
+        "filled": true,
+        "author_pub_id": "EyH9zNoAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 0,
+        "pub_url": "http://theses.ubn.ru.nl/handle/123456789/5236",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:efLZZo5i58kJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transfer Between Atari Games",
+            "pub_year": 2016,
+            "author": "Gabrielle Ras",
+            "journal": "Radboud University",
+            "publisher": "https://github.com/redsphinx/transfer-dqn/blob/master/Transfer_Learning_in_DQN.pdf"
+        },
+        "filled": true,
+        "author_pub_id": "EyH9zNoAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 0,
+        "cites_per_year": {}
+    }
+]

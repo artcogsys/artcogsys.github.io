@@ -15,7 +15,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:OU6Ihb5iCvQC",
-        "num_citations": 689,
+        "num_citations": 691,
         "citedby_url": "/scholar?cites=11957718034208653427",
         "cites_id": [
             "11957718034208653427"
@@ -30,7 +30,7 @@
             "2019": 122,
             "2020": 122,
             "2021": 135,
-            "2022": 50
+            "2022": 51
         }
     },
     {
@@ -48,7 +48,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:mB3voiENLucC",
-        "num_citations": 422,
+        "num_citations": 425,
         "citedby_url": "/scholar?cites=17441847604414106725",
         "cites_id": [
             "17441847604414106725"
@@ -66,10 +66,10 @@
             "2016": 25,
             "2017": 35,
             "2018": 33,
-            "2019": 23,
+            "2019": 24,
             "2020": 23,
-            "2021": 32,
-            "2022": 3
+            "2021": 33,
+            "2022": 4
         }
     },
     {
@@ -87,7 +87,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:uQrt9rju91QC",
-        "num_citations": 380,
+        "num_citations": 381,
         "citedby_url": "/scholar?cites=1241838294623633897",
         "cites_id": [
             "1241838294623633897"
@@ -100,7 +100,7 @@
             "2019": 111,
             "2020": 88,
             "2021": 97,
-            "2022": 18
+            "2022": 19
         }
     },
     {
@@ -119,7 +119,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:HoB7MX3m0LUC",
-        "num_citations": 219,
+        "num_citations": 220,
         "citedby_url": "/scholar?cites=6440391472915200993",
         "cites_id": [
             "6440391472915200993"
@@ -190,7 +190,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:ECJ25tEN_EwC",
-        "num_citations": 157,
+        "num_citations": 160,
         "citedby_url": "/scholar?cites=2119736289733814672",
         "cites_id": [
             "2119736289733814672"
@@ -202,7 +202,7 @@
             "2019": 23,
             "2020": 37,
             "2021": 69,
-            "2022": 12
+            "2022": 15
         }
     },
     {
@@ -259,7 +259,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:FXgMSCUEOHUC",
-        "num_citations": 143,
+        "num_citations": 144,
         "citedby_url": "/scholar?cites=378305812810130139",
         "cites_id": [
             "378305812810130139"
@@ -274,7 +274,7 @@
             "2019": 26,
             "2020": 39,
             "2021": 45,
-            "2022": 7
+            "2022": 8
         },
         "mandates": [
             {
@@ -298,7 +298,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:Cx2ibDnldiAC",
-        "num_citations": 137,
+        "num_citations": 139,
         "citedby_url": "/scholar?cites=11449641212745103760",
         "cites_id": [
             "11449641212745103760"
@@ -308,7 +308,7 @@
         "cites_per_year": {
             "2020": 23,
             "2021": 96,
-            "2022": 16
+            "2022": 18
         }
     },
     {
@@ -368,7 +368,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:1yhUMift6wIC",
-        "num_citations": 129,
+        "num_citations": 131,
         "citedby_url": "/scholar?cites=534515992785059458",
         "cites_id": [
             "534515992785059458"
@@ -381,8 +381,8 @@
             "2018": 11,
             "2019": 22,
             "2020": 54,
-            "2021": 37,
-            "2022": 3
+            "2021": 38,
+            "2022": 4
         },
         "mandates": [
             {
@@ -419,7 +419,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:W7OEmFMy1HYC",
-        "num_citations": 110,
+        "num_citations": 111,
         "citedby_url": "/scholar?cites=13354852635757065470",
         "cites_id": [
             "13354852635757065470"
@@ -434,7 +434,7 @@
             "2015": 6,
             "2016": 7,
             "2017": 6,
-            "2018": 18,
+            "2018": 19,
             "2019": 11,
             "2020": 15,
             "2021": 8,
@@ -480,6 +480,49 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
+            "title": "Increasingly complex representations of natural movies across the dorsal stream are shared between subjects",
+            "pub_year": 2017,
+            "author": "Umut Güçlü and Marcel AJ van Gerven",
+            "journal": "NeuroImage",
+            "volume": "145",
+            "pages": "329-336",
+            "publisher": "Academic Press",
+            "abstract": "Recently, deep neural networks (DNNs) have been shown to provide accurate predictions of neural responses across the ventral visual pathway. We here explore whether they also provide accurate predictions of neural responses across the dorsal visual pathway, which is thought to be devoted to motion processing and action recognition. This is achieved by training deep neural networks to recognize actions in videos and subsequently using them to predict neural responses while subjects are watching natural movies. Moreover, we explore whether dorsal stream representations are shared between subjects. In order to address this question, we examine if individual subject predictions can be made in a common representational space estimated via hyperalignment.Results show that a DNN trained for action recognition can be used to accurately predict how dorsal stream responds to natural movies, revealing a …"
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:08ZZubdj9fEC",
+        "num_citations": 108,
+        "citedby_url": "/scholar?cites=3082308303532681561",
+        "cites_id": [
+            "3082308303532681561"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1053811915011490",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WWlNQBKPxioJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 6,
+            "2017": 11,
+            "2018": 26,
+            "2019": 11,
+            "2020": 18,
+            "2021": 28,
+            "2022": 7
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …grant number 639.072.513of The Netherlands Organization for Scientific Research (NWO) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
             "title": "Linear reconstruction of perceived images from human brain activity",
             "pub_year": 2013,
             "author": "Sanne Schoenmakers and Markus Barth and Tom Heskes and Marcel Van Gerven",
@@ -510,49 +553,6 @@
             "2021": 12,
             "2022": 2
         }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Increasingly complex representations of natural movies across the dorsal stream are shared between subjects",
-            "pub_year": 2017,
-            "author": "Umut Güçlü and Marcel AJ van Gerven",
-            "journal": "NeuroImage",
-            "volume": "145",
-            "pages": "329-336",
-            "publisher": "Academic Press",
-            "abstract": "Recently, deep neural networks (DNNs) have been shown to provide accurate predictions of neural responses across the ventral visual pathway. We here explore whether they also provide accurate predictions of neural responses across the dorsal visual pathway, which is thought to be devoted to motion processing and action recognition. This is achieved by training deep neural networks to recognize actions in videos and subsequently using them to predict neural responses while subjects are watching natural movies. Moreover, we explore whether dorsal stream representations are shared between subjects. In order to address this question, we examine if individual subject predictions can be made in a common representational space estimated via hyperalignment.Results show that a DNN trained for action recognition can be used to accurately predict how dorsal stream responds to natural movies, revealing a …"
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:08ZZubdj9fEC",
-        "num_citations": 107,
-        "citedby_url": "/scholar?cites=3082308303532681561",
-        "cites_id": [
-            "3082308303532681561"
-        ],
-        "public_access": true,
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1053811915011490",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WWlNQBKPxioJ:scholar.google.com/",
-        "cites_per_year": {
-            "2016": 6,
-            "2017": 11,
-            "2018": 26,
-            "2019": 11,
-            "2020": 18,
-            "2021": 28,
-            "2022": 7
-        },
-        "mandates": [
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …grant number 639.072.513of The Netherlands Organization for Scientific Research (NWO) …"
-            }
-        ]
     },
     {
         "container_type": "Publication",
@@ -717,7 +717,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:uSQurnFbQXsC",
-        "num_citations": 94,
+        "num_citations": 95,
         "citedby_url": "/scholar?cites=14962428280692327781",
         "cites_id": [
             "14962428280692327781"
@@ -729,7 +729,7 @@
             "2019": 9,
             "2020": 25,
             "2021": 49,
-            "2022": 8
+            "2022": 9
         },
         "mandates": [
             {
@@ -970,20 +970,20 @@
         },
         "mandates": [
             {
-                "agency": "US National Institutes of Health",
-                "url_policy": "https://publicaccess.nih.gov/policy.htm",
-                "url_policy_cached": "/mandates/nih-2021-02-13.pdf",
-                "effective_date": "2008/4",
-                "embargo": "12 months",
-                "acknowledgement": " …NIH …"
-            },
-            {
                 "agency": "Netherlands Organisation for Scientific Research",
                 "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
                 "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
                 "effective_date": "2015/12",
                 "embargo": "none",
                 "acknowledgement": " …VIDI grant number 864.14.011 …"
+            },
+            {
+                "agency": "US National Institutes of Health",
+                "url_policy": "https://publicaccess.nih.gov/policy.htm",
+                "url_policy_cached": "/mandates/nih-2021-02-13.pdf",
+                "effective_date": "2008/4",
+                "embargo": "12 months",
+                "acknowledgement": " …NIH …"
             }
         ]
     },
@@ -1041,7 +1041,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:Se3iqnhoufwC",
-        "num_citations": 68,
+        "num_citations": 69,
         "citedby_url": "/scholar?cites=9867951563353277997",
         "cites_id": [
             "9867951563353277997"
@@ -1058,7 +1058,7 @@
             "2017": 4,
             "2018": 5,
             "2019": 3,
-            "2020": 6,
+            "2020": 7,
             "2021": 8,
             "2022": 1
         }
@@ -1132,6 +1132,37 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
+            "title": "Convolutional sketch inversion",
+            "pub_year": 2016,
+            "author": "Yağmur Güçlütürk and Umut Güçlü and Rob van Lier and Marcel AJ van Gerven",
+            "conference": "European conference on computer vision",
+            "pages": "810-824",
+            "publisher": "Springer, Cham",
+            "abstract": "In this paper, we use deep neural networks for inverting face sketches to synthesize photorealistic face images. We first construct a semi-simulated dataset containing a very large number of computer-generated face sketches with different styles and corresponding face images by expanding existing unconstrained face data sets. We then train models achieving state-of-the-art results on both computer-generated sketches and hand-drawn sketches by leveraging recent advances in deep learning such as batch normalization, deep residual learning, perceptual losses and stochastic optimization in combination with our new dataset. We finally demonstrate potential applications of our models in fine arts and forensic arts. In contrast to existing patch-based approaches, our deep-neural-network-based approach can be used for synthesizing photorealistic face images by inverting face sketches in the wild."
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:8PKVFmgK5mUC",
+        "num_citations": 64,
+        "citedby_url": "/scholar?cites=2125183009528315620",
+        "cites_id": [
+            "2125183009528315620"
+        ],
+        "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-46604-0_56",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5H6h_a8qfh0J:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 2,
+            "2017": 21,
+            "2018": 15,
+            "2019": 10,
+            "2020": 5,
+            "2021": 8,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
             "title": "Selecting features for BCI control based on a covert spatial attention paradigm",
             "pub_year": 2009,
             "author": "Marcel Van Gerven and Ali Bahramisharif and Tom Heskes and Ole Jensen",
@@ -1165,37 +1196,6 @@
             "2019": 0,
             "2020": 1,
             "2021": 4
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Convolutional sketch inversion",
-            "pub_year": 2016,
-            "author": "Yağmur Güçlütürk and Umut Güçlü and Rob van Lier and Marcel AJ van Gerven",
-            "conference": "European conference on computer vision",
-            "pages": "810-824",
-            "publisher": "Springer, Cham",
-            "abstract": "In this paper, we use deep neural networks for inverting face sketches to synthesize photorealistic face images. We first construct a semi-simulated dataset containing a very large number of computer-generated face sketches with different styles and corresponding face images by expanding existing unconstrained face data sets. We then train models achieving state-of-the-art results on both computer-generated sketches and hand-drawn sketches by leveraging recent advances in deep learning such as batch normalization, deep residual learning, perceptual losses and stochastic optimization in combination with our new dataset. We finally demonstrate potential applications of our models in fine arts and forensic arts. In contrast to existing patch-based approaches, our deep-neural-network-based approach can be used for synthesizing photorealistic face images by inverting face sketches in the wild."
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:8PKVFmgK5mUC",
-        "num_citations": 63,
-        "citedby_url": "/scholar?cites=2125183009528315620",
-        "cites_id": [
-            "2125183009528315620"
-        ],
-        "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-46604-0_56",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5H6h_a8qfh0J:scholar.google.com/",
-        "cites_per_year": {
-            "2016": 2,
-            "2017": 21,
-            "2018": 15,
-            "2019": 9,
-            "2020": 5,
-            "2021": 8,
-            "2022": 2
         }
     },
     {
@@ -1304,20 +1304,20 @@
         },
         "mandates": [
             {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "grant": "639.072. 513"
-            },
-            {
                 "agency": "European Commission",
                 "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
                 "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
                 "effective_date": "2013/12",
                 "embargo": "6 months",
                 "acknowledgement": " …Horizon 2020 Framework Programme (678286) …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "grant": "639.072. 513"
             }
         ]
     },
@@ -1334,7 +1334,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:9QTmwX2E1jEC",
-        "num_citations": 54,
+        "num_citations": 55,
         "citedby_url": "/scholar?cites=6744384428063331444",
         "cites_id": [
             "6744384428063331444"
@@ -1348,7 +1348,7 @@
             "2019": 17,
             "2020": 13,
             "2021": 11,
-            "2022": 2
+            "2022": 3
         },
         "mandates": [
             {
@@ -1373,7 +1373,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:8Fucociq1QoC",
-        "num_citations": 53,
+        "num_citations": 54,
         "citedby_url": "/scholar?cites=4735588198669908279",
         "cites_id": [
             "4735588198669908279"
@@ -1385,7 +1385,7 @@
             "2019": 6,
             "2020": 13,
             "2021": 27,
-            "2022": 6
+            "2022": 7
         }
     },
     {
@@ -1553,6 +1553,48 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
+            "title": "Brains on beats",
+            "pub_year": 2016,
+            "author": "Umut Güçlü and Jordy Thielen and Michael Hanke and Marcel Van Gerven",
+            "journal": "Advances in Neural Information Processing Systems",
+            "volume": "29",
+            "pages": "2101-2109",
+            "abstract": "We developed task-optimized deep neural networks (DNNs) that achieved state-of-the-art performance in different evaluation scenarios for automatic music tagging. These DNNs were subsequently used to probe the neural representations of music. Representational similarity analysis revealed the existence of a representational gradient across the superior temporal gyrus (STG). Anterior STG was shown to be more sensitive to low-level stimulus features encoded in shallow DNN layers whereas posterior STG was shown to be more sensitive to high-level stimulus features encoded in deep DNN layers."
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:M8Ejg5y-C14C",
+        "num_citations": 49,
+        "citedby_url": "/scholar?cites=13955153599374598537",
+        "cites_id": [
+            "13955153599374598537"
+        ],
+        "public_access": true,
+        "pub_url": "https://proceedings.neurips.cc/paper/2016/hash/b9d487a30398d42ecff55c228ed5652b-Abstract.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iaG81EKqqsEJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 2,
+            "2017": 11,
+            "2018": 11,
+            "2019": 8,
+            "2020": 9,
+            "2021": 6,
+            "2022": 2
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …grant 639.072.513of the Netherlands Organization for Scientific Research (NWO) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
             "title": "Reconstructing perceived faces from brain activations with deep adversarial neural decoding",
             "pub_year": 2017,
             "author": "Yağmur Güçlütürk and Umut Güçlü and Katja Seeliger and Sander Bosch and Rob van Lier and Marcel A van Gerven",
@@ -1585,48 +1627,6 @@
                 "effective_date": "2015/12",
                 "embargo": "none",
                 "acknowledgement": " …grant (639.072.513) from the Netherlands Organization for Scientific Research …"
-            }
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Brains on beats",
-            "pub_year": 2016,
-            "author": "Umut Güçlü and Jordy Thielen and Michael Hanke and Marcel Van Gerven",
-            "journal": "Advances in Neural Information Processing Systems",
-            "volume": "29",
-            "pages": "2101-2109",
-            "abstract": "We developed task-optimized deep neural networks (DNNs) that achieved state-of-the-art performance in different evaluation scenarios for automatic music tagging. These DNNs were subsequently used to probe the neural representations of music. Representational similarity analysis revealed the existence of a representational gradient across the superior temporal gyrus (STG). Anterior STG was shown to be more sensitive to low-level stimulus features encoded in shallow DNN layers whereas posterior STG was shown to be more sensitive to high-level stimulus features encoded in deep DNN layers."
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:M8Ejg5y-C14C",
-        "num_citations": 48,
-        "citedby_url": "/scholar?cites=13955153599374598537",
-        "cites_id": [
-            "13955153599374598537"
-        ],
-        "public_access": true,
-        "pub_url": "https://proceedings.neurips.cc/paper/2016/hash/b9d487a30398d42ecff55c228ed5652b-Abstract.html",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iaG81EKqqsEJ:scholar.google.com/",
-        "cites_per_year": {
-            "2016": 2,
-            "2017": 11,
-            "2018": 11,
-            "2019": 8,
-            "2020": 9,
-            "2021": 6,
-            "2022": 1
-        },
-        "mandates": [
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …grant 639.072.513of the Netherlands Organization for Scientific Research (NWO) …"
             }
         ]
     },
@@ -1882,6 +1882,44 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
+            "title": "End-to-end pixel-based deep active inference for body perception and action",
+            "pub_year": 2020,
+            "author": "Cansu Sancaktar and Marcel AJ van Gerven and Pablo Lanillos",
+            "conference": "2020 Joint IEEE 10th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)",
+            "pages": "1-8",
+            "publisher": "IEEE",
+            "abstract": "We present a pixel-based deep active inference algorithm (PixelAI) inspired by human body perception and action. Our algorithm combines the free energy principle from neuroscience, rooted in variational inference, with deep convolutional decoders to scale the algorithm to directly deal with raw visual input and provide online adaptive inference. Our approach is validated by studying body perception and action in a simulated and a real Nao robot. Results show that our approach allows the robot to perform 1) dynamical body estimation of its arm using only monocular camera images and 2) autonomous reaching to “imagined” arm poses in visual space. This suggests that robot and human body perception and action can be efficiently solved by viewing both as an active inference problem guided by ongoing sensory input."
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:Kmip3zU-C7YC",
+        "num_citations": 34,
+        "citedby_url": "/scholar?cites=15858261030337561843",
+        "cites_id": [
+            "15858261030337561843"
+        ],
+        "public_access": true,
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/9278105/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:88Sw7GLcE9wJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 12,
+            "2021": 17,
+            "2022": 5
+        },
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …EU Horizon 2020 Programme, grant nr. 741941 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
             "title": "Wasserstein variational inference",
             "pub_year": 2018,
             "author": "Luca Ambrogioni and Umut Güçlü and Yağmur Güçlütürk and Max Hinne and Marcel A van Gerven and Eric Maris",
@@ -1942,48 +1980,9 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "End-to-end pixel-based deep active inference for body perception and action",
-            "pub_year": 2020,
-            "author": "Cansu Sancaktar and Marcel AJ van Gerven and Pablo Lanillos",
-            "conference": "2020 Joint IEEE 10th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)",
-            "pages": "1-8",
-            "publisher": "IEEE",
-            "abstract": "We present a pixel-based deep active inference algorithm (PixelAI) inspired by human body perception and action. Our algorithm combines the free energy principle from neuroscience, rooted in variational inference, with deep convolutional decoders to scale the algorithm to directly deal with raw visual input and provide online adaptive inference. Our approach is validated by studying body perception and action in a simulated and a real Nao robot. Results show that our approach allows the robot to perform 1) dynamical body estimation of its arm using only monocular camera images and 2) autonomous reaching to “imagined” arm poses in visual space. This suggests that robot and human body perception and action can be efficiently solved by viewing both as an active inference problem guided by ongoing sensory input."
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:Kmip3zU-C7YC",
-        "num_citations": 32,
-        "citedby_url": "/scholar?cites=15858261030337561843",
-        "cites_id": [
-            "15858261030337561843"
-        ],
-        "public_access": true,
-        "pub_url": "https://ieeexplore.ieee.org/abstract/document/9278105/",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:88Sw7GLcE9wJ:scholar.google.com/",
-        "cites_per_year": {
-            "2020": 12,
-            "2021": 16,
-            "2022": 4
-        },
-        "mandates": [
-            {
-                "agency": "European Commission",
-                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
-                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
-                "effective_date": "2013/12",
-                "embargo": "6 months",
-                "acknowledgement": " …EU Horizon 2020 Programme, grant nr. 741941 …"
-            }
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
             "title": "Design of an explainable machine learning challenge for video interviews",
             "pub_year": 2017,
             "author": "Hugo Jair Escalante and Isabelle Guyon and Sergio Escalera and Julio Jacques and Meysam Madadi and Xavier Baró and Stephane Ayache and Evelyne Viegas and Yağmur Güçlütürk and Umut Güçlü and Marcel AJ Van Gerven and Rob Van Lier",
-            "conference": "2017 International Joint Conference on Neural Networks (IJCNN)",
             "pages": "3688-3695",
             "publisher": "IEEE",
             "abstract": "This paper reviews and discusses research advances on “explainable machine learning” in computer vision. We focus on a particular area of the “Looking at People” (LAP) thematic domain: first impressions and personality analysis. Our aim is to make the computational intelligence and computer vision communities aware of the importance of developing explanatory mechanisms for computer-assisted decision making applications, such as automating recruitment. Judgments based on personality traits are being made routinely by human resource departments to evaluate the candidates' capacity of social insertion and their potential of career growth. However, inferring personality traits and, in general, the process by which we humans form a first impression of people, is highly subjective and may be biased. Previous studies have demonstrated that learning machines can learn to mimic human decisions. In this …"
@@ -2177,8 +2176,8 @@
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:b1Pc_uqWv58J:scholar.google.com/",
         "cites_per_year": {
             "2019": 3,
-            "2020": 14,
-            "2021": 9
+            "2020": 13,
+            "2021": 10
         },
         "mandates": [
             {
@@ -2228,6 +2227,46 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
+            "title": "Neural dynamics of perceptual inference and its reversal during imagery",
+            "pub_year": 2020,
+            "author": "Nadine Dijkstra and Luca Ambrogioni and Diego Vidaurre and Marcel van Gerven",
+            "journal": "Elife",
+            "volume": "9",
+            "pages": "e53588",
+            "publisher": "eLife Sciences Publications Limited",
+            "abstract": "After the presentation of a visual stimulus, neural processing cascades from low-level sensory areas to increasingly abstract representations in higher-level areas. It is often hypothesised that a reversal in neural processing underlies the generation of mental images as abstract representations are used to construct sensory representations in the absence of sensory input. According to predictive processing theories, such reversed processing also plays a central role in later stages of perception. Direct experimental evidence of reversals in neural information flow has been missing. Here, we used a combination of machine learning and magnetoencephalography to characterise neural dynamics in humans. We provide direct evidence for a reversal of the perceptual feed-forward cascade during imagery and show that, during perception, such reversals alternate with feed-forward processing in an 11 Hz oscillatory pattern. Together, these results show how common feedback processes support both veridical perception and mental imagery."
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:9qGwjJavaBUC",
+        "num_citations": 25,
+        "citedby_url": "/scholar?cites=9991129417608214260",
+        "cites_id": [
+            "9991129417608214260"
+        ],
+        "public_access": true,
+        "pub_url": "https://elifesciences.org/articles/53588",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9DZ-IUWfp4oJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 5,
+            "2021": 14,
+            "2022": 4
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research 639.072.51 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
             "title": "Neural tuning to low-level features of speech throughout the perisylvian cortex",
             "pub_year": 2017,
             "author": "Julia Berezutskaya and Zachary V Freudenburg and Umut Güçlü and Marcel AJ van Gerven and Nick F Ramsey",
@@ -2257,20 +2296,20 @@
         },
         "mandates": [
             {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) …"
-            },
-            {
                 "agency": "European Commission",
                 "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
                 "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
                 "effective_date": "2013/12",
                 "embargo": "6 months",
                 "acknowledgement": " …European Research Council (Advanced iConnect Project Grant ADV 320708) …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) …"
             }
         ]
     },
@@ -2278,41 +2317,35 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Neural dynamics of perceptual inference and its reversal during imagery",
-            "pub_year": 2020,
-            "author": "Nadine Dijkstra and Luca Ambrogioni and Diego Vidaurre and Marcel van Gerven",
-            "journal": "Elife",
-            "volume": "9",
-            "pages": "e53588",
-            "publisher": "eLife Sciences Publications Limited",
-            "abstract": "After the presentation of a visual stimulus, neural processing cascades from low-level sensory areas to increasingly abstract representations in higher-level areas. It is often hypothesised that a reversal in neural processing underlies the generation of mental images as abstract representations are used to construct sensory representations in the absence of sensory input. According to predictive processing theories, such reversed processing also plays a central role in later stages of perception. Direct experimental evidence of reversals in neural information flow has been missing. Here, we used a combination of machine learning and magnetoencephalography to characterise neural dynamics in humans. We provide direct evidence for a reversal of the perceptual feed-forward cascade during imagery and show that, during perception, such reversals alternate with feed-forward processing in an 11 Hz oscillatory pattern. Together, these results show how common feedback processes support both veridical perception and mental imagery."
+            "title": "Detecting semantic priming at the single-trial level",
+            "pub_year": 2013,
+            "author": "Jeroen Geuze and Marcel AJ van Gerven and Jason Farquhar and Peter Desain",
+            "journal": "PloS one",
+            "volume": "8",
+            "number": "4",
+            "pages": "e60377",
+            "publisher": "Public Library of Science",
+            "abstract": "Semantic priming is usually studied by examining ERPs over many trials and subjects. This article aims at detecting semantic priming at the single-trial level. By using machine learning techniques it is possible to analyse and classify short traces of brain activity, which could, for example, be used to build a Brain Computer Interface (BCI). This article describes an experiment where subjects were presented with word pairs and asked to decide whether the words were related or not. A classifier was trained to determine whether the subjects judged words as related or unrelated based on one second of EEG data. The results show that the classifier accuracy when training per subject varies between 54% and 67%, and is significantly above chance level for all subjects (N = 12) and the accuracy when training over subjects varies between 51% and 63%, and is significantly above chance level for 11 subjects, pointing to a general effect."
         },
         "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:9qGwjJavaBUC",
-        "num_citations": 24,
-        "citedby_url": "/scholar?cites=9991129417608214260",
+        "author_pub_id": "sX0ZypwAAAAJ:35N4QoGY0k4C",
+        "num_citations": 25,
+        "citedby_url": "/scholar?cites=15598298601845081268",
         "cites_id": [
-            "9991129417608214260"
+            "15598298601845081268"
         ],
-        "public_access": true,
-        "pub_url": "https://elifesciences.org/articles/53588",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9DZ-IUWfp4oJ:scholar.google.com/",
+        "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0060377",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tMRyX-9JeNgJ:scholar.google.com/",
         "cites_per_year": {
-            "2019": 1,
-            "2020": 5,
-            "2021": 14,
-            "2022": 3
-        },
-        "mandates": [
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …Netherlands Organisation for Scientific Research 639.072.51 …"
-            }
-        ]
+            "2014": 5,
+            "2015": 1,
+            "2016": 0,
+            "2017": 3,
+            "2018": 3,
+            "2019": 6,
+            "2020": 3,
+            "2021": 4
+        }
     },
     {
         "container_type": "Publication",
@@ -2339,16 +2372,17 @@
             "2018": 7,
             "2019": 7,
             "2020": 3,
-            "2021": 2
+            "2021": 1,
+            "2022": 1
         },
         "mandates": [
             {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …grant number 639.072.513of the Netherlands Organization for Scientific Research (NWO) …"
+                "agency": "Government of Spain",
+                "url_policy": "https://www.boe.es/boe/dias/2011/06/02/pdfs/BOE-A-2011-9617.pdf",
+                "url_policy_cached": "/mandates/boe_es-2021-02-13-es.pdf",
+                "effective_date": "2011/6",
+                "embargo": "12 months",
+                "acknowledgement": " …CERCA Programme/Generalitat de Catalunya …"
             },
             {
                 "agency": "European Commission",
@@ -2359,48 +2393,14 @@
                 "acknowledgement": " …H2020-ICT-2015 …"
             },
             {
-                "agency": "Government of Spain",
-                "url_policy": "https://www.boe.es/boe/dias/2011/06/02/pdfs/BOE-A-2011-9617.pdf",
-                "url_policy_cached": "/mandates/boe_es-2021-02-13-es.pdf",
-                "effective_date": "2011/6",
-                "embargo": "12 months",
-                "acknowledgement": " …CERCA Programme/Generalitat de Catalunya …"
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …grant number 639.072.513of the Netherlands Organization for Scientific Research (NWO) …"
             }
         ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Detecting semantic priming at the single-trial level",
-            "pub_year": 2013,
-            "author": "Jeroen Geuze and Marcel AJ van Gerven and Jason Farquhar and Peter Desain",
-            "journal": "PloS one",
-            "volume": "8",
-            "number": "4",
-            "pages": "e60377",
-            "publisher": "Public Library of Science",
-            "abstract": "Semantic priming is usually studied by examining ERPs over many trials and subjects. This article aims at detecting semantic priming at the single-trial level. By using machine learning techniques it is possible to analyse and classify short traces of brain activity, which could, for example, be used to build a Brain Computer Interface (BCI). This article describes an experiment where subjects were presented with word pairs and asked to decide whether the words were related or not. A classifier was trained to determine whether the subjects judged words as related or unrelated based on one second of EEG data. The results show that the classifier accuracy when training per subject varies between 54% and 67%, and is significantly above chance level for all subjects (N = 12) and the accuracy when training over subjects varies between 51% and 63%, and is significantly above chance level for 11 subjects, pointing to a general effect."
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:35N4QoGY0k4C",
-        "num_citations": 24,
-        "citedby_url": "/scholar?cites=15598298601845081268",
-        "cites_id": [
-            "15598298601845081268"
-        ],
-        "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0060377",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tMRyX-9JeNgJ:scholar.google.com/",
-        "cites_per_year": {
-            "2014": 5,
-            "2015": 1,
-            "2016": 0,
-            "2017": 3,
-            "2018": 3,
-            "2019": 5,
-            "2020": 3,
-            "2021": 4
-        }
     },
     {
         "container_type": "Publication",
@@ -2427,6 +2427,43 @@
             "2021": 8,
             "2022": 4
         }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling, recognizing, and explaining apparent personality from videos",
+            "pub_year": 2020,
+            "author": "Hugo Jair Escalante and Heysem Kaya and Albert Ali Salah and Sergio Escalera and Yağmur Güç and Umut Güçlü and Xavier Baró and Isabelle Guyon and Julio CS Jacques and Meysam Madadi and Stephane Ayache and Evelyne Viegas and Furkan Gurpinar and Achmadnoer Sukma Wicaksana and Cynthia Liem and Marcel AJ Van Gerven and Rob Van Lier",
+            "journal": "IEEE Transactions on Affective Computing",
+            "publisher": "IEEE",
+            "abstract": "Explainability and interpretability are two critical aspects of decision support systems. Despite their importance, it is only recently that researchers are starting to explore these aspects. This paper provides an introduction to explainability and interpretability in the context of apparent personality recognition. To the best of our knowledge, this is the first effort in this direction. We describe a challenge we organized on explainability in first impressions analysis from video. We analyze in detail the newly introduced data set, evaluation protocol, proposed solutions and summarize the results of the challenge. We investigate the issue of bias in detail. Finally, derived from our study, we outline research opportunities that we foresee will be relevant in this area in the near future."
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:CcPklOTAPUcC",
+        "num_citations": 22,
+        "citedby_url": "/scholar?cites=12936987999971382725",
+        "cites_id": [
+            "12936987999971382725"
+        ],
+        "public_access": true,
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/8999746/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xRXJ-QpqibMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 3,
+            "2021": 15,
+            "2022": 4
+        },
+        "mandates": [
+            {
+                "agency": "Government of Spain",
+                "url_policy": "https://www.boe.es/boe/dias/2011/06/02/pdfs/BOE-A-2011-9617.pdf",
+                "url_policy_cached": "/mandates/boe_es-2021-02-13-es.pdf",
+                "effective_date": "2011/6",
+                "embargo": "12 months",
+                "acknowledgement": " …Spanish Ministry grants No. TIN2016-74946-P and RTI2018-095232-B-C22 …"
+            }
+        ]
     },
     {
         "container_type": "Publication",
@@ -2546,38 +2583,29 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Modeling, recognizing, and explaining apparent personality from videos",
+            "title": "Deep learning improves automated rodent behavior recognition within a specific experimental setup",
             "pub_year": 2020,
-            "author": "Hugo Jair Escalante and Heysem Kaya and Albert Ali Salah and Sergio Escalera and Yağmur Güç and Umut Güçlü and Xavier Baró and Isabelle Guyon and Julio CS Jacques and Meysam Madadi and Stephane Ayache and Evelyne Viegas and Furkan Gurpinar and Achmadnoer Sukma Wicaksana and Cynthia Liem and Marcel AJ Van Gerven and Rob Van Lier",
-            "journal": "IEEE Transactions on Affective Computing",
-            "publisher": "IEEE",
-            "abstract": "Explainability and interpretability are two critical aspects of decision support systems. Despite their importance, it is only recently that researchers are starting to explore these aspects. This paper provides an introduction to explainability and interpretability in the context of apparent personality recognition. To the best of our knowledge, this is the first effort in this direction. We describe a challenge we organized on explainability in first impressions analysis from video. We analyze in detail the newly introduced data set, evaluation protocol, proposed solutions and summarize the results of the challenge. We investigate the issue of bias in detail. Finally, derived from our study, we outline research opportunities that we foresee will be relevant in this area in the near future."
+            "author": "Elsbeth A van Dam and Lucas PJJ Noldus and Marcel AJ van Gerven",
+            "journal": "Journal of neuroscience methods",
+            "volume": "332",
+            "pages": "108536",
+            "publisher": "Elsevier",
+            "abstract": "Automated observation and analysis of rodent behavior is important to facilitate research progress in neuroscience and pharmacology. Available automated systems lack adaptivity and can benefit from advances in AI. In this work we compare a state-of-the-art conventional rat behavior recognition (RBR) system to an advanced deep learning method and evaluate its performance within and across experimental setups. We show that using a multi-fiber network (MF-Net) in conjunction with data augmentation strategies within-setup dataset performance improves over the conventional RBR system. Two new methods for video augmentation were used: video cutout and dynamic illumination change. However, we also show that improvements do not transfer to videos in different experimental setups, for which we discuss possible causes and cures."
         },
         "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:CcPklOTAPUcC",
+        "author_pub_id": "sX0ZypwAAAAJ:6syOTa9L3GQC",
         "num_citations": 20,
-        "citedby_url": "/scholar?cites=12936987999971382725",
+        "citedby_url": "/scholar?cites=15137133139796672309",
         "cites_id": [
-            "12936987999971382725"
+            "15137133139796672309"
         ],
-        "public_access": true,
-        "pub_url": "https://ieeexplore.ieee.org/abstract/document/8999746/",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xRXJ-QpqibMJ:scholar.google.com/",
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0165027019303930",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Nb9fA2TmEdIJ:scholar.google.com/",
         "cites_per_year": {
             "2020": 3,
-            "2021": 15,
-            "2022": 2
-        },
-        "mandates": [
-            {
-                "agency": "Government of Spain",
-                "url_policy": "https://www.boe.es/boe/dias/2011/06/02/pdfs/BOE-A-2011-9617.pdf",
-                "url_policy_cached": "/mandates/boe_es-2021-02-13-es.pdf",
-                "effective_date": "2011/6",
-                "embargo": "12 months",
-                "acknowledgement": " …Spanish Ministry grants No. TIN2016-74946-P and RTI2018-095232-B-C22 …"
-            }
-        ]
+            "2021": 12,
+            "2022": 5
+        }
     },
     {
         "container_type": "Publication",
@@ -2640,20 +2668,20 @@
         },
         "mandates": [
             {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …grant number 639.072.513of The Netherlands Organization for Scientific Research (NWO) …"
-            },
-            {
                 "agency": "European Commission",
                 "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
                 "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
                 "effective_date": "2013/12",
                 "embargo": "6 months",
                 "acknowledgement": " …ERC Starting Grant 678286 …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …grant number 639.072.513of The Netherlands Organization for Scientific Research (NWO) …"
             }
         ]
     },
@@ -2692,34 +2720,6 @@
             "2019": 1,
             "2020": 0,
             "2021": 4
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Deep learning improves automated rodent behavior recognition within a specific experimental setup",
-            "pub_year": 2020,
-            "author": "Elsbeth A van Dam and Lucas PJJ Noldus and Marcel AJ van Gerven",
-            "journal": "Journal of neuroscience methods",
-            "volume": "332",
-            "pages": "108536",
-            "publisher": "Elsevier",
-            "abstract": "Automated observation and analysis of rodent behavior is important to facilitate research progress in neuroscience and pharmacology. Available automated systems lack adaptivity and can benefit from advances in AI. In this work we compare a state-of-the-art conventional rat behavior recognition (RBR) system to an advanced deep learning method and evaluate its performance within and across experimental setups. We show that using a multi-fiber network (MF-Net) in conjunction with data augmentation strategies within-setup dataset performance improves over the conventional RBR system. Two new methods for video augmentation were used: video cutout and dynamic illumination change. However, we also show that improvements do not transfer to videos in different experimental setups, for which we discuss possible causes and cures."
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:6syOTa9L3GQC",
-        "num_citations": 19,
-        "citedby_url": "/scholar?cites=15137133139796672309",
-        "cites_id": [
-            "15137133139796672309"
-        ],
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0165027019303930",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Nb9fA2TmEdIJ:scholar.google.com/",
-        "cites_per_year": {
-            "2020": 3,
-            "2021": 12,
-            "2022": 4
         }
     },
     {
@@ -2791,20 +2791,62 @@
                 "acknowledgement": " …CERCA Programme/Generalitat de Catalunya …"
             },
             {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …grant (639.072.513) from the Netherlands Organization for Scientific Research …"
-            },
-            {
                 "agency": "European Commission",
                 "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
                 "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
                 "effective_date": "2013/12",
                 "embargo": "6 months",
                 "acknowledgement": " …H2020-ICT-2015 …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …grant (639.072.513) from the Netherlands Organization for Scientific Research …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "End-to-end neural system identification with neural information flow",
+            "pub_year": 2021,
+            "author": "K Seeliger and Luca Ambrogioni and Yağmur Güçlütürk and Leonieke M van den Bulk and Umut Güçlü and MAJ van Gerven",
+            "journal": "PLOS Computational Biology",
+            "volume": "17",
+            "number": "2",
+            "pages": "e1008558",
+            "publisher": "Public Library of Science",
+            "abstract": "Neural information flow (NIF) provides a novel approach for system identification in neuroscience. It models the neural computations in multiple brain regions and can be trained end-to-end via stochastic gradient descent from noninvasive data. NIF models represent neural information processing via a network of coupled tensors, each encoding the representation of the sensory input contained in a brain region. The elements of these tensors can be interpreted as cortical columns whose activity encodes the presence of a specific feature in a spatiotemporal location. Each tensor is coupled to the measured data specific to a brain region via low-rank observation models that can be decomposed into the spatial, temporal and feature receptive fields of a localized neuronal population. Both these observation models and the convolutional weights defining the information processing within regions are learned end-to-end by predicting the neural signal during sensory stimulation. We trained a NIF model on the activity of early visual areas using a large-scale fMRI dataset recorded in a single participant. We show that we can recover plausible visual representations and population receptive fields that are consistent with empirical findings."
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:3YIFwf-X_CwC",
+        "num_citations": 17,
+        "citedby_url": "/scholar?cites=12743657316724670721,10583450530545419759",
+        "cites_id": [
+            "12743657316724670721",
+            "10583450530545419759"
+        ],
+        "public_access": true,
+        "pub_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008558",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:70UUGy_435IJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 2,
+            "2021": 9,
+            "2022": 4
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "grant": "VIDI 639.072. 513"
             }
         ]
     },
@@ -2884,48 +2926,6 @@
                 "effective_date": "2011/6",
                 "embargo": "12 months",
                 "acknowledgement": " …Spanish Ministry of Science and Innovation …"
-            }
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "End-to-end neural system identification with neural information flow",
-            "pub_year": 2021,
-            "author": "K Seeliger and Luca Ambrogioni and Yağmur Güçlütürk and Leonieke M van den Bulk and Umut Güçlü and MAJ van Gerven",
-            "journal": "PLOS Computational Biology",
-            "volume": "17",
-            "number": "2",
-            "pages": "e1008558",
-            "publisher": "Public Library of Science",
-            "abstract": "Neural information flow (NIF) provides a novel approach for system identification in neuroscience. It models the neural computations in multiple brain regions and can be trained end-to-end via stochastic gradient descent from noninvasive data. NIF models represent neural information processing via a network of coupled tensors, each encoding the representation of the sensory input contained in a brain region. The elements of these tensors can be interpreted as cortical columns whose activity encodes the presence of a specific feature in a spatiotemporal location. Each tensor is coupled to the measured data specific to a brain region via low-rank observation models that can be decomposed into the spatial, temporal and feature receptive fields of a localized neuronal population. Both these observation models and the convolutional weights defining the information processing within regions are learned end-to-end by predicting the neural signal during sensory stimulation. We trained a NIF model on the activity of early visual areas using a large-scale fMRI dataset recorded in a single participant. We show that we can recover plausible visual representations and population receptive fields that are consistent with empirical findings."
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:3YIFwf-X_CwC",
-        "num_citations": 16,
-        "citedby_url": "/scholar?cites=12743657316724670721,10583450530545419759",
-        "cites_id": [
-            "12743657316724670721",
-            "10583450530545419759"
-        ],
-        "public_access": true,
-        "pub_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008558",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:70UUGy_435IJ:scholar.google.com/",
-        "cites_per_year": {
-            "2019": 1,
-            "2020": 2,
-            "2021": 9,
-            "2022": 4
-        },
-        "mandates": [
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
-                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
-                "effective_date": "2021/1",
-                "embargo": "none",
-                "grant": "VIDI 639.072. 513"
             }
         ]
     },
@@ -3170,7 +3170,7 @@
         },
         "filled": true,
         "author_pub_id": "sX0ZypwAAAAJ:bUkhZ_yRbTwC",
-        "num_citations": 13,
+        "num_citations": 14,
         "citedby_url": "/scholar?cites=12210739293320637592",
         "cites_id": [
             "12210739293320637592"
@@ -3179,7 +3179,8 @@
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mOxHJ7FCdakJ:scholar.google.com/",
         "cites_per_year": {
             "2020": 3,
-            "2021": 9
+            "2021": 9,
+            "2022": 1
         }
     },
     {
@@ -3333,20 +3334,20 @@
         },
         "mandates": [
             {
-                "agency": "European Commission",
-                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
-                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
-                "effective_date": "2013/12",
-                "embargo": "6 months",
-                "acknowledgement": " …Marie-Sklodowska Curie grant (# 660328 …"
-            },
-            {
                 "agency": "Netherlands Organisation for Scientific Research",
                 "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
                 "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
                 "effective_date": "2015/12",
                 "embargo": "none",
                 "acknowledgement": " …VIDI grant (639.072.513 …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …Marie-Sklodowska Curie grant (# 660328 …"
             }
         ]
     },
@@ -3542,6 +3543,84 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
+            "title": "Detecting neural state transitions underlying event segmentation",
+            "pub_year": 2021,
+            "author": "Linda Geerligs and Marcel van Gerven and Umut Güçlü",
+            "journal": "NeuroImage",
+            "volume": "236",
+            "pages": "118085",
+            "publisher": "Academic Press",
+            "abstract": "Segmenting perceptual experience into meaningful events is a key cognitive process that helps us make sense of what is happening around us in the moment, as well as helping us recall past events. Nevertheless, little is known about the underlying neural mechanisms of the event segmentation process. Recent work has suggested that event segmentation can be linked to regional changes in neural activity patterns. Accurate methods for identifying such activity changes are important to allow further investigation of the neural basis of event segmentation and its link to the temporal processing hierarchy of the brain. In this study, we introduce a new set of elegant and simple methods to study these mechanisms. We introduce a method for identifying the boundaries between neural states in a brain area and a complementary one for identifying the number of neural states. Furthermore, we present the results of a …"
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:u76CbRzuV8AC",
+        "num_citations": 8,
+        "citedby_url": "/scholar?cites=6489566899988948551",
+        "cites_id": [
+            "6489566899988948551"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1053811921003621",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:R2b5W7aSD1oJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 5,
+            "2022": 3
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …grant [639.072.513] from the Netherlands Organization for Scientific Research …"
+            },
+            {
+                "agency": "UK Medical Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …UK Medical Research Council …"
+            },
+            {
+                "agency": "UK Biotechnology and Biological Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …UK Biotechnology and Biological Sciences Research Council (grant number BB/H008217/1) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neuroscience-inspired perception-action in robotics: applying active inference for state estimation, control and self-perception",
+            "pub_year": 2021,
+            "author": "Pablo Lanillos and Marcel van Gerven",
+            "journal": "arXiv preprint arXiv:2105.04261",
+            "abstract": "Unlike robots, humans learn, adapt and perceive their bodies by interacting with the world. Discovering how the brain represents the body and generates actions is of major importance for robotics and artificial intelligence. Here we discuss how neuroscience findings open up opportunities to improve current estimation and control algorithms in robotics. In particular, how active inference, a mathematical formulation of how the brain resists a natural tendency to disorder, provides a unified recipe to potentially solve some of the major challenges in robotics, such as adaptation, robustness, flexibility, generalization and safe interaction. This paper summarizes some experiments and lessons learned from developing such a computational model on real embodied platforms, i.e., humanoid and industrial robots. Finally, we showcase the limitations and challenges that we are still facing to give robots human-like perception"
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:MwdXMY9cq6YC",
+        "num_citations": 8,
+        "citedby_url": "/scholar?cites=15637533985199288994",
+        "cites_id": [
+            "15637533985199288994"
+        ],
+        "pub_url": "https://arxiv.org/abs/2105.04261",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ovLm7k6uA9kJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 5,
+            "2022": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
             "title": "A deep active inference model of the rubber-hand illusion",
             "pub_year": 2020,
             "author": "Thomas Rood and Marcel van Gerven and Pablo Lanillos",
@@ -3681,78 +3760,26 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Detecting neural state transitions underlying event segmentation",
-            "pub_year": 2021,
-            "author": "Linda Geerligs and Marcel van Gerven and Umut Güçlü",
-            "journal": "NeuroImage",
-            "volume": "236",
-            "pages": "118085",
-            "publisher": "Academic Press",
-            "abstract": "Segmenting perceptual experience into meaningful events is a key cognitive process that helps us make sense of what is happening around us in the moment, as well as helping us recall past events. Nevertheless, little is known about the underlying neural mechanisms of the event segmentation process. Recent work has suggested that event segmentation can be linked to regional changes in neural activity patterns. Accurate methods for identifying such activity changes are important to allow further investigation of the neural basis of event segmentation and its link to the temporal processing hierarchy of the brain. In this study, we introduce a new set of elegant and simple methods to study these mechanisms. We introduce a method for identifying the boundaries between neural states in a brain area and a complementary one for identifying the number of neural states. Furthermore, we present the results of a …"
+            "title": "Explainable Deep Learning: A Field Guide for the Uninitiated",
+            "pub_year": 2022,
+            "author": "Gabrielle Ras and Ning Xie and Marcel van Gerven and Derek Doran",
+            "journal": "Journal of Artificial Intelligence Research",
+            "volume": "73",
+            "pages": "329-397",
+            "abstract": "Deep neural networks (DNNs) are an indispensable machine learning tool despite the difficulty of diagnosing what aspects of a model’s input drive its decisions. In countless real-world domains, from legislation and law enforcement to healthcare, such diagnosis is essential to ensure that DNN decisions are driven by aspects appropriate in the context of its use. The development of methods and studies enabling the explanation of a DNN’s decisions has thus blossomed into an active and broad area of research. The field’s complexity is exacerbated by competing definitions of what it means “to explain” the actions of a DNN and to evaluate an approach’s “ability to explain”. This article offers a field guide to explore the space of explainable deep learning for those in the AI/ML field who are uninitiated. The field guide: i) Introduces three simple dimensions defining the space of foundational methods that contribute to explainable deep learning, ii) discusses the evaluations for model explanations, iii) places explainability in the context of other related deep learning research areas, and iv) discusses user-oriented explanation design and future directions. We hope the guide is seen as a starting point for those embarking on this research field."
         },
         "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:u76CbRzuV8AC",
+        "author_pub_id": "sX0ZypwAAAAJ:uDl620nrkPcC",
         "num_citations": 7,
-        "citedby_url": "/scholar?cites=6489566899988948551",
+        "citedby_url": "/scholar?cites=5823096581545580132",
         "cites_id": [
-            "6489566899988948551"
+            "5823096581545580132"
         ],
-        "public_access": true,
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1053811921003621",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:R2b5W7aSD1oJ:scholar.google.com/",
+        "pub_url": "https://www.jair.org/index.php/jair/article/view/13200",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZNbQI33Lz1AJ:scholar.google.com/",
         "cites_per_year": {
-            "2021": 5,
-            "2022": 2
-        },
-        "mandates": [
-            {
-                "agency": "UK Biotechnology and Biological Sciences Research Council",
-                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
-                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
-                "effective_date": "2013/4",
-                "embargo": "6 months",
-                "acknowledgement": " …UK Biotechnology and Biological Sciences Research Council (grant number BB/H008217/1) …"
-            },
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
-                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
-                "effective_date": "2021/1",
-                "embargo": "none",
-                "acknowledgement": " …grant [639.072.513] from the Netherlands Organization for Scientific Research …"
-            },
-            {
-                "agency": "UK Medical Research Council",
-                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
-                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
-                "effective_date": "2013/4",
-                "embargo": "6 months",
-                "acknowledgement": " …UK Medical Research Council …"
-            }
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Neuroscience-inspired perception-action in robotics: applying active inference for state estimation, control and self-perception",
-            "pub_year": 2021,
-            "author": "Pablo Lanillos and Marcel van Gerven",
-            "journal": "arXiv preprint arXiv:2105.04261",
-            "abstract": "Unlike robots, humans learn, adapt and perceive their bodies by interacting with the world. Discovering how the brain represents the body and generates actions is of major importance for robotics and artificial intelligence. Here we discuss how neuroscience findings open up opportunities to improve current estimation and control algorithms in robotics. In particular, how active inference, a mathematical formulation of how the brain resists a natural tendency to disorder, provides a unified recipe to potentially solve some of the major challenges in robotics, such as adaptation, robustness, flexibility, generalization and safe interaction. This paper summarizes some experiments and lessons learned from developing such a computational model on real embodied platforms, i.e., humanoid and industrial robots. Finally, we showcase the limitations and challenges that we are still facing to give robots human-like perception"
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:MwdXMY9cq6YC",
-        "num_citations": 7,
-        "citedby_url": "/scholar?cites=15637533985199288994",
-        "cites_id": [
-            "15637533985199288994"
-        ],
-        "pub_url": "https://arxiv.org/abs/2105.04261",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ovLm7k6uA9kJ:scholar.google.com/",
-        "cites_per_year": {
-            "2021": 5,
-            "2022": 2
+            "2021": 1,
+            "2022": 6
         }
     },
     {
@@ -3990,32 +4017,6 @@
                 "acknowledgement": " …Dutch Organization for Scientific Research (NWO) …"
             }
         ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Explainable Deep Learning: A Field Guide for the Uninitiated",
-            "pub_year": 2022,
-            "author": "Gabrielle Ras and Ning Xie and Marcel van Gerven and Derek Doran",
-            "journal": "Journal of Artificial Intelligence Research",
-            "volume": "73",
-            "pages": "329-397",
-            "abstract": "Deep neural networks (DNNs) are an indispensable machine learning tool despite the difficulty of diagnosing what aspects of a model’s input drive its decisions. In countless real-world domains, from legislation and law enforcement to healthcare, such diagnosis is essential to ensure that DNN decisions are driven by aspects appropriate in the context of its use. The development of methods and studies enabling the explanation of a DNN’s decisions has thus blossomed into an active and broad area of research. The field’s complexity is exacerbated by competing definitions of what it means “to explain” the actions of a DNN and to evaluate an approach’s “ability to explain”. This article offers a field guide to explore the space of explainable deep learning for those in the AI/ML field who are uninitiated. The field guide: i) Introduces three simple dimensions defining the space of foundational methods that contribute to explainable deep learning, ii) discusses the evaluations for model explanations, iii) places explainability in the context of other related deep learning research areas, and iv) discusses user-oriented explanation design and future directions. We hope the guide is seen as a starting point for those embarking on this research field."
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:uDl620nrkPcC",
-        "num_citations": 6,
-        "citedby_url": "/scholar?cites=5823096581545580132",
-        "cites_id": [
-            "5823096581545580132"
-        ],
-        "pub_url": "https://www.jair.org/index.php/jair/article/view/13200",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZNbQI33Lz1AJ:scholar.google.com/",
-        "cites_per_year": {
-            "2021": 1,
-            "2022": 5
-        }
     },
     {
         "container_type": "Publication",
@@ -4694,6 +4695,66 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
+            "title": "A nested cortical hierarchy of neural states underlies event segmentation in the human brain",
+            "pub_year": 2021,
+            "author": "Linda Geerligs and Marcel van Gerven and Karen L Campbell and Umut Güçlü",
+            "journal": "bioRxiv",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "A fundamental aspect of human experience is that it is segmented into discrete events. This may be underpinned by transitions between distinct neural states. Using an innovative data-driven state segmentation method, we investigate how neural states are organized across the cortical hierarchy and where in cortex neural state and perceived event boundaries overlap. Our results show that neural state boundaries are organized in a temporal cortical hierarchy, with short states in primary sensory regions and long states in anterior temporal pole and lateral and medial prefrontal cortex. Neural state boundaries overlap with event boundaries across large parts of this hierarchy. State boundaries are shared within and between groups of brain regions that resemble well known functional networks, such as the default mode network that fractionates into two subnetworks – one fast, one slow. Together these findings suggest that a nested cortical hierarchy of neural states forms the basis of event segmentation."
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:clk6yq2jaZ8C",
+        "num_citations": 4,
+        "citedby_url": "/scholar?cites=3136287786722345195",
+        "cites_id": [
+            "3136287786722345195"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2021.02.05.429165.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:60D7ECBVhisJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 2,
+            "2022": 2
+        },
+        "mandates": [
+            {
+                "agency": "UK Medical Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …UK Medical Research Council …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …grant [639.072.513] from the Netherlands Organization for Scientific Research …"
+            },
+            {
+                "agency": "UK Biotechnology and Biological Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …UK Biotechnology and Biological Sciences Research Council (grant number BB/H008217/1) …"
+            },
+            {
+                "agency": "Natural Sciences and Engineering Research Council of Canada",
+                "url_policy": "http://www.science.gc.ca/eic/site/063.nsf/eng/h_F6765465.html",
+                "url_policy_cached": "/mandates/nserc_ca-2021-02-13-en.pdf",
+                "effective_date": "2015/5",
+                "embargo": "12 months",
+                "acknowledgement": " …Natural Sciences and Engineering Research Council of Canada (Grant RGPIN-2017-03804 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
             "title": "Brain2Pix: Fully convolutional naturalistic video reconstruction from brain activity",
             "pub_year": 2021,
             "author": "Lynn Le and Luca Ambrogioni and Katja Seeliger and Yağmur Güçlütürk and Marcel van Gerven and Umut Güçlü",
@@ -4940,66 +5001,6 @@
             "2017": 0,
             "2018": 1
         }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "A nested cortical hierarchy of neural states underlies event segmentation in the human brain",
-            "pub_year": 2021,
-            "author": "Linda Geerligs and Marcel van Gerven and Karen L Campbell and Umut Güçlü",
-            "journal": "bioRxiv",
-            "publisher": "Cold Spring Harbor Laboratory",
-            "abstract": "A fundamental aspect of human experience is that it is segmented into discrete events. This may be underpinned by transitions between distinct neural states. Using an innovative data-driven state segmentation method, we investigate how neural states are organized across the cortical hierarchy and where in cortex neural state and perceived event boundaries overlap. Our results show that neural state boundaries are organized in a temporal cortical hierarchy, with short states in primary sensory regions and long states in anterior temporal pole and lateral and medial prefrontal cortex. Neural state boundaries overlap with event boundaries across large parts of this hierarchy. State boundaries are shared within and between groups of brain regions that resemble well known functional networks, such as the default mode network that fractionates into two subnetworks – one fast, one slow. Together these findings suggest that a nested cortical hierarchy of neural states forms the basis of event segmentation."
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:clk6yq2jaZ8C",
-        "num_citations": 3,
-        "citedby_url": "/scholar?cites=3136287786722345195",
-        "cites_id": [
-            "3136287786722345195"
-        ],
-        "public_access": true,
-        "pub_url": "https://www.biorxiv.org/content/10.1101/2021.02.05.429165.abstract",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:60D7ECBVhisJ:scholar.google.com/",
-        "cites_per_year": {
-            "2021": 2,
-            "2022": 1
-        },
-        "mandates": [
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
-                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
-                "effective_date": "2021/1",
-                "embargo": "none",
-                "acknowledgement": " …grant [639.072.513] from the Netherlands Organization for Scientific Research …"
-            },
-            {
-                "agency": "UK Medical Research Council",
-                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
-                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
-                "effective_date": "2013/4",
-                "embargo": "6 months",
-                "acknowledgement": " …UK Medical Research Council …"
-            },
-            {
-                "agency": "UK Biotechnology and Biological Sciences Research Council",
-                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
-                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
-                "effective_date": "2013/4",
-                "embargo": "6 months",
-                "acknowledgement": " …UK Biotechnology and Biological Sciences Research Council (grant number BB/H008217/1) …"
-            },
-            {
-                "agency": "Natural Sciences and Engineering Research Council of Canada",
-                "url_policy": "http://www.science.gc.ca/eic/site/063.nsf/eng/h_F6765465.html",
-                "url_policy_cached": "/mandates/nserc_ca-2021-02-13-en.pdf",
-                "effective_date": "2015/5",
-                "embargo": "12 months",
-                "acknowledgement": " …Natural Sciences and Engineering Research Council of Canada (Grant RGPIN-2017-03804 …"
-            }
-        ]
     },
     {
         "container_type": "Publication",
@@ -5555,7 +5556,7 @@
         "cites_id": [
             "9887598704522257031"
         ],
-        "pub_url": "https://books.google.com/books?hl=en&lr=&id=xkc1DwAAQBAJ&oi=fnd&pg=PA413&dq=info:h2KpkKLON4kJ:scholar.google.com&ots=soh80YvJzD&sig=Z4e2sB97XaN9aZcDkHOYOdeOuOw",
+        "pub_url": "https://books.google.com/books?hl=en&lr=&id=xkc1DwAAQBAJ&oi=fnd&pg=PA413&dq=info:h2KpkKLON4kJ:scholar.google.com&ots=soi-Y_AKCD&sig=IIaFnSNZW2Pmj_XBApTyrCzURXQ",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:h2KpkKLON4kJ:scholar.google.com/",
         "cites_per_year": {
             "2020": 1,
@@ -5831,6 +5832,28 @@
                 "acknowledgement": " …Grant Number 639.072.513of The Netherlands Organization for Scientific Research (NWO) …"
             }
         ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Protocol of the Healthy Brain Study: An accessible resource for understanding the human brain and how it dynamically and individually operates in its bio-social context",
+            "pub_year": 2021,
+            "author": "E Aarts and A Akkerman and AM Altgassen and RHMA Bartels and DGJ Beckers and KE Bevelander and E Bijleveld and EN Blaney Davidson and A Boleij and JB Bralten and AHN Cillessen and JA Claassen and R Cools and IMM Cornelissen and M Dresler and TMH Eijsvogels and M Faber and G Fernandez and B Figner and M Fritsche and SC Füllbrunn and S Gayet and MMHJ van Gelder and MAJ van Gerven and SAE Geurts and CU Greven and MM Groefsema and KV Haak and P Hagoort and YAW Hartman and BIJM van der Heijden and E Hermans and VR Heuvelmans and F Hintz and JW den Hollander and AM Hulsman and SA Idesis and Martin Jaeger and E Janse and JG Janzing and RPC Kessels and WPE de Kleijn and M Klein and F Klumpers and N Kohn and HPLM Korzilius and B Krahmer and FP de Lange and JMC van Leeuwen and L Huaiyu and M Luijten and P Manders and K Manevska and JP Marques and J Matthews and JM McQueen and WP Medendorp and RJ Melis and AS Meyer and JM Oosterman and LIH Overbeek and MV Peelen and J Popma and GJ Postma and K Roelofs and YGT van Rossenberg and GJ Schaap and PT Scheepers and LPJ Selen and MBP Starren and DW Swinkels and I Tendolkar and DHJ Thijssen and H Timmerman and RT Toutounji and AM Tuladhar and HP Veling and M Verhagen and J Verkroost and V Vriezekolk and JN Vrijsen and J Vyrastekova and SEI van der Wal and RM Willems and AECAB Willemsen",
+            "abstract": "The endeavor to understand the human brain has seen more progress in the last few decades than in the previous two millennia. Still, our understanding of how the human brain relates to behavior in the real world and how this link is modulated by biological, social, and environmental factors is limited. To address this, we designed the Healthy Brain Study (HBS), an interdisciplinary, longitudinal, cohort study based on multidimensional, dynamic assessments in both the laboratory and the real world. Here, we describe the rationale and design of the currently ongoing HBS. The HBS is examining a population-based sample of 1,000 healthy participants (age 30-39) who are thoroughly studied across an entire year. Data are collected through cognitive, affective, behavioral, and physiological testing, neuroimaging, bio-sampling, questionnaires, ecological momentary assessment, and real-world assessments using wearable devices. These data will become an accessible resource for the scientific community enabling the next step in understanding the human brain and how it dynamically and individually operates in its bio-social context. An access procedure to the collected data and bio-samples is in place and published on https://www.healthybrainstudy.nl/en/data-and-methods. https://www.trialregister.nl/trial/7955"
+        },
+        "filled": true,
+        "author_pub_id": "sX0ZypwAAAAJ:LvS0yHEg1QsC",
+        "num_citations": 1,
+        "citedby_url": "/scholar?cites=16811750061957787063",
+        "cites_id": [
+            "16811750061957787063"
+        ],
+        "pub_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/242453/242453.pdf?sequence=1&isAllowed=y",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ty2l35tVT-kJ:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 1
+        }
     },
     {
         "container_type": "Publication",
@@ -6370,22 +6393,6 @@
         "author_pub_id": "sX0ZypwAAAAJ:kFIFcbgrf0oC",
         "num_citations": 0,
         "pub_url": "https://repository.ubn.ru.nl/handle/2066/241247",
-        "cites_per_year": {}
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Protocol of the Healthy Brain Study: An accessible resource for understanding the human brain and how it dynamically and individually operates in its bio-social context",
-            "pub_year": 2021,
-            "author": "E Aarts and A Akkerman and AM Altgassen and RHMA Bartels and DGJ Beckers and KE Bevelander and E Bijleveld and EN Blaney Davidson and A Boleij and JB Bralten and AHN Cillessen and JA Claassen and R Cools and IMM Cornelissen and M Dresler and TMH Eijsvogels and M Faber and G Fernandez and B Figner and M Fritsche and SC Füllbrunn and S Gayet and MMHJ van Gelder and MAJ van Gerven and SAE Geurts and CU Greven and MM Groefsema and KV Haak and P Hagoort and YAW Hartman and BIJM van der Heijden and E Hermans and VR Heuvelmans and F Hintz and JW den Hollander and AM Hulsman and SA Idesis and Martin Jaeger and E Janse and JG Janzing and RPC Kessels and WPE de Kleijn and M Klein and F Klumpers and N Kohn and HPLM Korzilius and B Krahmer and FP de Lange and JMC van Leeuwen and L Huaiyu and M Luijten and P Manders and K Manevska and JP Marques and J Matthews and JM McQueen and WP Medendorp and RJ Melis and AS Meyer and JM Oosterman and LIH Overbeek and MV Peelen and J Popma and GJ Postma and K Roelofs and YGT van Rossenberg and GJ Schaap and PT Scheepers and LPJ Selen and MBP Starren and DW Swinkels and I Tendolkar and DHJ Thijssen and H Timmerman and RT Toutounji and AM Tuladhar and HP Veling and M Verhagen and J Verkroost and V Vriezekolk and JN Vrijsen and J Vyrastekova and SEI van der Wal and RM Willems and AECAB Willemsen",
-            "abstract": "The endeavor to understand the human brain has seen more progress in the last few decades than in the previous two millennia. Still, our understanding of how the human brain relates to behavior in the real world and how this link is modulated by biological, social, and environmental factors is limited. To address this, we designed the Healthy Brain Study (HBS), an interdisciplinary, longitudinal, cohort study based on multidimensional, dynamic assessments in both the laboratory and the real world. Here, we describe the rationale and design of the currently ongoing HBS. The HBS is examining a population-based sample of 1,000 healthy participants (age 30-39) who are thoroughly studied across an entire year. Data are collected through cognitive, affective, behavioral, and physiological testing, neuroimaging, bio-sampling, questionnaires, ecological momentary assessment, and real-world assessments using wearable devices. These data will become an accessible resource for the scientific community enabling the next step in understanding the human brain and how it dynamically and individually operates in its bio-social context. An access procedure to the collected data and bio-samples is in place and published on https://www.healthybrainstudy.nl/en/data-and-methods. https://www.trialregister.nl/trial/7955"
-        },
-        "filled": true,
-        "author_pub_id": "sX0ZypwAAAAJ:LvS0yHEg1QsC",
-        "num_citations": 0,
-        "pub_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/242453/242453.pdf?sequence=1&isAllowed=y",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ty2l35tVT-kJ:scholar.google.com/",
         "cites_per_year": {}
     },
     {

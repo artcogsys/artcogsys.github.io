@@ -1,0 +1,33 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "MŞÜ FEN BİLİMLERİ DERGİSİ CİLT 2, SAYI 2/MUŞ ALPARSLAN UNIVERSITY JOURNAL OF SCIENCE VOLUME 2, ISSUE 2",
+            "author": "Asim MANTARCI and Burcu KÜÇÜKOĞLU and Ali KILIÇ and Sadettin KAPUCU and Buşra TAŞKAN and Büşranur ÖZALPER and Fikret TÜRKAN and Neslihan BALCI and Halis ŞAKİROĞLU and Ömer KILIÇ and Yusuf TEMEL and İlknur ÖZGENÇLİ and Ö İrfan KÜFREVİOĞLU and Mehmet ÇİFTCİ"
+        },
+        "filled": true,
+        "author_pub_id": "25MSKqAAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 0,
+        "pub_url": "https://scholar.google.com/scholar?cluster=43708491484568371&hl=en&oi=scholarr",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "KIVIRCIKLANDIRILMIŞ HALI İPLİKLERİNİN GEOMETRİK PARAMETRELERİNİN GÖRÜNTÜ İŞLEME İLE BELİRLENMESİ",
+            "author": "Burcu KÜCÜKOĞLU and Ali KILIC and Sadettin KAPUCU",
+            "journal": "Muş Alparslan Üniversitesi Fen Bilimleri Dergisi",
+            "volume": "2",
+            "number": "2",
+            "pages": "246-256",
+            "abstract": "Normal 0 21 false false false TR X-NONE X-NONE /* Style Definitions */ table.MsoNormalTable {mso-style-name:\"Normal Tablo\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-parent:\"\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:\"Calibri\",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:\"Times New Roman\"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} Hal ı üretiminde genel olarak polipropilen iplikler kullanılmaktadır. Fakat son zamanlarda halı endüstrisinde, frizeli iplik adı verilen bir iplik türü kullanılmaya başlanmıştır. Frizeli iplikler, polipropilen Bulk Continuous Filament (BCF) halı ipliklerinin belirli işlemlerden geçirilmesi ile elde edilir. Polipropilen BCF halı iplikleri fikse işleminden önce buharla birlikte silindirler arasından geçirilirler. Daha sonra yığma kutusunda basınçla sıkıştırılıp kıvrım özelliği kazandırılır. Bu işlemden sonra kıvrım özelliğinin sabitlenmesi için fikse işlemi uygulanır. Polipropilen BCF halı iplikleri bu aşamalardan geçtikten sonra frizeli halı ipliği olarak adlandırılır. Halı üretiminde bu ipliklerin tercih edilmelerinin nedeni, üretimde kazandırılan kıvrım yapılalarının üzerlerine düşen ışığı farklı açılarda yansıtarak halıya yanardöner efekt vermeleridir. Frizeli halı ipliği üretiminde kazandırılan kıvrımlı yapılar ışığın yansımasını etkilediğinden dolayı sayılan ve …"
+        },
+        "filled": true,
+        "author_pub_id": "25MSKqAAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 0,
+        "pub_url": "https://dergipark.org.tr/en/pub/msufbd/issue/19659/370816",
+        "cites_per_year": {}
+    }
+]

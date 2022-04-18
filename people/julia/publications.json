@@ -1,0 +1,360 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural tuning to low-level features of speech throughout the perisylvian cortex",
+            "pub_year": 2017,
+            "author": "Julia Berezutskaya and Zachary V Freudenburg and Umut Güçlü and Marcel AJ van Gerven and Nick F Ramsey",
+            "journal": "Journal of Neuroscience",
+            "volume": "37",
+            "number": "33",
+            "pages": "7906-7920",
+            "publisher": "Society for Neuroscience",
+            "abstract": "Despite a large body of research, we continue to lack a detailed account of how auditory processing of continuous speech unfolds in the human brain. Previous research showed the propagation of low-level acoustic features of speech from posterior superior temporal gyrus toward anterior superior temporal gyrus in the human brain (Hullett et al., 2016). In this study, we investigate what happens to these neural representations past the superior temporal gyrus and how they engage higher-level language processing areas such as inferior frontal gyrus. We used low-level sound features to model neural responses to speech outside of the primary auditory cortex. Two complementary imaging techniques were used with human participants (both males and females): electrocorticography (ECoG) and fMRI. Both imaging techniques showed tuning of the perisylvian cortex to low-level speech features. With ECoG, we found …"
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 25,
+        "citedby_url": "/scholar?cites=17277144270804478242",
+        "cites_id": [
+            "17277144270804478242"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.jneurosci.org/content/37/33/7906.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Iul5Ei2_xO8J:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 5,
+            "2019": 7,
+            "2020": 7,
+            "2021": 4,
+            "2022": 2
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Research Council (Advanced iConnect Project Grant ADV 320708) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain-optimized extraction of complex sound features that drive continuous auditory perception",
+            "pub_year": 2020,
+            "author": "Julia Berezutskaya and Zachary V Freudenburg and Umut Güçlü and Marcel AJ van Gerven and Nick F Ramsey",
+            "journal": "PLoS computational biology",
+            "volume": "16",
+            "number": "7",
+            "pages": "e1007992",
+            "publisher": "Public Library of Science",
+            "abstract": "Understanding how the human brain processes auditory input remains a challenge. Traditionally, a distinction between lower- and higher-level sound features is made, but their definition depends on a specific theoretical framework and might not match the neural representation of sound. Here, we postulate that constructing a data-driven neural model of auditory perception, with a minimum of theoretical assumptions about the relevant sound features, could provide an alternative approach and possibly a better match to the neural responses. We collected electrocorticography recordings from six patients who watched a long-duration feature film. The raw movie soundtrack was used to train an artificial neural network model to predict the associated neural responses. The model achieved high prediction accuracy and generalized well to a second dataset, where new participants watched a different film. The extracted bottom-up features captured acoustic properties that were specific to the type of sound and were associated with various response latency profiles and distinct cortical distributions. Specifically, several features encoded speech-related acoustic properties with some features exhibiting shorter latency profiles (associated with responses in posterior perisylvian cortex) and others exhibiting longer latency profiles (associated with responses in anterior perisylvian cortex). Our results support and extend the current view on speech perception by demonstrating the presence of temporal hierarchies in the perisylvian cortex and involvement of cortical sites outside of this region during audiovisual speech perception."
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:4DMP91E08xMC",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=10977080310325828461",
+        "cites_id": [
+            "10977080310325828461"
+        ],
+        "public_access": true,
+        "pub_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007992",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bdvnF2JsVpgJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 3,
+            "2022": 2
+        },
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "grant": "Advanced iConnect Project Grant ADV 320708"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …NWO Gravitation grant 024.001.006) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "High‐density intracranial recordings reveal a distinct site in anterior dorsal precentral cortex that tracks perceived speech",
+            "pub_year": 2020,
+            "author": "Julia Berezutskaya and Clarissa Baratin and Zachary V Freudenburg and Nicolas F Ramsey",
+            "journal": "Human brain mapping",
+            "volume": "41",
+            "number": "16",
+            "pages": "4587-4609",
+            "publisher": "John Wiley & Sons, Inc.",
+            "abstract": "Various brain regions are implicated in speech processing, and the specific function of some of them is better understood than others. In particular, involvement of the dorsal precentral cortex (dPCC) in speech perception remains debated, and attribution of the function of this region is more or less restricted to motor processing. In this study, we investigated high‐density intracranial responses to speech fragments of a feature film, aiming to determine whether dPCC is engaged in perception of continuous speech. Our findings show that dPCC exhibited preference to speech over other tested sounds. Moreover, the identified area was involved in tracking of speech auditory properties including speech spectral envelope, its rhythmic phrasal pattern and pitch contour. DPCC also showed the ability to filter out noise from the perceived speech. Comparing these results to data from motor experiments showed that the …"
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 4,
+        "citedby_url": "/scholar?cites=5665685728319117251",
+        "cites_id": [
+            "5665685728319117251"
+        ],
+        "public_access": true,
+        "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.25144",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wxd23SaPoE4J:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 3,
+            "2022": 1
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Research Council (Advanced iConnect Project Grant ADV 320708) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cortical network responses map onto data-driven features that capture visual semantics of movie fragments",
+            "pub_year": 2020,
+            "author": "Julia Berezutskaya and Zachary V Freudenburg and Luca Ambrogioni and Umut Güçlü and Marcel AJ van Gerven and Nick F Ramsey",
+            "journal": "Scientific reports",
+            "volume": "10",
+            "number": "1",
+            "pages": "1-21",
+            "publisher": "Nature Publishing Group",
+            "abstract": "Research on how the human brain extracts meaning from sensory input relies in principle on methodological reductionism. In the present study, we adopt a more holistic approach by modeling the cortical responses to semantic information that was extracted from the visual stream of a feature film, employing artificial neural network models. Advances in both computer vision and natural language processing were utilized to extract the semantic representations from the film by combining perceptual and linguistic information. We tested whether these representations were useful in studying the human brain data. To this end, we collected electrocorticography responses to a short movie from 37 subjects and fitted their cortical patterns across multiple regions using the semantic components extracted from film frames. We found that individual semantic components reflected fundamental semantic distinctions in the visual …"
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?cites=15861735615829015234",
+        "cites_id": [
+            "15861735615829015234"
+        ],
+        "pub_url": "https://www.nature.com/articles/s41598-020-68853-y",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wnqm5oA0INwJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 1,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Forward amortized inference for likelihood-free variational marginalization",
+            "pub_year": 2019,
+            "author": "Luca Ambrogioni and Umut Güçlü and Julia Berezutskaya and Eva Borne and Yaǧmur Güçlütürk and Max Hinne and Eric Maris and Marcel Gerven",
+            "conference": "The 22nd International Conference on Artificial Intelligence and Statistics",
+            "pages": "777-786",
+            "publisher": "PMLR",
+            "abstract": "In this paper, we introduce a new form of amortized variational inference by using the forward KL divergence in a joint-contrastive variational loss. The resulting forward amortized variational inference is a likelihood-free method as its gradient can be sampled without bias and without requiring any evaluation of either the model joint distribution or its derivatives. We prove that our new variational loss is optimized by the exact posterior marginals in the fully factorized mean-field approximation, a property that is not shared with the more conventional reverse KL inference. Furthermore, we show that forward amortized inference can be easily marginalized over large families of latent variables in order to obtain a marginalized variational posterior. We consider two examples of variational marginalization. In our first example we train a Bayesian forecaster for predicting a simplified chaotic model of atmospheric convection. In the second example we train an amortized variational approximation of a Bayesian optimal classifier by marginalizing over the model space. The result is a powerful meta-classification network that can solve arbitrary classification problems without further training."
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 3,
+        "citedby_url": "/scholar?cites=16534074432998126370",
+        "cites_id": [
+            "16534074432998126370"
+        ],
+        "pub_url": "https://proceedings.mlr.press/v89/ambrogioni19a.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IrO4dBjVdOUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modeling brain responses to perceived speech with lstm networks",
+            "pub_year": 2017,
+            "author": "Julia Berezutskaya and Z Freudenburg and N Ramsey and U Güçlü and M van Gerven and W Duivesteijn and M Pechenizkiy and G Fletcher and V Menkovski and E Postma",
+            "journal": "Benelearn",
+            "pages": "149-153",
+            "abstract": "We used recurrent neural networks with longshort term memory units (LSTM) to model the brain responses to speech based on the speech audio features. We compared the performance of the LSTM models to the performance of the linear ridge regression model and found the LSTM models to be more robust for predicting brain responses across different feature sets."
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?cites=12081245053635736471",
+        "cites_id": [
+            "12081245053635736471"
+        ],
+        "pub_url": "https://pure.tue.nl/ws/portalfiles/portal/72619856/#page=150",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lzNn-l00qacJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 1,
+            "2021": 0,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reduced brain activation during spoken language processing in children with developmental language disorder and children with 22q11. 2 deletion syndrome",
+            "pub_year": 2021,
+            "author": "Mariska J Vansteensel and Iris S Selten and Lisette Charbonnier and Julia Berezutskaya and Mathijs AH Raemaekers and Nick F Ramsey and Frank Wijnen",
+            "journal": "Neuropsychologia",
+            "volume": "158",
+            "pages": "107907",
+            "publisher": "Pergamon",
+            "abstract": "Language difficulties of children with Developmental Language Disorder (DLD) have been associated with multiple underlying factors and are still poorly understood. One way of investigating the mechanisms of DLD language problems is to compare language-related brain activation patterns of children with DLD to those of a population with similar language difficulties and a uniform etiology. Children with 22q11.2 deletion syndrome (22q11DS) constitute such a population. Here, we conducted an fMRI study, in which children (6-10yo) with DLD and 22q11DS listened to speech alternated with reversed speech. We compared language laterality and language-related brain activation levels with those of typically developing (TD) children who performed the same task. The data revealed no significant differences between groups in language lateralization, but task-related activation levels were lower in children with …"
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?cites=14556817435830959803",
+        "cites_id": [
+            "14556817435830959803"
+        ],
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0028393221001585",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:u77qIlU0BMoJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian model ensembling using meta-trained recurrent neural networks",
+            "pub_year": 2017,
+            "author": "Luca Ambrogioni and Y Berezutskaya and Umut Güçlü and Eva WP van den Borne and Yagmur Güçlütürk and Marcel AJ van Gerven and EGG Maris",
+            "publisher": "[Sl: sn]",
+            "abstract": "In this paper we demonstrate that a recurrent neural network meta-trained on an ensemble of arbitrary classification tasks can be used as an approximation of the Bayes optimal classifier. This result is obtained by relying on the framework of e-free approximate Bayesian inference, where the Bayesian posterior is approximated by training a neural network using synthetic samples. We denote the resulting model as neural ensembler. We show that a single neural ensembler trained on a large set of synthetic data achieves competitive classification performance on multiple real-world classification problems without additional training."
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?cites=6428999290511848971",
+        "cites_id": [
+            "6428999290511848971"
+        ],
+        "pub_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/180405/180405.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:C3Yy3MpkOFkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film",
+            "pub_year": 2022,
+            "author": "Julia Berezutskaya and Mariska J Vansteensel and Erik J Aarnoutse and Zachary V Freudenburg and Giovanni Piantoni and Mariana P Branco and Nick F Ramsey",
+            "journal": "Scientific Data",
+            "volume": "9",
+            "number": "1",
+            "pages": "1-13",
+            "publisher": "Nature Publishing Group",
+            "abstract": "Intracranial human recordings are a valuable and rare resource of information about the brain. Making such data publicly available not only helps tackle reproducibility issues in science, it helps make more use of these valuable data. This is especially true for data collected using naturalistic tasks. Here, we describe a dataset collected from a large group of human subjects while they watched a short audiovisual film. The dataset has several unique features. First, it includes a large amount of intracranial electroencephalography (iEEG) data (51 participants, age range of 5–55 years, who all performed the same task). Second, it includes functional magnetic resonance imaging (fMRI) recordings (30 participants, age range of 7–47) during the same task. Eighteen participants performed both iEEG and fMRI versions of the task, non-simultaneously. Third, the data were acquired using a rich audiovisual stimulus, for which …"
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 1,
+        "citedby_url": "/scholar?cites=6089997161985470484",
+        "cites_id": [
+            "6089997161985470484"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.nature.com/articles/s41597-022-01173-0",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FPBHEycEhFQJ:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 1
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
+                "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
+                "effective_date": "2021/2",
+                "embargo": "none",
+                "acknowledgement": " …European Research Council (Advanced iConnect Project Grant ADV 320708) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Data-driven modeling of the neural dynamics underlying language processing",
+            "pub_year": 2020,
+            "author": "Julia Berezutskaya",
+            "abstract": "In this thesis, we use data-driven techniques in an attempt to explain the neural data during speech and language perception in unconstrained naturalistic setup. We aim to use a combination of data exploration approaches and data-driven feature extraction models to provide a more bottom-up way of studying the neural responses. We hope that these data-driven strategies can confirm some of the previous theory-based neurolinguistic findings but at the same time offer new insight regarding how the human brain processes speech related information."
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0,
+        "pub_url": "https://www.narcis.nl/publication/RecordID/oai:dspace.library.uu.nl:1874%2F397500",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zutOWRVDemMJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "One-back task functional localizer for visual word form area reveals inverse pattern of activation in readers of Russian",
+            "pub_year": 2012,
+            "author": "Ekaterina Pechenkova and Rosa Vlasova and Yuliya Berezutskaya and Valentin Sinitsyn",
+            "journal": "Journal of Vision",
+            "volume": "12",
+            "number": "9",
+            "pages": "531-531",
+            "publisher": "The Association for Research in Vision and Ophthalmology",
+            "abstract": "The evidence on whether there is a specialized brain area selectively responding to visually presented familiar words is highly controversial. One recent piece of evidence is provided by Wang et al.(2011) who have found greater activation for artificial versus real Chinese characters in the part of fusiform gyrus which usually manifests a greater response to words than to other types of visual stimuli (thus often considered as visual word form area, VWFA) and attributed their result to the one-back task performed by participants during the scan. We have observed similar inverse pattern of activation when contrasting familiar nouns with stimuli in unfamiliar script in readers of Russian who also performed one-back task. In 2 runs of a block-designed fMRI experiment 14 native speakers of Russian, none of whom were able to read Armenian or Chinese, viewed 25-second series of 6-character strings presented one-by-one …"
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 0,
+        "pub_url": "https://jov.arvojournals.org/article.aspx?articleid=2141178",
+        "cites_per_year": {}
+    }
+]

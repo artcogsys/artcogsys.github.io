@@ -1,0 +1,50 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predictive coding is a consequence of energy efficiency in recurrent neural networks",
+            "pub_year": 2021,
+            "author": "Abdullahi Ali and Nasir Ahmad and Elgar de Groot and Marcel A.J. van Gerven and Tim C. Kietzmann",
+            "abstract": "Predictive coding represents a promising framework for understanding brain function. It postulates that the brain continuously inhibits predictable sensory input, ensuring a preferential processing of surprising elements. A central aspect of this view is its hierarchical connectivity, involving recurrent message passing between excitatory bottom-up signals and inhibitory top-down feedback. Here we use computational modelling to demonstrate that such architectural hard-wiring is not necessary. Rather, predictive coding is shown to emerge asa consequence of energy efficiency. When training recurrent neural networks to minimise their energy consumption while operating in predictive environments, the networks self-organise into prediction and error units with appropriate inhibitory and excitatory interconnections, and learn to inhibit predictable sensory input. Moving beyond the view of purely top-down driven predictions, we furthermore demonstrate, via virtual lesioning experiments, that networks perform predictions on two timescales: fast lateral predictions among sensory units, and slower prediction cycles that integrate evidence over time."
+        },
+        "filled": true,
+        "author_pub_id": "n57ygVkAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=3873756733302774912",
+        "cites_id": [
+            "3873756733302774912"
+        ],
+        "pub_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3976481",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gBzKkjlZwjUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 5,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A spiking neural algorithm for the network flow problem",
+            "pub_year": 2019,
+            "author": "Abdullahi Ali and Johan Kwisthout",
+            "journal": "arXiv preprint arXiv:1911.13097",
+            "abstract": "It is currently not clear what the potential is of neuromorphic hardware beyond machine learning and neuroscience. In this project, a problem is investigated that is inherently difficult to fully implement in neuromorphic hardware by introducing a new machine model in which a conventional Turing machine and neuromorphic oracle work together to solve such types of problems. We show that the P-complete Max Network Flow problem is intractable in models where the oracle may be consulted only once (`create-and-run' model) but becomes tractable using an interactive (`neuromorphic co-processor') model of computation. More in specific we show that a logspace-constrained Turing machine with access to an interactive neuromorphic oracle with linear space, time, and energy constraints can solve Max Network Flow. A modified variant of this algorithm is implemented on the Intel Loihi chip; a neuromorphic manycore processor developed by Intel Labs. We show that by off-loading the search for augmenting paths to the neuromorphic processor we can get energy efficiency gains, while not sacrificing runtime resources. This result demonstrates how P-complete problems can be mapped on neuromorphic architectures in a theoretically and potentially practically efficient manner."
+        },
+        "filled": true,
+        "author_pub_id": "n57ygVkAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 3,
+        "citedby_url": "/scholar?cites=15105164838630876226,11532110971466083199",
+        "cites_id": [
+            "15105164838630876226",
+            "11532110971466083199"
+        ],
+        "pub_url": "https://arxiv.org/abs/1911.13097",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:f-ueLNRJCqAJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 2,
+            "2022": 1
+        }
+    }
+]

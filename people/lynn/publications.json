@@ -1,0 +1,27 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain2Pix: Fully convolutional naturalistic video reconstruction from brain activity",
+            "pub_year": 2021,
+            "author": "Lynn Le and Luca Ambrogioni and Katja Seeliger and Yağmur Güçlütürk and Marcel van Gerven and Umut Güçlü",
+            "journal": "bioRxiv",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Reconstructing complex and dynamic visual perception from brain activity remains a major challenge in machine learning applications to neuroscience. Here we present a new method for reconstructing naturalistic images and videos from very large single-participant functional magnetic resonance imaging data that leverages the recent success of image-to-image transformation networks. This is achieved by exploiting spatial information obtained from retinotopic mappings across the visual system. More specifically, we first determine what position each voxel in a particular region of interest would represent in the visual field based on its corresponding receptive field location. Then, the 2D image representation of the brain activity on the visual field is passed to a fully convolutional image-to-image network trained to recover the original stimuli using VGG feature loss with an adversarial regularizer. In our experiments, we show that our method offers a significant improvement over existing video reconstruction techniques."
+        },
+        "filled": true,
+        "author_pub_id": "M68qL4cAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 4,
+        "citedby_url": "/scholar?cites=3119362698583748641",
+        "cites_id": [
+            "3119362698583748641"
+        ],
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2021.02.02.429430.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ITCw5tgzSisJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 2,
+            "2022": 2
+        }
+    }
+]

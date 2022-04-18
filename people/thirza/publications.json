@@ -1,0 +1,60 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space",
+            "pub_year": 2022,
+            "author": "Thirza Dado and Yağmur Güçlütürk and Luca Ambrogioni and Gabriëlle Ras and Sander E Bosch and Marcel van Gerven and Umut Güçlü",
+            "journal": "Scientific Reports",
+            "volume": "12",
+            "number": "1",
+            "pages": "1--9",
+            "publisher": "Nature Publishing Group",
+            "abstract": "Neural decoding can be conceptualized as the problem of mapping brain responses back to sensory stimuli via a feature space. We introduce (i) a novel experimental paradigm that uses well-controlled yet highly naturalistic stimuli with a priori known feature representations and (ii) an implementation thereof for HYPerrealistic reconstruction of PERception (HYPER) of faces from brain recordings. To this end, we embrace the use of generative adversarial networks (GANs) at the earliest step of our neural decoding pipeline by acquiring fMRI data as participants perceive face images synthesized by the generator network of a GAN. We show that the latent vectors used for generation effectively capture the same defining stimulus properties as the fMRI measurements. As such, these latents (conditioned on the GAN) are used as the in-between feature representations underlying the perceived images that can be …"
+        },
+        "filled": true,
+        "author_pub_id": "hv8sdFwAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?cites=14802784632941675685,10524495191383923772",
+        "cites_id": [
+            "14802784632941675685",
+            "10524495191383923772"
+        ],
+        "pub_url": "https://www.nature.com/articles/s41598-021-03938-w",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PNy-ip2EDpIJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural encoding with affine feature response transforms",
+            "pub_year": 2021,
+            "author": "U. Güçlü and T. Dado",
+            "conference": "International IEEE EMBS Conference on Neural Engineering"
+        },
+        "filled": true,
+        "author_pub_id": "hv8sdFwAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 0,
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Hyperrealistic neural decoding of faces",
+            "pub_year": 2021,
+            "author": "T. Dado and Y. Güçlütürk and L. Ambrogioni and G. Ras and S. Bosch and M. van Gerven and U. Güçlü",
+            "conference": "International IEEE EMBS Conference on Neural Engineering",
+            "abstract": "We show how generative modeling approximates the neural (face) manifold by obtaining state-of-the-art reconstructions of perceived face images from fMRI activations."
+        },
+        "filled": true,
+        "author_pub_id": "hv8sdFwAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 0,
+        "pub_url": "https://repository.ubn.ru.nl/handle/2066/240575",
+        "cites_per_year": {}
+    }
+]

@@ -1,0 +1,427 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Opponent coding of sound location (azimuth) in planum temporale is robust to sound-level variations",
+            "pub_year": 2016,
+            "author": "Kiki Derey and Giancarlo Valente and Beatrice De Gelder and Elia Formisano",
+            "journal": "Cerebral Cortex",
+            "volume": "26",
+            "number": "1",
+            "pages": "450-464",
+            "publisher": "Oxford University Press",
+            "abstract": "Coding of sound location in auditory cortex (AC) is only partially understood. Recent electrophysiological research suggests that neurons in mammalian auditory cortex are characterized by broad spatial tuning and a preference for the contralateral hemifield, that is, a nonuniform sampling of sound azimuth. Additionally, spatial selectivity decreases with increasing sound intensity. To accommodate these findings, it has been proposed that sound location is encoded by the integrated activity of neuronal populations with opposite hemifield tuning (“opponent channel model”). In this study, we investigated the validity of such a model in human AC with functional magnetic resonance imaging (fMRI) and a phase-encoding paradigm employing binaural stimuli recorded individually for each participant. In all subjects, we observed preferential fMRI responses to contralateral azimuth positions. Additionally, in most AC …"
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 33,
+        "citedby_url": "/scholar?cites=650537980339629491",
+        "cites_id": [
+            "650537980339629491"
+        ],
+        "public_access": true,
+        "pub_url": "https://academic.oup.com/cercor/article-abstract/26/1/450/2367431",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sy0Lr9gsBwkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 1,
+            "2017": 8,
+            "2018": 9,
+            "2019": 6,
+            "2020": 5,
+            "2021": 2,
+            "2022": 2
+        },
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …ERC grant agreement number 295673 …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organization for Scientific Research (NWO), Middle-sized Infrastructural Grant 480-09-006 and VICI 453-12-002 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cortical mechanisms of spatial hearing",
+            "pub_year": 2019,
+            "author": "Kiki van der Heijden and Josef P Rauschecker and Beatrice de Gelder and Elia Formisano",
+            "volume": "20",
+            "number": "10",
+            "pages": "609-623",
+            "publisher": "Nature Publishing Group",
+            "abstract": "Humans and other animals use spatial hearing to rapidly localize events in the environment. However, neural encoding of sound location is a complex process involving the computation and integration of multiple spatial cues that are not represented directly in the sensory organ (the cochlea). Our understanding of these mechanisms has increased enormously in the past few years. Current research is focused on the contribution of animal models for understanding human spatial audition, the effects of behavioural demands on neural sound location encoding, the emergence of a cue-independent location representation in the auditory cortex, and the relationship between single-source and concurrent location encoding in complex auditory scenes. Furthermore, computational modelling seeks to unravel how neural representations of sound source locations are derived from the complex binaural waveforms of real …"
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 32,
+        "citedby_url": "/scholar?cites=18196024213832332372",
+        "cites_id": [
+            "18196024213832332372"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.nature.com/articles/s41583-019-0206-5",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:VPThpZ1DhfwJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 6,
+            "2021": 18,
+            "2022": 7
+        },
+        "mandates": [
+            {
+                "agency": "US National Institutes of Health",
+                "url_policy": "https://publicaccess.nih.gov/policy.htm",
+                "url_policy_cached": "/mandates/nih-2021-02-13.pdf",
+                "effective_date": "2008/4",
+                "embargo": "12 months",
+                "acknowledgement": " …US National Institutes of Health (grant numbers R01EY018923 and R01DC014989 …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organization for Scientific Research (VICI grant number 453–12–002) …"
+            },
+            {
+                "agency": "US National Science Foundation",
+                "url_policy": "https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf",
+                "url_policy_cached": "/mandates/nsf-2021-02-13.pdf",
+                "effective_date": "2016/1",
+                "embargo": "12 months",
+                "acknowledgement": " …US National Science Foundation (PIRE grant number OISE-0730255 …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Union’s Horizon 2020 Research and Innovation Programme (grant number 645553) …"
+            },
+            {
+                "agency": "German Research Foundation",
+                "url_policy": "https://www.dfg.de/formulare/2_012e/2_012e.pdf",
+                "url_policy_cached": "/mandates/dfg_de-2021-02-13-en.pdf",
+                "effective_date": "2006/1",
+                "embargo": "12 months",
+                "acknowledgement": " …German Excellence Initiative …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Active sound localization sharpens spatial tuning in human primary auditory cortex",
+            "pub_year": 2018,
+            "author": "Kiki van der Heijden and Josef P Rauschecker and Elia Formisano and Giancarlo Valente and Beatrice de Gelder",
+            "journal": "Journal of Neuroscience",
+            "volume": "38",
+            "number": "40",
+            "pages": "8574-8587",
+            "publisher": "Society for Neuroscience",
+            "abstract": "Spatial hearing sensitivity in humans is dynamic and task-dependent, but the mechanisms in human auditory cortex that enable dynamic sound location encoding remain unclear. Using functional magnetic resonance imaging (fMRI), we assessed how active behavior affects encoding of sound location (azimuth) in primary auditory cortical areas and planum temporale (PT). According to the hierarchical model of auditory processing and cortical functional specialization, PT is implicated in sound location (“where”) processing. Yet, our results show that spatial tuning profiles in primary auditory cortical areas (left primary core and right caudo-medial belt) sharpened during a sound localization (“where”) task compared with a sound identification (“what”) task. In contrast, spatial tuning in PT was sharp but did not vary with task performance. We further applied a population pattern decoder to the measured fMRI activity …"
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 22,
+        "citedby_url": "/scholar?cites=15119423036839150206",
+        "cites_id": [
+            "15119423036839150206"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.jneurosci.org/content/38/40/8574.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fsKnVyX70tEJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 5,
+            "2020": 5,
+            "2021": 10,
+            "2022": 1
+        },
+        "mandates": [
+            {
+                "agency": "US National Institutes of Health",
+                "url_policy": "https://publicaccess.nih.gov/policy.htm",
+                "url_policy_cached": "/mandates/nih-2021-02-13.pdf",
+                "effective_date": "2008/4",
+                "embargo": "12 months",
+                "acknowledgement": " …NIH Grants R01EY018923 and R01DC014989 …"
+            },
+            {
+                "agency": "German Research Foundation",
+                "url_policy": "https://www.dfg.de/formulare/2_012e/2_012e.pdf",
+                "url_policy_cached": "/mandates/dfg_de-2021-02-13-en.pdf",
+                "effective_date": "2006/1",
+                "embargo": "12 months",
+                "acknowledgement": " …German Excellence Initiative …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …NWO Vici-Grant 453-12-002 …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Union’s Horizon 2020 Research and Innovation Programme Grant 645553 …"
+            },
+            {
+                "agency": "US National Science Foundation",
+                "url_policy": "https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf",
+                "url_policy_cached": "/mandates/nsf-2021-02-13.pdf",
+                "effective_date": "2016/1",
+                "embargo": "12 months",
+                "acknowledgement": " …US National Science Foundation (OISE-0730255 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Localization of complex sounds is modulated by behavioral relevance and sound category",
+            "pub_year": 2017,
+            "author": "Kiki Derey and Josef P Rauschecker and Elia Formisano and Giancarlo Valente and Beatrice de Gelder",
+            "journal": "The Journal of the Acoustical Society of America",
+            "volume": "142",
+            "number": "4",
+            "pages": "1757-1773",
+            "publisher": "Acoustical Society of America",
+            "abstract": "Meaningful sounds represent the majority of sounds that humans hear and process in everyday life. Yet studies of human sound localization mainly use artificial stimuli such as clicks, pure tones, and noise bursts. The present study investigated the influence of behavioral relevance, sound category, and acoustic properties on the localization of complex, meaningful sounds in the horizontal plane. Participants localized vocalizations and traffic sounds with two levels of behavioral relevance (low and high) within each category, as well as amplitude-modulated tones. Results showed a small but significant effect of behavioral relevance: localization acuity was higher for complex sounds with a high level of behavioral relevance at several target locations. The data also showed category-specific effects: localization biases were lower, and localization precision higher, for vocalizations than for traffic sounds in central space …"
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 8,
+        "citedby_url": "/scholar?cites=12835006025266948382",
+        "cites_id": [
+            "12835006025266948382"
+        ],
+        "public_access": true,
+        "pub_url": "https://asa.scitation.org/doi/abs/10.1121/1.5003779",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HukIKvoZH7IJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 2,
+            "2019": 2,
+            "2020": 0,
+            "2021": 2,
+            "2022": 2
+        },
+        "mandates": [
+            {
+                "agency": "US National Institutes of Health",
+                "url_policy": "https://publicaccess.nih.gov/policy.htm",
+                "url_policy_cached": "/mandates/nih-2021-02-13.pdf",
+                "effective_date": "2008/4",
+                "embargo": "12 months",
+                "acknowledgement": " …NIH Grant No. R01 EY018923 …"
+            },
+            {
+                "agency": "US National Science Foundation",
+                "url_policy": "https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf",
+                "url_policy_cached": "/mandates/nsf-2021-02-13.pdf",
+                "effective_date": "2016/1",
+                "embargo": "12 months",
+                "acknowledgement": " …National Science Foundation (OISE-0730255 …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Union’s Horizon 2020 Research and Innovation Programme under Grant Agreement No. 645553 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reorganization of sound location processing in the auditory cortex of blind humans",
+            "pub_year": 2020,
+            "author": "Kiki van der Heijden and Elia Formisano and Giancarlo Valente and Minye Zhan and Ron Kupers and Beatrice de Gelder",
+            "journal": "Cerebral Cortex",
+            "volume": "30",
+            "number": "3",
+            "pages": "1103-1116",
+            "publisher": "Oxford University Press",
+            "abstract": "Auditory spatial tasks induce functional activation in the occipital—visual—cortex of early blind humans. Less is known about the effects of blindness on auditory spatial processing in the temporal—auditory—cortex. Here, we investigated spatial (azimuth) processing in congenitally and early blind humans with a phase-encoding functional magnetic resonance imaging (fMRI) paradigm. Our results show that functional activation in response to sounds in general—independent of sound location—was stronger in the occipital cortex but reduced in the medial temporal cortex of blind participants in comparison with sighted participants. Additionally, activation patterns for binaural spatial processing were different for sighted and blind participants in planum temporale. Finally, fMRI responses in the auditory cortex of blind individuals carried less information on sound azimuth position than those in sighted individuals …"
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?cites=150756900797616219",
+        "cites_id": [
+            "150756900797616219"
+        ],
+        "public_access": true,
+        "pub_url": "https://academic.oup.com/cercor/article-abstract/30/3/1103/5559314",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WxB7P5qYFwIJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 0,
+            "2021": 3,
+            "2022": 1
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organization for Scientific Research (NWO; grants 480-09-006 and 453-12-002 …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "grant": "295673"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluating hearing performance with cochlear implants within the same patient using daily randomization and imaging-based fitting-The ELEPHANT study",
+            "pub_year": 2020,
+            "author": "LJG Lambriks and Marc Van Hoof and JA Debruyne and Miranda Janssen and Josef Chalupper and KA van der Heijden and JR Hof and CA Hellingman and ELJ George and EMJ Devocht",
+            "journal": "Trials",
+            "volume": "21",
+            "number": "1",
+            "pages": "1-14",
+            "publisher": "BioMed Central",
+            "abstract": "Prospective research in the field of cochlear implants is hampered by methodological issues and small sample sizes. The ELEPHANT study presents an alternative clinical trial design with a daily randomized approach evaluating individualized tonotopical fitting of a cochlear implant (CI). A single-blinded, daily-randomized clinical trial will be implemented to evaluate a new imaging-based CI mapping strategy. A minimum of 20 participants will be included from the start of the rehabilitation process with a 1-year follow-up period. Based on a post-operative cone beam CT scan (CBCT), mapping of electrical input will be aligned to natural place-pitch arrangement in the individual cochlea. The CI’s frequency allocation table will be adjusted to match the electrical stimulation of frequencies as closely as possible to corresponding acoustic locations in the cochlea. A randomization scheme will be implemented whereby the participant, blinded to the intervention allocation, crosses over between the experimental and standard fitting program on a daily basis, and thus effectively acts as his own control, followed by a period of free choice between both maps to incorporate patient preference. With this new approach the occurrence of a first-order carryover effect and a limited sample size is addressed. The experimental fitting strategy is thought to give rise to a steeper learning curve, result in better performance in challenging listening situations, improve sound quality, better complement residual acoustic hearing in the contralateral ear and be preferred by recipients of a CI. Concurrently, the suitability of the novel trial design will be considered in investigating …"
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?cites=1061256029310322770",
+        "cites_id": [
+            "1061256029310322770"
+        ],
+        "pub_url": "https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04469-x",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:UojIYrxWug4J:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Modelling human sound localization with deep neural networks",
+            "pub_year": 2020,
+            "author": "Kiki van der Heijden and Siamak Mehrkanoon",
+            "journal": "Proceedings of the Twenty-Eight European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN).",
+            "abstract": "How the brain transforms binaural, real-life sounds into a neural representation of sound location is unclear. This paper introduces a deep learning approach to address these neurocomputational mechanisms: We develop a biological-inspired deep neural network model of sound azimuth encoding operating on auditory nerve representations of real-life sounds. We explore two types of loss functions: Euclidean distance and angular distance. Our results show that a network resembling the early stages of the human auditory pathway can predict sound azimuth location. The type of loss function modulates spatial acuity in different ways. Finally, learning is independent of environment-specific acoustic properties."
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?cites=14532953038912782359",
+        "cites_id": [
+            "14532953038912782359"
+        ],
+        "pub_url": "https://www.researchgate.net/profile/Kiki-Van-Der-Heijden/publication/340102094_Modelling_human_sound_localization_with_deep_neural_networks/links/5e78d08592851cf271a11580/Modelling-human-sound-localization-with-deep-neural-networks.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:F4DUPcprr8kJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 1,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decoding of emotion expression in the face, body and voice reveals sensory modality specific representations.",
+            "pub_year": 2019,
+            "author": "Maarten Vaessen and Kiki van der Heijden and Beatrice de Gelder",
+            "journal": "bioRxiv",
+            "pages": "869578",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "A central issue in affective science is whether the brain represents the emotional expressions of faces, bodies and voices as abstract categories in which auditory and visual information converge in higher order conceptual and amodal representations. This study explores an alternative theory based on the hypothesis that under naturalistic conditions where affective signals are acted upon that rather than reflected upon, major emotion signals (face, body, voice) have sensory specific brain representations. During fMRI recordings, participants were presented naturalistic dynamic stimuli of emotions expressed in videos of either the face or the whole body, or voice fragments. To focus on automatic emotion processing and bypass explicit emotion cognition relying on conceptual processes, participants performed an unrelated target detection task presented in a different modality than the stimulus. Using multivariate analysis to asses neural activity patterns in response to emotion expressions in the different stimuli types, we show a distributed brain organization of affective signals in which distinct emotion signals are closely tied to the sensory origin. Our findings are consistent with the notion that under ecological conditions the various sensory emotion expressions have different functional roles, even when from an abstract conceptual vantage point they all exemplify the same emotion category."
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?cites=9886700957911833425",
+        "cites_id": [
+            "9886700957911833425"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/869578.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:UVvZpCOeNIkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 1
+        },
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …H2020-EU. 1.2.2 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Goal-driven, neurobiological-inspired convolutional neural network models of human spatial hearing",
+            "pub_year": 2022,
+            "author": "Kiki van der Heijden and Siamak Mehrkanoon",
+            "journal": "Neurocomputing",
+            "volume": "470",
+            "pages": "432-442",
+            "publisher": "Elsevier",
+            "abstract": "The human brain effortlessly solves the complex computational task of sound localization using a mixture of spatial cues. How the brain performs this task in naturalistic listening environments (e.g. with reverberation) is not well understood. In the present paper, we build on the success of deep neural networks at solving complex and high-dimensional problems [1] to develop goal-driven, neurobiological-inspired convolutional neural network (CNN) models of human spatial hearing. After training, we visualize and quantify feature representations in intermediate layers to gain insights into the representational mechanisms underlying sound location encoding in CNNs. Our results show that neurobiological-inspired CNN models trained on real-life sounds spatialized with human binaural hearing characteristics can accurately predict sound location in the horizontal plane. CNN localization acuity across the azimuth …"
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 0,
+        "public_access": true,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0925231221011085",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PfzIuKxzEqwJ:scholar.google.com/",
+        "cites_per_year": {},
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
+                "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
+                "effective_date": "2021/2",
+                "embargo": "none",
+                "acknowledgement": " …European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 898134 …"
+            }
+        ]
+    }
+]

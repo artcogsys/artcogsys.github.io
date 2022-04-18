@@ -1,0 +1,1622 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The JASP guidelines for conducting and reporting a Bayesian analysis",
+            "pub_year": 2021,
+            "author": "Johnny van Doorn and Don van den Bergh and Udo Böhm and Fabian Dablander and Koen Derks and Tim Draws and Alexander Etz and Nathan J Evans and Quentin F Gronau and Julia M Haaf and Max Hinne and Šimon Kucharský and Alexander Ly and Maarten Marsman and Dora Matzke and Akash R Gupta and Alexandra Sarafoglou and Angelika Stefan and Jan G Voelkel and Eric-Jan Wagenmakers",
+            "volume": "28",
+            "number": "3",
+            "pages": "813-826",
+            "publisher": "Springer US",
+            "abstract": "Despite the increasing popularity of Bayesian inference in empirical research, few practical guidelines provide detailed recommendations for how to apply Bayesian procedures and interpret the results. Here we offer specific guidelines for four different stages of Bayesian statistical reasoning in a research setting: planning the analysis, executing the analysis, interpreting the results, and reporting the results. The guidelines for each stage are illustrated with a running example. Although the guidelines are geared towards analyses performed with the open-source statistical software JASP, most guidelines extend to Bayesian inference in general."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:Ehil0879vHcC",
+        "num_citations": 301,
+        "citedby_url": "/scholar?cites=3926924895708232717",
+        "cites_id": [
+            "3926924895708232717"
+        ],
+        "public_access": true,
+        "pub_url": "https://link.springer.com/article/10.3758/s13423-020-01798-5",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DbxTDGM9fzYJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 56,
+            "2021": 165,
+            "2022": 58
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organization of Scientific Research (NWO) awarded to EJW (016 …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
+                "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
+                "effective_date": "2021/2",
+                "embargo": "none",
+                "acknowledgement": " …ERC grant awarded to EJW (743086 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A tutorial on conducting and interpreting a Bayesian ANOVA in JASP",
+            "pub_year": 2020,
+            "author": "Don van den Bergh and Johnny Van Doorn and Maarten Marsman and Tim Draws and Erik-Jan Van Kesteren and Koen Derks and Fabian Dablander and Quentin F Gronau and Šimon Kucharský and Akash R Komarlu Narendra Gupta and Alexandra Sarafoglou and Jan G Voelkel and Angelika Stefan and Alexander Ly and Max Hinne and Dora Matzke and Eric-Jan Wagenmakers",
+            "volume": "120",
+            "number": "1",
+            "pages": "73-96",
+            "publisher": "Presses Universitaires de France",
+            "abstract": "L’analyse de variance (ANOVA) est la procédure standard utilisée pour l’inférence statistique dans les plans factoriels. En règle générale, les analyses de variance sont exécutées à l’aide de statistiques fréquentistes, où les valeurs p déterminent la significativité statistique en termes de « tout ou rien ». Ces dernières années, l’approche bayésienne de la statistique inférentielle est de plus en plus considérée comme une alternative légitime à la valeur p. Toutefois, l’adoption généralisée des statistiques bayésiennes, et en particulier de l’ANOVA bayésienne, est limitée par le fait que les concepts bayésiens sont rarement enseignés dans les cours de statistiques appliquées. Par conséquent, les utilisateurs peuvent ne pas savoir comment effectuer une ANOVA bayésienne et en interpréter les résultats. Nous fournissons ici un guide pour réaliser et interpréter une ANOVA bayésienne avec JASP, un logiciel statistique …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:gVv57TyPmFsC",
+        "num_citations": 108,
+        "citedby_url": "/scholar?cites=203254774501482743",
+        "cites_id": [
+            "203254774501482743"
+        ],
+        "pub_url": "https://www.cairn.info/revue-l-annee-psychologique-2020-1-page-73.htm?ref=doi",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9yAQ-SMb0gIJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 20,
+            "2021": 68,
+            "2022": 19
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A conceptual introduction to Bayesian model averaging",
+            "pub_year": 2020,
+            "author": "Max Hinne and Quentin F Gronau and Don van den Bergh and Eric-Jan Wagenmakers",
+            "journal": "Advances in Methods and Practices in Psychological Science",
+            "volume": "3",
+            "number": "2",
+            "pages": "200-215",
+            "publisher": "Sage Publications",
+            "abstract": "Many statistical scenarios initially involve several candidate models that describe the data-generating process. Analysis often proceeds by first selecting the best model according to some criterion and then learning about the parameters of this selected model. Crucially, however, in this approach the parameter estimates are conditioned on the selected model, and any uncertainty about the model-selection process is ignored. An alternative is to learn the parameters for all candidate models and then combine the estimates according to the posterior probabilities of the associated models. This approach is known as Bayesian model averaging (BMA). BMA has several important advantages over all-or-none selection methods, but has been used only sparingly in the social sciences. In this conceptual introduction, we explain the principles of BMA, describe its advantages over all-or-none model selection, and showcase …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:GFxP56DSvIMC",
+        "num_citations": 80,
+        "citedby_url": "/scholar?cites=13467663548979264683",
+        "cites_id": [
+            "13467663548979264683"
+        ],
+        "public_access": true,
+        "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/2515245919898657",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:q7xin6TA5roJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 2,
+            "2020": 14,
+            "2021": 48,
+            "2022": 12
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "grant": "406.16. 528"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "grant": "Advanced Grant no. 743086"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Node centrality measures are a poor substitute for causal inference",
+            "pub_year": 2019,
+            "author": "Fabian Dablander and Max Hinne",
+            "journal": "Scientific reports",
+            "volume": "9",
+            "number": "1",
+            "pages": "1-13",
+            "publisher": "Nature Publishing Group",
+            "abstract": "Network models have become a valuable tool in making sense of a diverse range of social, biological, and information systems. These models marry graph and probability theory to visualize, understand, and interpret variables and their relations as nodes and edges in a graph. Many applications of network models rely on undirected graphs in which the absence of an edge between two nodes encodes conditional independence between the corresponding variables. To gauge the importance of nodes in such a network, various node centrality measures have become widely used, especially in psychology and neuroscience. It is intuitive to interpret nodes with high centrality measures as being important in a causal sense. Using the causal framework based on directed acyclic graphs (DAGs), we show that the relation between causal influence and node centrality measures is not straightforward. In particular, the …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:8xutWZnSdmoC",
+        "num_citations": 75,
+        "citedby_url": "/scholar?cites=1747797025611284809",
+        "cites_id": [
+            "1747797025611284809"
+        ],
+        "pub_url": "https://www.nature.com/articles/s41598-019-43033-9",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:SYELcyJsQRgJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 5,
+            "2020": 19,
+            "2021": 40,
+            "2022": 9
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Structurally-informed Bayesian functional connectivity analysis",
+            "pub_year": 2014,
+            "author": "Max Hinne and Luca Ambrogioni and Ronald J Janssen and Tom Heskes and Marcel AJ van Gerven",
+            "journal": "NeuroImage",
+            "volume": "86",
+            "pages": "294-305",
+            "publisher": "Academic Press",
+            "abstract": "Functional connectivity refers to covarying activity between spatially segregated brain regions and can be studied by measuring correlation between functional magnetic resonance imaging (fMRI) time series. These correlations can be caused either by direct communication via active axonal pathways or indirectly via the interaction with other regions. It is not possible to discriminate between these two kinds of functional interaction simply by considering the covariance matrix. However, the non-diagonal elements of its inverse, the precision matrix, can be naturally related to direct communication between brain areas and interpreted in terms of partial correlations. In this paper, we propose a Bayesian model for functional connectivity analysis which allows estimation of a posterior density over precision matrices, and, consequently, allows one to quantify the uncertainty about estimated partial correlations. In order to …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:5nxA0vEk-isC",
+        "num_citations": 47,
+        "citedby_url": "/scholar?cites=8589411321991564708",
+        "cites_id": [
+            "8589411321991564708"
+        ],
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S105381191301015X",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:pI0GtRa4M3cJ:scholar.google.com/",
+        "cites_per_year": {
+            "2014": 7,
+            "2015": 4,
+            "2016": 6,
+            "2017": 6,
+            "2018": 9,
+            "2019": 4,
+            "2020": 5,
+            "2021": 4,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian inference of structural brain networks",
+            "pub_year": 2013,
+            "author": "Max Hinne and Tom Heskes and Christian F Beckmann and Marcel AJ van Gerven",
+            "journal": "NeuroImage",
+            "volume": "66",
+            "pages": "543-552",
+            "publisher": "Academic Press",
+            "abstract": "Structural brain networks are used to model white-matter connectivity between spatially segregated brain regions. The presence, location and orientation of these white matter tracts can be derived using diffusion-weighted magnetic resonance imaging in combination with probabilistic tractography. Unfortunately, as of yet, none of the existing approaches provide an undisputed way of inferring brain networks from the streamline distributions which tractography produces. State-of-the-art methods rely on an arbitrary threshold or, alternatively, yield weighted results that are difficult to interpret. In this paper, we provide a generative model that explicitly describes how structural brain networks lead to observed streamline distributions. This allows us to draw principled conclusions about brain networks, which we validate using simultaneously acquired resting-state functional MRI data. Inference may be further informed by …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 36,
+        "citedby_url": "/scholar?cites=11788283102834594178",
+        "cites_id": [
+            "11788283102834594178"
+        ],
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S105381191200986X",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ghEyaAZlmKMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2013": 5,
+            "2014": 7,
+            "2015": 4,
+            "2016": 0,
+            "2017": 6,
+            "2018": 4,
+            "2019": 4,
+            "2020": 3,
+            "2021": 2,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Wasserstein variational inference",
+            "pub_year": 2018,
+            "author": "Luca Ambrogioni and Umut Güçlü and Yağmur Güçlütürk and Max Hinne and Marcel A van Gerven and Eric Maris",
+            "journal": "Advances in Neural Information Processing Systems",
+            "volume": "31",
+            "abstract": "This paper introduces Wasserstein variational inference, a new form of approximate Bayesian inference based on optimal transport theory. Wasserstein variational inference uses a new family of divergences that includes both f-divergences and the Wasserstein distance as special cases. The gradients of the Wasserstein variational loss are obtained by backpropagating through the Sinkhorn iterations. This technique results in a very stable likelihood-free training method that can be used with implicit distributions and probabilistic programs. Using the Wasserstein variational inference framework, we introduce several new forms of autoencoders and test their robustness and performance against existing variational autoencoding techniques."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:r_AWSJRzSzQC",
+        "num_citations": 33,
+        "citedby_url": "/scholar?cites=6451924518029579411",
+        "cites_id": [
+            "6451924518029579411"
+        ],
+        "pub_url": "https://proceedings.neurips.cc/paper/2018/hash/2c89109d42178de8a367c0228f169bf8-Abstract.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:k1TJVirXiVkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 6,
+            "2020": 13,
+            "2021": 11,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Probabilistic clustering of the human connectome identifies communities and hubs",
+            "pub_year": 2015,
+            "author": "Max Hinne and Matthias Ekman and Ronald J Janssen and Tom Heskes and Marcel van Gerven",
+            "journal": "PLoS ONE",
+            "volume": "10",
+            "number": "1",
+            "pages": "e0117179",
+            "publisher": "Public Library of Science",
+            "abstract": "A fundamental assumption in neuroscience is that brain function is constrained by its structural properties. This motivates the idea that the brain can be parcellated into functionally coherent regions based on anatomical connectivity patterns that capture how different areas are interconnected. Several studies have successfully implemented this idea in humans using diffusion weighted MRI, allowing parcellation to be conducted in vivo. Two distinct approaches to connectivity-based parcellation can be identified. The first uses the connection profiles of brain regions as a feature vector, and groups brain regions with similar connection profiles together. Alternatively, one may adopt a network perspective that aims to identify clusters of brain regions that show dense within-cluster and sparse between-cluster connectivity. In this paper, we introduce a probabilistic model for connectivity-based parcellation that unifies both approaches. Using the model we are able to obtain a parcellation of the human brain whose clusters may adhere to either interpretation. We find that parts of the connectome consistently cluster as densely connected components, while other parts consistently result in clusters with similar connections. Interestingly, the densely connected components consist predominantly of major cortical areas, while the clusters with similar connection profiles consist of regions that have previously been identified as the ‘rich club’; regions known for their integrative role in connectivity. Furthermore, the probabilistic model allows quantification of the uncertainty in cluster assignments. We show that, while most clusters are clearly delineated, some …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:mNrWkgRL2YcC",
+        "num_citations": 29,
+        "citedby_url": "/scholar?cites=100772256743188168",
+        "cites_id": [
+            "100772256743188168"
+        ],
+        "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117179",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:yGZkZtUDZgEJ:scholar.google.com/",
+        "cites_per_year": {
+            "2015": 5,
+            "2016": 8,
+            "2017": 6,
+            "2018": 6,
+            "2019": 1,
+            "2020": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Reliability and validity of query intent assessments",
+            "pub_year": 2013,
+            "author": "Suzan Verberne and Maarten van der Heijden and Max Hinne and Maya Sappelli and Saskia Koldijk and Eduard Hoenkamp and Wessel Kraaij",
+            "journal": "Journal of the American Society for Information Science and Technology",
+            "volume": "64",
+            "number": "11",
+            "pages": "2224-2237",
+            "abstract": "In most intent recognition studies, annotations of query intent are created post hoc by external assessors who are not the searchers themselves. It is important for the field to get a better understanding of the quality of this process as an approximation for determining the searcher's actual intent. Some studies have investigated the reliability of the query intent annotation process by measuring the interassessor agreement. However, these studies did not measure the validity of the judgments, that is, to what extent the annotations match the searcher's actual intent. In this study, we asked both the searchers themselves and external assessors to classify queries using the same intent classification scheme. We show that of the seven dimensions in our intent classification scheme, four can reliably be used for query annotation. Of these four, only the annotations on the topic and spatial sensitivity dimension are valid when …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 21,
+        "citedby_url": "/scholar?cites=15404913509601848831",
+        "cites_id": [
+            "15404913509601848831"
+        ],
+        "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.22948",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_y1v3zc_ydUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2013": 1,
+            "2014": 1,
+            "2015": 4,
+            "2016": 3,
+            "2017": 5,
+            "2018": 1,
+            "2019": 2,
+            "2020": 1,
+            "2021": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Validation of structural brain connectivity networks: The impact of scanning parameters",
+            "pub_year": 2020,
+            "author": "Karen S Ambrosen and Simon F Eskildsen and Max Hinne and Kristine Krug and Henrik Lundell and Mikkel N Schmidt and Marcel AJ van Gerven and Morten Mørup and Tim B Dyrby",
+            "journal": "NeuroImage",
+            "volume": "204",
+            "pages": "116207",
+            "publisher": "Academic Press",
+            "abstract": "Evaluation of the structural connectivity (SC) of the brain based on tractography has mainly focused on the choice of diffusion model, tractography algorithm, and their respective parameter settings. Here, we systematically validate SC derived from a post mortem monkey brain, while varying key acquisition parameters such as the b-value, gradient angular resolution and image resolution. As gold standard we use the connectivity matrix obtained invasively with histological tracers by Markov et al. (2014). As performance metric, we use cross entropy as a measure that enables comparison of the relative tracer labeled neuron counts to the streamline counts from tractography. We find that high angular resolution and high signal-to-noise ratio are important to estimate SC, and that SC derived from low image resolution (1.03 mm3) are in better agreement with the tracer network, than those derived from high image …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:5MTHONV0fEkC",
+        "num_citations": 20,
+        "citedby_url": "/scholar?cites=13089888653166565545",
+        "cites_id": [
+            "13089888653166565545"
+        ],
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1053811919307980",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qdhoeWCgqLUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 3,
+            "2021": 12,
+            "2022": 5
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian estimation of conditional independence graphs improves functional connectivity estimates",
+            "pub_year": 2015,
+            "author": "Max Hinne and Ronald J Janssen and Tom Heskes and Marcel AJ van Gerven",
+            "journal": "PLoS computational biology",
+            "volume": "11",
+            "number": "11",
+            "pages": "e1004534",
+            "publisher": "Public Library of Science",
+            "abstract": "Functional connectivity concerns the correlated activity between neuronal populations in spatially segregated regions of the brain, which may be studied using functional magnetic resonance imaging (fMRI). This coupled activity is conveniently expressed using covariance, but this measure fails to distinguish between direct and indirect effects. A popular alternative that addresses this issue is partial correlation, which regresses out the signal of potentially confounding variables, resulting in a measure that reveals only direct connections. Importantly, provided the data are normally distributed, if two variables are conditionally independent given all other variables, their respective partial correlation is zero. In this paper, we propose a probabilistic generative model that allows us to estimate functional connectivity in terms of both partial correlations and a graph representing conditional independencies. Simulation results show that this methodology is able to outperform the graphical LASSO, which is the de facto standard for estimating partial correlations. Furthermore, we apply the model to estimate functional connectivity for twenty subjects using resting-state fMRI data. Results show that our model provides a richer representation of functional connectivity as compared to considering partial correlations alone. Finally, we demonstrate how our approach can be extended in several ways, for instance to achieve data fusion by informing the conditional independence graph with data from probabilistic tractography. As our Bayesian formulation of functional connectivity provides access to the posterior distribution instead of only to point estimates, we are …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:DJbcl8HfkQkC",
+        "num_citations": 19,
+        "citedby_url": "/scholar?cites=3922013678929361535",
+        "cites_id": [
+            "3922013678929361535"
+        ],
+        "pub_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004534",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:f7rOSKnKbTYJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 3,
+            "2017": 5,
+            "2018": 3,
+            "2019": 4,
+            "2020": 2,
+            "2021": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Resting-state subcortical functional connectivity in HIV-infected patients on long-term cART",
+            "pub_year": 2017,
+            "author": "Marloes AM Janssen and Max Hinne and Ronald J Janssen and Marcel A van Gerven and Stefan C Steens and Bozena Góraj and Peter P Koopmans and Roy PC Kessels",
+            "journal": "Brain Imaging and Behavior",
+            "volume": "11",
+            "number": "5",
+            "pages": "1555-1560",
+            "publisher": "Springer US",
+            "abstract": "Despite long-term successful treatment with cART, impairments in cognitive functioning are still being reported in HIV-infected patients. Since changes in cognitive function may be preceded by subtle changes in brain function, neuroimaging techniques, such as resting-state functional magnetic resonance imaging (rs-fMRI) have become useful tools in assessing HIV-associated abnormalities in the brain. The purpose of the current study was to examine the extent to which HIV infection in virologically suppressed patients is associated with disruptions in subcortical regions of the brain in comparison to a matched HIV-negative control group. The sample consisted of 72 patients and 39 controls included between January 2012 and January 2014. Resting state functional connectivity was determined between fourteen regions-of-interest (ROI): the left and right nucleus accumbens, amygdala, caudate nucleus …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:OcBU2YAGkTUC",
+        "num_citations": 16,
+        "citedby_url": "/scholar?cites=368175799300555667",
+        "cites_id": [
+            "368175799300555667"
+        ],
+        "pub_url": "https://link.springer.com/article/10.1007/s11682-016-9632-4",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:k4M0VPAFHAUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2017": 1,
+            "2018": 2,
+            "2019": 5,
+            "2020": 3,
+            "2021": 5
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "GP CaKe: Effective brain connectivity with causal kernels",
+            "pub_year": 2017,
+            "author": "Luca Ambrogioni and Max Hinne and Marcel Van Gerven and Eric Maris",
+            "journal": "Advances in Neural Information Processing Systems",
+            "volume": "30",
+            "abstract": "A fundamental goal in network neuroscience is to understand how activity in one brain region drives activity elsewhere, a process referred to as effective connectivity. Here we propose to model this causal interaction using integro-differential equations and causal kernels that allow for a rich analysis of effective connectivity. The approach combines the tractability and flexibility of autoregressive modeling with the biophysical interpretability of dynamic causal modeling. The causal kernels are learned nonparametrically using Gaussian process regression, yielding an efficient framework for causal inference. We construct a novel class of causal covariance functions that enforce the desired properties of the causal kernels, an approach which we call GP CaKe. By construction, the model and its hyperparameters have biophysical meaning and are therefore easily interpretable. We demonstrate the efficacy of GP CaKe on a number of simulations and give an example of a realistic application on magnetoencephalography (MEG) data."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:yMeIxYmEMEAC",
+        "num_citations": 13,
+        "citedby_url": "/scholar?cites=15022246851777834148",
+        "cites_id": [
+            "15022246851777834148"
+        ],
+        "pub_url": "https://proceedings.neurips.cc/paper/2017/hash/9cf81d8026a9018052c429cc4e56739b-Abstract.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:pKxyoOu9edAJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 2,
+            "2019": 4,
+            "2020": 2,
+            "2021": 5
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying uncertainty in brain network measures using Bayesian connectomics",
+            "pub_year": 2014,
+            "author": "Ronald J Janssen and Max Hinne and Tom Heskes and Marcel AJ van Gerven",
+            "journal": "Frontiers in computational neuroscience",
+            "volume": "8",
+            "pages": "126",
+            "publisher": "Frontiers",
+            "abstract": "The wiring diagram of the human brain can be described in terms of graph measures that characterize structural regularities. These measures require an estimate of whole-brain structural connectivity for which one may resort to deterministic or thresholded probabilistic streamlining procedures. While these procedures have provided important insights about the characteristics of human brain networks, they ultimately rely on unwarranted assumptions such as those of noise-free data or the use of an arbitrary threshold. Therefore, resulting structural connectivity estimates as well as derived graph measures fail to fully take into account the inherent uncertainty in the structural estimate. In this paper, we illustrate an easy way of obtaining posterior distributions over graph metrics using Bayesian inference. It is shown that this posterior distribution can be used to quantify uncertainty about graph-theoretical measures at the single subject level, thereby providing a more nuanced view of the graph-theoretical properties of human brain connectivity. We refer to this model-based approach to connectivity analysis as Bayesian connectomics."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:HIFyuExEbWQC",
+        "num_citations": 13,
+        "citedby_url": "/scholar?cites=2726371745841969312",
+        "cites_id": [
+            "2726371745841969312"
+        ],
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fncom.2014.00126/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oHiSbKgE1iUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2014": 1,
+            "2015": 1,
+            "2016": 2,
+            "2017": 2,
+            "2018": 4,
+            "2019": 1,
+            "2020": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian inference of whole-brain networks",
+            "pub_year": 2012,
+            "author": "Max Hinne and T Heskes and MAJ van Gerven",
+            "journal": "arXiv preprint arXiv:1202.1696",
+            "abstract": "In structural brain networks the connections of interest consist of white-matter fibre bundles between spatially segregated brain regions. The presence, location and orientation of these white matter tracts can be derived using diffusion MRI in combination with probabilistic tractography. Unfortunately, as of yet no approaches have been suggested that provide an undisputed way of inferring brain networks from tractography. In this paper, we provide a computational framework which we refer to as Bayesian connectomics. Rather than applying an arbitrary threshold to obtain a single network, we consider the posterior distribution of networks that are supported by the data, combined with an exponential random graph (ERGM) prior that captures a priori knowledge concerning the graph-theoretical properties of whole-brain networks. We show that, on simulated probabilistic tractography data, our approach is able to reconstruct whole-brain networks. In addition, our approach directly supports multi-model data fusion and group-level network inference."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 13,
+        "citedby_url": "/scholar?cites=14074512950095341366",
+        "cites_id": [
+            "14074512950095341366"
+        ],
+        "pub_url": "https://arxiv.org/abs/1202.1696",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:NmcRSfW2UsMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2014": 1,
+            "2015": 1,
+            "2016": 3,
+            "2017": 0,
+            "2018": 6,
+            "2019": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Bayesian methodology of Sir Harold Jeffreys as a practical alternative to the p value hypothesis test",
+            "pub_year": 2020,
+            "author": "Alexander Ly and Angelika Stefan and Johnny van Doorn and Fabian Dablander and Don van den Bergh and Alexandra Sarafoglou and S̆imon Kucharský and Koen Derks and Quentin F Gronau and Akash Raj and Udo Boehm and Erik-Jan van Kesteren and Max Hinne and Dora Matzke and Maarten Marsman and Eric-Jan Wagenmakers",
+            "journal": "Computational Brain & Behavior",
+            "volume": "3",
+            "number": "2",
+            "pages": "153-161",
+            "publisher": "Springer International Publishing",
+            "abstract": "Despite an ongoing stream of lamentations, many empirical disciplines still treat the p value as the sole arbiter to separate the scientific wheat from the chaff. The continued reign of the p value is arguably due in part to a perceived lack of workable alternatives. In order to be workable, any alternative methodology must be (1) relevant: it has to address the practitioners’ research question, which—for better or for worse—most often concerns the test of a hypothesis, and less often concerns the estimation of a parameter; (2) available: it must have a concrete implementation for practitioners’ statistical workhorses such as the t test, regression, and ANOVA; and (3) easy to use: methods that demand practitioners switch to the theoreticians’ programming tools will face an uphill struggle for adoption. The above desiderata are fulfilled by Harold Jeffreys’s Bayes factor methodology as implemented in the open-source software …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:fbc8zXXH2BUC",
+        "num_citations": 12,
+        "citedby_url": "/scholar?cites=13493385601677647593",
+        "cites_id": [
+            "13493385601677647593"
+        ],
+        "public_access": true,
+        "pub_url": "https://link.springer.com/article/10.1007/s42113-019-00070-x",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6d5dtbYiQrsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 9,
+            "2022": 2
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "grant": "016. Vici. 170.083"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Highways to happiness for autistic adults? Perceived causal relations among clinicians",
+            "pub_year": 2020,
+            "author": "Marie K Deserno and Denny Borsboom and Sander Begeer and Riet van Bork and Max Hinne and Hilde M Geurts",
+            "journal": "Plos one",
+            "volume": "15",
+            "number": "12",
+            "pages": "e0243298",
+            "publisher": "Public Library of Science",
+            "abstract": "The network approach to psychological phenomena advances our understanding of the interrelations between autism and well-being. We use the Perceived Causal Relations methodology in order to (i) identify perceived causal pathways in the well-being system, (ii) validate networks based on self-report data, and (iii) quantify and integrate clinical expertise in autism research. Trained clinicians served as raters (N = 29) completing 374 cause-effects ratings of 34 variables on well-being and symptomatology. A subgroup (N = 16) of raters chose intervention targets in the resulting network which we found to match the respective centrality of nodes. Clinicians’ perception of causal relations was similar to the interrelatedness found in self-reported client data (N = 323). We present a useful tool for translating clinical expertise into quantitative information enabling future research to integrate this in scientific studies."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:u-coK7KVo8oC",
+        "num_citations": 8,
+        "citedby_url": "/scholar?cites=18138321531482888747",
+        "cites_id": [
+            "18138321531482888747"
+        ],
+        "public_access": true,
+        "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243298",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:K1rb-VRDuPsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 5,
+            "2022": 3
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …NWO VICI Grant no. 453-16-006 …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …ERC Consolidator Grant no. 647209 …"
+            },
+            {
+                "agency": "Netherlands Organisation for Health Research and Development",
+                "url_policy": "https://www.zonmw.nl/fileadmin/zonmw/documenten/Gezondheidsbescherming/Open_Access/Open_Access_Policy_ZonMw_2021..pdf",
+                "url_policy_cached": "/mandates/zonmw_nl-2021-02-13-en.pdf",
+                "effective_date": "2013/7",
+                "embargo": "6 months",
+                "acknowledgement": " …ZonMW Grant no. 70-73400-98-002 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automatic structured variational inference",
+            "pub_year": 2021,
+            "author": "Luca Ambrogioni and Kate Lin and Emily Fertig and Sharad Vikram and Max Hinne and Dave Moore and Marcel van Gerven",
+            "conference": "International Conference on Artificial Intelligence and Statistics",
+            "pages": "676-684",
+            "publisher": "PMLR",
+            "abstract": "Stochastic variational inference offers an attractive option as a default method for differentiable probabilistic programming. However, the performance of the variational approach depends on the choice of an appropriate variational family. Here, we introduce automatic structured variational inference (ASVI), a fully automated method for constructing structured variational families, inspired by the closed-form update in conjugate Bayesian models. These pseudo-conjugate families incorporate the forward pass of the input probabilistic program and can therefore capture complex statistical dependencies. Pseudo-conjugate families have the same space and time complexity of the input probabilistic program and are therefore tractable for a very large family of models including both continuous and discrete variables. We validate our automatic variational method on a wide range of both low-and high-dimensional inference problems. We find that ASVI provides a clear improvement in performance when compared with other popular approaches such as mean field family and inverse autoregressive flows. We provide a fully automatic open source implementation of ASVI in TensorFlow Probability."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:artPoR2Yc-kC",
+        "num_citations": 7,
+        "citedby_url": "/scholar?cites=8115014781053707563",
+        "cites_id": [
+            "8115014781053707563"
+        ],
+        "pub_url": "http://proceedings.mlr.press/v130/ambrogioni21a.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KyXAu_JSnnAJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 5,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Missing Link: Predicting Connectomes from Noisy and Partially Observed Tract Tracing Data",
+            "pub_year": 2017,
+            "author": "Max Hinne and Annet Meijers and Rembrandt Bakker and Paul Tiesinga and Morten Mørup and Marcel van Gerven",
+            "journal": "PLoS Computational Biology",
+            "volume": "13",
+            "number": "1",
+            "pages": "e1005374",
+            "publisher": "PLoS",
+            "abstract": "Our understanding of the wiring map of the brain, known as the connectome, has increased greatly in the last decade, mostly due to technological advancements in neuroimaging techniques and improvements in computational tools to interpret the vast amount of available data. Despite this, with the exception of the C. elegans roundworm, no definitive connectome has been established for any species. In order to obtain this, tracer studies are particularly appealing, as these have proven highly reliable. The downside of tract tracing is that it is costly to perform, and can only be applied ex vivo. In this paper, we suggest that instead of probing all possible connections, hitherto unknown connections may be predicted from the data that is already available. Our approach uses a ‘latent space model’ that embeds the connectivity in an abstract physical space. Regions that are close in the latent space have a high chance of being connected, while regions far apart are most likely disconnected in the connectome. After learning the latent embedding from the connections that we did observe, the latent space allows us to predict connections that have not been probed previously. We apply the methodology to two connectivity data sets of the macaque, where we demonstrate that the latent space model is successful in predicting unobserved connectivity, outperforming two baselines and an alternative model in nearly all cases. Furthermore, we show how the latent spatial embedding may be used to integrate multimodal observations (i.e. anterograde and retrograde tracers) for the mouse neocortex. Finally, our probabilistic approach enables us to make explicit …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:OR75R8vi5nAC",
+        "num_citations": 7,
+        "citedby_url": "/scholar?cites=1978211609590444771",
+        "cites_id": [
+            "1978211609590444771"
+        ],
+        "public_access": true,
+        "pub_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005374",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4zIxWPoEdBsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 1,
+            "2017": 3,
+            "2018": 1,
+            "2019": 1,
+            "2020": 0,
+            "2021": 1
+        },
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "grant": "720270"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "grant": "639.072. 513"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Annotation of urls: more than the sum of parts",
+            "pub_year": 2009,
+            "author": "Max Hinne and Wessel Kraaij and Stephan Raaijmakers and Suzan Verberne and Theo Van Der Weide and Maarten Van Der Heijden",
+            "pages": "632-633",
+            "abstract": "Recently a number of studies have demonstrated that search engine logfiles are an important resource to determine the relevance relation between URLs and query terms. We hypothesized that the queries associated with a URL could also be presented as useful URL metadata in a search engine result list, eg for helping to determine the semantic category of a URL. We evaluated this hypothesis by a classification experiment based on the DMOZ dataset. Our method can also annotate URLs that have no associated queries."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 7,
+        "citedby_url": "/scholar?cites=10479065030179862377",
+        "cites_id": [
+            "10479065030179862377"
+        ],
+        "pub_url": "https://dl.acm.org/doi/abs/10.1145/1571941.1572051",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:abcW3h8ebZEJ:scholar.google.com/",
+        "cites_per_year": {
+            "2009": 1,
+            "2010": 3,
+            "2011": 0,
+            "2012": 1,
+            "2013": 1,
+            "2014": 0,
+            "2015": 0,
+            "2016": 0,
+            "2017": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local identification of web graph communities",
+            "pub_year": 2007,
+            "author": "Max Hinne",
+            "journal": "Proceedings of the 1st International Conference on Theory of Information Retrieval",
+            "pages": "261-278",
+            "abstract": "In order to use knowledge of the Web graph in Information Retrieval, we provide a consistent overview, aiming firstly at global aspects of the graph such as degree distribution, and then proceed by examining local aspects of the graph: community identification. We discuss several community models and we implement a community identification algorithm that operates without a priori knowledge of the graph. To elaborate on the algorithm we introduce a notational framework for graph clusters. We run the algorithm on the Dutch domain (. NL) and from the results of this experiment we conclude that the Web consists of several clusters that are mutually connected through a core of hubs. In addition we evaluate the clustering quality of the algorithm, which provides a reputable basis for local community identification."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 7,
+        "citedby_url": "/scholar?cites=13522568104038421273",
+        "cites_id": [
+            "13522568104038421273"
+        ],
+        "pub_url": "http://www.cs.ru.nl/mtl/scripties/2007/MaxHinneScriptie.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GdM8hAvQqbsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2008": 2,
+            "2009": 1,
+            "2010": 0,
+            "2011": 2,
+            "2012": 0,
+            "2013": 1,
+            "2014": 0,
+            "2015": 0,
+            "2016": 0,
+            "2017": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Between-subject variability in the influence of mental imagery on conscious perception",
+            "pub_year": 2019,
+            "author": "N Dijkstra and M Hinne and SE Bosch and MAJ van Gerven",
+            "journal": "Scientific reports",
+            "volume": "9",
+            "number": "1",
+            "pages": "1-10",
+            "publisher": "Nature Publishing Group",
+            "abstract": "Mental imagery and visual perception rely on similar neural mechanisms, but the function of this overlap remains unclear. One idea is that imagery can influence perception. Previous research has shown that imagining a stimulus prior to binocular presentation of rivalling stimuli increases the chance of perceiving the imagined stimulus. In this study we investigated how this effect interacts with bottom-up sensory input by comparing psychometric response curves for congruent and incongruent imagery in humans. A Bayesian hierarchical model was used, allowing us to simultaneously study group-level effects as well as effects for individual participants. We found strong effects of both imagery as well as its interaction with sensory evidence within individual participants. However, the direction of these effects were highly variable between individuals, leading to weak effects at the group level. This highlights the …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:lvd772isFD0C",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=1920615162991269495",
+        "cites_id": [
+            "1920615162991269495"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.nature.com/articles/s41598-019-52072-1",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:d9ZSnFBlpxoJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 2,
+            "2021": 4
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …grant number 639.072.513of The Netherlands Organization for Scientific Research (NWO) …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Research Council Consolidator grant number 647209 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A conceptual introduction to Bayesian model averaging. PsyArXiv",
+            "pub_year": 2019,
+            "author": "M Hinne and QF Gronau and D van den Bergh and EJ Wagenmakers"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:LgRImbQfgY4C",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=7555361468350299935",
+        "cites_id": [
+            "7555361468350299935"
+        ],
+        "pub_url": "https://scholar.google.com/scholar?cluster=7555361468350299935&hl=en&oi=scholarr",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:H3-xtjkJ2mgJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 2,
+            "2021": 4
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Efficient sampling of Gaussian graphical models using conditional Bayes factors",
+            "pub_year": 2014,
+            "author": "Max Hinne and Alex Lenkoski and Tom Heskes and Marcel van Gerven",
+            "journal": "Stat",
+            "volume": "3",
+            "number": "1",
+            "pages": "326-336",
+            "abstract": "Bayesian estimation of Gaussian graphical models has proven to be challenging because the conjugate prior distribution on the Gaussian precision matrix, the G‐Wishart distribution, has a doubly intractable partition function. Recent developments provide a direct way to sample from the G‐Wishart distribution, which allows for more efficient algorithms for model selection than previously possible. Still, estimating Gaussian graphical models with more than a handful of variables remains a nearly infeasible task. Here, we propose two novel algorithms that use the direct sampler to more efficiently approximate the posterior distribution of the Gaussian graphical model. The first algorithm uses conditional Bayes factors to compare models in a Metropolis–Hastings framework. The second algorithm is based on a continuous time Markov process. We show that both algorithms are substantially faster than state‐of‐the‐art …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:QYdC8u9Cj1oC",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=14022290624803038330",
+        "cites_id": [
+            "14022290624803038330"
+        ],
+        "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.66",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:euSsrAcvmcIJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 2,
+            "2019": 1,
+            "2020": 0,
+            "2021": 2,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Cutting graphs using competing ant colonies and an edge clustering heuristic",
+            "pub_year": 2011,
+            "author": "Max Hinne and Elena Marchiori",
+            "conference": "European Conference on Evolutionary Computation in Combinatorial Optimization",
+            "pages": "60-71",
+            "publisher": "Springer, Berlin, Heidelberg",
+            "abstract": "We investigate the usage of Ant Colony Optimization to detect balanced graph cuts. In order to do so we develop an algorithm based on competing ant colonies. We use a heuristic from social network analysis called the edge clustering coefficient, which greatly helps our colonies in local search. The algorithm is able to detect cuts that correspond very well to known cuts on small real-world networks. Also, with the correct parameter balance, our algorithm often outperforms the traditional Kernighan-Lin algorithm for graph partitioning with equal running time complexity. On larger networks, our algorithm is able to obtain low cut sizes, but at the cost of a balanced partition."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=7921819262695882637",
+        "cites_id": [
+            "7921819262695882637"
+        ],
+        "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-20364-0_6",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jb_V16X0720J:scholar.google.com/",
+        "cites_per_year": {
+            "2013": 2,
+            "2014": 0,
+            "2015": 0,
+            "2016": 1,
+            "2017": 1,
+            "2018": 1,
+            "2019": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multi-dimensional model for search intent",
+            "pub_year": 2011,
+            "author": "Max Hinne and Maarten Van Der Heijden and Suzan Verberne and Wessel Kraaij",
+            "journal": "Proceedings of the Dutch-Belgium Information Retrieval workshop (DIR 2011)",
+            "pages": "20-24",
+            "abstract": "The interaction of users with search engines is part of goal driven behaviour involving an underlying information need. Information needs range from simple lookups to complex long-term desk studies. This paper proposes a new multidimensional model for search intent, which can be used for the description of search sessions. Using examples from a search engine log we show that our model allows a more comprehensive description of information need than existing categorizations."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:WF5omc3nYNoC",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=10187680031563625196",
+        "cites_id": [
+            "10187680031563625196"
+        ],
+        "pub_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.720.5362&rep=rep1&type=pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7LKwFgPpYY0J:scholar.google.com/",
+        "cites_per_year": {
+            "2012": 1,
+            "2013": 2,
+            "2014": 0,
+            "2015": 0,
+            "2016": 0,
+            "2017": 2,
+            "2018": 0,
+            "2019": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using query logs and click data to create improved document descriptions",
+            "pub_year": 2009,
+            "author": "Maarten Van Der Heijden and Max Hinne and Wessel Kraaij and Suzan Verberne and Theo van der Weide",
+            "pages": "64-67",
+            "abstract": "Logfiles of search engines are a promising resource for data mining, since they provide raw data associated to users and web documents. In this paper we focus on the latter aspect and explore how the information in logfiles could be used to improve document descriptions. A pilot experiment demonstrated that document descriptors extracted from the queries that are associated with documents by clicks provide useful semantic information about documents in addition to document descriptors extracted from the full text of the web pages."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=15641150809216327848",
+        "cites_id": [
+            "15641150809216327848"
+        ],
+        "pub_url": "https://dl.acm.org/doi/abs/10.1145/1507509.1507519",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qCCnZcqHENkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2009": 2,
+            "2010": 2,
+            "2011": 1,
+            "2012": 0,
+            "2013": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Local approximation of centrality measures",
+            "pub_year": 2011,
+            "author": "Max Hinne",
+            "journal": "Radboud University Nijmegen, The Netherlands",
+            "abstract": "Centrality measures provide a means to differentiate the importance of vertices in a network. These measures are mathematically clear, but the algorithms to compute them often have quadratic time complexity or worse. This may lead to significant computational challenges when applied to large networks. In this paper, we propose a local strategy for three frequently used centrality measures:(i) closeness,(ii) betweenness and (iii) PageRank. This local approach uses only the vertices directly adjacent to a target vertex to derive an approximation of the true centrality measure. The approximations are accompanied with an analysis of the approximation error bounds. Our analysis and experiments show that local approximations are quite successful on undirected graphs, and on directed graphs depending on the reciprocity of edges."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?cites=5277985955293303270",
+        "cites_id": [
+            "5277985955293303270"
+        ],
+        "pub_url": "https://www.ru.nl/publish/pages/769526/local_approximation_of_centrality_measures_-_max_hinne.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:5hHCKkMsP0kJ:scholar.google.com/",
+        "cites_per_year": {
+            "2013": 1,
+            "2014": 0,
+            "2015": 1,
+            "2016": 0,
+            "2017": 1,
+            "2018": 0,
+            "2019": 1,
+            "2020": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Centrality measures as a proxy for causal influence? A cautionary tale",
+            "pub_year": 2018,
+            "author": "Fabian Dablander and Max Hinne",
+            "journal": "Preprint downloaded from PsyArXiv",
+            "volume": "10",
+            "abstract": "Network models have become a valuable tool in making sense of a diverse range of social, biological, and information systems. These models marry graph and probability theory to visualize, understand, and interpret variables and their relations as nodes and edges in a graph. Many applications of network models rely on undirected graphs in which the absence of an edge between two nodes encodes conditional independence between the corresponding variables. To gauge the importance of nodes in such a network, various node centrality measures have become widely used, especially in psychology and neuroscience. It is intuitive to interpret nodes with high centrality measures as being important in a causal sense. Here, using the dominant causal framework based on directed acyclic graphs (DAGs), we show that the relation between causal influence and node centrality measures is not straightforward. In particular, the correlation between causal influence and several node centrality measures is weak, except for eigenvector centrality. Our results provide a cautionary tale: if the underlying real-world system can be modeled as a DAG, but researchers interpret nodes with high centrality as causally important, then this may result in sub-optimal interventions."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:P7Ujq4OLJYoC",
+        "num_citations": 4,
+        "citedby_url": "/scholar?cites=16624586736659722395",
+        "cites_id": [
+            "16624586736659722395"
+        ],
+        "pub_url": "https://files.osf.io/v1/resources/nue4z/providers/osfstorage/5be33ffce057c600170d72cb?action=download&version=1&displayName=centrality-causality-2018-11-07T19:41:48.986Z.pdf&direct",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:m_BFYI5ltuYJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: The missing link: Predicting connectomes from noisy and partially observed tract tracing data",
+            "pub_year": 2017,
+            "author": "Max Hinne and Annet Meijers and Rembrandt Bakker and Paul HE Tiesinga and Morten Mørup and Marcel AJ van Gerven",
+            "journal": "PLOS Computational Biology",
+            "volume": "13",
+            "number": "4",
+            "pages": "e1005478",
+            "publisher": "Public Library of Science",
+            "abstract": "1. Hinne M, Meijers A, Bakker R, Tiesinga PHE, Mørup M, et al.(2017) The missing link: Predicting connectomes from noisy and partially observed tract tracing data. PLOS Computational Biology 13 (1): e1005374. pmid: 28141820"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:fFSKOagxvKUC",
+        "num_citations": 4,
+        "citedby_url": "/scholar?cites=722429403394026991",
+        "cites_id": [
+            "722429403394026991"
+        ],
+        "pub_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005478&type=printable",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7y2Z_LaVBgoJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 2,
+            "2021": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Forward amortized inference for likelihood-free variational marginalization",
+            "pub_year": 2019,
+            "author": "Luca Ambrogioni and Umut Güçlü and Julia Berezutskaya and Eva Borne and Yaǧmur Güçlütürk and Max Hinne and Eric Maris and Marcel Gerven",
+            "conference": "The 22nd International Conference on Artificial Intelligence and Statistics",
+            "pages": "777-786",
+            "publisher": "PMLR",
+            "abstract": "In this paper, we introduce a new form of amortized variational inference by using the forward KL divergence in a joint-contrastive variational loss. The resulting forward amortized variational inference is a likelihood-free method as its gradient can be sampled without bias and without requiring any evaluation of either the model joint distribution or its derivatives. We prove that our new variational loss is optimized by the exact posterior marginals in the fully factorized mean-field approximation, a property that is not shared with the more conventional reverse KL inference. Furthermore, we show that forward amortized inference can be easily marginalized over large families of latent variables in order to obtain a marginalized variational posterior. We consider two examples of variational marginalization. In our first example we train a Bayesian forecaster for predicting a simplified chaotic model of atmospheric convection. In the second example we train an amortized variational approximation of a Bayesian optimal classifier by marginalizing over the model space. The result is a powerful meta-classification network that can solve arbitrary classification problems without further training."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:yqoGN6RLRZoC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?cites=16534074432998126370",
+        "cites_id": [
+            "16534074432998126370"
+        ],
+        "pub_url": "https://proceedings.mlr.press/v89/ambrogioni19a.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IrO4dBjVdOUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How does the library searcher behave? a contrastive study of library search against ad-hoc search",
+            "pub_year": 2010,
+            "author": "Suzan Verberne and Max Hinne and Maarten Van Der Heijden and ECM Hoenkamp and Wessel Kraaij and T Weide",
+            "publisher": "[Sl: sn]",
+            "abstract": "We investigated the search behaviour of the library searcher using the log data from The European Library (TEL). We were especially interested in how this behaviour compares to the search behaviour of ad-hoc searchers, represented by log data in the MSN search engine. At first sight, the two data sets mainly differ in the topics of the queries entered and their multi-lingual vs. mono-lingual content. When studying user behaviour, session information is very important: how does the user navigate through the engine's interface? We visualized the TEL users' interac tions with the system by creating a transition network for the users' intra-session actions. In general, we think that research into user behaviour on the basis of search engine logs can be very informative for the evaluation of search engine interfaces."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:roLk4NBRz8UC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?cites=8976585720759787892",
+        "cites_id": [
+            "8976585720759787892"
+        ],
+        "pub_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/84436/84436.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:dCG7LSc9k3wJ:scholar.google.com/",
+        "cites_per_year": {
+            "2011": 1,
+            "2012": 0,
+            "2013": 1,
+            "2014": 0,
+            "2015": 0,
+            "2016": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "How does the Library Searcher behave?",
+            "author": "Suzan Verberne and Max Hinne and Maarten van der Heijden and Eduard Hoenkamp and Wessel Kraaij and Theo van der Weide",
+            "journal": "A contrastive study of library search against ad-hoc search.[14]",
+            "volume": "99",
+            "abstract": "We investigated the search behaviour of the library searcher using the log data from The European Library (TEL). We were especially interested in how this behaviour compares to the search behaviour of ad-hoc searchers, represented by log data in the MSN search engine. At first sight, the two data sets mainly differ in the topics of the queries entered and their multi-lingual vs. mono-lingual content. When studying user behaviour, session information is very important: how does the user navigate through the engine’s interface? We visualized the TEL users’ interactions with the system by creating a transition network for the users’ intra-session actions. In general, we think that research into user behaviour on the basis of search engine logs can be very informative for the evaluation of search engine interfaces."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?cites=14962872973409056038",
+        "cites_id": [
+            "14962872973409056038"
+        ],
+        "pub_url": "https://www.academia.edu/download/75362950/2010_How_does_the_library_searcher_behave.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JvVWT7HNps8J:scholar.google.com/",
+        "cites_per_year": {
+            "2009": 1,
+            "2010": 0,
+            "2011": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Individual differences in the influence of mental imagery on conscious perception",
+            "pub_year": 2019,
+            "author": "N Dijkstra and M Hinne and SE Bosch and MAJ van Gerven",
+            "journal": "bioRxiv",
+            "pages": "607770",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Mental imagery and visual perception rely on similar neural mechanisms, but the function of this overlap remains unclear. One idea is that imagery can influence perception. Previous research has shown that imagining a stimulus prior to binocular presentation of rivalling stimuli increases the chance of perceiving the imagined stimulus. In this study we investigated how this effect interacts with bottom-up sensory input by comparing psychometric response curves for congruent and incongruent imagery in humans. A Bayesian hierarchical model was used, allowing us to simultaneously study group-level effects as well as effects for individual participants. We found strong effects of both imagery as well as its interaction with sensory evidence within individual participants. However, the direction of these effects were highly variable between individuals, leading to weak effects at the group level. This highlights the heterogeneity of conscious perception and emphasizes the need for individualized investigation of such complex cognitive processes."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:_OXeSy2IsFwC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?cites=284227248559186005",
+        "cites_id": [
+            "284227248559186005"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/607770.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:VWDbOS3H8QMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 1
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …grant number 639.072.513of The Netherlands Organization for Scientific Research …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Research Council Consolidator grant number 647209 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Collection and Analysis of ground truth data for query intent",
+            "pub_year": 2012,
+            "author": "Maya Sappelli and Suzan Verberne and Maarten van der Heijden and Max Hinne and Wessel Kraaij",
+            "publisher": "[Sl: sn]",
+            "abstract": "Search engines try to support people in finding information and locating services on the web. What people are looking for depends on their underlying intent and is described by the query they enter in the search engine. These queries are often short and ambiguous. This paper describes the collection of ground truth data for query intent. Participants were asked to label their own search queries according to what they hoped to find with that query. The data can be used to investigate the reliability of external human assessors and to train automatic classification models."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:ufrVoPGSRksC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?cites=16731227100173668645",
+        "cites_id": [
+            "16731227100173668645"
+        ],
+        "pub_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/101551/101551.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JZE92mZCMegJ:scholar.google.com/",
+        "cites_per_year": {
+            "2013": 1,
+            "2014": 0,
+            "2015": 0,
+            "2016": 0,
+            "2017": 0,
+            "2018": 0,
+            "2019": 0,
+            "2020": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian Connectomics: A probabilistic perspective on brain networks",
+            "pub_year": 2017,
+            "author": "M Hinne",
+            "abstract": "The human brain is arguably one of the most interesting systems around. Its sheer complexity is awe-inspiring, as it consists of roughly 86 billion neurons [Herculano-Houzel, 2009] and 164 trillion synapses [Tang et al., 2001], giving rise to a number of unique con gurations that bafes imagination1 [Churchland, 2000]. Impressive numbers aside, the brain houses the intricate computations that give rise to our cognition and behavior [Churchland and Sejnowski, 1994]. Small wonder that researchers have tried to make sense of this organ since ancient times [Finger, 2001; Glickstein, 2014]. This endeavor has gained a lot of traction in the latter half of the previous century, as the development of neuroimaging techniques such as functional magnetic resonance imaging (fMRI) greatly improved the ability to study the brain of subjectsin vivo [Ogawa et al., 1990].However, correctly interpreting neuroimaging data is far from trivial. Each neuroimaging technique has its own assumptions and weaknesses [Jones et al., 2013; Haller and Bartsch, 2009] and advanced statistical techniques are needed to extract the signal of interest (representing for example the neuronal activity in a particular area) from the noise [Bowman et al., 2007; Bowman, 2014]. This thesis aims to contribute to this task, in particular to the subdiscipline of neuroscience that is concerned with networks of connected brain regions. I argue that brain connectivity studies frequently place too much con dence in neuroimaging techniques and fail to acknowledge the uncertainty associated with their estimated networks and analyses thereof. I investigate whether a Bayesian treatment of brain network …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:KbBQZpvPDL4C",
+        "num_citations": 1,
+        "citedby_url": "/scholar?cites=1451792377320673550",
+        "cites_id": [
+            "1451792377320673550"
+        ],
+        "pub_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/170204/170204.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DpHRqXnNJRQJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "When is a query a question? Reconstructing wh-requests from ad hoc-queries",
+            "pub_year": 2010,
+            "author": "Maarten van der Heijden and Max Hinne and Suzan Verberne and ECM Hoenkamp and T Weide and Wessel Kraaij",
+            "publisher": "[Sl]: ACM",
+            "abstract": "Search engine queries are often very short and usually lack explicit semantic structure or indication of intent. Recog nizing intent is receiving increased attention since it enables a search engine to trigger a dedicated answer and presen tation module. This way search engines increasingly move from a document ranking system to an answer facility. In this study we investigate whether it is possible to infer a hidden wh-request from a subset of all two-and three-word queries, based on the syntactic form of the queries. By ana lyzing dependency relations between the terms in the queries we gain insight in the structure of queries that are likely to have a wh-question as underlying intent. The goal of recon structing a question from a keyword query is to be able to provide the user with an answer to that question, instead of only returning a list of documents."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 1,
+        "citedby_url": "/scholar?cites=6296918453511050473",
+        "cites_id": [
+            "6296918453511050473"
+        ],
+        "pub_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/83649/83649.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6dQgkfglY1cJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Annotating URLs with query terms: What factors predict reliable annotations?",
+            "pub_year": 2009,
+            "author": "Suzan Verberne and Max Hinne and Maarten van der Heijden and Wessel Kraaij and EKL D'hondt and Theo van der Weide",
+            "publisher": "Aachen: RWTH",
+            "abstract": "A number of recent studies have investigated the relation between URLs and associated query terms from search engine log files. In [5], the query terms associated with the domain of a URL were used as features for a URL classification task. The idea is that query terms that lead to successful classification of a URL are reliable semantic descriptors of the URL content. We follow up on this work by investigating which properties of a URL and its associated query terms predict the classification success. We construct a number of URL and query properties as predictors and proceed to analyze these in-depth. We conclude that the classification success—and thus the reliability of the query terms as URL descriptors—cannot easily be predicted from properties of the URL and the queries."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 1,
+        "citedby_url": "/scholar?cites=12861538335732484922",
+        "cites_id": [
+            "12861538335732484922"
+        ],
+        "pub_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/75187/75187.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:OktnFvlcfbIJ:scholar.google.com/",
+        "cites_per_year": {
+            "2010": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Phenotype based prediction of exome sequencing outcome using machine learning for neurodevelopmental disorders",
+            "pub_year": 2022,
+            "author": "Alexander JM Dingemans and Max Hinne and Sandra Jansen and Jeroen van Reeuwijk and Nicole de Leeuw and Rolph Pfundt and Bregje W van Bon and Anneke T Vulto-van Silfhout and Tjitske Kleefstra and David A Koolen and Marcel AJ van Gerven and Lisenka ELM Vissers and Bert BA de Vries",
+            "journal": "Genetics in Medicine",
+            "volume": "24",
+            "number": "3",
+            "pages": "645-653",
+            "publisher": "Elsevier",
+            "abstract": "Although the introduction of exome sequencing (ES) has led to the diagnosis of a significant portion of patients with neurodevelopmental disorders (NDDs), the diagnostic yield in actual clinical practice has remained stable at approximately 30%. We hypothesized that improving the selection of patients to test on the basis of their phenotypic presentation will increase diagnostic yield and therefore reduce unnecessary genetic testing.We tested 4 machine learning methods and developed PredWES from these: a statistical model predicting the probability of a positive ES result solely on the basis of the phenotype of the patient.We first trained the tool on 1663 patients with NDDs and subsequently showed that diagnostic ES on the top 10% of patients with the highest probability of a positive ES result would provide a diagnostic yield of 56%, leading to a notable 114% increase. Inspection of our …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:0CzhzZyukY4C",
+        "num_citations": 0,
+        "public_access": false,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1098360021053715",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:uprMjphIEJcJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Learning to learn: 8-month-old infants meta-learn from sparse evidence",
+            "pub_year": 2021,
+            "author": "Francesco Poli and Tommaso Ghilardi and Rogier B Mars and Max Hinne and Sabine Hunnius",
+            "publisher": "PsyArXiv",
+            "abstract": "Infants learn to navigate the complexity of the physical and social world at an outstanding pace, but how they accomplish this learning is still unknown. Recent advances in human and artificial intelligence research propose that a key feature to achieve quick and efficient learning is meta-learning, the ability to make use of prior experiences to optimize how future information is acquired. Here we show that 8-month-old infants successfully engage in meta-learning within very short timespans. We developed a Bayesian model that captures how infants attribute informativity to incoming events, and how this process is optimized by the meta-parameters of their hierarchical models over the task structure. We fitted the model using infants’ gaze behaviour during a learning task. Our results reveal that infants do not simply accumulate experiences, but actively use them to generate new inductive biases that allow learning to proceed faster in the future."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:4X0JR2_MtJMC",
+        "num_citations": 0,
+        "public_access": true,
+        "pub_url": "https://psyarxiv.com/dc9s6/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oS9N01CEJ4EJ:scholar.google.com/",
+        "cites_per_year": {},
+        "mandates": [
+            {
+                "agency": "Wellcome Trust",
+                "url_policy": "https://wellcome.org/grant-funding/guidance/open-access-guidance/open-access-policy",
+                "url_policy_cached": "/mandates/wellcome_uk-2021-02-13.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …Wellcome Trust …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …NWO …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DeNovoCNN: A deep learning approach to de novo variant calling in next generation sequencing data",
+            "pub_year": 2021,
+            "author": "Gelana Khazeeva and Karolis Sablauskas and Bart van der Sanden and Wouter Steyaert and Michael Kwint and Dmitrijs Rots and Max Hinne and Marcel van Gerven and Helger Yntema and Lisenka Vissers and Christian Gilissen",
+            "journal": "bioRxiv",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "De novo mutations (DNMs) are an important cause of genetic disorders. The accurate identification of DNMs from sequencing data is therefore fundamental to rare disease research and diagnostics. Unfortunately, identifying reliable DNMs remains a major challenge due to sequence errors, uneven coverage, and mapping artifacts. Here, we developed a deep convolutional neural network (CNN) DNM caller (DeNovoCNN), that encodes alignment of sequence reads for a trio as 160×164 resolution images. DeNovoCNN was trained on DNMs of whole exome sequencing (WES) of 2003 trios achieving on average 99.2% recall and 93.8% precision. We find that DeNovoCNN has increased recall/sensitivity and precision compared to existing de novo calling approaches (GATK, DeNovoGear, Samtools) based on the Genome in a Bottle reference dataset. Sanger validations of DNMs called in both exome and genome datasets confirm that DeNovoCNN outperforms existing methods. Most importantly, we show that DeNovoCNN is robust against different exome sequencing and analyses approaches, thereby allowing it to be applied on other datasets. DeNovoCNN is freely available and can be run on existing alignment (BAM/CRAM) and variant calling (VCF) files from WES and WGS without a need for variant recalling."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:sJsF-0ZLhtgC",
+        "num_citations": 0,
+        "public_access": true,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2021.09.20.461072.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:v5zJ86XW6AIJ:scholar.google.com/",
+        "cites_per_year": {},
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Union’s Horizon 2020 research and innovation programme under grant agreement No 779257 …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research (917-17-353) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spectral discontinuity design: Interrupted time series with spectral mixture kernels",
+            "pub_year": 2020,
+            "author": "David Leeftink and Max Hinne",
+            "conference": "Machine Learning for Health",
+            "pages": "213-225",
+            "publisher": "PMLR",
+            "abstract": "Quasi-experimental designs allow researchers to determine the effect of a treatment, even when randomized controlled trials are infeasible. A prominent example is interrupted time series (ITS) design, in which the effect of an intervention is determined by comparing the extrapolation of a model trained on data acquired up to moment of intervention, with the interpolation by a model trained on data up to the intervention. Typical approaches for ITS use (segmented) linear regression, and consequently ignore many of the spectral features of time series data. In this paper, we propose a Bayesian nonparametric approach to ITS, that uses Gaussian process regression and the spectral mixture kernel. This approach can capture more structure of the time series than traditional methods like linear regression or AR (I) MA models, which improves the extrapolation performance, and hence the accuracy of causal inference. We demonstrate our approach in simulations, and use it to determine the causal effect of Kundalini yoga meditation on heart rate oscillations. We show that our approach is able to detect the causal effect of interventions that alter the spectral features of these time series."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:vDZJ-YLwNdEC",
+        "num_citations": 0,
+        "pub_url": "https://proceedings.mlr.press/v136/leeftink20a.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3o0NBZEGVlIJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Indian chefs process",
+            "pub_year": 2020,
+            "author": "Patrick Dallaire and Luca Ambrogioni and Ludovic Trottier and Umut Güçlü and Max Hinne and Philippe Giguère and Marcel Gerven and François Laviolette",
+            "conference": "Conference on Uncertainty in Artificial Intelligence",
+            "pages": "600-608",
+            "publisher": "PMLR",
+            "abstract": "This paper introduces the Indian chefs process (ICP) as a Bayesian nonparametric prior on the joint space of infinite directed acyclic graphs (DAGs) and orders that generalizes the Indian buffet process. As our construction shows, the proposed distribution relies on a latent Beta process controlling both the orders and outgoing connection probabilities of the nodes, and yields a probability distribution on sparse infinite graphs. The main advantage of the ICP over previously proposed Bayesian nonparametric priors for DAG structures is its greater flexibility. To the best of our knowledge, the ICP is the first Bayesian nonparametric model supporting every possible DAG involving latent nodes. We demonstrate the usefulness of the ICP on learning the structure of deep generative sigmoid networks as well as convolutional neural networks."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:tH6gc1N1XXoC",
+        "num_citations": 0,
+        "pub_url": "https://proceedings.mlr.press/v124/dallaire20a.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sjqPz5puk38J:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Causal inference using Bayesian non-parametric quasi-experimental design",
+            "pub_year": 2019,
+            "author": "Max Hinne and Marcel AJ van Gerven and Luca Ambrogioni",
+            "journal": "arXiv preprint arXiv:1911.06722",
+            "abstract": "The de facto standard for causal inference is the randomized controlled trial, where one compares an manipulated group with a control group in order to determine the effect of an intervention. However, this research design is not always realistically possible due to pragmatic or ethical concerns. In these situations, quasi-experimental designs may provide a solution, as these allow for causal conclusions at the cost of additional design assumptions. In this paper, we provide a framework for quasi-experimental design using Bayesian model comparison. We provide a theoretical motivation for a Gaussian process based approach, and demonstrate its convenient use in a number of simulations. Finally, we apply the framework to determine the effect the 2005 smoking ban in Sicily on the number of acute coronary events, and of the effect of an alleged historical phantom border in the Netherlands on Dutch voting behaviour."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:5icHVeHT4IsC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/1911.06722",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:x-NOXDROXgUJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian nonparametric discontinuity design",
+            "pub_year": 2019,
+            "author": "Max Hinne and David Leeftink and Marcel AJ van Gerven and Luca Ambrogioni",
+            "journal": "arXiv e-prints",
+            "pages": "arXiv: 1911.06722",
+            "abstract": "Quasi-experimental research designs, such as regression discontinuity and interrupted time series, allow for causal inference in the absence of a randomized controlled trial, at the cost of additional assumptions. In this paper, we provide a framework for discontinuity-based designs using Bayesian model comparison and Gaussian process regression, which we refer to as' Bayesian nonparametric discontinuity design', or BNDD for short. BNDD addresses the two major shortcomings in most implementations of such designs: overconfidence due to implicit conditioning on the alleged effect, and model misspecification due to reliance on overly simplistic regression models. With the appropriate Gaussian process covariance function, our approach can detect discontinuities of any order, and in spectral features. We demonstrate the usage of BNDD in simulations, and apply the framework to determine the effect of running …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:NyGDZy8z5eUC",
+        "num_citations": 0,
+        "pub_url": "https://ui.adsabs.harvard.edu/abs/2019arXiv191106722H/abstract",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SpikeCaKe: Semi-analytic nonparametric Bayesian inference for spike-spike neuronal connectivity",
+            "pub_year": 2019,
+            "author": "Luca Ambrogioni and Patrick Ebel and Max Hinne and Umut Güçlü and Marcel Gerven and Eric Maris",
+            "conference": "The 22nd International Conference on Artificial Intelligence and Statistics",
+            "pages": "787-795",
+            "publisher": "PMLR",
+            "abstract": "In this paper we introduce a semi-analytic variational framework for approximating the posterior of a Gaussian processes coupled through non-linear emission models. While the semi-analytic method can be applied to a large class of models, the present paper is devoted to the analysis of causal connectivity between biological spiking neurons. Estimating causal connectivity between spiking neurons from measured spike sequences is one of the main challenges of systems neuroscience. This semi-analytic method exploits the tractability of GP regression when the membrane potential is observed. The resulting posterior is then marginalized analytically in order to obtain the posterior of the response functions given the spike sequences alone. We validate our methods on both simulated data and real neuronal recordings."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:Aul-kAQHnToC",
+        "num_citations": 0,
+        "pub_url": "https://proceedings.mlr.press/v89/ambrogioni19b.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RuDh0h4XKKIJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Visual imagery strength and sensory ambiguity",
+            "pub_year": 2019,
+            "author": "N Dijkstra and M Hinne and SE Bosch and MAJ van Gerven",
+            "publisher": "Radboud Data Repository",
+            "abstract": "Mental imagery and visual perception rely on similar neural mechanisms, but the function of this overlap remains unclear. One idea is that imagery can influence perception. Previous research has shown that imagining a stimulus prior to binocular presentation of rivalling stimuli increases the chance of perceiving the imagined stimulus. In this study we investigated how this effect interacts with bottom-up sensory input by comparing psychometric response curves for congruent and incongruent imagery in humans. A Bayesian hierarchical model was used, allowing us to simultaneously study group-level effects as well as effects for individual participants. We found strong effects of both imagery as well as its interaction with sensory evidence within individual participants. However, the direction of these effects were highly variable between individuals, leading to weak effects at the group level. This highlights the heterogeneity of conscious perception and emphasizes the need for individualized investigation of such complex cognitive processes."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:nVrZBo8bIpAC",
+        "num_citations": 0,
+        "pub_url": "https://repository.ubn.ru.nl/handle/2066/209329",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contributed Discussion",
+            "pub_year": 2018,
+            "author": "Max Hinne and Ronald J Janssen and Reza Mohammadi",
+            "volume": "13",
+            "number": "4",
+            "pages": "1304-1306",
+            "publisher": "INT SOC BAYESIAN ANALYSIS"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:nZcligLrVowC",
+        "num_citations": 0,
+        "pub_url": "https://scholar.google.com/scholar?cluster=8538386192200298626&hl=en&oi=scholarr",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Semi-Analytic Nonparametric Bayesian Inference for Spike-Spike Neuronal Connectivity",
+            "pub_year": 2018,
+            "author": "Luca Ambrogioni and Patrick Ebel and Max Hinne and Umut Guclu and Marcel van Gerven and Eric Maris",
+            "abstract": "Estimating causal connectivity between spiking neurons from measured spike sequences is one of the main challenges of systems neuroscience. In this paper we introduce two nonparametric Bayesian methods for spike-membrane and spikespike causal connectivity based on Gaussian process regression. For spike-spike connectivity, we derive a new semi-analytic variational approximation of the response functions of a non-linear dynamical model of interconnected neurons. This semi-analytic method exploits the tractability of GP regression when the membrane potential is observed. The resulting posterior is then marginalized analytically in order to obtain the posterior of the response functions given the spike sequences alone. We validate our methods on both simulated data and real neuronal recordings."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:LhH-TYMQEocC",
+        "num_citations": 0,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/340489.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:nfWq_XqnakAJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Connectivity-Based Parcellation of the Brain using the In nite Relational Model and Bayesian Community Detection",
+            "pub_year": 2013,
+            "author": "L van Oostveen",
+            "abstract": "A main interest in cognitive neuroscience is to understand how the brain is segregated into regions that subserve particular functions. There are different ways of approaching this, one of them is to cluster together brain regions that show similar structural connectivity patterns. The resulting clusters are taken to represent functionally distinct areas of the brain based on the assumption that structure and function are intimately related. In this thesis, structural connectivity data of the brain was used to compare two Bayesian clustering algorithms: the Infinite Relational model and Bayesian Community Detection. The maximum a posteriori estimates of twenty subjects, required by simulated annealing, were used to compare both models. It was found that Bayesian Community Detection produces significantly more clusters than the Infinite Relational Model while at the same time performing just as well as the Infinite Relational Model in terms of reproducibility."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:0EnyYjriUFMC",
+        "num_citations": 0,
+        "pub_url": "http://theses.ubn.ru.nl/handle/123456789/130",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:nbK54Mzt4tgJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DIR 2010: the tenth Dutch-Belgian information retrieval workshop",
+            "pub_year": 2011,
+            "author": "Wessel Kraaij and Suzan Verberne and Max Hinne and Maarten van der Heijden and Theo van der Weide",
+            "volume": "44",
+            "number": "2",
+            "pages": "64-66",
+            "publisher": "ACM",
+            "abstract": "The Dutch-Belgian Information Retrieval workshop (DIR) is an annual event where the latest research results by Dutch and Belgian IR researchers are presented. The workshop is an important instrument to strengthen and maintain local contacts. This paper reports on the tenth DIR meeting, which took place in January 2010. The DIR 2010 programme included invited talks by Elizabeth D. Liddy and Cornelis (Kees) Koster."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 0,
+        "pub_url": "https://dl.acm.org/doi/abs/10.1145/1924475.1924489",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A multi-dimensional model for search intent",
+            "pub_year": 2011,
+            "author": "W Kraaij and M Hinne and M Heijden and S Verberne",
+            "publisher": "[Sl: sn]",
+            "abstract": "The interaction of users with search engines is part of goal driven behaviour involving an underlying information need. Information needs range from simple lookups to complex long-term desk studies. This paper proposes a new multidimensional model for search intent, which can be used for the description of search sessions. Using examples from a search engine log we show that our model allows a more comprehensive description of information need than existing categorizations."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:bKqednn6t2AC",
+        "num_citations": 0,
+        "pub_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/91509/91509.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:azbbdQYQQKcJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "When is a query a question? Reconstructing wh-requests from ad hoc-queries",
+            "pub_year": 2010,
+            "author": "M Heijden and M Hinne and S Verberne and E Hoenkamp and W Kraaij",
+            "abstract": "When is a query a question? Reconstructing wh-requests from ad hoc-queries (2010) | www.narcis.nl \nKNAW KNAW Narcis Back to search results TNO Publication When is a query a question? \nReconstructing wh-requests from ad hoc-queries (2010) Pagina-navigatie: Main Save \npublication Save as MODS Export to Mendeley Save as EndNote Export to RefWorks Title \nWhen is a query a question? Reconstructing wh-requests from ad hoc-queries Author \nHeijden, M. van der; Hinne, M.; Verberne, S.; Hoenkamp, E.; Weide, t. van der; Kraaij, W. \nOriginator TNO Informatie- en Communicatietechnologie Date issued 2010-01-01 Access \nClosed Access Reference(s) Informatics, Language Modeling, Attention Metadata, Query \nintent Type Article Publication http://resolver.tudelft.nl/uuid:a2270942-b8cb-4555-9404-8f9a... \nOpenURL Search this publication in (your) library Persistent Identifier urn:NBN:nl:ui:24-uuid:a2270942-b8cb-…"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:Se3iqnhoufwC",
+        "num_citations": 0,
+        "pub_url": "https://www.narcis.nl/publication/RecordID/oai:tudelft.nl:uuid%3Aa2270942-b8cb-4555-9404-8f9a93d334ee",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Using query logs and click data to create improved descriptions",
+            "pub_year": 2009,
+            "author": "MVD Heijden and M Hinne and W Kraaij and S Verberney and TVD Weide",
+            "abstract": "Logfles of search engines are a promising resource for data mining, since they provide raw data associated to users and web documents. In this paper we focus on the latter as- pect and explore how the information in logfles could be used to improve document descriptions. A pilot experiment demonstrated that document descriptors extracted from the queries that are associated with documents by clicks provide useful semantic information about documents in addition to document descriptors extracted from the full text of the web pages. Copyright 2009 ACM."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:4vMrXwiscB8C",
+        "num_citations": 0,
+        "pub_url": "https://www.narcis.nl/publication/RecordID/oai:tudelft.nl:uuid%3Ac9a5ad30-0a29-4ac2-aa84-e79ee202f359",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "This file was downloaded from: http://eprints. qut. edu. au/63640",
+            "author": "Suzan Verberne and Maarten van der Heijden and Max Hinne and Maya Sappelli",
+            "abstract": "The quality of a search engine critically depends on the ability to present results that are an adequate response to the user’s query and intent. Automatic intent recognition is a challenging problem because queries are often short or underspecified. In most intent recognition studies, annotations of query intent are created post-hoc by external assessors who are not the searchers themselves. It is important for the field to get a better understanding of the quality of this process as an approximation for determining the searcher’s actual intent. Query intent annotation quality has different aspects. Some annotation studies have investigated the reliability of the query intent annotation process by measuring the inter-assessor agreement. However, these studies did not measure the validity of the judgments, ie to what extent the annotations match the searcher’s actual intent. In this study, we asked both the searchers themselves and external assessors to classify queries using the same intent classification scheme. We show that of the seven dimensions in our intent classification scheme, four can reliably be used for query annotation. Of these four, only the annotations on the topic and spatial sensitivity dimension are valid when compared to the searcher’s annotations. The difference between the inter-assessor agreement and the assessor-searcher agreement was significant on all dimensions, showing that the agreement between external assessors is not a good estimator of the validity of the intent classifications. Therefore, we encourage the research community to consider using query intent classifications by the searchers themselves as ground truth."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:AHdEip9mkN0C",
+        "num_citations": 0,
+        "pub_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.672.7257&rep=rep1&type=pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:d8OyqL-QsOAJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The missing link: Predicting connectomes from noisy and partially observed tract tracing data-DTU Orbit (31/12/2018)",
+            "author": "Max Hinne"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:gKiMpY-AVTkC",
+        "num_citations": 0,
+        "pub_url": "https://scholar.google.com/scholar?cluster=14597649874338256768&hl=en&oi=scholarr",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantifying uncertainty in graph statistics",
+            "author": "RJ Janssen and M Hinne and T Heskes and MAJ van Gerven",
+            "journal": "Connecting the Dots",
+            "pages": "19",
+            "abstract": "The wiring diagram of the human brain can be described in terms of graph measures that characterize structural regularities. These measures require an estimate of whole-brain structural connectivity for which one may resort to deterministic or thresholded probabilistic streamlining procedures. While these procedures have provided important insights about the characteristics of human brain networks, they ultimately rely on unwarranted assumptions such as those of noise-free data or the use of an arbitrary threshold. Therefore, resulting structural connectivity estimates as well as derived graph measures fail to fully take into account the inherent uncertainty in the structural estimate. In this paper, we illustrate an easy way of obtaining posterior distributions over graph metrics using Bayesian inference. It is shown that this posterior distribution can be used to quantify uncertainty about graph-theoretical measures at the single subject level, thereby providing a more nuanced view of the graph-theoretical properties of human brain connectivity. We refer to this model-based approach to connectivity analysis as Bayesian connectomics."
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:HeT0ZceujKMC",
+        "num_citations": 0,
+        "pub_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/183224/183224.pdf?sequence=1&isAllowed=y#page=23",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:SnInUyPsNjkJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Knowledge Representation and Reasoning",
+            "author": "Marcel van Gerven and Arjen Hommersom and Wenyun Quan and Maarten van der Heijden and Max Hinne",
+            "abstract": "Knowledge Representation and Reasoning People involved Course outline Topics Page 1 \nKnowledge Representation and Reasoning Peter Lucas1 and Marcel van Gerven2 peterl@cs.ru.nl,m.vangerven@donders.ru.nl \n1Institute for Computing and Information Sciences, and 2Donders Centre for Cognition, \nRadboud University Nijmegen Knowledge Representationand Reasoning – p. 1/28 People \ninvolved Lectures: Peter Lucas Marcel van Gerven Arjen Hommersom Practicals and \ntutorials: Wenyun Quan (w.quan@cs.ru.nl) Maarten van der Heijden (m.vanderheijden@gmail.com) \nArjen Hommersom (arjenh@cs.ru.nl) Max Hinne (mhinne@cs.ru.nl) Start practical: See \nblackboard/website Knowledge Representationand Reasoning Course outline Website: http://www.cs.ru.nl/∼peterl/teaching/KeR \n(1) Lectures: Theory of knowledge representation and reasoning; core of this formed by: AI-style \nlogics and probability …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:3htObqc8RwsC",
+        "num_citations": 0,
+        "pub_url": "http://cs.ru.nl/~peterl/teaching/KeR/intro4.ps.gz",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:mKbvx3eKrswJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Bayesian estimation of conditional independence graphs improves functional connectivity estimates Supporting Information S2",
+            "author": "Max Hinne and Ronald J Janssen and Tom Heskes1and Marcel AJ van Gerven",
+            "abstract": "For each distribution, three parallel chains were executed until convergence. Convergence was assessed by computing the potential scale reduction factor (PSRF)[Gelman and Rubin, 1992], which can be understood as a ratio between intra-chain variance and inter-chain variance. Heuristically, we assumed convergence for connectivity when for each edge (i, j) and each element kij the PSRF dropped below 1.1. For the first model, convergence was attained within 20,000 samples. The multimodal approach proved substantially slower to converge, requiring between 50,000 and 200,000 samples. Four subjects contained edges and elements in the precision matrix that did not fully converge within reasonable time. However, for these subjects the chains did reach convergence in terms of the network density of G and the matrix determinant of K, which motivated us to treat them the same as the other subjects. The last model with a more specific prior decreases the number of free parameters, which makes the convergence substantially faster; convergence was attained within 10,000 samples.The computation speed of a single sample is determined by an iteration over p (p-1)/2 elements and computing two Cholesky decompositions for each element, resulting in a total time complexity of O (p5). Although an efficient implementation in C++ using BLAS [Blackford et al., 2002] and LAPACK [Anderson et al., 1999] was used, the complexity of the algorithm makes the approach infeasible for use with a large number of variables. To demonstrate this, Fig 1 shows for different values of p the corresponding computation time of a single sample, using a single 2 …"
+        },
+        "filled": true,
+        "author_pub_id": "oEtR-fkAAAAJ:yFnVuubrUp4C",
+        "num_citations": 0,
+        "pub_url": "https://pdfs.semanticscholar.org/8e3f/8b2f725151173f1414cf2300a97a9482f8a3.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:n62y26_eMFEJ:scholar.google.com/",
+        "cites_per_year": {}
+    }
+]

@@ -1,0 +1,436 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Keystroke dynamics in the pre-touchscreen era",
+            "pub_year": 2013,
+            "author": "Nasir Ahmad and Andrea Szymkowiak and Paul Campbell",
+            "volume": "7",
+            "pages": "835",
+            "publisher": "Frontiers",
+            "abstract": "Biometric authentication seeks to measure an individual’s unique physiological attributes for the purpose of identity verification. Conventionally, this task has been realised via analyses of fingerprints or signature iris patterns. However, whilst such methods effectively offer a superior security protocol compared with password-based approaches for example, their substantial infrastructure costs, and intrusive nature, make them undesirable, and indeed impractical for many scenarios. An alternative approach seeks to develop similarly robust screening protocols through analysis of typing patterns, formally known as keystroke dynamics. Here, keystroke analysis methodologies can utilise multiple variables, and a range of mathematical techniques, in order to extract individuals' typing signatures. Such variables may include measurement of the period between key presses, and/or releases, or even key-strike pressures. Statistical methods, neural networks, and fuzzy logic have often formed the basis for quantitative analysis on the data gathered, typically from conventional computer keyboards. Extension to more recent technologies such as numerical keypads and touch-screen devices is in its infancy, but obviously important as such devices grow in popularity. Here, we review the state of knowledge pertaining to authentication via conventional keyboards with a view towards indicating how this platform of knowledge can be exploited and extended into the newly emergent type-based technological contexts."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 21,
+        "citedby_url": "/scholar?cites=17156101252464457256",
+        "cites_id": [
+            "17156101252464457256"
+        ],
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2013.00835/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KDbHMzG3Fu4J:scholar.google.com/",
+        "cites_per_year": {
+            "2014": 2,
+            "2015": 4,
+            "2016": 3,
+            "2017": 2,
+            "2018": 2,
+            "2019": 3,
+            "2020": 2,
+            "2021": 1,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A new approach to solving the feature-binding problem in primate vision",
+            "pub_year": 2018,
+            "author": "James B Isbister and Akihiro Eguchi and Nasir Ahmad and Juan M Galeazzi and Mark J Buckley and Simon Stringer",
+            "journal": "Interface Focus",
+            "volume": "8",
+            "number": "4",
+            "pages": "20180021",
+            "publisher": "The Royal Society",
+            "abstract": "We discuss a recently proposed approach to solve the classic feature-binding problem in primate vision that uses neural dynamics known to be present within the visual cortex. Broadly, the feature-binding problem in the visual context concerns not only how a hierarchy of features such as edges and objects within a scene are represented, but also the hierarchical relationships between these features at every spatial scale across the visual field. This is necessary for the visual brain to be able to make sense of its visuospatial world. Solving this problem is an important step towards the development of artificial general intelligence. In neural network simulation studies, it has been found that neurons encoding the binding relations between visual features, known as binding neurons, emerge during visual training when key properties of the visual cortex are incorporated into the models. These biological network …"
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 15,
+        "citedby_url": "/scholar?cites=9459483670020280580",
+        "cites_id": [
+            "9459483670020280580"
+        ],
+        "public_access": true,
+        "pub_url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsfs.2018.0021",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:BNEqhkfWRoMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 3,
+            "2019": 3,
+            "2020": 4,
+            "2021": 4,
+            "2022": 1
+        },
+        "mandates": [
+            {
+                "agency": "UK Medical Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Medical Research Council (MRC)(grant no. MR/K005480/1) …"
+            },
+            {
+                "agency": "UK Engineering and Physical Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Engineering and Physical Science Research Council (EPSRC)(grant no. EP/N509711/1) …"
+            },
+            {
+                "agency": "Wellcome Trust",
+                "url_policy": "http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm",
+                "url_policy_cached": "/mandates/wellcome_uk-2018-01-28.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Wellcome Trust Strategic Award (grant no. WT101092MA) …"
+            },
+            {
+                "agency": "UK Biotechnology and Biological Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Biotechnology and Biological Sciences Research Council (BBSRC)(grant no. BB/J014427/1) …"
+            },
+            {
+                "agency": "UK Economic and Social Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "12 months",
+                "acknowledgement": " …Economic and Social Research Council (ESRC)(grant no. ES/J500112/1) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The emergence of polychronization and feature binding in a spiking neural network model of the primate ventral visual system.",
+            "pub_year": 2018,
+            "author": "Akihiro Eguchi and James B Isbister and Nasir Ahmad and Simon Stringer",
+            "journal": "Psychological review",
+            "volume": "125",
+            "number": "4",
+            "pages": "545",
+            "publisher": "American Psychological Association",
+            "abstract": "We present a hierarchical neural network model, in which subpopulations of neurons develop fixed and regularly repeating temporal chains of spikes (polychronization), which respond specifically to randomized Poisson spike trains representing the input training images. The performance is improved by including top-down and lateral synaptic connections, as well as introducing multiple synaptic contacts between each pair of pre-and postsynaptic neurons, with different synaptic contacts having different axonal delays. Spike-timing-dependent plasticity thus allows the model to select the most effective axonal transmission delay between neurons. Furthermore, neurons representing the binding relationship between low-level and high-level visual features emerge through visually guided learning. This begins to provide a way forward to solving the classic feature binding problem in visual neuroscience and leads to a …"
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 14,
+        "citedby_url": "/scholar?cites=1687730347765966201",
+        "cites_id": [
+            "1687730347765966201"
+        ],
+        "pub_url": "https://psycnet.apa.org/record/2018-25960-001",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:eaU8L88FbBcJ:scholar.google.com/",
+        "cites_per_year": {
+            "2017": 1,
+            "2018": 5,
+            "2019": 3,
+            "2020": 1,
+            "2021": 3,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gait-prop: A biologically plausible learning rule derived from backpropagation of error",
+            "pub_year": 2020,
+            "author": "Nasir Ahmad and Marcel A van Gerven and Luca Ambrogioni",
+            "journal": "Advances in Neural Information Processing Systems",
+            "volume": "33",
+            "pages": "10913-10923",
+            "abstract": "Traditional backpropagation of error, though a highly successful algorithm for learning in artificial neural network models, includes features which are biologically implausible for learning in real neural circuits. An alternative called target propagation proposes to solve this implausibility by using a top-down model of neural activity to convert an error at the output of a neural network into layer-wise and plausible ‘targets’ for every unit. These targets can then be used to produce weight updates for network training. However, thus far, target propagation has been heuristically proposed without demonstrable equivalence to backpropagation. Here, we derive an exact correspondence between backpropagation and a modified form of target propagation (GAIT-prop) where the target is a small perturbation of the forward pass. Specifically, backpropagation and GAIT-prop give identical updates when synaptic weight matrices are orthogonal. In a series of simple computer vision experiments, we show near-identical performance between backpropagation and GAIT-prop with a soft orthogonality-inducing regularizer."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 12,
+        "citedby_url": "/scholar?cites=15875049954561764197",
+        "cites_id": [
+            "15875049954561764197"
+        ],
+        "pub_url": "https://proceedings.neurips.cc/paper/2020/hash/7ba0691b7777b6581397456412a41390-Abstract.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZSs89dKBT9wJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 2,
+            "2021": 8,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Harmonic training and the formation of pitch representation in a neural network model of the auditory brain",
+            "pub_year": 2016,
+            "author": "Nasir Ahmad and Irina Higgins and Kerry MM Walker and Simon M Stringer",
+            "journal": "Frontiers in computational neuroscience",
+            "volume": "10",
+            "pages": "24",
+            "publisher": "Frontiers",
+            "abstract": "Attempting to explain the perceptual qualities of pitch has proven to be, and remains, a difficult problem. The wide range of sounds which illicit pitch and a lack of agreement across neurophysiological studies on how pitch is encoded by the brain have made this attempt more difficult. In describing the potential neural mechanisms by which pitch may be processed, a number of neural networks have been proposed and implemented. However, no unsupervised neural networks with biologically accurate cochlear inputs have yet been demonstrated. This paper proposes a simplified system in which pitch representing neurons are easily produced under a highly biological setting. Purely unsupervised regimes of neural network learning are implemented and these prove to be sufficient in identifying the pitch of sounds with a variety of spectral profiles, including missing fundamental sounds."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 7,
+        "citedby_url": "/scholar?cites=11144816164274037535",
+        "cites_id": [
+            "11144816164274037535"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fncom.2016.00024/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:H-OV7kBXqpoJ:scholar.google.com/",
+        "cites_per_year": {
+            "2017": 1,
+            "2018": 3,
+            "2019": 1,
+            "2020": 1,
+            "2021": 1
+        },
+        "mandates": [
+            {
+                "agency": "UK Biotechnology and Biological Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Biotechnology and Biological Sciences Research Council (BBSRC)[grant numbers BB/J014427/1 and BB/M010929/1] …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predictive coding is a consequence of energy efficiency in recurrent neural networks",
+            "pub_year": 2021,
+            "author": "Abdullahi Ali and Nasir Ahmad and Elgar de Groot and Marcel AJ van Gerven and Tim C Kietzmann",
+            "journal": "Available at SSRN 3976481",
+            "abstract": "Predictive coding represents a promising framework for understanding brain function. It postulates that the brain continuously inhibits predictable sensory input, ensuring a preferential processing of surprising elements. A central aspect of this view is its hierarchical connectivity, involving recurrent message passing between excitatory bottom-up signals and inhibitory top-down feedback. Here we use computational modelling to demonstrate that such architectural hard-wiring is not necessary. Rather, predictive coding is shown to emerge asa consequence of energy efficiency. When training recurrent neural networks to minimise their energy consumption while operating in predictive environments, the networks self-organise into prediction and error units with appropriate inhibitory and excitatory interconnections, and learn to inhibit predictable sensory input. Moving beyond the view of purely top-down driven predictions, we furthermore demonstrate, via virtual lesioning experiments, that networks perform predictions on two timescales: fast lateral predictions among sensory units, and slower prediction cycles that integrate evidence over time."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=3873756733302774912",
+        "cites_id": [
+            "3873756733302774912"
+        ],
+        "pub_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3976481",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gBzKkjlZwjUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 5,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Spike: A gpu optimised spiking neural network simulator",
+            "pub_year": 2018,
+            "author": "Nasir Ahmad and James B Isbister and Toby St Clere Smithe and Simon M Stringer",
+            "journal": "bioRxiv",
+            "pages": "461160",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Spiking Neural Network (SNN) simulations require internal variables – such as the membrane voltages of individual neurons and their synaptic inputs – to be updated on a sub-millisecond resolution. As a result, a single second of simulation time requires many thousands of update calculations per neuron. Furthermore, increases in the scale of SNN models have, accordingly, led to manyfold increases in the runtime of SNN simulations. Existing solutions to this problem of scale include high performance CPU based simulators capable of multithreaded execution (“CPU parallelism”). More recent GPU based simulators have emerged, which aim to utilise GPU parallelism for SNN execution. We have identified several key speedups, which give GPU based simulators up to an order of magnitude performance increase over CPU based simulators on several benchmarks. We present the Spike simulator with three key optimisations: timestep grouping, active synapse grouping, and delay insensitivity. Combined, these optimisations massively increase the speed of executing a SNN simulation and produce a simulator which is, on a single machine, faster than currently available simulators."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 4,
+        "citedby_url": "/scholar?cites=9563982074505779399",
+        "cites_id": [
+            "9563982074505779399"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/461160.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:x9geTQYXuoQJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 3
+        },
+        "mandates": [
+            {
+                "agency": "UK Economic and Social Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "12 months",
+                "acknowledgement": " …Economic and Social Research Council (ESRC)(grant no. ES/J500112/1) …"
+            },
+            {
+                "agency": "UK Biotechnology and Biological Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Biotechnology and Biological Sciences Research Council (BBSRC)[grant number BB/J014427/1] …"
+            },
+            {
+                "agency": "UK Engineering and Physical Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …EPSRC)(grant no. EP/N509711/1 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Overcoming the Weight Transport Problem via Spike-Timing-Dependent Weight Inference",
+            "pub_year": 2020,
+            "author": "Nasir Ahmad and Luca Ambrogioni and Marcel AJ van Gerven",
+            "journal": "arXiv preprint arXiv:2003.03988",
+            "abstract": "We propose a solution to the weight transport problem, which questions the biological plausibility of the backpropagation algorithm. We derive our method based upon a theoretical analysis of the (approximate) dynamics of leaky integrate-and-fire neurons. We show that the use of spike timing alone outcompetes existing biologically plausible methods for synaptic weight inference in spiking neural network models. Furthermore, our proposed method is more flexible, being applicable to any spiking neuron model, is conservative in how many parameters are required for implementation and can be deployed in an online-fashion with minimal computational overhead. These features, together with its biological plausibility, make it an attractive mechanism underlying weight inference at single synapses."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:ufrVoPGSRksC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?cites=2716827515260808654,14134889997225814369",
+        "cites_id": [
+            "2716827515260808654",
+            "14134889997225814369"
+        ],
+        "pub_url": "https://arxiv.org/abs/2003.03988",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YendB5A3KcQJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 1,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constrained Parameter Inference as a Principle for Learning",
+            "pub_year": 2022,
+            "author": "Nasir Ahmad and Ellen Schrader and Marcel van Gerven",
+            "journal": "arXiv preprint arXiv:2203.13203",
+            "abstract": "Learning in biological and artificial neural networks is often framed as a problem in which targeted error signals guide parameter updating for more optimal network behaviour. Backpropagation of error (BP) is an example of such an approach and has proven to be a highly successful application of stochastic gradient descent to deep neural networks. However, BP relies on the global transmission of gradient information and has therefore been criticised for its biological implausibility. We propose constrained parameter inference (COPI) as a new principle for learning. COPI allows for the estimation of network parameters under the constraints of decorrelated neural inputs and top-down perturbations of neural states. We show that COPI not only is more biologically plausible but also provides distinct advantages for fast learning, compared with standard backpropagation of error."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/2203.13203",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimization of Neuroprosthetic Vision via End-to-end Deep Reinforcement Learning",
+            "pub_year": 2022,
+            "author": "Burcu Küçükoğlu and Bodo Rueckauer and Nasir Ahmad and Jaap de Ruyter van Steveninck and Umut Güçlü and Marcel van Gerven",
+            "journal": "bioRxiv",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Visual neuroprostheses are a promising approach to restore basic sight in visually impaired people. A major challenge is to condense the sensory information contained in a complex environment into meaningful stimulation patterns at low spatial and temporal resolution. Previous approaches considered task-agnostic feature extractors such as edge detectors or semantic segmentation, which are likely suboptimal for specific tasks in complex dynamic environments. As an alternative approach, we propose to optimize stimulation patterns by end-to-end training of a feature extractor using deep reinforcement learning agents in virtual environments. We present a task-oriented evaluation framework to compare different stimulus generation mechanisms, such as static edge-based and adaptive end-to-end approaches like the one introduced here. Our experiments in Atari games show that stimulation patterns obtained via task-dependent end-to-end optimized reinforcement learning result in equivalent or improved performance compared to fixed feature extractors on high difficulty levels. These findings signify the relevance of adaptive reinforcement learning for neuroprosthetic vision in complex environments."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 0,
+        "public_access": true,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2022.02.25.482017.abstract",
+        "cites_per_year": {},
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
+                "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
+                "effective_date": "2021/2",
+                "embargo": "none",
+                "acknowledgement": " …European Union’s Horizon 2020 research and innovation programme under grant agreement No 899287 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "P4O: Efficient Deep Reinforcement Learning with Predictive Processing Proximal Policy Optimization",
+            "pub_year": 2021,
+            "author": "Burcu Küçükoğlu and Walraaf Borkent and Bodo Rueckauer and Nasir Ahmad and Umut Güçlü and Marcel van Gerven",
+            "abstract": "Advances in reinforcement learning (RL) often rely on massive compute resources and remain notoriously sample inefficient. In contrast, the human brain is able to efficiently learn effective control strategies using limited resources. This raises the question whether insights from neuroscience can be used to improve current RL methods. Predictive processing is a popular theoretical framework which maintains that the human brain is actively seeking to minimize surprise. We show that recurrent neural networks which predict their own sensory states can be leveraged to minimise surprise, yielding substantial gains in cumulative reward. Specifically, we present the Predictive Processing Proximal Policy Optimization (P4O) agent; an actor-critic reinforcement learning agent that applies predictive processing to a recurrent variant of the PPO algorithm by integrating a world model in its hidden state. P4O significantly outperforms a baseline recurrent variant of the PPO algorithm on multiple Atari games using a single GPU. It also outperforms other state-of-the-art agents given the same wall-clock time and exceeds human gamer performance on Seaquest, which is a particularly challenging environment in the Atari domain. Altogether, our work underscores how insights from the field of neuroscience may support the development of more capable and efficient artificial agents.Supplementary Material: zip6 RepliesLoading"
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:8k81kl-MbHgC",
+        "num_citations": 0,
+        "pub_url": "https://openreview.net/forum?id=zz_qjE6N1OF",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:prxy_Sx5sjMJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Brain-inspired learning drives advances in neuromorphic computing",
+            "pub_year": 2021,
+            "author": "Nasir Ahmad and Bodo Rueckauer and Marcel van Gerven",
+            "journal": "ERCIM News",
+            "number": "125",
+            "pages": "24-25",
+            "publisher": "EUROPEAN RESEARCH CONSORTIUM INFORMATICS & MATHEMATICS",
+            "abstract": "The success of deep learning is founded on learning rules with biologically implausible properties, entailing high memory and energy costs. At the Donders Institute in Nijmegen, NL, we have developed GAIT-Prop, a learning method for large-scale neural networks that alleviates some of the biologically unrealistic attributes of conventional deep learning. By localising weight updates in space and time, our method reduces computational complexity and illustrates how powerful learning rules can be implemented within the constraints on connectivity and communication present in the brain."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 0,
+        "pub_url": "https://www.research-collection.ethz.ch/handle/20.500.11850/495051",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Uz20I0fn_5UJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scaling up learning with GAIT-prop",
+            "pub_year": 2021,
+            "author": "Sander Dalm and Nasir Ahmad and Luca Ambrogioni and Marcel van Gerven",
+            "journal": "arXiv preprint arXiv:2102.11598",
+            "abstract": "Backpropagation of error (BP) is a widely used and highly successful learning algorithm. However, its reliance on non-local information in propagating error gradients makes it seem an unlikely candidate for learning in the brain. In the last decade, a number of investigations have been carried out focused upon determining whether alternative more biologically plausible computations can be used to approximate BP. This work builds on such a local learning algorithm - Gradient Adjusted Incremental Target Propagation (GAIT-prop) - which has recently been shown to approximate BP in a manner which appears biologically plausible. This method constructs local, layer-wise weight update targets in order to enable plausible credit assignment. However, in deep networks, the local weight updates computed by GAIT-prop can deviate from BP for a number of reasons. Here, we provide and test methods to overcome such sources of error. In particular, we adaptively rescale the locally-computed errors and show that this significantly increases the performance and stability of the GAIT-prop algorithm when applied to the CIFAR-10 dataset."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/2102.11598",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:XnwGO71aK90J:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Competitive learning in rate coded and spiking neural networks models with applications to vision and audition",
+            "pub_year": 2019,
+            "author": "Nasir Ahmad",
+            "abstract": "Competitive learning is a common and successful approach used to train unsupervised rate-based neural network models. We apply such a technique in this thesis and produce a rate-coded neural network model of pitch processing which provides insights into the training protocols necessary to develop robust pitch representations. However, the extension of reliable unsupervised competitive learning approaches from rate-coded to spiking neural networks has proven challenging, especially when biological plausibility and detail are desired. Transitioning to spiking neural network models is made more difficult by the comparatively high computational cost and complexity of these network models compared to rate-based models.We describe a transition from rate-based to spiking neural network models and address these outstanding issues. First, we focus on increasing simulation efficiency. We develop a state of the art graphical processing unit (GPU) based spiking neural network simulator which adopts optimisations from central processing unit (CPU) and cluster-based simulators. In benchmarks, we show that our novel simulator is capable of simulation speeds up to an order of magnitude greater than contemporary simulators. This greater simulation speed is intended to enable a higher throughput of spiking neural network simulations and thereby accelerate research. In order to ensure that present and future simulators can be efficiently and effectively compared, we also compile a repository of benchmarks which allow validation of simulator performance and simulated neural network dynamics.Having developed efficient simulation …"
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:roLk4NBRz8UC",
+        "num_citations": 0,
+        "public_access": true,
+        "pub_url": "https://ora.ox.ac.uk/objects/uuid:ed5434ec-cfe4-43b9-93e5-e07d5617b042",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:S77wVj0m1lcJ:scholar.google.com/",
+        "cites_per_year": {},
+        "mandates": [
+            {
+                "agency": "UK Biotechnology and Biological Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Biotechnology and Biological Sciences Research Council (BBSRC)[grant number BB/J014427/1] …"
+            }
+        ]
+    }
+]
