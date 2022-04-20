@@ -9,6 +9,8 @@ import Layout, { siteTitle } from "../components/layout";
 import { getPeopleData } from "../lib/people";
 import { GetStaticProps } from "next";
 
+import utilStyles from "../styles/utils.module.css";
+
 export default function People({
   allPeopleData,
 }: {
@@ -24,30 +26,32 @@ export default function People({
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <ImageList
-        sx={{ width: "75%", margin: "auto", marginTop: "20px" }}
-        gap={25}
-        cols={3}
-      >
-        {allPeopleData.map((person) => (
-          <ImageListItem key={person.img}>
-            <Link href={`/team/${person.id}`}>
-              <a>
-                <img
-                  src={`data:image/png;base64,${person.img}`}
-                  alt={person.title}
-                  loading="lazy"
-                />
-                <ImageListItemBar
-                  title={person.name}
-                  subtitle={<span>{person.title}</span>}
-                  position="below"
-                />
-              </a>
-            </Link>
-          </ImageListItem>
-        ))}
-      </ImageList>
+      <article>
+        <ImageList
+          sx={{ width: "80%", margin: "auto", marginTop: "20px" }}
+          gap={25}
+          cols={3}
+        >
+          {allPeopleData.map((person) => (
+            <ImageListItem key={person.img}>
+              <Link href={`/team/${person.id}`}>
+                <a>
+                  <img
+                    src={`data:image/png;base64,${person.img}`}
+                    alt={person.title}
+                    loading="lazy"
+                  />
+                  <ImageListItemBar
+                    title={person.name}
+                    subtitle={<span>{person.title}</span>}
+                    position="below"
+                  />
+                </a>
+              </Link>
+            </ImageListItem>
+          ))}
+        </ImageList>
+      </article>
     </Layout>
   );
 }

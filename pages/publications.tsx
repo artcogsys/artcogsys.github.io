@@ -15,7 +15,7 @@ export default function Publications({
   const [page, setPage] = React.useState(0);
 
   return (
-    <Layout pageIdx={3}>
+    <Layout pageIdx={4}>
       <Head>
         <title>{siteTitle}</title>
       </Head>
