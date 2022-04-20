@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import Layout from "../../components/layout";
 import { getAllPeopleIds, getPersonData } from "../../lib/people";
 import Head from "next/head";
@@ -9,8 +10,9 @@ export default function Post({
 }: {
   personData: {
     title: string;
-    date: string;
+    name: string;
     contentHtml: string;
+    img: string;
   };
 }) {
   return (
@@ -19,6 +21,11 @@ export default function Post({
         <title>{personData.title}</title>
       </Head>
       <article>
+        <img
+          src={`data:image/png;base64,${personData.img}`}
+          alt={personData.title}
+          style={{marginTop: "20px"}}
+        />
         <h1 className={utilStyles.headingXl}>{personData.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: personData.contentHtml }} />
       </article>
