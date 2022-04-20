@@ -107,7 +107,23 @@ export function getPublications(sort: boolean): Array<Publication> {
   let publications = [];
   folderNames.forEach((folderName) => {
     const contentPath = path.join(peopleDirectory, folderName);
+
+    const fileNames = fs.readdirSync(contentPath);
+
+    fileNames.forEach((file) => {
+      const fullPath = path.join(contentPath, file);
+      if (path.extname(file) == ".json") {
+        const rawData = fs.readFileSync(fullPath);
+        publications = publications.concat(JSON.parse(rawData.toString()));
+      }
+    });
   });
+
+  if (sort) {
+    publications.sort(
+      (a, b) => parseInt(b.bib.pub_year) - parseInt(a.bib.pub_year)
+    );
+  }
 
   return publications;
 }
