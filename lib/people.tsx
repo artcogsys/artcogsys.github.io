@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
+import { Publication } from "../components/publications";
 
 const peopleDirectory = path.join(process.cwd(), "people");
 
@@ -99,4 +100,14 @@ export async function getPersonData(id: string) {
     publications,
     ...(matterResult.data as { name: string; title: string }),
   };
+}
+
+export function getPublications(sort: boolean): Array<Publication> {
+  const folderNames = getDirectories(peopleDirectory);
+  let publications = [];
+  folderNames.forEach((folderName) => {
+    const contentPath = path.join(peopleDirectory, folderName);
+  });
+
+  return publications;
 }
