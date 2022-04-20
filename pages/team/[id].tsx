@@ -14,7 +14,7 @@ export default function Post({
   };
 }) {
   return (
-    <Layout>
+    <Layout pageIdx={3}>
       <Head>
         <title>{personData.title}</title>
       </Head>

@@ -16,7 +16,7 @@ export default function Home({
   }[];
 }) {
   return (
-    <Layout home pageIdx={1}>
+    <Layout pageIdx={1}>
       <Head>
         <title>{siteTitle}</title>
       </Head>

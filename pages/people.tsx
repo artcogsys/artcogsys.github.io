@@ -20,7 +20,7 @@ export default function People({
   }[];
 }) {
   return (
-    <Layout home pageIdx={3}>
+    <Layout pageIdx={3}>
       <Head>
         <title>{siteTitle}</title>
       </Head>
