@@ -13,6 +13,7 @@ export default function Publications({
   publicationData: Array<Publication>;
 }) {
   const [page, setPage] = React.useState(0);
+  const numPubs = 15;
 
   return (
     <Layout pageIdx={4}>
@@ -21,7 +22,9 @@ export default function Publications({
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>Publications</h1>
-        <PublicationAccordion pubs={publicationData} />
+        <PublicationAccordion
+          pubs={publicationData.slice(page, page + numPubs)}
+        />
       </article>
     </Layout>
   );
