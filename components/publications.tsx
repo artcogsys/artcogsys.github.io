@@ -35,24 +35,49 @@ export default function PublicationAccordion({
 }: {
   pubs: Array<Publication>;
 }) {
+  
+  const accordion = pubs.map((publication) => {
+    // Split the Authors into a list
+    const authors = publication.bib.author.split(" and ")
+    const authorList = authors.map((author) => {
+      const names = author.split(" ")
+      // Surname and first letter from the first name.
+      return `${names.at(-1)}, ${names[0][0]}.`
+    })
+
+    let apaAuthor;
+    if(authorList.length === 1){
+      apaAuthor = authorList[0]
+    }else if(authorList.length > 20){
+      apaAuthor = `${authorList.slice(0,19).join(", ")}, ..., ${authorList.at(-1)}`
+    } else {
+      apaAuthor = `${authorList.slice(0,authorList.length-1).join(", ")}, & ${authorList.at(-1)}`
+    }
+
+    return (
+      <Accordion key={publication.pub_url}>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel1a-content"
+          id="panel1a-header"
+        >
+          <p>
+            {`${apaAuthor} (${publication.bib.pub_year}). `}
+            {`${publication.bib.title}. `}
+            <em>{publication.bib.journal ?  `${publication.bib.journal}. ` : ""}</em>
+            {publication.bib.publisher ?  `${publication.bib.publisher}. ` : ""}
+          </p>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>{publication.bib.abstract}</Typography>
+        </AccordionDetails>
+      </Accordion>
+      )
+    })
+
   return (
     <div>
-      {pubs.map((publication) => (
-        <Accordion key={publication.pub_url}>
-          <AccordionSummary
-            expandIcon={<ExpandMoreIcon />}
-            aria-controls="panel1a-content"
-            id="panel1a-header"
-          >
-            <Typography>
-              "{publication.bib.title}", {publication.bib.pub_year}
-            </Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <Typography>{publication.bib.abstract}</Typography>
-          </AccordionDetails>
-        </Accordion>
-      ))}
+      {accordion}
     </div>
   );
 }
