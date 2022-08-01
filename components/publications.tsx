@@ -63,9 +63,23 @@ export default function PublicationAccordion({
         >
           <p>
             {`${apaAuthor} (${publication.bib.pub_year}). `}
-            {`${publication.bib.title}. `}
-            <em>{publication.bib.journal ?  `${publication.bib.journal}. ` : ""}</em>
-            {publication.bib.publisher ?  `${publication.bib.publisher}. ` : ""}
+            {publication.bib.journal ?
+                (<>
+                  {`${publication.bib.title}. `}
+                  <em>
+                    {publication.bib.journal ?  `${publication.bib.journal}, ${publication.bib.volume || ""}` : ""}
+                  </em>
+                  {publication.bib.number ? `(${publication.bib.number || ""})` : ""}
+                  {publication.bib.pages ? `, ${publication.bib.pages}` : ""}
+                </>)
+               :(<>
+                <em>
+                  {`${publication.bib.title}. `}
+                </em>
+                {`${publication.bib.publisher || ""}`}
+                </>
+               )
+            }
           </p>
         </AccordionSummary>
         <AccordionDetails>
