@@ -83,7 +83,17 @@ export default function PublicationAccordion({
           </p>
         </AccordionSummary>
         <AccordionDetails>
-          <Typography>{publication.bib.abstract}</Typography>
+          <Typography>
+            <p>
+              Abstract taken from Google Scholar:
+            </p>
+            {publication.bib.abstract}
+            <a href={publication.pub_url} rel="noreferrer" target="_blank">
+              <p>
+                Go to article
+              </p>
+            </a>
+          </Typography>
         </AccordionDetails>
       </Accordion>
       )
