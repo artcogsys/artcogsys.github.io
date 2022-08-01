@@ -29,9 +29,13 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
   const [value, setValue] = React.useState(pageIdx);
 
   const handleChange = (event: React.SyntheticEvent, newValue: number) => {
+    // Find the HTML element from the navigation bar, that the user clicked on
     const navElement: any = event.target
+    // Find the label of the clicked tab
     const tabLabel = navElement.outerText
+    // The repo tab leads to an external page, no need to change the active tab
     if (tabLabel !== repoTabName.toUpperCase()) {
+      // If the user clicks on the logo, set tab for homepage as active, otherwise the clicked tab
       newValue == -1 ? setValue(0) : setValue(newValue);
     }
   };
