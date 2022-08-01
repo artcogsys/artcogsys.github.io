@@ -4,7 +4,6 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import logo from "../public/acs.png";
-import AppBar from "../components/appBar";
 import NavTabs from "../components/navTabs";
 
 const name = "ArtCogSys";

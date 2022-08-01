@@ -5,6 +5,9 @@ import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
 import logo from "../public/acs.png";
 
+const githubRepoUrl = "https://github.com/artcogsys"
+const repoTabName = "Code"
+
 interface LinkTabProps {
   label?: string;
   href?: string;
@@ -26,7 +29,11 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
   const [value, setValue] = React.useState(pageIdx);
 
   const handleChange = (event: React.SyntheticEvent, newValue: number) => {
-    newValue == -1 ? setValue(0) : setValue(newValue);
+    const navElement: any = event.target
+    const tabLabel = navElement.outerText
+    if (tabLabel !== repoTabName.toUpperCase()) {
+      newValue == -1 ? setValue(0) : setValue(newValue);
+    }
   };
 
   const appIcon = (
@@ -42,7 +49,7 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
         <LinkTab label="People" href="/people" />
         <LinkTab label="Publications" href="/publications" />
         <LinkTab label="Education" href="/education" />
-        <LinkTab label="Resources" href="/resources" />
+        <Tab component="a" href={githubRepoUrl} label="Code" rel="noreferrer" target="_blank"/>
         <LinkTab label="Contact" href="/contact" />
       </Tabs>
     </Box>
