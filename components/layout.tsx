@@ -25,7 +25,9 @@ export default function Layout({
         <meta name="twitter:card" content="summary_large_image [TODO]" />
       </Head>
       <header className={styles.header}>
+        <article>
         <NavTabs pageIdx={pageIdx} />
+        </article>
       </header>
       <main>
         {children}
