@@ -1,26 +1,16 @@
 import Head from "next/head";
 import Layout, { siteTitle } from "../components/layout";
-import { getSortedPostsData } from "../lib/posts";
 import Link from "next/link";
-import { GetStaticProps } from "next";
-import Card from '@mui/material/Card';
-import CardActions from '@mui/material/CardActions';
-import CardContent from '@mui/material/CardContent';
-import CardMedia from '@mui/material/CardMedia';
-import Button from '@mui/material/Button';
-import Typography from '@mui/material/Typography';
-import BgGif from "../public/v2.webp"
-import Container from '@mui/material/Container';
+import Card from "@mui/material/Card";
+import CardActions from "@mui/material/CardActions";
+import CardContent from "@mui/material/CardContent";
+import CardMedia from "@mui/material/CardMedia";
+import Button from "@mui/material/Button";
+import Typography from "@mui/material/Typography";
+import BgGif from "../public/v2.webp";
+import Container from "@mui/material/Container";
 
-export default function Home({
-  allPostsData,
-}: {
-  allPostsData: {
-    date: string;
-    title: string;
-    id: string;
-  }[];
-}) {
+export default function Home() {
   return (
     <Layout pageIdx={1}>
       <Head>
@@ -28,7 +18,7 @@ export default function Home({
       </Head>
       <article>
         <Container maxWidth="md">
-          <Card sx={{ maxWidth: 800 }}>
+          <Card>
             <CardMedia
               component="img"
               height="480"
@@ -38,15 +28,23 @@ export default function Home({
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-                Lizard
+                Mission Statement
               </Typography>
               <Typography variant="body2" color="text.secondary">
-                Lizards are a widespread group of squamate reptiles, with over 6,000
-                species, ranging across all continents except Antarctica
+                Understanding how mind emerges from matter remains one of the
+                great open questions in science. The artificial cognitive
+                systems lab studies the computational mechanisms of learning,
+                inference and control in natural systems. To this end, we bring
+                together ideas from machine learning, computational
+                neuroscience, control theory, dynamical systems theory,
+                statistical physics and theoretical biology. Our aim is to
+                advance our understanding of how biological agents learn to
+                behave in complex environments. Such understanding may, in turn,
+                drive the development of more capable and efficient intelligent
+                agents and provide new insights about human brain function.
               </Typography>
             </CardContent>
             <CardActions>
-              <Button size="small">Share</Button>
               <Button size="small">Learn More</Button>
             </CardActions>
           </Card>
@@ -55,12 +53,3 @@ export default function Home({
     </Layout>
   );
 }
-
-export const getStaticProps: GetStaticProps = async () => {
-  const allPostsData = getSortedPostsData();
-  return {
-    props: {
-      allPostsData,
-    },
-  };
-};
