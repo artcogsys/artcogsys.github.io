@@ -24,9 +24,10 @@ export default function Post({
         <img
           src={`data:image/png;base64,${personData.img}`}
           alt={personData.title}
-          style={{marginTop: "20px"}}
+          style={{ marginTop: "20px" }}
         />
-        <h1 className={utilStyles.headingXl}>{personData.title}</h1>
+        <h1 className={utilStyles.headingXl}>{personData.name}</h1>
+        <h2 className={utilStyles.headingMd}>{personData.title}</h2>
         <div dangerouslySetInnerHTML={{ __html: personData.contentHtml }} />
       </article>
     </Layout>
