@@ -18,7 +18,7 @@ export default function Post({
   return (
     <Layout pageIdx={3}>
       <Head>
-        <title>{personData.title}</title>
+        <title>Team - {personData.name}</title>
       </Head>
       <article>
         <img
