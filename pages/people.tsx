@@ -8,8 +8,8 @@ import ImageListItemBar from "@mui/material/ImageListItemBar";
 import Layout, { siteTitle } from "../components/layout";
 import { getPeopleData } from "../lib/people";
 import { GetStaticProps } from "next";
-
-import utilStyles from "../styles/utils.module.css";
+import { Typography } from "@mui/material";
+import Button from '@mui/material/Button';
 
 export default function People({
   allPeopleData,
@@ -34,19 +34,18 @@ export default function People({
         >
           {allPeopleData.map((person) => (
             <ImageListItem key={person.img}>
-              <Link href={`/team/${person.id}`}>
-                <a>
+              <Link href={`/team/${person.id}`} passHref>
+                <div>
                   <img
                     src={`data:image/png;base64,${person.img}`}
                     alt={person.title}
                     loading="lazy"
                   />
                   <ImageListItemBar
-                    title={person.name}
-                    subtitle={<span>{person.title}</span>}
+                    title={<Button size="small">{person.name} - {person.title}</Button>}
                     position="below"
                   />
-                </a>
+                </div>
               </Link>
             </ImageListItem>
           ))}

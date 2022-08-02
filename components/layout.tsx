@@ -1,9 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import Head from "next/head";
 import styles from "./layout.module.css";
-import utilStyles from "../styles/utils.module.css";
-import Link from "next/link";
-import logo from "../public/acs.png";
 import NavTabs from "../components/navTabs";
 
 const name = "ArtCogSys";
@@ -30,7 +27,9 @@ export default function Layout({
       <header className={styles.header}>
         <NavTabs pageIdx={pageIdx} />
       </header>
-      <main>{children}</main>
+      <main>
+        {children}
+      </main>
     </div>
   );
 }
