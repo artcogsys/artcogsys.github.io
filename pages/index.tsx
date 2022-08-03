@@ -7,8 +7,8 @@ import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
-import BgGif from "../public/v2.webp";
 import Container from "@mui/material/Container";
+import { Paper } from "@mui/material";
 
 export default function Home() {
   return (
@@ -18,15 +18,8 @@ export default function Home() {
       </Head>
       <article>
         <Container maxWidth="md">
-          <Card>
-            <CardMedia
-              component="img"
-              height="480"
-              width="800"
-              image={BgGif.src}
-              alt="green iguana"
-            />
-            <CardContent>
+          <Paper elevation={3}>
+            <Container maxWidth="md">
               <Typography gutterBottom variant="h5" component="div">
                 Mission Statement
               </Typography>
@@ -43,11 +36,8 @@ export default function Home() {
                 drive the development of more capable and efficient intelligent
                 agents and provide new insights about human brain function.
               </Typography>
-            </CardContent>
-            <CardActions>
-              <Button size="small">Learn More</Button>
-            </CardActions>
-          </Card>
+            </Container>
+          </Paper>
         </Container>
       </article>
     </Layout>

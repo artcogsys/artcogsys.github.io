@@ -25,7 +25,7 @@ export default function Layout({
         <meta name="twitter:card" content="summary_large_image [TODO]" />
       </Head>
       <video className={styles.fixed} id="backgroundVideo" autoPlay muted loop>
-        <source src="/bgvid_trim.mp4" type="video/mp4" />
+        <source src="/bgvid.mp4" type="video/mp4" />
         Your browser does not support HTML5 video.
       </video>
       <header className={styles.header}>
