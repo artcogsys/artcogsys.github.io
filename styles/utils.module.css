@@ -50,3 +50,11 @@
 .lightText {
   color: #666;
 }
+
+.padded {
+  padding: 16px;
+}
+
+.landingContainer {
+  margin-top: 5%;
+}

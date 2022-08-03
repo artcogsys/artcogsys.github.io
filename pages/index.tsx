@@ -1,14 +1,11 @@
 import Head from "next/head";
 import Layout, { siteTitle } from "../components/layout";
-import Link from "next/link";
-import Card from "@mui/material/Card";
-import CardActions from "@mui/material/CardActions";
-import CardContent from "@mui/material/CardContent";
-import CardMedia from "@mui/material/CardMedia";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import { Paper } from "@mui/material";
+
+import styles from "../styles/utils.module.css";
 
 export default function Home() {
   return (
@@ -17,13 +14,13 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <article>
-        <Container maxWidth="md">
+        <Container maxWidth="md" className={styles.landingContainer}>
           <Paper elevation={3}>
-            <Container maxWidth="md">
+            <Container maxWidth="md" className={styles.padded}>
               <Typography gutterBottom variant="h5" component="div">
                 Mission Statement
               </Typography>
-              <Typography variant="body2" color="text.secondary">
+              <Typography variant="body2">
                 Understanding how mind emerges from matter remains one of the
                 great open questions in science. The artificial cognitive
                 systems lab studies the computational mechanisms of learning,
@@ -36,6 +33,7 @@ export default function Home() {
                 drive the development of more capable and efficient intelligent
                 agents and provide new insights about human brain function.
               </Typography>
+              <Button size="small">Learn More</Button>
             </Container>
           </Paper>
         </Container>
