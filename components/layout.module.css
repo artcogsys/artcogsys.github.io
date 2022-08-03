@@ -13,3 +13,23 @@
 .backToHome {
   margin: 3rem 0 0;
 }
+
+#backgroundVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.fixed {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.relative {
+  position: relative;
+}

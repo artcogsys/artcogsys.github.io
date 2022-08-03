@@ -24,14 +24,16 @@ export default function Layout({
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image [TODO]" />
       </Head>
+      <video className={styles.fixed} id="backgroundVideo" autoPlay muted loop>
+        <source src="/bgvid_trim.mp4" type="video/mp4" />
+        Your browser does not support HTML5 video.
+      </video>
       <header className={styles.header}>
         <article>
-        <NavTabs pageIdx={pageIdx} />
+          <NavTabs pageIdx={pageIdx} />
         </article>
       </header>
-      <main>
-        {children}
-      </main>
+      <main className={styles.relative}>{children}</main>
     </div>
   );
 }
