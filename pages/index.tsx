@@ -14,7 +14,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <article>
-        <Container maxWidth="md" className={styles.landingContainer}>
+        <Container maxWidth="md" className={styles.mainContainer}>
           <Paper elevation={3}>
             <Container maxWidth="md" className={styles.padded}>
               <Typography gutterBottom variant="h5" component="div">
