@@ -22,7 +22,6 @@ export default function Layout({
           content="Home of the Artificial Cognitive Systems Research Group"
         />
         <meta name="og:title" content={siteTitle} />
-        <meta name="twitter:card" content="summary_large_image [TODO]" />
       </Head>
       <video className={styles.fixed} id="backgroundVideo" autoPlay muted loop>
         <source src="/bgvid.mp4" type="video/mp4" />

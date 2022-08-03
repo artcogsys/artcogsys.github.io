@@ -1,57 +1,12 @@
 /* eslint-disable @next/next/no-img-element */
 import * as React from "react";
-import { styled } from "@mui/material/styles";
 import Box from "@mui/material/Box";
-import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
 import logo from "../public/acs.png";
+import { StyledTab, StyledTabs } from "./styledTabs";
 
 const githubRepoUrl = "https://github.com/artcogsys";
 const repoTabName = "Code";
-
-interface StyledTabProps {
-  label: string;
-  href?: string;
-  component?: any;
-  rel?: string;
-  target?: string;
-}
-
-const StyledTab = styled((props: StyledTabProps) => (
-  <Tab
-    component="a"
-    onClick={(event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
-      //event.preventDefault();
-    }}
-    {...props}
-  />
-))(({ theme }) => ({
-  textTransform: "none",
-  fontWeight: theme.typography.fontWeightRegular,
-  fontSize: theme.typography.pxToRem(15),
-  marginRight: theme.spacing(1),
-  color: "rgba(255, 255, 255, 0.7)",
-  "&.Mui-focusVisible": {},
-  "&.MuiTab-textColorPrimary": {},
-  "&.Mui-selected": {},
-}));
-
-interface StyledTabsProps {
-  children?: React.ReactNode;
-  value: number;
-  onChange: (event: React.SyntheticEvent, newValue: number) => void;
-}
-
-const StyledTabs = styled((props: StyledTabsProps) => (
-  <Tabs
-    {...props}
-    TabIndicatorProps={{ children: <span className="MuiTabs-indicatorSpan" /> }}
-  />
-))({
-  "& .MuiTabs-scroller": {
-    backgroundColor: "#121212",
-  },
-});
 
 export default function NavTabs({ pageIdx }: { pageIdx: number }) {
   const [value, setValue] = React.useState(pageIdx);
