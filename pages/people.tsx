@@ -9,7 +9,7 @@ import Layout, { siteTitle } from "../components/layout";
 import { getPeopleData } from "../lib/people";
 import { GetStaticProps } from "next";
 import { Typography } from "@mui/material";
-import Button from '@mui/material/Button';
+import Button from "@mui/material/Button";
 
 export default function People({
   allPeopleData,
@@ -18,7 +18,7 @@ export default function People({
     name: string;
     title: string;
     id: string;
-    img: string;
+    image: string;
   }[];
 }) {
   return (
@@ -33,16 +33,20 @@ export default function People({
           cols={3}
         >
           {allPeopleData.map((person) => (
-            <ImageListItem key={person.img}>
+            <ImageListItem key={person.image}>
               <Link href={`/team/${person.id}`} passHref>
                 <div>
                   <img
-                    src={`data:image/png;base64,${person.img}`}
+                    src={`data:image/png;base64,${person.image}`}
                     alt={person.title}
                     loading="lazy"
                   />
                   <ImageListItemBar
-                    title={<Button size="small">{person.name} - {person.title}</Button>}
+                    title={
+                      <Button size="small">
+                        {person.name} - {person.title}
+                      </Button>
+                    }
                     position="below"
                   />
                 </div>

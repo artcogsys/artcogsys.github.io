@@ -11,8 +11,8 @@ export default function Post({
   personData: {
     title: string;
     name: string;
-    contentHtml: string;
-    img: string;
+    description: string;
+    image: string;
   };
 }) {
   return (
@@ -22,13 +22,13 @@ export default function Post({
       </Head>
       <article>
         <img
-          src={`data:image/png;base64,${personData.img}`}
+          src={`data:image/png;base64,${personData.image}`}
           alt={personData.title}
           style={{ marginTop: "20px" }}
         />
         <h1 className={utilStyles.headingXl}>{personData.name}</h1>
         <h2 className={utilStyles.headingMd}>{personData.title}</h2>
-        <div dangerouslySetInnerHTML={{ __html: personData.contentHtml }} />
+        <div dangerouslySetInnerHTML={{ __html: personData.description }} />
       </article>
     </Layout>
   );

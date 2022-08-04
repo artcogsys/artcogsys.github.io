@@ -1,15 +1,22 @@
 /* eslint-disable @next/next/no-img-element */
 import * as React from "react";
+
 import Head from "next/head";
-import Layout, { siteTitle } from "../components/layout";
-import { getPublications } from "../lib/people";
-import PublicationAccordion from "../components/publications";
+import { GetStaticProps } from "next";
 
 import { Publication } from "../types/publication";
-import { GetStaticProps } from "next";
+
+import Layout, { siteTitle } from "../components/layout";
+import PublicationAccordion from "../components/publications";
+import { getPublications } from "../lib/people";
 
 import utilStyles from "../styles/utils.module.css";
 
+/**
+ * Page for the Publication tab.
+ * @param publicationData List of publication objects as scraped from Google Scholar
+ * @returns {React.ReactNode}
+ */
 export default function Publications({
   publicationData,
 }: {

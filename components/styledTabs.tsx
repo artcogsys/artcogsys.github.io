@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import * as React from "react";
+
 import { styled } from "@mui/material/styles";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
@@ -18,6 +19,9 @@ interface StyledTabProps {
   target?: string;
 }
 
+/**
+ * Customized MUI Tab Element
+ */
 export const StyledTab = styled((props: StyledTabProps) => (
   <Tab
     component="a"
@@ -49,6 +53,9 @@ interface StyledTabsProps {
   onChange: (event: React.SyntheticEvent, newValue: number) => void;
 }
 
+/**
+ * Customized MUI Tabs Element.
+ */
 export const StyledTabs = styled((props: StyledTabsProps) => (
   <Tabs
     {...props}
