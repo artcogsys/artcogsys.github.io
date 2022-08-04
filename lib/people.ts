@@ -139,7 +139,12 @@ export const getPersonData = (id: string): Person => {
   };
 };
 
-export function getPublications(sort: boolean): Array<Publication> {
+/**
+ * Retrieve a List of all publications.
+ * @param sort Whether to sort the results by year of publishing
+ * @returns A list of all publications.
+ */
+export const getPublications = (sort: boolean): Array<Publication> => {
   const folderNames = getDirectories(peopleDirectoryPath);
   let publications = [];
   folderNames.forEach((folderName) => {
@@ -163,4 +168,4 @@ export function getPublications(sort: boolean): Array<Publication> {
   }
 
   return publications;
-}
+};
