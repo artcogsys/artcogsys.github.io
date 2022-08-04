@@ -3,11 +3,15 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
+import { Post } from "../types/post";
 
 // path to the directory in which the posts are stored
 const postsDirectoryPath = path.join(process.cwd(), "posts");
 
-export function getSortedPostsData() {
+/**
+ * Retrieve a sparse list of posts from the respective folder.
+ */
+export const getSortedPostsData = (): Array<Post> => {
   // Get file names under /posts
   const fileNames = fs.readdirSync(postsDirectoryPath);
   const allPostsData = fileNames.map((fileName) => {
@@ -35,9 +39,12 @@ export function getSortedPostsData() {
       return -1;
     }
   });
-}
+};
 
-export function getAllPostIds() {
+/**
+ * Retrieve the IDs of all posts.
+ */
+export const getAllPostIds = () => {
   const fileNames = fs.readdirSync(postsDirectoryPath);
   return fileNames.map((fileName) => {
     return {
@@ -46,9 +53,13 @@ export function getAllPostIds() {
       },
     };
   });
-}
+};
 
-export async function getPostData(id: string) {
+/**
+ * Get a full Post object using the ID.
+ * @param id ID of the post.
+ */
+export const getPostData = async (id: string): Promise<Post> => {
   const fullPath = path.join(postsDirectoryPath, `${id}.md`);
   const fileContents = fs.readFileSync(fullPath, "utf8");
 
@@ -67,4 +78,4 @@ export async function getPostData(id: string) {
     contentHtml,
     ...(matterResult.data as { date: string; title: string }),
   };
-}
+};
