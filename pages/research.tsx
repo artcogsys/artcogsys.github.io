@@ -11,6 +11,7 @@ import { Button } from "@mui/material";
 import Container from "@mui/material/Container";
 
 import styles from "../styles/utils.module.css";
+import layoutStyles from "../styles/layout.module.css";
 
 export default function Research({
   allPostsData,

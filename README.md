@@ -26,3 +26,16 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+# Exporting updated version
+
+```
+- npm run build_dev
+- npm run export_dev
+- cd docs
+- http-server
+```
+
+# TODO
+
+Font on exported version doesnt match font on dev version. gets overwritten during export.

@@ -10,6 +10,7 @@ import Layout, { siteTitle } from "../components/layout";
 import PublicationAccordion from "../components/publications";
 import { getPublications } from "../lib/people";
 
+import layoutStyles from "../styles/layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 
 /**

@@ -11,6 +11,9 @@ import { GetStaticProps } from "next";
 import { Typography } from "@mui/material";
 import Button from "@mui/material/Button";
 
+import layoutStyles from "../styles/layout.module.css";
+import utilStyles from "../styles/utils.module.css";
+
 export default function People({
   allPeopleData,
 }: {

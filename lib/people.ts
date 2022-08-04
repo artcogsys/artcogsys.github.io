@@ -127,6 +127,8 @@ export const getPersonData = (id: string): Person => {
       const rawData = fs.readFileSync(fullPath);
       publications = JSON.parse(rawData.toString());
     }
+    // if no Publications found, assign empty array
+    publications ??= [];
   });
 
   // Combine the data with the id and description into Person object

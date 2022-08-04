@@ -7,6 +7,7 @@ import Container from "@mui/material/Container";
 import { Paper } from "@mui/material";
 import Grid from "@mui/material/Grid";
 
+import layoutStyles from "../styles/layout.module.css";
 import styles from "../styles/utils.module.css";
 
 export default function Home() {

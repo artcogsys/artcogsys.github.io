@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
-const isProd = process.env.NODE_ENV.trim() === 'production'
+const isProd = process.env.NODE_ENV.trim() === "production";
+console.log(process.env.NODE_ENV.trim());
 
 const nextConfig = {
   reactStrictMode: true,
@@ -9,7 +10,7 @@ const nextConfig = {
     ignoreDuringBuilds: true,
   },
   //assetPrefix: '/',
-  basePath: isProd ? '/artcogsys.github.io' : "",
-}
- 
-module.exports = nextConfig
+  basePath: isProd ? "/artcogsys.github.io" : "",
+};
+
+module.exports = nextConfig;
