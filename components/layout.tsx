@@ -1,11 +1,18 @@
 /* eslint-disable @next/next/no-img-element */
+import * as React from "react";
 import Head from "next/head";
-import styles from "./layout.module.css";
 import NavTabs from "../components/navTabs";
 
-const name = "ArtCogSys";
+import styles from "./layout.module.css";
+
 export const siteTitle = "Artificial Cognitive Systems Research Group";
 
+/**
+ * The Base layout of the website. Wraps the content with a navigation bar, background video and meta tags
+ * @param children The content of the page.
+ * @param pageIdx The idx of the page on the navigation bar.
+ * @returns {React.ReactNode}
+ */
 export default function Layout({
   children,
   pageIdx,

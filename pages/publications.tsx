@@ -3,7 +3,9 @@ import * as React from "react";
 import Head from "next/head";
 import Layout, { siteTitle } from "../components/layout";
 import { getPublications } from "../lib/people";
-import PublicationAccordion, { Publication } from "../components/publications";
+import PublicationAccordion from "../components/publications";
+
+import { Publication } from "../types/publication";
 import { GetStaticProps } from "next";
 
 import utilStyles from "../styles/utils.module.css";
