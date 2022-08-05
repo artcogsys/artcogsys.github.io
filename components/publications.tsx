@@ -6,6 +6,8 @@ import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import Button from "@mui/material/Button";
+import Stack from "@mui/material/Stack";
 
 import Constants from "../lib/constants";
 import { Publication } from "../types/publication";
@@ -81,13 +83,21 @@ export default function PublicationAccordion({
           </p>
         </AccordionSummary>
         <AccordionDetails>
-          <Typography>
-            <p>{Constants.INFO_SCHOLAR}</p>
-            {publication.bib.abstract}
-            <a href={publication.pub_url} rel="noreferrer" target="_blank">
-              <p>{Constants.ACTION_ARTICLE}</p>
-            </a>
-          </Typography>
+          <Stack spacing={2}>
+            <Typography>{Constants.INFO_SCHOLAR}</Typography>
+            <Typography>{publication.bib.abstract}</Typography>
+            <Typography>
+              <Button
+                component="a"
+                size="small"
+                href={publication.pub_url}
+                rel="noreferrer"
+                target="_blank"
+              >
+                <p>{Constants.ACTION_ARTICLE}</p>
+              </Button>
+            </Typography>
+          </Stack>
         </AccordionDetails>
       </Accordion>
     );
