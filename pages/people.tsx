@@ -28,9 +28,6 @@ export default function People({
 }) {
   return (
     <Layout pageIdx={3}>
-      <Head>
-        <title>{Constants.SITE_TITLE}</title>
-      </Head>
       <article>
         <ImageList
           sx={{ width: "80%", margin: "auto", marginTop: "20px" }}

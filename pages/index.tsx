@@ -15,9 +15,6 @@ import styles from "../styles/utils.module.css";
 export default function Home() {
   return (
     <Layout pageIdx={1}>
-      <Head>
-        <title>{Constants.SITE_TITLE}</title>
-      </Head>
       <article>
         <Container maxWidth="md" className={styles.mainContainer}>
           <Paper elevation={3}>

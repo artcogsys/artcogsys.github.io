@@ -26,9 +26,6 @@ export default function Research({
 }) {
   return (
     <Layout pageIdx={2}>
-      <Head>
-        <title>{Constants.SITE_TITLE}</title>
-      </Head>
       <article>
         <Container maxWidth="md" className={styles.mainContainer}>
           <Box sx={{ width: "100%" }}>

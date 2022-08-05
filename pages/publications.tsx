@@ -30,9 +30,6 @@ export default function Publications({
 
   return (
     <Layout pageIdx={4}>
-      <Head>
-        <title>{Constants.SITE_TITLE}</title>
-      </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{Constants.LABEL_PUBLICATIONS}</h1>
         <PublicationAccordion
