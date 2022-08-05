@@ -1,10 +1,13 @@
 /* eslint-disable @next/next/no-img-element */
 import * as React from "react";
 import Head from "next/head";
+import Container from "@mui/material/Container";
+import { Paper } from "@mui/material";
 import NavTabs from "../components/navTabs";
 
 import Constants from "../lib/constants";
 
+import utilStyles from "../styles/utils.module.css";
 import styles from "./layout.module.css";
 
 /**
@@ -37,7 +40,13 @@ export default function Layout({
           <NavTabs pageIdx={pageIdx} />
         </article>
       </header>
-      <main className={styles.relative}>{children}</main>
+      <main className={styles.relative}>
+        <article>
+          <Container maxWidth="md" className={utilStyles.mainContainer}>
+            {children}
+          </Container>
+        </article>
+      </main>
     </div>
   );
 }

@@ -28,35 +28,26 @@ export default function People({
 }) {
   return (
     <Layout pageIdx={3}>
-      <article>
-        <ImageList
-          sx={{ width: "80%", margin: "auto", marginTop: "20px" }}
-          gap={25}
-          cols={3}
-        >
-          {allPeopleData.map((person) => (
-            <ImageListItem key={person.image}>
-              <Link href={`/team/${person.id}`} passHref>
-                <div>
-                  <img
-                    src={`data:image/png;base64,${person.image}`}
-                    alt={person.title}
-                    loading="lazy"
-                  />
-                  <ImageListItemBar
-                    title={
-                      <Button size="small">
-                        {person.name} - {person.title}
-                      </Button>
-                    }
-                    position="below"
-                  />
-                </div>
-              </Link>
-            </ImageListItem>
-          ))}
-        </ImageList>
-      </article>
+      <ImageList gap={10} cols={3}>
+        {allPeopleData.map((person) => (
+          <ImageListItem key={person.image}>
+            <Link href={`/team/${person.id}`} passHref>
+              <div>
+                <img
+                  src={`data:image/png;base64,${person.image}`}
+                  alt={person.title}
+                  loading="lazy"
+                />
+                <ImageListItemBar
+                  title={<Button size="small">{person.name}</Button>}
+                  subtitle={<Button size="small">{person.title}</Button>}
+                  position="below"
+                />
+              </div>
+            </Link>
+          </ImageListItem>
+        ))}
+      </ImageList>
     </Layout>
   );
 }
