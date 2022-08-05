@@ -5,11 +5,13 @@ import Link from "next/link";
 import ImageList from "@mui/material/ImageList";
 import ImageListItem from "@mui/material/ImageListItem";
 import ImageListItemBar from "@mui/material/ImageListItemBar";
-import Layout, { siteTitle } from "../components/layout";
+import Layout from "../components/layout";
 import { getPeopleData } from "../lib/people";
 import { GetStaticProps } from "next";
 import { Typography } from "@mui/material";
 import Button from "@mui/material/Button";
+
+import Constants from "../lib/constants";
 
 import layoutStyles from "../styles/layout.module.css";
 import utilStyles from "../styles/utils.module.css";
@@ -27,7 +29,7 @@ export default function People({
   return (
     <Layout pageIdx={3}>
       <Head>
-        <title>{siteTitle}</title>
+        <title>{Constants.SITE_TITLE}</title>
       </Head>
       <article>
         <ImageList

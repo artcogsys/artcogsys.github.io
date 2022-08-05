@@ -1,11 +1,13 @@
 /* eslint-disable @next/next/no-img-element */
 import Head from "next/head";
-import Layout, { siteTitle } from "../components/layout";
+import Layout from "../components/layout";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import { Paper } from "@mui/material";
 import Grid from "@mui/material/Grid";
+
+import Constants from "../lib/constants";
 
 import layoutStyles from "../styles/layout.module.css";
 import styles from "../styles/utils.module.css";
@@ -14,7 +16,7 @@ export default function Home() {
   return (
     <Layout pageIdx={1}>
       <Head>
-        <title>{siteTitle}</title>
+        <title>{Constants.SITE_TITLE}</title>
       </Head>
       <article>
         <Container maxWidth="md" className={styles.mainContainer}>
@@ -26,7 +28,7 @@ export default function Home() {
                 </Grid>
                 <Grid item xs={7}>
                   <h5 className={styles.headingXl} style={{ marginTop: "0px" }}>
-                    Mission Statement
+                    {Constants.MISSION}
                   </h5>
                   <Typography variant="body2">
                     Understanding how mind emerges from matter remains one of
@@ -42,7 +44,7 @@ export default function Home() {
                     capable and efficient intelligent agents and provide new
                     insights about human brain function.
                   </Typography>
-                  <Button size="small">Learn More</Button>
+                  <Button size="small">{Constants.ACTION_MORE}</Button>
                 </Grid>
               </Grid>
             </Container>

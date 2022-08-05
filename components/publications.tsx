@@ -7,6 +7,7 @@ import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
+import Constants from "../lib/constants";
 import { Publication } from "../types/publication";
 
 /**
@@ -81,10 +82,10 @@ export default function PublicationAccordion({
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            <p>Abstract taken from Google Scholar:</p>
+            <p>{Constants.INFO_SCHOLAR}</p>
             {publication.bib.abstract}
             <a href={publication.pub_url} rel="noreferrer" target="_blank">
-              <p>Go to article</p>
+              <p>{Constants.ACTION_ARTICLE}</p>
             </a>
           </Typography>
         </AccordionDetails>

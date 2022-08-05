@@ -6,9 +6,11 @@ import { GetStaticProps } from "next";
 
 import { Publication } from "../types/publication";
 
-import Layout, { siteTitle } from "../components/layout";
+import Layout from "../components/layout";
 import PublicationAccordion from "../components/publications";
 import { getPublications } from "../lib/people";
+
+import Constants from "../lib/constants";
 
 import layoutStyles from "../styles/layout.module.css";
 import utilStyles from "../styles/utils.module.css";
@@ -29,10 +31,10 @@ export default function Publications({
   return (
     <Layout pageIdx={4}>
       <Head>
-        <title>{siteTitle}</title>
+        <title>{Constants.SITE_TITLE}</title>
       </Head>
       <article>
-        <h1 className={utilStyles.headingXl}>Publications</h1>
+        <h1 className={utilStyles.headingXl}>{Constants.LABEL_PUBLICATIONS}</h1>
         <PublicationAccordion
           pubs={publicationData.slice(page, page + numPubs)}
         />

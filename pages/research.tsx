@@ -1,6 +1,6 @@
 import * as React from "react";
 import Head from "next/head";
-import Layout, { siteTitle } from "../components/layout";
+import Layout from "../components/layout";
 import { getSortedPostsData } from "../lib/posts";
 import Link from "next/link";
 import Date from "../components/date";
@@ -9,6 +9,8 @@ import Box from "@mui/material/Box";
 import Stack from "@mui/material/Stack";
 import { Button } from "@mui/material";
 import Container from "@mui/material/Container";
+
+import Constants from "../lib/constants";
 
 import styles from "../styles/utils.module.css";
 import layoutStyles from "../styles/layout.module.css";
@@ -25,7 +27,7 @@ export default function Research({
   return (
     <Layout pageIdx={2}>
       <Head>
-        <title>{siteTitle}</title>
+        <title>{Constants.SITE_TITLE}</title>
       </Head>
       <article>
         <Container maxWidth="md" className={styles.mainContainer}>

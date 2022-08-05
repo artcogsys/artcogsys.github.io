@@ -3,9 +3,9 @@ import * as React from "react";
 import Head from "next/head";
 import NavTabs from "../components/navTabs";
 
-import styles from "./layout.module.css";
+import Constants from "../lib/constants";
 
-export const siteTitle = "Artificial Cognitive Systems Research Group";
+import styles from "./layout.module.css";
 
 /**
  * The Base layout of the website. Wraps the content with a navigation bar, background video and meta tags
@@ -24,15 +24,12 @@ export default function Layout({
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/acs.png" />
-        <meta
-          name="description"
-          content="Home of the Artificial Cognitive Systems Research Group"
-        />
-        <meta name="og:title" content={siteTitle} />
+        <meta name="description" content={Constants.META_DESCRIPTION} />
+        <meta name="og:title" content={Constants.SITE_TITLE} />
       </Head>
       <video className={styles.fixed} id="backgroundVideo" autoPlay muted loop>
         <source src="/bgvid.mp4" type="video/mp4" />
-        Your browser does not support HTML5 video.
+        {Constants.INFO_HTML5}
       </video>
       <header className={styles.header}>
         <article>

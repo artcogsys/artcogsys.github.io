@@ -6,10 +6,7 @@ import Tab from "@mui/material/Tab";
 
 import { StyledTab, StyledTabs } from "./styledTabs";
 
-// The URL to the Repository of the group
-const githubRepoUrl: string = "https://github.com/artcogsys";
-// Label of the navigation element leading to the repository
-const repoTabLabel: string = "Code";
+import Constants from "../lib/constants";
 
 /**
  * Navigation Bar.
@@ -31,7 +28,7 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
     // Find the label of the clicked tab
     const tabLabel: string = navElement.outerText;
     // The repo tab leads to an external page, no need to change the active tab
-    if (tabLabel.toUpperCase() !== repoTabLabel.toUpperCase()) {
+    if (tabLabel.toUpperCase() !== Constants.LABEL_REPO.toUpperCase()) {
       // If the user clicks on the logo, set tab for homepage as active, otherwise the clicked tab
       newValue == -1 ? setActiveTab(0) : setActiveTab(newValue);
     }
@@ -48,19 +45,19 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
         aria-label="nav tabs"
       >
         <Tab icon={logo} aria-label="artcogsys" href="/" value={-1} />
-        <StyledTab label="Home" href="/" />
-        <StyledTab label="Research" href="/research" />
-        <StyledTab label="People" href="/people" />
-        <StyledTab label="Publications" href="/publications" />
-        <StyledTab label="Education" href="/education" />
+        <StyledTab label={Constants.LABEL_LANDING} href="/" />
+        <StyledTab label={Constants.LABEL_BLOG} href="/research" />
+        <StyledTab label={Constants.LABEL_TEAM} href="/people" />
+        <StyledTab label={Constants.LABEL_PUBLICATIONS} href="/publications" />
+        <StyledTab label={Constants.LABEL_EDUCATION} href="/education" />
         <StyledTab
           component="a"
-          href={githubRepoUrl}
-          label="Code"
+          href={Constants.GITHUB_URL}
+          label={Constants.LABEL_REPO}
           rel="noreferrer"
           target="_blank"
         />
-        <StyledTab label="Contact" href="/contact" />
+        <StyledTab label={Constants.LABEL_CONTACT} href="/contact" />
       </StyledTabs>
     </Box>
   );
