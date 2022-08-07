@@ -33,7 +33,32 @@ export default function Publications({
   publicationData: Array<Publication>;
 }) {
   const [page, setPage] = React.useState(0);
+  const [textInput, setTextInput] = React.useState(page + 1);
   const numPubs = 15;
+
+  const handleBack = () => {
+    if (page !== 0) {
+      setPage(page - 1);
+    }
+  };
+
+  const handleForward = () => {
+    if (page !== Math.ceil(publicationData.length / numPubs)) {
+      setPage(page + 1);
+    }
+  };
+
+  const handleChange = (event) => {
+    if (
+      !isNaN(event.target.value) &&
+      event.target.value > 0 &&
+      event.target.value < Math.ceil(publicationData.length / numPubs)
+    ) {
+      setTextInput(event.target.value);
+    } else if (event.target.value === "") {
+      setTextInput(event.target.value);
+    }
+  };
 
   return (
     <Layout pageIdx={4}>
@@ -43,7 +68,10 @@ export default function Publications({
             {Constants.LABEL_PUBLICATIONS}
           </h1>
           <PublicationAccordion
-            pubs={publicationData.slice(page, page + numPubs)}
+            pubs={publicationData.slice(
+              page * numPubs,
+              page * numPubs + numPubs
+            )}
           />
         </Stack>
       </Box>
@@ -53,6 +81,7 @@ export default function Publications({
             variant="contained"
             startIcon={<ArrowBackIosIcon />}
             size="medium"
+            onClick={handleBack}
           >
             Next
           </Button>
@@ -66,7 +95,9 @@ export default function Publications({
                     inputProps={{ inputMode: "numeric", pattern: "[0-9]*" }}
                     placeholder=".."
                     variant="standard"
-                    value={page + 1}
+                    value={textInput}
+                    onChange={handleChange}
+                    onBlur={() => setPage(textInput - 1)}
                   />
                 </Grid>
                 <Grid item>
@@ -81,6 +112,7 @@ export default function Publications({
             variant="contained"
             endIcon={<ArrowForwardIosIcon />}
             size="medium"
+            onClick={handleForward}
           >
             Next
           </Button>

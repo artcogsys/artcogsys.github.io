@@ -2,7 +2,6 @@
 import * as React from "react";
 import Head from "next/head";
 import Container from "@mui/material/Container";
-import { Paper } from "@mui/material";
 import NavTabs from "../components/navTabs";
 
 import Constants from "../lib/constants";
@@ -37,7 +36,13 @@ export default function Layout({
       </video>
       <header className={styles.header}>
         <article>
-          <NavTabs pageIdx={pageIdx} />
+          <Container
+            maxWidth="xl"
+            className={utilStyles.mainContainer}
+            style={{ marginTop: "0" }}
+          >
+            <NavTabs pageIdx={pageIdx} />
+          </Container>
         </article>
       </header>
       <main className={styles.relative}>

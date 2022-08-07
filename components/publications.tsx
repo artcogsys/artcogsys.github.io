@@ -22,7 +22,7 @@ export default function PublicationAccordion({
 }: {
   pubs: Array<Publication>;
 }) {
-  const accordion = pubs.map((publication) => {
+  const accordion = pubs.map((publication, idx) => {
     // Split the Authors into a list
     const authors = publication.bib.author.split(" and ");
     // Format the name of each author in the list according to APA guideline.
@@ -51,7 +51,7 @@ export default function PublicationAccordion({
     }
 
     return (
-      <Accordion key={publication.pub_url}>
+      <Accordion key={idx}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel1a-content"

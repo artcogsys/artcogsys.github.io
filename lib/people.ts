@@ -164,9 +164,17 @@ export const getPublications = (sort: boolean): Array<Publication> => {
   });
 
   if (sort) {
-    publications.sort(
-      (a, b) => parseInt(b.bib.pub_year) - parseInt(a.bib.pub_year)
-    );
+    publications.sort((a, b) => {
+      if (a.bib.pub_year === undefined && b.bib.pub_year === undefined) {
+        return 0;
+      } else if (a.bib.pub_year === undefined) {
+        return 1;
+      } else if (b.bib.pub_year === undefined) {
+        return -1;
+      } else {
+        return b.bib.pub_year - a.bib.pub_year;
+      }
+    });
   }
 
   return publications;

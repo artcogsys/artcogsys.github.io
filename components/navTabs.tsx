@@ -35,16 +35,31 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
   };
 
   // artcogsys logo as HTML element, stored so it can be used as an icon.
-  const logo = <img src="/acs.png" height={40} width={40} alt={"artcogsys"} />;
+  const logo = (
+    <img src="/artcogsys.png" height={80} width={80} alt={"artcogsys"} />
+  );
 
   return (
-    <Box sx={{ width: "100%" }}>
+    <Box sx={{ width: "100%", opacity: "90%" }}>
       <StyledTabs
         value={activeTab}
         onChange={handleChange}
         aria-label="nav tabs"
       >
-        <Tab icon={logo} aria-label="artcogsys" href="/" value={-1} />
+        <Tab
+          icon={logo}
+          iconPosition="start"
+          label="Artificial Cognitive Systems"
+          aria-label="artcogsys"
+          href="/"
+          value={-1}
+          style={{
+            fontSize: "0.75rem",
+            maxWidth: "200px",
+            color: "white",
+            fontWeight: "bold",
+          }}
+        />
         <StyledTab label={Constants.LABEL_LANDING} href="/" />
         <StyledTab label={Constants.LABEL_BLOG} href="/research" />
         <StyledTab label={Constants.LABEL_TEAM} href="/people" />
