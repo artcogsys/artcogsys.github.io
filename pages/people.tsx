@@ -40,8 +40,16 @@ export default function People({
                 />
                 <ImageListItemBar
                   title={<Button size="small">{person.name}</Button>}
-                  subtitle={<Button size="small">{person.title}</Button>}
+                  subtitle={
+                    <Button
+                      size="small"
+                      sx={{ fontSize: "small", padding: "0" }}
+                    >
+                      {person.title}
+                    </Button>
+                  }
                   position="below"
+                  sx={{ backgroundColor: "#121212" }}
                 />
               </div>
             </Link>

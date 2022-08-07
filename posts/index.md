@@ -1,6 +1,7 @@
 ---
 title: "Intro"
 date: "2020-01-01"
+author: "Marcel van Gerven"
 ---
 
 # Artificial Cognitive Systems
