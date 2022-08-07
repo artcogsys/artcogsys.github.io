@@ -20,16 +20,14 @@ export default function Post({
       <Head>
         <title>Team - {personData.name}</title>
       </Head>
-      <article>
-        <img
-          src={`data:image/png;base64,${personData.image}`}
-          alt={personData.title}
-          style={{ marginTop: "20px" }}
-        />
-        <h1 className={utilStyles.headingXl}>{personData.name}</h1>
-        <h2 className={utilStyles.headingMd}>{personData.title}</h2>
-        <div dangerouslySetInnerHTML={{ __html: personData.description }} />
-      </article>
+      <img
+        src={`data:image/png;base64,${personData.image}`}
+        alt={personData.title}
+        style={{ marginTop: "20px" }}
+      />
+      <h1 className={utilStyles.headingXl}>{personData.name}</h1>
+      <h2 className={utilStyles.headingMd}>{personData.title}</h2>
+      <div dangerouslySetInnerHTML={{ __html: personData.description }} />
     </Layout>
   );
 }

@@ -26,22 +26,20 @@ export default function Research({
 }) {
   return (
     <Layout pageIdx={2}>
-      <article>
-        <Container maxWidth="md" className={styles.mainContainer}>
-          <Box sx={{ width: "100%" }}>
-            <Stack spacing={2}>
-              {allPostsData.map(({ id, date, title }) => (
-                <Link href={`/posts/${id}`} key={id} passHref>
-                  <Button>
-                    {`${title} - `}
-                    <Date dateString={date} />
-                  </Button>
-                </Link>
-              ))}
-            </Stack>
-          </Box>
-        </Container>
-      </article>
+      <Container maxWidth="md" className={styles.mainContainer}>
+        <Box sx={{ width: "100%" }}>
+          <Stack spacing={2}>
+            {allPostsData.map(({ id, date, title }) => (
+              <Link href={`/posts/${id}`} key={id} passHref>
+                <Button>
+                  {`${title} - `}
+                  <Date dateString={date} />
+                </Button>
+              </Link>
+            ))}
+          </Stack>
+        </Box>
+      </Container>
     </Layout>
   );
 }

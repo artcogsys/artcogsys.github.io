@@ -35,22 +35,18 @@ export default function Layout({
         {Constants.INFO_HTML5}
       </video>
       <header className={styles.header}>
-        <article>
-          <Container
-            maxWidth="xl"
-            className={utilStyles.mainContainer}
-            style={{ marginTop: "0" }}
-          >
-            <NavTabs pageIdx={pageIdx} />
-          </Container>
-        </article>
+        <Container
+          maxWidth="lg"
+          className={utilStyles.mainContainer}
+          style={{ marginTop: "0" }}
+        >
+          <NavTabs pageIdx={pageIdx} />
+        </Container>
       </header>
       <main className={styles.relative}>
-        <article>
-          <Container maxWidth="md" className={utilStyles.mainContainer}>
-            {children}
-          </Container>
-        </article>
+        <Container maxWidth="lg" className={utilStyles.mainContainer}>
+          {children}
+        </Container>
       </main>
     </div>
   );
