@@ -19,7 +19,7 @@ import { Paper } from "@mui/material";
 
 import Constants from "../lib/constants";
 
-import styles from "../styles/utils.module.css";
+import utilStyles from "../styles/utils.module.css";
 import layoutStyles from "../styles/layout.module.css";
 
 export default function Research({
@@ -32,37 +32,58 @@ export default function Research({
     id: string;
   }[];
 }) {
-  console.log(allPostsData);
+  const handleClick = (
+    event: React.MouseEvent<HTMLAnchorElement, MouseEvent>,
+    author: string
+  ) => {
+    const id = author.split(" ")[0].toLowerCase();
+    const currentLocation = window.location.href;
+    console.log(currentLocation);
+    if (currentLocation.includes("localhost")) {
+      window.location.replace(`http://localhost:3000/team/${id}`);
+    } else {
+      window.location.replace(`https://artcogsys.github.io/team/${id}`);
+    }
+  };
+
   return (
     <Layout pageIdx={2}>
       <Box sx={{ width: "100%" }}>
-        <nav aria-label="secondary mailbox folders">
-          <List>
-            <Paper>
-              <ListItem disablePadding>
-                <ListItemButton>
-                  <ListItemText primary="Trash" />
-                </ListItemButton>
-              </ListItem>
-              <Divider />
-              <ListItem disablePadding>
-                <ListItemButton component="a" href="#simple-list">
-                  <ListItemText primary="Spam" />
-                </ListItemButton>
-              </ListItem>
-            </Paper>
-          </List>
-        </nav>
-        <Stack spacing={2}>
-          {allPostsData.map(({ id, date, title, author }) => (
-            <Link href={`/posts/${id}`} key={id} passHref>
-              <Button>
-                {`${title} - `}
-                <Date dateString={date} />
-                {author}
-              </Button>
-            </Link>
-          ))}
+        <Stack spacing={1}>
+          <h1 className={utilStyles.headingXl} style={{ marginTop: "0" }}>
+            {Constants.LABEL_BLOG} Blog
+          </h1>
+          <nav aria-label="secondary mailbox folders">
+            <List>
+              {allPostsData.map(({ id, date, title, author }) => (
+                <Paper key={id}>
+                  <ListItem disablePadding>
+                    <Link href={`/posts/${id}`} passHref>
+                      <ListItemButton>
+                        <ListItemText primary={title} />
+                        <Button
+                          component="a"
+                          href="/"
+                          size="small"
+                          style={{
+                            paddingBottom: "0",
+                            paddingRight: "0",
+                            minWidth: "0",
+                          }}
+                          onClick={(event) => handleClick(event, author)}
+                        >
+                          {author}
+                        </Button>
+                        ,
+                        <Date dateString={date} style={{ marginLeft: "5px" }} />
+                      </ListItemButton>
+                    </Link>
+                  </ListItem>
+                  <Divider />
+                </Paper>
+              ))}
+            </List>
+          </nav>
         </Stack>
       </Box>
     </Layout>

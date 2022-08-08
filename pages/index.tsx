@@ -4,7 +4,6 @@ import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import { Paper } from "@mui/material";
-import Grid from "@mui/material/Grid";
 import Stack from "@mui/material/Stack";
 
 import Constants from "../lib/constants";

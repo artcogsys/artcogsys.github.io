@@ -64,7 +64,7 @@ export default function Publications({
     <Layout pageIdx={4}>
       <Box sx={{ width: "100%" }}>
         <Stack spacing={1}>
-          <h1 className={utilStyles.headingXl}>
+          <h1 className={utilStyles.headingXl} style={{ marginTop: "0" }}>
             {Constants.LABEL_PUBLICATIONS}
           </h1>
           <PublicationAccordion

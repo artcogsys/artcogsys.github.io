@@ -38,4 +38,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 # TODO
 
-Font on exported version doesnt match font on dev version. gets overwritten during export.
+- Font on exported version doesnt match font on dev version. gets overwritten during export.
