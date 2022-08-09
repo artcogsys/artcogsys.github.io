@@ -66,7 +66,11 @@ export const getPeopleData = (): Array<Person> => {
     // Combine data into Person object and push to storage.
     data.push({
       id,
-      ...(matterResult.data as { name: string; title: string }),
+      ...(matterResult.data as {
+        name: string;
+        title: string;
+        affiliation: string;
+      }),
       image,
     });
   });
@@ -137,7 +141,11 @@ export const getPersonData = (id: string): Person => {
     description,
     image,
     publications,
-    ...(matterResult.data as { name: string; title: string }),
+    ...(matterResult.data as {
+      name: string;
+      title: string;
+      affiliation: string;
+    }),
   };
 };
 

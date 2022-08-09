@@ -8,7 +8,6 @@ import { GetStaticProps } from "next";
 import Box from "@mui/material/Box";
 import Stack from "@mui/material/Stack";
 import { Button } from "@mui/material";
-import Container from "@mui/material/Container";
 import List from "@mui/material/List";
 import ListItem from "@mui/material/ListItem";
 import ListItemButton from "@mui/material/ListItemButton";
@@ -66,9 +65,10 @@ export default function Research({
                           href="/"
                           size="small"
                           style={{
-                            paddingBottom: "0",
-                            paddingRight: "0",
+                            padding: "0",
                             minWidth: "0",
+                            textTransform: "none",
+                            fontSize: "18px",
                           }}
                           onClick={(event) => handleClick(event, author)}
                         >
