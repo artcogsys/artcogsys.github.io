@@ -1,0 +1,43 @@
+import { GetStaticProps, GetStaticPaths } from "next";
+import Head from "next/head";
+
+import { Paper } from "@mui/material";
+import Stack from "@mui/material/Stack";
+import Grid from "@mui/material/Grid";
+import Container from "@mui/material/Container";
+
+import Layout from "../../components/layout";
+import Date from "../../components/date";
+
+import utilStyles from "../../styles/utils.module.css";
+
+<Head>
+  <title>Test</title>
+</Head>
+<Stack spacing={1}>
+  <Paper elevation={3} style={{ opacity: "90%" }}>
+    <Container maxWidth="xl" className={utilStyles.padded}>
+      <h1 className={utilStyles.headingXl}>Test</h1>
+      <div className={utilStyles.lightText}>
+        <Date dateString="2020-01-01" />
+      </div>
+    </Container>
+  </Paper>
+</Stack>
+
+# test
+
+{console.log("test")}
+
+export const Local = (props) => <span style={{ color: "red" }} {...props} />;
+
+<Local>local one</Local>.
+
+Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+
+- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
+- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+
+Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+
+export default ({ children }) => <Layout pageIdx={2}>{children}</Layout>;

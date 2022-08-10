@@ -4,7 +4,6 @@ import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
 import { Post } from "../types/post";
-import { serialize } from "next-mdx-remote/serialize";
 
 // path to the directory in which the posts are stored
 const postsDirectoryPath = path.join(process.cwd(), "posts");
@@ -73,12 +72,10 @@ export const getPostData = async (id: string): Promise<Post> => {
   //  .process(matterResult.content);
   //const contentHtml = processedContent.toString();
 
-  const content = await serialize(matterResult.content);
-
   // Combine the data with the id and contentHtml
   return {
     id,
-    content,
+    content: fileContents,
     ...(matterResult.data as { date: string; title: string; author: string }),
   };
 };

@@ -2,13 +2,6 @@ const isProd = process.env.NODE_ENV.trim() === "production";
 console.log(process.env.NODE_ENV.trim());
 
 const nextConfig = require("@next/mdx")({
-  extension: /\.mdx?$/,
-  options: {
-    remarkPlugins: [],
-    rehypePlugins: [],
-    // If you use `MDXProvider`, uncomment the following line.
-    // providerImportSource: "@mdx-js/react",
-  },
   reactStrictMode: true,
   eslint: {
     // Warning: This allows production builds to successfully complete even if
@@ -20,4 +13,6 @@ const nextConfig = require("@next/mdx")({
 });
 
 /** @type {import('next').NextConfig} */
-module.exports = nextConfig;
+module.exports = nextConfig({
+  pageExtensions: ["js", "jsx", "tsx", "mdx"],
+});
