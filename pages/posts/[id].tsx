@@ -1,25 +1,20 @@
-import Layout from "../../components/layout";
-import { getAllPostIds, getPostData } from "../../lib/posts";
-import Head from "next/head";
-import Date from "../../components/date";
-import utilStyles from "../../styles/utils.module.css";
 import { GetStaticProps, GetStaticPaths } from "next";
+import Head from "next/head";
 
+import { MDXRemote } from "next-mdx-remote";
 import { Paper } from "@mui/material";
 import Stack from "@mui/material/Stack";
 import Grid from "@mui/material/Grid";
 import Container from "@mui/material/Container";
 
-export default function Post({
-  postData,
-}: {
-  postData: {
-    name: string;
-    title: string;
-    date: string;
-    contentHtml: string;
-  };
-}) {
+import Layout from "../../components/layout";
+import { getAllPostIds, getPostData } from "../../lib/posts";
+import Date from "../../components/date";
+import { Post } from "../../types/post";
+
+import utilStyles from "../../styles/utils.module.css";
+
+export default function PostPage({ postData }: { postData: Post }) {
   return (
     <Layout pageIdx={2}>
       <Head>
@@ -32,7 +27,7 @@ export default function Post({
             <div className={utilStyles.lightText}>
               <Date dateString={postData.date} />
             </div>
-            <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+            <MDXRemote {...postData.content} />
           </Container>
         </Paper>
       </Stack>
@@ -49,6 +44,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
+  console.log(params);
   const postData = await getPostData(params.id as string);
   return {
     props: {
