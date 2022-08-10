@@ -2,6 +2,10 @@
 import * as React from "react";
 import Head from "next/head";
 import Link from "next/link";
+
+import Container from "@mui/material/Container";
+import { Stack } from "@mui/material";
+import { Paper } from "@mui/material";
 import ImageList from "@mui/material/ImageList";
 import ImageListItem from "@mui/material/ImageListItem";
 import ImageListItemBar from "@mui/material/ImageListItemBar";
@@ -26,36 +30,54 @@ export default function People({
     image: string;
   }[];
 }) {
+  //const titles = allPeopleData.map((person) => person.title).sort();
+  const titles = [
+    "Principal Investigator",
+    "Assistant Professor",
+    "Research Fellow",
+    "Postdoctoral Researcher",
+    "PhD Student",
+  ];
+  console.log(titles);
+
+  const CardStack = titles.map((title, idx) => (
+    <Paper elevation={3} style={{ opacity: "94%" }} key={idx}>
+      <Container maxWidth="xl" className={utilStyles.padded}>
+        <Stack spacing={1}>
+          <h2 className={utilStyles.headingLg}>{title}</h2>
+          <ImageList gap={10} cols={3}>
+            {allPeopleData
+              .filter((person) => person.title === title)
+              .map((person) => (
+                <ImageListItem key={person.image}>
+                  <Link href={`/team/${person.id}`} passHref>
+                    <div>
+                      <img
+                        src={`data:image/png;base64,${person.image}`}
+                        alt={person.title}
+                        loading="lazy"
+                      />
+                      <ImageListItemBar
+                        title={
+                          <Button size="large" sx={{ textTransform: "none" }}>
+                            {person.name}
+                          </Button>
+                        }
+                        position="below"
+                      />
+                    </div>
+                  </Link>
+                </ImageListItem>
+              ))}
+          </ImageList>
+        </Stack>
+      </Container>
+    </Paper>
+  ));
+
   return (
     <Layout pageIdx={3}>
-      <ImageList gap={10} cols={3}>
-        {allPeopleData.map((person) => (
-          <ImageListItem key={person.image}>
-            <Link href={`/team/${person.id}`} passHref>
-              <div>
-                <img
-                  src={`data:image/png;base64,${person.image}`}
-                  alt={person.title}
-                  loading="lazy"
-                />
-                <ImageListItemBar
-                  title={<Button size="small">{person.name}</Button>}
-                  subtitle={
-                    <Button
-                      size="small"
-                      sx={{ fontSize: "small", padding: "0" }}
-                    >
-                      {person.title}
-                    </Button>
-                  }
-                  position="below"
-                  sx={{ backgroundColor: "#121212" }}
-                />
-              </div>
-            </Link>
-          </ImageListItem>
-        ))}
-      </ImageList>
+      <Stack spacing={1}>{CardStack}</Stack>
     </Layout>
   );
 }

@@ -5,6 +5,11 @@ import Date from "../../components/date";
 import utilStyles from "../../styles/utils.module.css";
 import { GetStaticProps, GetStaticPaths } from "next";
 
+import { Paper } from "@mui/material";
+import Stack from "@mui/material/Stack";
+import Grid from "@mui/material/Grid";
+import Container from "@mui/material/Container";
+
 export default function Post({
   postData,
 }: {
@@ -20,11 +25,17 @@ export default function Post({
       <Head>
         <title>{postData.title}</title>
       </Head>
-      <h1 className={utilStyles.headingXl}>{postData.title}</h1>
-      <div className={utilStyles.lightText}>
-        <Date dateString={postData.date} />
-      </div>
-      <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+      <Stack spacing={1}>
+        <Paper elevation={3} style={{ opacity: "90%" }}>
+          <Container maxWidth="xl" className={utilStyles.padded}>
+            <h1 className={utilStyles.headingXl}>{postData.title}</h1>
+            <div className={utilStyles.lightText}>
+              <Date dateString={postData.date} />
+            </div>
+            <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+          </Container>
+        </Paper>
+      </Stack>
     </Layout>
   );
 }
