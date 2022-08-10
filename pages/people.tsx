@@ -30,7 +30,6 @@ export default function People({
     image: string;
   }[];
 }) {
-  //const titles = allPeopleData.map((person) => person.title).sort();
   const titles = [
     "Principal Investigator",
     "Assistant Professor",
@@ -38,13 +37,14 @@ export default function People({
     "Postdoctoral Researcher",
     "PhD Student",
   ];
-  console.log(titles);
 
   const CardStack = titles.map((title, idx) => (
     <Paper elevation={3} style={{ opacity: "94%" }} key={idx}>
       <Container maxWidth="xl" className={utilStyles.padded}>
         <Stack spacing={1}>
-          <h2 className={utilStyles.headingLg}>{title}</h2>
+          <h2 className={utilStyles.headingLg} style={{ marginTop: "0" }}>
+            {title}
+          </h2>
           <ImageList gap={10} cols={3}>
             {allPeopleData
               .filter((person) => person.title === title)
@@ -59,7 +59,14 @@ export default function People({
                       />
                       <ImageListItemBar
                         title={
-                          <Button size="large" sx={{ textTransform: "none" }}>
+                          <Button
+                            size="large"
+                            sx={{
+                              textTransform: "none",
+                              padding: "0",
+                              fontSize: "1.1rem",
+                            }}
+                          >
                             {person.name}
                           </Button>
                         }
