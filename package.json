@@ -33,7 +33,8 @@
     "react-dom": "17.0.2",
     "reading-time": "^1.5.0",
     "remark": "^14.0.2",
-    "remark-html": "^15.0.1"
+    "remark-html": "^15.0.1",
+    "remark-prism": "^1.3.6"
   },
   "devDependencies": {
     "@types/node": "^17.0.20",

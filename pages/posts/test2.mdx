@@ -11,21 +11,12 @@ import Date from "../../components/date";
 
 import utilStyles from "../../styles/utils.module.css";
 
-<Head>
-  <title>Test</title>
-</Head>
-<Stack spacing={1}>
-  <Paper elevation={3} style={{ opacity: "90%" }}>
-    <Container maxWidth="xl" className={utilStyles.padded}>
-      <h1 className={utilStyles.headingXl}>Test</h1>
-      <div className={utilStyles.lightText}>
-        <Date dateString="2020-01-01" />
-      </div>
-    </Container>
-  </Paper>
-</Stack>
+```js
+const year = "2001";
+const movie = "Shrek";
 
-# test
+console.log(`${movie}, ${year}`);
+```
 
 {console.log("test")}
 
@@ -40,4 +31,25 @@ Next.js has two forms of pre-rendering: **Static Generation** and **Server-side 
 
 Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
 
-export default ({ children }) => <Layout pageIdx={2}>{children}</Layout>;
+export default ({ children }) => (
+  <Layout pageIdx={2}>
+    <Head>
+      <link
+        rel="stylesheet"
+        href="https://unpkg.com/dracula-prism/dist/css/dracula-prism.css"
+      ></link>
+      <title>Test</title>
+    </Head>
+    <Stack spacing={1}>
+      <Paper elevation={3} style={{ opacity: "90%" }}>
+        <Container maxWidth="xl" className={utilStyles.padded}>
+          <h1 className={utilStyles.headingXl}>Test</h1>
+          <div className={utilStyles.lightText}>
+            <Date dateString="2020-01-01" />
+          </div>
+          {children}
+        </Container>
+      </Paper>
+    </Stack>
+  </Layout>
+);
