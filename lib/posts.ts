@@ -22,12 +22,12 @@ export const getSortedPostsData = async (): Promise<Array<Post>> => {
     const fullPath = path.join(postsDirectoryPath, fileName);
 
     const fileContents = fs.readFileSync(fullPath, "utf8");
-    const test = await compile(fileContents, {
+    const compiledContent = await compile(fileContents, {
       ...runtime,
       outputFormat: "program",
     } as any);
     const metaExpression =
-      (test.value as any).split("}")[0].split("*/")[1] + "}";
+      (compiledContent.value as any).split("}")[0].split("*/")[1] + "}";
     const { meta } = await evaluate(metaExpression, {
       ...runtime,
     } as any);
