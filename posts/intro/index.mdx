@@ -1,11 +1,8 @@
-export const meta = {
-  title: "Intro",
-  date: "2020-01-02",
-  author: "Marcel van Gerven",
-};
-
-import * as React from "react";
-import LayoutPostWrapper from "../../components/layoutPostWrapper";
+---
+title: "Intro"
+date: "2020-01-02"
+author: "Marcel van Gerven"
+---
 
 # Artificial Cognitive Systems
 
@@ -27,9 +24,3 @@ Understanding how mind emerges from matter is one of the great remaining questio
   src="https://platform.twitter.com/widgets.js"
   charSet="utf-8"
 ></script>
-
-export default ({ children }) => (
-  <LayoutPostWrapper title={meta.title} date={meta.date}>
-    {children}
-  </LayoutPostWrapper>
-);

@@ -1,11 +1,8 @@
-export const meta = {
-  title: "NextJS",
-  date: "2020-01-02",
-  author: "Marcel van Gerven",
-};
-
-import * as React from "react";
-import LayoutPostWrapper from "../../components/layoutPostWrapper";
+---
+title: "NextJS"
+date: "2020-01-02"
+author: "Jan Schering"
+---
 
 ```js
 const year = "2001";
@@ -23,10 +20,6 @@ def test()
 
 {console.log("test")}
 
-export const Local = (props) => <span style={{ color: "red" }} {...props} />;
-
-<Local>local one</Local>.
-
 Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
 
 - **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
@@ -36,19 +29,15 @@ Importantly, Next.js lets you **choose** which pre-rendering form to use for eac
 
 <div id="randomGoesHere" style={{ width: "400px" }} />
 
-<py-script>
-  import random as rd pyscript.write('randomGoesHere', rd.random())
+<script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+
+<div id="replContainer" style={{color: "black"}} />
+
+<py-script style={{display: "none"}}>
+  import random as rd 
+  pyscript.write('randomGoesHere', rd.random())
+  Element("replContainer")
+  console.log(document)
+  repl = document.createElement("py-repl")
+  document.querySelector("#replContainer").appendChild(repl)
 </py-script>
-
-export const head = (
-  <>
-    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
-  </>
-);
-
-export default ({ children }) => (
-  <LayoutPostWrapper date={meta.date} title={meta.title} head={head}>
-    {children}
-  </LayoutPostWrapper>
-);

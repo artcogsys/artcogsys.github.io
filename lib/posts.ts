@@ -2,43 +2,31 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { Post } from "../types/post";
-import { evaluate, compile } from "@mdx-js/mdx";
-import * as runtime from "react/jsx-runtime.js";
 
 // path to the directory in which the posts are stored
-const postsDirectoryPath = path.join(process.cwd(), "pages", "posts");
+const postsDirectoryPath = path.join(process.cwd(), "posts");
 
 /**
  * Retrieve a sparse list of posts from the respective folder.
  */
 export const getSortedPostsData = async (): Promise<Array<Post>> => {
   // Get file names under /posts
-  const fileNames = fs.readdirSync(postsDirectoryPath);
-  const allPostsData = fileNames.map(async (fileName) => {
-    // Remove ".md" from file name to get id
-    const id = fileName.replace(/\.mdx$/, "");
+  const posts = fs.readdirSync(postsDirectoryPath);
+  const allPostsData = posts.map(async (id) => {
 
     // Read markdown file as string
-    const fullPath = path.join(postsDirectoryPath, fileName);
+    const fullPath = path.join(postsDirectoryPath, id, "index.mdx");
 
     const fileContents = fs.readFileSync(fullPath, "utf8");
-    const compiledContent = await compile(fileContents, {
-      ...runtime,
-      outputFormat: "program",
-    } as any);
-    const metaExpression =
-      (compiledContent.value as any).split("}")[0].split("*/")[1] + "}";
-    const { meta } = await evaluate(metaExpression, {
-      ...runtime,
-    } as any);
-    const { title, date, author } = meta as any;
-
+    const matterResult = matter(fileContents)
     // Combine the data with the id
     return {
       id,
-      title,
-      date,
-      author,
+      ...(matterResult.data as {
+        date: string;
+        title: string;
+        author: string;
+      }),
     };
   });
   const data = await Promise.all(allPostsData);
@@ -56,12 +44,18 @@ export const getSortedPostsData = async (): Promise<Array<Post>> => {
  * Retrieve the IDs of all posts.
  */
 export const getAllPostIds = () => {
-  const fileNames = fs.readdirSync(postsDirectoryPath);
-  return fileNames.map((fileName) => {
+  const posts = fs.readdirSync(postsDirectoryPath);
+  return posts.map((id) => {
     return {
-      params: {
-        id: fileName.replace(/\.mdx$/, ""),
-      },
+      params: {id},
     };
   });
+};
+
+/**
+ * Retrieve post.
+ */
+ export const getPost = async (id) => {
+  const postPath = path.join(postsDirectoryPath, id, "index.mdx");
+  return await fs.readFileSync(postPath, "utf8");
 };

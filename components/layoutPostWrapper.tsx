@@ -14,20 +14,20 @@ export default function LayoutPostWrapper({
   children,
   title,
   date,
+  author,
   head,
+  pageIdx,
 }: {
   children: React.ReactNode;
   title: string;
   date: string;
+  author:string;
   head?: React.ReactNode;
+  pageIdx: number;
 }) {
   return (
-    <Layout pageIdx={2}>
+    <Layout pageIdx={pageIdx}>
       <Head>
-        <link
-          rel="stylesheet"
-          href="https://unpkg.com/dracula-prism/dist/css/dracula-prism.css"
-        ></link>
         <title>{title}</title>
         {head}
       </Head>
@@ -38,6 +38,7 @@ export default function LayoutPostWrapper({
             <div className={utilStyles.lightText}>
               <Date dateString={date} />
             </div>
+            <span>{author}</span>
             {children}
           </Container>
         </Paper>
