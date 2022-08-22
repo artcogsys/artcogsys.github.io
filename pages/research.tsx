@@ -1,5 +1,5 @@
 import * as React from "react";
-import Head from "next/head";
+import { useRouter } from 'next/router'
 import Layout from "../components/layout";
 import { getSortedPostsData } from "../lib/posts";
 import Link from "next/link";
@@ -7,7 +7,7 @@ import Date from "../components/date";
 import { GetStaticProps } from "next";
 import Box from "@mui/material/Box";
 import Stack from "@mui/material/Stack";
-import { Button } from "@mui/material";
+import { Button, Typography } from "@mui/material";
 import List from "@mui/material/List";
 import ListItem from "@mui/material/ListItem";
 import ListItemButton from "@mui/material/ListItemButton";
@@ -31,7 +31,9 @@ export default function Research({
     id: string;
   }[];
 }) {
-  const handleClick = (
+  const router = useRouter()
+
+  const handleAuthor = (
     event: React.MouseEvent<HTMLAnchorElement, MouseEvent>,
     author: string
   ) => {
@@ -57,7 +59,7 @@ export default function Research({
               {allPostsData.map(({ id, date, title, author }) => (
                 <Paper key={id}>
                   <ListItem disablePadding>
-                    <Link href={`/posts/${id}`} passHref>
+                    <Typography component="a" href={`/posts/${id}`}>
                       <ListItemButton>
                         <ListItemText primary={title} />
                         <Button
@@ -70,14 +72,14 @@ export default function Research({
                             textTransform: "none",
                             fontSize: "18px",
                           }}
-                          onClick={(event) => handleClick(event, author)}
+                          onClick={(event) => handleAuthor(event, author)}
                         >
                           {author}
                         </Button>
                         ,
                         <Date dateString={date} style={{ marginLeft: "5px" }} />
                       </ListItemButton>
-                    </Link>
+                    </Typography>
                   </ListItem>
                   <Divider />
                 </Paper>

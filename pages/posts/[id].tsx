@@ -1,5 +1,4 @@
 import * as React from "react";
-import path from "path";
 import { GetStaticProps, GetStaticPaths } from "next";
 import remarkMath from "remark-math";
 import rehypeMathjax from "rehype-mathjax";
@@ -15,7 +14,7 @@ const scope = {}
 
 export default function Post({ source, title, date, author }) {
   return (
-    <LayoutPostWrapper date={date} title={title} author={author} pageIdx={1}>
+    <LayoutPostWrapper date={date} title={title} author={author} pageIdx={2}>
       <MDXRemote
         {...source}
         scope={scope}
