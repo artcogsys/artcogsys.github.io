@@ -1,8 +1,6 @@
 import * as React from "react";
-import { useRouter } from 'next/router'
 import Layout from "../components/layout";
 import { getSortedPostsData } from "../lib/posts";
-import Link from "next/link";
 import Date from "../components/date";
 import { GetStaticProps } from "next";
 import Box from "@mui/material/Box";
@@ -31,8 +29,6 @@ export default function Research({
     id: string;
   }[];
 }) {
-  const router = useRouter()
-
   const handleAuthor = (
     event: React.MouseEvent<HTMLAnchorElement, MouseEvent>,
     author: string
