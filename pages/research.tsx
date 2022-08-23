@@ -59,7 +59,7 @@ export default function Research({
               {allPostsData.map(({ id, date, title, author }) => (
                 <Paper key={id}>
                   <ListItem disablePadding>
-                    <Typography component="a" href={`/posts/${id}`}>
+                    <Typography component="a" href={`/posts/${id}`} style={{width: "100%", color: "white"}}>
                       <ListItemButton>
                         <ListItemText primary={title} />
                         <Button
