@@ -10,6 +10,14 @@ const posts: Array<Post> = [
         thumbnail: "/acs.png",
         abstract: "Introducing the Artificial Cognitive Systems research group"
     },
+    {
+        id: "playground",
+        title: "Playground for posts",
+        date: "2022-09-09",
+        author: "Jan Schering",
+        thumbnail: "TODO",
+        abstract: "Testing out some useful functionalities"
+    }
 ]
 
 export default posts

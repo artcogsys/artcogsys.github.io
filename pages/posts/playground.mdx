@@ -1,9 +1,3 @@
----
-title: "NextJS"
-date: "2020-01-02"
-author: "Jan Schering"
----
-
 ```js
 const year = "2001";
 const movie = "Shrek";
@@ -41,3 +35,11 @@ Importantly, Next.js lets you **choose** which pre-rendering form to use for eac
   repl = document.createElement("py-repl")
   document.querySelector("#replContainer").appendChild(repl)
 </py-script>
+
+import LayoutPostWrapper from "../../components/layoutPostWrapper"
+
+export default ({ children }) => (
+  <LayoutPostWrapper pageIdx={2} title="Playground for Posts" date="2022-09-09">
+    {children}
+  </LayoutPostWrapper>
+)
