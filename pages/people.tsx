@@ -48,6 +48,11 @@ export default function People({
           <ImageList gap={10} cols={3}>
             {allPeopleData
               .filter((person) => person.title === title)
+              .sort((a,b) => {
+                const textA = a.name.toUpperCase();
+                const textB = b.name.toUpperCase();
+                return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
+              })
               .map((person) => (
                 <ImageListItem key={person.image}>
                   <Link href={`/team/${person.id}`} passHref>
