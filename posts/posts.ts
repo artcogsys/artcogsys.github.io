@@ -15,7 +15,7 @@ const posts: Array<Post> = [
         title: "Playground for posts",
         date: "2022-09-09",
         author: "Jan Schering",
-        thumbnail: "TODO",
+        thumbnail: "/pyscriptGraphic.png",
         abstract: "Testing out some useful functionalities"
     }
 ]
