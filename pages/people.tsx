@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 import * as React from "react";
-import Head from "next/head";
 import Link from "next/link";
 
 import Container from "@mui/material/Container";
@@ -12,12 +11,8 @@ import ImageListItemBar from "@mui/material/ImageListItemBar";
 import Layout from "../components/layout";
 import { getPeopleData } from "../lib/people";
 import { GetStaticProps } from "next";
-import { Typography } from "@mui/material";
 import Button from "@mui/material/Button";
 
-import Constants from "../lib/constants";
-
-import layoutStyles from "../styles/layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 
 export default function People({
