@@ -11,7 +11,7 @@ import Typography from '@mui/material/Typography';
 import utilStyles from "../styles/utils.module.css";
 import layoutStyles from "../styles/layout.module.css";
 
-export default function PostListV2({
+export default function PostList({
   allPostsData,
   pageIdx,
   unWrapped
@@ -27,8 +27,8 @@ export default function PostListV2({
   pageIdx: number;
   unWrapped?: boolean;
 }) {
-  return unWrapped ? (
-    <Grid container spacing={3}>
+
+  const PostListInner = () => (<Grid container spacing={3}>
             {allPostsData.map(post => (
             <Grid item key={post.id}>
                 <Card elevation={3} sx={{ maxWidth: 250, height: 400 }}>
@@ -39,8 +39,7 @@ export default function PostListV2({
                         alt="thumbnail"
                     />
                     <CardContent>
-                        TEST
-                        <a href={`/posts/${post.id}`} style={{color: "black"}}>
+                        <a href={`/posts/${post.id}`} style={{color: "white"}}>
                         <Typography gutterBottom variant="h5" component="div">
                         {post.title}
                         </Typography>
@@ -52,36 +51,8 @@ export default function PostListV2({
                 </Card>
             </Grid>
             ))}
-        </Grid>
-  ) :(
-    <Layout pageIdx={pageIdx}>
-      <Box sx={{ width: "100%" }}>
-        <Grid container spacing={3}>
-            {allPostsData.map(post => (
-            <Grid item key={post.id}>
-                <Card elevation={3} sx={{ maxWidth: 315, height: 400 }}>
-                    <CardMedia
-                        component="img"
-                        width="313"
-                        height="200"
-                        image={post.thumbnail}
-                        alt="thumbnail"
-                    />
-                    <CardContent>
-                        <a href={`/posts/${post.id}`} style={{color: "black"}}>
-                        <Typography gutterBottom variant="h5" component="div">
-                        {post.title}
-                        </Typography>
-                        </a>
-                        <Typography variant="body2" color="text.secondary">
-                        {post.abstract}
-                        </Typography>
-                    </CardContent>
-                </Card>
-            </Grid>
-            ))}
-        </Grid>
-      </Box>
-    </Layout>
+        </Grid>)
+  return unWrapped ? <PostListInner /> :(
+    <Layout pageIdx={pageIdx}><PostListInner /></Layout>
   );
 }
