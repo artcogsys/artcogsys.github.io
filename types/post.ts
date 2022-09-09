@@ -3,5 +3,6 @@ export type Post = {
   title: string;
   date: string;
   author: string;
-  content?: string;
+  thumbnail: string;
+  abstract: string;
 };
