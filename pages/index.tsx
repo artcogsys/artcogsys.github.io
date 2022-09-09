@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 /* eslint-disable @next/next/no-img-element */
 import Layout from "../components/layout";
 import Button from "@mui/material/Button";
@@ -5,6 +6,8 @@ import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import { Paper } from "@mui/material";
 import Stack from "@mui/material/Stack";
+import PostList from "../components/postList"
+import posts from "../posts/posts"
 
 import Constants from "../lib/constants";
 
@@ -12,6 +15,9 @@ import layoutStyles from "../styles/layout.module.css";
 import styles from "../styles/utils.module.css";
 
 export default function Home() {
+
+  const sortedPostData = posts.sort((a,b) =>  new Date(b.date).getTime() - new Date(a.date).getTime()).slice(0, 3)
+
   return (
     <Layout pageIdx={1}>
       <Stack spacing={1}>
@@ -43,10 +49,12 @@ export default function Home() {
                 drive the development of more capable and efficient intelligent
                 agents and provide new insights about human brain function.
               </Typography>
-              <Button size="small">{Constants.ACTION_MORE}</Button>
             </Stack>
           </Container>
         </Paper>
+        <Typography className={styles.headingXl}>What's New</Typography>
+        <PostList allPostsData={sortedPostData} pageIdx={0} unWrapped />
+            
         <div style={{ marginTop: "5%" }}>
           <a
             className="twitter-timeline"
