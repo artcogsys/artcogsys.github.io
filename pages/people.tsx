@@ -28,7 +28,6 @@ export default function People({
   const titles = [
     "Principal Investigator",
     "Assistant Professor",
-    "Research Fellow",
     "Postdoctoral Researcher",
     "PhD Student",
   ];
@@ -56,6 +55,7 @@ export default function People({
                         src={`data:image/png;base64,${person.image}`}
                         alt={person.title}
                         loading="lazy"
+                        style={{height: 314}}
                       />
                       <ImageListItemBar
                         title={

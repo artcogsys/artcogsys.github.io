@@ -57,7 +57,7 @@ export default function Post({
                 <Grid item>
                   <h1 className={utilStyles.headingXl}>{personData.name}</h1>
                   <h2 className={utilStyles.headingMd}>
-                    {personData.title} - {personData.affiliation}
+                    {personData.title} {personData.affiliation ? "-" : ""} {personData.affiliation}
                   </h2>
                 </Grid>
               </Grid>
