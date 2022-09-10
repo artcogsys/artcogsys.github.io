@@ -24,7 +24,7 @@ export default function LayoutPostWrapper({
   date?: string;
   head?: React.ReactNode;
   pageIdx: number;
-  opaque: boolean;
+  opaque?: boolean;
 }) {
   return (
     <Layout pageIdx={pageIdx}>
