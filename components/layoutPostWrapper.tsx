@@ -17,12 +17,14 @@ export default function LayoutPostWrapper({
   date,
   head,
   pageIdx,
+  opaque=false
 }: {
   children: React.ReactNode;
   title?: string;
   date?: string;
   head?: React.ReactNode;
   pageIdx: number;
+  opaque: boolean;
 }) {
   return (
     <Layout pageIdx={pageIdx}>
@@ -31,7 +33,7 @@ export default function LayoutPostWrapper({
         {head}
       </Head>
       <Stack spacing={1}>
-        <Paper elevation={0} style={{ opacity: "90%" }}>
+        <Paper elevation={0} style={{ opacity: opaque ? "100%" : "90%" }}>
           <Container maxWidth="xl" className={utilStyles.padded}>
             {title ? <h1 className={utilStyles.headingXl}>{title}</h1> : <></>}
             {date ? <div className={utilStyles.lightText}>
