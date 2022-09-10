@@ -10,6 +10,7 @@ import Button from "@mui/material/Button";
 import Stack from "@mui/material/Stack";
 
 import Constants from "../lib/constants";
+import { sortPublicationsByDate } from "../lib/publications"
 import { Publication } from "../types/publication";
 
 /**
@@ -22,7 +23,8 @@ export default function PublicationAccordion({
 }: {
   pubs: Array<Publication>;
 }) {
-  const accordion = pubs.map((publication, idx) => {
+  const sortedPubs = sortPublicationsByDate(pubs)
+  const accordion = sortedPubs.map((publication, idx) => {
     // Split the Authors into a list
     const authors = publication.bib.author.split(" and ");
     // Format the name of each author in the list according to APA guideline.

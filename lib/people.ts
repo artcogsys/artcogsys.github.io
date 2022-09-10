@@ -5,6 +5,7 @@ import { remark } from "remark";
 import html from "remark-html";
 import { Publication } from "../types/publication";
 import { Person } from "../types/person";
+import {sortPublicationsByDate} from "./publications"
 
 // Path to the directory in which the information is stored
 const peopleDirectoryPath = path.join(process.cwd(), "people");
@@ -172,18 +173,10 @@ export const getPublications = (sort: boolean): Array<Publication> => {
   });
 
   if (sort) {
-    publications.sort((a, b) => {
-      if (a.bib.pub_year === undefined && b.bib.pub_year === undefined) {
-        return 0;
-      } else if (a.bib.pub_year === undefined) {
-        return 1;
-      } else if (b.bib.pub_year === undefined) {
-        return -1;
-      } else {
-        return b.bib.pub_year - a.bib.pub_year;
-      }
-    });
+    publications = sortPublicationsByDate(publications)
   }
 
   return publications;
 };
+
+
