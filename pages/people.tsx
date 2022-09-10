@@ -49,9 +49,17 @@ export default function People({
               })
               .map((person) => (
                 <ImageListItem key={person.image}>
-                  <Link href={`/team/${person.id}`} passHref>
-                    <div>
-                      <img
+                  <a 
+                    href={`/team/${person.id}`}
+                    style={{
+                      color: "#90caf9",
+                      lineHeight: "1.75",
+                      fontSize: "1.1rem",
+                      fontWeight: "500",
+                      cursor: "pointer"
+                    }}
+                  >
+                    <img
                         src={`data:image/png;base64,${person.image}`}
                         alt={person.title}
                         loading="lazy"
@@ -72,8 +80,7 @@ export default function People({
                         }
                         position="below"
                       />
-                    </div>
-                  </Link>
+                  </a>
                 </ImageListItem>
               ))}
           </ImageList>
