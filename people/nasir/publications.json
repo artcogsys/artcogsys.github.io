@@ -5,15 +5,15 @@
         "bib": {
             "title": "Keystroke dynamics in the pre-touchscreen era",
             "pub_year": 2013,
-            "author": "Nasir Ahmad and Andrea Szymkowiak and Paul Campbell",
+            "author": "Nasir Ahmad and Andrea Szymkowiak and Paul A Campbell",
             "volume": "7",
             "pages": "835",
-            "publisher": "Frontiers",
+            "publisher": "Frontiers Media SA",
             "abstract": "Biometric authentication seeks to measure an individual’s unique physiological attributes for the purpose of identity verification. Conventionally, this task has been realised via analyses of fingerprints or signature iris patterns. However, whilst such methods effectively offer a superior security protocol compared with password-based approaches for example, their substantial infrastructure costs, and intrusive nature, make them undesirable, and indeed impractical for many scenarios. An alternative approach seeks to develop similarly robust screening protocols through analysis of typing patterns, formally known as keystroke dynamics. Here, keystroke analysis methodologies can utilise multiple variables, and a range of mathematical techniques, in order to extract individuals' typing signatures. Such variables may include measurement of the period between key presses, and/or releases, or even key-strike pressures. Statistical methods, neural networks, and fuzzy logic have often formed the basis for quantitative analysis on the data gathered, typically from conventional computer keyboards. Extension to more recent technologies such as numerical keypads and touch-screen devices is in its infancy, but obviously important as such devices grow in popularity. Here, we review the state of knowledge pertaining to authentication via conventional keyboards with a view towards indicating how this platform of knowledge can be exploited and extended into the newly emergent type-based technological contexts."
         },
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:2osOgNQ5qMEC",
-        "num_citations": 21,
+        "num_citations": 20,
         "citedby_url": "/scholar?cites=17156101252464457256",
         "cites_id": [
             "17156101252464457256"
@@ -25,7 +25,7 @@
             "2015": 4,
             "2016": 3,
             "2017": 2,
-            "2018": 2,
+            "2018": 1,
             "2019": 3,
             "2020": 2,
             "2021": 1,
@@ -36,10 +36,37 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
+            "title": "Gait-prop: A biologically plausible learning rule derived from backpropagation of error",
+            "pub_year": 2020,
+            "author": "Nasir Ahmad and Marcel A van Gerven and Luca Ambrogioni",
+            "journal": "Advances in Neural Information Processing Systems",
+            "volume": "33",
+            "pages": "10913-10923",
+            "abstract": "Traditional backpropagation of error, though a highly successful algorithm for learning in artificial neural network models, includes features which are biologically implausible for learning in real neural circuits. An alternative called target propagation proposes to solve this implausibility by using a top-down model of neural activity to convert an error at the output of a neural network into layer-wise and plausible ‘targets’ for every unit. These targets can then be used to produce weight updates for network training. However, thus far, target propagation has been heuristically proposed without demonstrable equivalence to backpropagation. Here, we derive an exact correspondence between backpropagation and a modified form of target propagation (GAIT-prop) where the target is a small perturbation of the forward pass. Specifically, backpropagation and GAIT-prop give identical updates when synaptic weight matrices are orthogonal. In a series of simple computer vision experiments, we show near-identical performance between backpropagation and GAIT-prop with a soft orthogonality-inducing regularizer."
+        },
+        "filled": true,
+        "author_pub_id": "J9HOU6YAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 18,
+        "citedby_url": "/scholar?cites=15875049954561764197",
+        "cites_id": [
+            "15875049954561764197"
+        ],
+        "pub_url": "https://proceedings.neurips.cc/paper/2020/hash/7ba0691b7777b6581397456412a41390-Abstract.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZSs89dKBT9wJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 2,
+            "2021": 8,
+            "2022": 7
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
             "title": "A new approach to solving the feature-binding problem in primate vision",
             "pub_year": 2018,
             "author": "James B Isbister and Akihiro Eguchi and Nasir Ahmad and Juan M Galeazzi and Mark J Buckley and Simon Stringer",
-            "journal": "Interface Focus",
+            "journal": "Interface focus",
             "volume": "8",
             "number": "4",
             "pages": "20180021",
@@ -48,7 +75,7 @@
         },
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:u-x6o8ySG0sC",
-        "num_citations": 15,
+        "num_citations": 16,
         "citedby_url": "/scholar?cites=9459483670020280580",
         "cites_id": [
             "9459483670020280580"
@@ -60,8 +87,8 @@
             "2018": 3,
             "2019": 3,
             "2020": 4,
-            "2021": 4,
-            "2022": 1
+            "2021": 3,
+            "2022": 3
         },
         "mandates": [
             {
@@ -70,23 +97,15 @@
                 "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
                 "effective_date": "2013/4",
                 "embargo": "6 months",
-                "acknowledgement": " …Medical Research Council (MRC)(grant no. MR/K005480/1) …"
+                "grant": "MR/K005480/1"
             },
             {
-                "agency": "UK Engineering and Physical Sciences Research Council",
+                "agency": "UK Economic and Social Research Council",
                 "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
                 "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
                 "effective_date": "2013/4",
-                "embargo": "6 months",
-                "acknowledgement": " …Engineering and Physical Science Research Council (EPSRC)(grant no. EP/N509711/1) …"
-            },
-            {
-                "agency": "Wellcome Trust",
-                "url_policy": "http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm",
-                "url_policy_cached": "/mandates/wellcome_uk-2018-01-28.pdf",
-                "effective_date": "2013/4",
-                "embargo": "6 months",
-                "acknowledgement": " …Wellcome Trust Strategic Award (grant no. WT101092MA) …"
+                "embargo": "12 months",
+                "acknowledgement": " …Economic and Social Research Council (ESRC)(grant no. ES/J500112/1) …"
             },
             {
                 "agency": "UK Biotechnology and Biological Sciences Research Council",
@@ -97,12 +116,20 @@
                 "acknowledgement": " …Biotechnology and Biological Sciences Research Council (BBSRC)(grant no. BB/J014427/1) …"
             },
             {
-                "agency": "UK Economic and Social Research Council",
+                "agency": "Wellcome Trust",
+                "url_policy": "http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm",
+                "url_policy_cached": "/mandates/wellcome_uk-2018-01-28.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Wellcome Trust Strategic Award (grant no. WT101092MA) …"
+            },
+            {
+                "agency": "UK Engineering and Physical Sciences Research Council",
                 "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
                 "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
                 "effective_date": "2013/4",
-                "embargo": "12 months",
-                "acknowledgement": " …Economic and Social Research Council (ESRC)(grant no. ES/J500112/1) …"
+                "embargo": "6 months",
+                "acknowledgement": " …Engineering and Physical Science Research Council (EPSRC)(grant no. EP/N509711/1) …"
             }
         ]
     },
@@ -122,7 +149,7 @@
         },
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:u5HHmVD_uO8C",
-        "num_citations": 14,
+        "num_citations": 16,
         "citedby_url": "/scholar?cites=1687730347765966201",
         "cites_id": [
             "1687730347765966201"
@@ -135,34 +162,32 @@
             "2019": 3,
             "2020": 1,
             "2021": 3,
-            "2022": 1
+            "2022": 3
         }
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Gait-prop: A biologically plausible learning rule derived from backpropagation of error",
-            "pub_year": 2020,
-            "author": "Nasir Ahmad and Marcel A van Gerven and Luca Ambrogioni",
-            "journal": "Advances in Neural Information Processing Systems",
-            "volume": "33",
-            "pages": "10913-10923",
-            "abstract": "Traditional backpropagation of error, though a highly successful algorithm for learning in artificial neural network models, includes features which are biologically implausible for learning in real neural circuits. An alternative called target propagation proposes to solve this implausibility by using a top-down model of neural activity to convert an error at the output of a neural network into layer-wise and plausible ‘targets’ for every unit. These targets can then be used to produce weight updates for network training. However, thus far, target propagation has been heuristically proposed without demonstrable equivalence to backpropagation. Here, we derive an exact correspondence between backpropagation and a modified form of target propagation (GAIT-prop) where the target is a small perturbation of the forward pass. Specifically, backpropagation and GAIT-prop give identical updates when synaptic weight matrices are orthogonal. In a series of simple computer vision experiments, we show near-identical performance between backpropagation and GAIT-prop with a soft orthogonality-inducing regularizer."
+            "title": "Predictive coding is a consequence of energy efficiency in recurrent neural networks",
+            "pub_year": 2021,
+            "author": "Abdullahi Ali and Nasir Ahmad and Elgar de Groot and Marcel AJ van Gerven and Tim C Kietzmann",
+            "journal": "bioRxiv",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Predictive coding represents a promising framework for understanding brain function. It postulates that the brain continuously inhibits predictable sensory input, ensuring a preferential processing of surprising elements. A central aspect of this view is its hierarchical connectivity, involving recurrent message passing between excitatory bottom-up signals and inhibitory top-down feedback. Here we use computational modelling to demonstrate that such architectural hard-wiring is not necessary. Rather, predictive coding is shown to emerge as a consequence of energy efficiency. When training recurrent neural networks to minimise their energy consumption while operating in predictive environments, the networks self-organise into prediction and error units with appropriate inhibitory and excitatory interconnections, and learn to inhibit predictable sensory input. Moving beyond the view of purely top-down driven predictions, we demonstrate via virtual lesioning experiments that networks perform predictions on two timescales: fast lateral predictions among sensory units, and slower prediction cycles that integrate evidence over time."
         },
         "filled": true,
-        "author_pub_id": "J9HOU6YAAAAJ:Tyk-4Ss8FVUC",
-        "num_citations": 12,
-        "citedby_url": "/scholar?cites=15875049954561764197",
+        "author_pub_id": "J9HOU6YAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 10,
+        "citedby_url": "/scholar?cites=3873756733302774912",
         "cites_id": [
-            "15875049954561764197"
+            "3873756733302774912"
         ],
-        "pub_url": "https://proceedings.neurips.cc/paper/2020/hash/7ba0691b7777b6581397456412a41390-Abstract.html",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ZSs89dKBT9wJ:scholar.google.com/",
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2021.02.16.430904.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gBzKkjlZwjUJ:scholar.google.com/",
         "cites_per_year": {
-            "2020": 2,
-            "2021": 8,
-            "2022": 2
+            "2021": 4,
+            "2022": 6
         }
     },
     {
@@ -175,7 +200,7 @@
             "journal": "Frontiers in computational neuroscience",
             "volume": "10",
             "pages": "24",
-            "publisher": "Frontiers",
+            "publisher": "Frontiers Media SA",
             "abstract": "Attempting to explain the perceptual qualities of pitch has proven to be, and remains, a difficult problem. The wide range of sounds which illicit pitch and a lack of agreement across neurophysiological studies on how pitch is encoded by the brain have made this attempt more difficult. In describing the potential neural mechanisms by which pitch may be processed, a number of neural networks have been proposed and implemented. However, no unsupervised neural networks with biologically accurate cochlear inputs have yet been demonstrated. This paper proposes a simplified system in which pitch representing neurons are easily produced under a highly biological setting. Purely unsupervised regimes of neural network learning are implemented and these prove to be sufficient in identifying the pitch of sounds with a variety of spectral profiles, including missing fundamental sounds."
         },
         "filled": true,
@@ -210,31 +235,7 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Predictive coding is a consequence of energy efficiency in recurrent neural networks",
-            "pub_year": 2021,
-            "author": "Abdullahi Ali and Nasir Ahmad and Elgar de Groot and Marcel AJ van Gerven and Tim C Kietzmann",
-            "journal": "Available at SSRN 3976481",
-            "abstract": "Predictive coding represents a promising framework for understanding brain function. It postulates that the brain continuously inhibits predictable sensory input, ensuring a preferential processing of surprising elements. A central aspect of this view is its hierarchical connectivity, involving recurrent message passing between excitatory bottom-up signals and inhibitory top-down feedback. Here we use computational modelling to demonstrate that such architectural hard-wiring is not necessary. Rather, predictive coding is shown to emerge asa consequence of energy efficiency. When training recurrent neural networks to minimise their energy consumption while operating in predictive environments, the networks self-organise into prediction and error units with appropriate inhibitory and excitatory interconnections, and learn to inhibit predictable sensory input. Moving beyond the view of purely top-down driven predictions, we furthermore demonstrate, via virtual lesioning experiments, that networks perform predictions on two timescales: fast lateral predictions among sensory units, and slower prediction cycles that integrate evidence over time."
-        },
-        "filled": true,
-        "author_pub_id": "J9HOU6YAAAAJ:Y0pCki6q_DkC",
-        "num_citations": 6,
-        "citedby_url": "/scholar?cites=3873756733302774912",
-        "cites_id": [
-            "3873756733302774912"
-        ],
-        "pub_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3976481",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gBzKkjlZwjUJ:scholar.google.com/",
-        "cites_per_year": {
-            "2021": 5,
-            "2022": 1
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Spike: A gpu optimised spiking neural network simulator",
+            "title": "Spike: a GPU optimised spiking neural network simulator",
             "pub_year": 2018,
             "author": "Nasir Ahmad and James B Isbister and Toby St Clere Smithe and Simon M Stringer",
             "journal": "bioRxiv",
@@ -244,7 +245,7 @@
         },
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:d1gkVwhDpl0C",
-        "num_citations": 4,
+        "num_citations": 6,
         "citedby_url": "/scholar?cites=9563982074505779399",
         "cites_id": [
             "9563982074505779399"
@@ -254,9 +255,18 @@
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:x9geTQYXuoQJ:scholar.google.com/",
         "cites_per_year": {
             "2020": 1,
-            "2021": 3
+            "2021": 3,
+            "2022": 2
         },
         "mandates": [
+            {
+                "agency": "UK Engineering and Physical Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …EPSRC)(grant no. EP/N509711/1 …"
+            },
             {
                 "agency": "UK Economic and Social Research Council",
                 "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
@@ -272,14 +282,6 @@
                 "effective_date": "2013/4",
                 "embargo": "6 months",
                 "acknowledgement": " …Biotechnology and Biological Sciences Research Council (BBSRC)[grant number BB/J014427/1] …"
-            },
-            {
-                "agency": "UK Engineering and Physical Sciences Research Council",
-                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
-                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
-                "effective_date": "2013/4",
-                "embargo": "6 months",
-                "acknowledgement": " …EPSRC)(grant no. EP/N509711/1 …"
             }
         ]
     },
@@ -321,9 +323,16 @@
         },
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:kNdYIx-mwKoC",
-        "num_citations": 0,
+        "num_citations": 1,
+        "citedby_url": "/scholar?cites=8653508604911151039",
+        "cites_id": [
+            "8653508604911151039"
+        ],
         "pub_url": "https://arxiv.org/abs/2203.13203",
-        "cites_per_year": {}
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:v-eDWDpwF3gJ:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 1
+        }
     },
     {
         "container_type": "Publication",
@@ -341,6 +350,7 @@
         "num_citations": 0,
         "public_access": true,
         "pub_url": "https://www.biorxiv.org/content/10.1101/2022.02.25.482017.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-5B9qYrF0MAJ:scholar.google.com/",
         "cites_per_year": {},
         "mandates": [
             {

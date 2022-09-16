@@ -15,7 +15,7 @@
         },
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:9yKSN-GCB0IC",
-        "num_citations": 25,
+        "num_citations": 29,
         "citedby_url": "/scholar?cites=17277144270804478242",
         "cites_id": [
             "17277144270804478242"
@@ -28,7 +28,7 @@
             "2019": 7,
             "2020": 7,
             "2021": 4,
-            "2022": 2
+            "2022": 6
         },
         "mandates": [
             {
@@ -65,7 +65,7 @@
         },
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:4DMP91E08xMC",
-        "num_citations": 6,
+        "num_citations": 10,
         "citedby_url": "/scholar?cites=10977080310325828461",
         "cites_id": [
             "10977080310325828461"
@@ -76,17 +76,9 @@
         "cites_per_year": {
             "2020": 1,
             "2021": 3,
-            "2022": 2
+            "2022": 6
         },
         "mandates": [
-            {
-                "agency": "European Commission",
-                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
-                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
-                "effective_date": "2013/12",
-                "embargo": "6 months",
-                "grant": "Advanced iConnect Project Grant ADV 320708"
-            },
             {
                 "agency": "Netherlands Organisation for Scientific Research",
                 "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
@@ -94,6 +86,14 @@
                 "effective_date": "2015/12",
                 "embargo": "none",
                 "acknowledgement": " …NWO Gravitation grant 024.001.006) …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "grant": "Advanced iConnect Project Grant ADV 320708"
             }
         ]
     },
@@ -113,7 +113,7 @@
         },
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:9ZlFYXVOiuMC",
-        "num_citations": 4,
+        "num_citations": 7,
         "citedby_url": "/scholar?cites=5665685728319117251",
         "cites_id": [
             "5665685728319117251"
@@ -123,7 +123,7 @@
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wxd23SaPoE4J:scholar.google.com/",
         "cites_per_year": {
             "2021": 3,
-            "2022": 1
+            "2022": 4
         },
         "mandates": [
             {
@@ -160,17 +160,36 @@
         },
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:mVmsd5A6BfQC",
-        "num_citations": 3,
+        "num_citations": 5,
         "citedby_url": "/scholar?cites=15861735615829015234",
         "cites_id": [
             "15861735615829015234"
         ],
+        "public_access": true,
         "pub_url": "https://www.nature.com/articles/s41598-020-68853-y",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wnqm5oA0INwJ:scholar.google.com/",
         "cites_per_year": {
             "2021": 1,
-            "2022": 2
-        }
+            "2022": 4
+        },
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "grant": "Advanced iConnect Project Grant ADV 320708"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "grant": "Language in Interaction Project Gravitation Grant 024.001. 006"
+            }
+        ]
     },
     {
         "container_type": "Publication",
@@ -186,7 +205,7 @@
         },
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:d1gkVwhDpl0C",
-        "num_citations": 3,
+        "num_citations": 5,
         "citedby_url": "/scholar?cites=16534074432998126370",
         "cites_id": [
             "16534074432998126370"
@@ -195,7 +214,10 @@
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IrO4dBjVdOUJ:scholar.google.com/",
         "cites_per_year": {
             "2018": 1,
-            "2019": 2
+            "2019": 2,
+            "2020": 0,
+            "2021": 0,
+            "2022": 2
         }
     },
     {
@@ -211,7 +233,7 @@
         },
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:u-x6o8ySG0sC",
-        "num_citations": 3,
+        "num_citations": 5,
         "citedby_url": "/scholar?cites=12081245053635736471",
         "cites_id": [
             "12081245053635736471"
@@ -222,8 +244,54 @@
             "2019": 1,
             "2020": 1,
             "2021": 0,
-            "2022": 1
+            "2022": 3
         }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film",
+            "pub_year": 2022,
+            "author": "Julia Berezutskaya and Mariska J Vansteensel and Erik J Aarnoutse and Zachary V Freudenburg and Giovanni Piantoni and Mariana P Branco and Nick F Ramsey",
+            "journal": "Scientific Data",
+            "volume": "9",
+            "number": "1",
+            "pages": "1-13",
+            "publisher": "Nature Publishing Group",
+            "abstract": "Intracranial human recordings are a valuable and rare resource of information about the brain. Making such data publicly available not only helps tackle reproducibility issues in science, it helps make more use of these valuable data. This is especially true for data collected using naturalistic tasks. Here, we describe a dataset collected from a large group of human subjects while they watched a short audiovisual film. The dataset has several unique features. First, it includes a large amount of intracranial electroencephalography (iEEG) data (51 participants, age range of 5–55 years, who all performed the same task). Second, it includes functional magnetic resonance imaging (fMRI) recordings (30 participants, age range of 7–47) during the same task. Eighteen participants performed both iEEG and fMRI versions of the task, non-simultaneously. Third, the data were acquired using a rich audiovisual stimulus, for which …"
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:L8Ckcad2t8MC",
+        "num_citations": 4,
+        "citedby_url": "/scholar?cites=17987651500783133612",
+        "cites_id": [
+            "17987651500783133612"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.nature.com/articles/s41597-022-01173-0",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rGOzv7z5oPkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 4
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
+                "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
+                "effective_date": "2021/2",
+                "embargo": "none",
+                "acknowledgement": " …European Research Council (Advanced iConnect Project Grant ADV 320708) …"
+            }
+        ]
     },
     {
         "container_type": "Publication",
@@ -240,7 +308,7 @@
         },
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:7PzlFSSx8tAC",
-        "num_citations": 2,
+        "num_citations": 3,
         "citedby_url": "/scholar?cites=14556817435830959803",
         "cites_id": [
             "14556817435830959803"
@@ -248,7 +316,8 @@
         "pub_url": "https://www.sciencedirect.com/science/article/pii/S0028393221001585",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:u77qIlU0BMoJ:scholar.google.com/",
         "cites_per_year": {
-            "2021": 2
+            "2021": 2,
+            "2022": 1
         }
     },
     {
@@ -279,29 +348,18 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film",
+            "title": "How does artificial intelligence contribute to iEEG research?",
             "pub_year": 2022,
-            "author": "Julia Berezutskaya and Mariska J Vansteensel and Erik J Aarnoutse and Zachary V Freudenburg and Giovanni Piantoni and Mariana P Branco and Nick F Ramsey",
-            "journal": "Scientific Data",
-            "volume": "9",
-            "number": "1",
-            "pages": "1-13",
-            "publisher": "Nature Publishing Group",
-            "abstract": "Intracranial human recordings are a valuable and rare resource of information about the brain. Making such data publicly available not only helps tackle reproducibility issues in science, it helps make more use of these valuable data. This is especially true for data collected using naturalistic tasks. Here, we describe a dataset collected from a large group of human subjects while they watched a short audiovisual film. The dataset has several unique features. First, it includes a large amount of intracranial electroencephalography (iEEG) data (51 participants, age range of 5–55 years, who all performed the same task). Second, it includes functional magnetic resonance imaging (fMRI) recordings (30 participants, age range of 7–47) during the same task. Eighteen participants performed both iEEG and fMRI versions of the task, non-simultaneously. Third, the data were acquired using a rich audiovisual stimulus, for which …"
+            "author": "Julia Berezutskaya and Anne-Lise Saive and Karim Jerbi and Marcel van Gerven",
+            "journal": "arXiv preprint arXiv:2207.13190",
+            "abstract": "Artificial intelligence (AI) is a fast-growing field focused on modeling and machine implementation of various cognitive functions with an increasing number of applications in computer vision, text processing, robotics, neurotechnology, bio-inspired computing and others. In this chapter, we describe how AI methods can be applied in the context of intracranial electroencephalography (iEEG) research. IEEG data is unique as it provides extremely high-quality signals recorded directly from brain tissue. Applying advanced AI models to these data carries the potential to further our understanding of many fundamental questions in neuroscience. At the same time, as an invasive technique, iEEG lends itself well to long-term, mobile brain-computer interface applications, particularly for communication in severely paralyzed individuals. We provide a detailed overview of these two research directions in the application of AI techniques to iEEG. That is, (1) the development of computational models that target fundamental questions about the neurobiological nature of cognition (AI-iEEG for neuroscience) and (2) applied research on monitoring and identification of event-driven brain states for the development of clinical brain-computer interface systems (AI-iEEG for neurotechnology). We explain key machine learning concepts, specifics of processing and modeling iEEG data and details of state-of-the-art iEEG-based neurotechnology and brain-computer interfaces."
         },
         "filled": true,
-        "author_pub_id": "S3Xx9ccAAAAJ:L8Ckcad2t8MC",
-        "num_citations": 1,
-        "citedby_url": "/scholar?cites=6089997161985470484",
-        "cites_id": [
-            "6089997161985470484"
-        ],
+        "author_pub_id": "S3Xx9ccAAAAJ:HDshCWvjkbEC",
+        "num_citations": 0,
         "public_access": true,
-        "pub_url": "https://www.nature.com/articles/s41597-022-01173-0",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FPBHEycEhFQJ:scholar.google.com/",
-        "cites_per_year": {
-            "2022": 1
-        },
+        "pub_url": "https://arxiv.org/abs/2207.13190",
+        "cites_per_year": {},
         "mandates": [
             {
                 "agency": "Netherlands Organisation for Scientific Research",
@@ -309,7 +367,90 @@
                 "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
                 "effective_date": "2021/1",
                 "embargo": "none",
-                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) …"
+                "acknowledgement": " …NWO Gravitation Grant No. 024.001.006) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards Naturalistic Speech Decoding from Intracranial Brain Data",
+            "pub_year": 2022,
+            "author": "Julia Berezutskaya and Luca Ambrogioni and Nick F Ramsey and Marcel AJ van Gerven",
+            "conference": "2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
+            "pages": "3100-3104",
+            "publisher": "IEEE",
+            "abstract": "Speech decoding from brain activity can enable development of brain-computer interfaces (BCIs) to restore naturalistic communication in paralyzed patients. Previous work has focused on development of decoding models from isolated speech data with a clean background and multiple repetitions of the material. In this study, we describe a novel approach to speech decoding that relies on a generative adversarial neural network (GAN) to reconstruct speech from brain data recorded during a naturalistic speech listening task (watching a movie). We compared the GAN-based approach, where reconstruction was done from the compressed latent representation of sound decoded from the brain, with several baseline models that reconstructed sound spectrogram directly. We show that the novel approach provides more accurate reconstructions compared to the baselines. These results underscore the potential of GAN …"
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 0,
+        "public_access": true,
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/9871301/",
+        "cites_per_year": {},
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) 1Julia …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
+                "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
+                "effective_date": "2021/2",
+                "embargo": "none",
+                "acknowledgement": " …European Research Council (Advanced iConnect Project Grant ADV 320708) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mapping Acoustics to Articulatory Gestures in Dutch: Relating Speech Gestures, Acoustics and Neural Data",
+            "pub_year": 2022,
+            "author": "Paolo Favero and Julia Berezutskaya and Nick F Ramsey and Aleksei Nazarov and Zachary V Freudenburg",
+            "conference": "2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
+            "pages": "802-806",
+            "publisher": "IEEE",
+            "abstract": "Completely locked-in patients suffer from paralysis affecting every muscle in their body, reducing their communication means to brain-computer interfaces (BCIs). State-of-the-art BCIs have a slow spelling rate, which inevitably places a burden on patients' quality of life. Novel techniques address this problem by following a bio-mimetic approach, which consists of decoding sensory-motor cortex (SMC) activity that underlies the movements of the vocal tract's articulators. As recording articulatory data in combination with neural recordings is often unfeasible, the goal of this study was to develop an acoustic-to-articulatory inversion (AAI) model, i.e. an algorithm that generates articulatory data (speech gestures) from acoustics. A fully convolutional neural network was trained to solve the AAI mapping, and was tested on an unseen acoustic set, recorded simultaneously with neural data. Representational similarity analysis …"
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 0,
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/9871909/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Direct Speech Reconstruction from Sensorimotor Brain Activity with Optimized Deep Learning Models",
+            "pub_year": 2022,
+            "author": "Julia Berezutskaya and Zachary V Freudenburg and Mariska J Vansteensel and Erik J Aarnoutse and Nick F Ramsey and Marcel AJ van Gerven",
+            "journal": "bioRxiv",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Development of brain-computer interface (BCI) technology is key for enabling communication in individuals who have lost the faculty of speech due to severe motor paralysis. A BCI control strategy that is gaining attention employs speech decoding from neural data. Recent studies have shown that a combination of direct neural recordings and advanced computational models can provide promising results. Understanding which decoding strategies deliver best and directly applicable results is crucial for advancing the field. In this paper, we optimized and validated a decoding approach based on speech reconstruction directly from high-density electrocorticography recordings from sensorimotor cortex during a speech production task. We show that 1) dedicated machine learning optimization of reconstruction models is key for achieving the best reconstruction performance; 2) individual word decoding in reconstructed speech achieves 92-100\\% accuracy (chance level is 8\\%); 3) direct reconstruction from sensorimotor brain activity produces intelligible speech. These results underline the need for model optimization in achieving best speech decoding results and highlight the potential that reconstruction-based speech decoding from sensorimotor cortex can offer for development of next-generation BCI technology for communication."
+        },
+        "filled": true,
+        "author_pub_id": "S3Xx9ccAAAAJ:TQgYirikUcIC",
+        "num_citations": 0,
+        "public_access": true,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2022.08.02.502503.abstract",
+        "cites_per_year": {},
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Consortium, Gravitation Grant No. 024.001.006 …"
             },
             {
                 "agency": "European Commission",
@@ -333,7 +474,7 @@
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:Wp0gIr-vW9MC",
         "num_citations": 0,
-        "pub_url": "https://www.narcis.nl/publication/RecordID/oai:dspace.library.uu.nl:1874%2F397500",
+        "pub_url": "https://dspace.library.uu.nl/handle/1874/397500",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zutOWRVDemMJ:scholar.google.com/",
         "cites_per_year": {}
     },

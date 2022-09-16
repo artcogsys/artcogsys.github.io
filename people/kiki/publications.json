@@ -3,58 +3,6 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Opponent coding of sound location (azimuth) in planum temporale is robust to sound-level variations",
-            "pub_year": 2016,
-            "author": "Kiki Derey and Giancarlo Valente and Beatrice De Gelder and Elia Formisano",
-            "journal": "Cerebral Cortex",
-            "volume": "26",
-            "number": "1",
-            "pages": "450-464",
-            "publisher": "Oxford University Press",
-            "abstract": "Coding of sound location in auditory cortex (AC) is only partially understood. Recent electrophysiological research suggests that neurons in mammalian auditory cortex are characterized by broad spatial tuning and a preference for the contralateral hemifield, that is, a nonuniform sampling of sound azimuth. Additionally, spatial selectivity decreases with increasing sound intensity. To accommodate these findings, it has been proposed that sound location is encoded by the integrated activity of neuronal populations with opposite hemifield tuning (“opponent channel model”). In this study, we investigated the validity of such a model in human AC with functional magnetic resonance imaging (fMRI) and a phase-encoding paradigm employing binaural stimuli recorded individually for each participant. In all subjects, we observed preferential fMRI responses to contralateral azimuth positions. Additionally, in most AC …"
-        },
-        "filled": true,
-        "author_pub_id": "l1vEmKMAAAAJ:u-x6o8ySG0sC",
-        "num_citations": 33,
-        "citedby_url": "/scholar?cites=650537980339629491",
-        "cites_id": [
-            "650537980339629491"
-        ],
-        "public_access": true,
-        "pub_url": "https://academic.oup.com/cercor/article-abstract/26/1/450/2367431",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sy0Lr9gsBwkJ:scholar.google.com/",
-        "cites_per_year": {
-            "2016": 1,
-            "2017": 8,
-            "2018": 9,
-            "2019": 6,
-            "2020": 5,
-            "2021": 2,
-            "2022": 2
-        },
-        "mandates": [
-            {
-                "agency": "European Commission",
-                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
-                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
-                "effective_date": "2013/12",
-                "embargo": "6 months",
-                "acknowledgement": " …ERC grant agreement number 295673 …"
-            },
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …Netherlands Organization for Scientific Research (NWO), Middle-sized Infrastructural Grant 480-09-006 and VICI 453-12-002 …"
-            }
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
             "title": "Cortical mechanisms of spatial hearing",
             "pub_year": 2019,
             "author": "Kiki van der Heijden and Josef P Rauschecker and Beatrice de Gelder and Elia Formisano",
@@ -66,7 +14,7 @@
         },
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:9yKSN-GCB0IC",
-        "num_citations": 32,
+        "num_citations": 38,
         "citedby_url": "/scholar?cites=18196024213832332372",
         "cites_id": [
             "18196024213832332372"
@@ -77,8 +25,8 @@
         "cites_per_year": {
             "2019": 1,
             "2020": 6,
-            "2021": 18,
-            "2022": 7
+            "2021": 17,
+            "2022": 14
         },
         "mandates": [
             {
@@ -87,7 +35,7 @@
                 "url_policy_cached": "/mandates/nih-2021-02-13.pdf",
                 "effective_date": "2008/4",
                 "embargo": "12 months",
-                "acknowledgement": " …US National Institutes of Health (grant numbers R01EY018923 and R01DC014989 …"
+                "grant": "R01 DC014989"
             },
             {
                 "agency": "Netherlands Organisation for Scientific Research",
@@ -127,6 +75,58 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
+            "title": "Opponent coding of sound location (azimuth) in planum temporale is robust to sound-level variations",
+            "pub_year": 2016,
+            "author": "Kiki Derey and Giancarlo Valente and Beatrice De Gelder and Elia Formisano",
+            "journal": "Cerebral Cortex",
+            "volume": "26",
+            "number": "1",
+            "pages": "450-464",
+            "publisher": "Oxford University Press",
+            "abstract": "Coding of sound location in auditory cortex (AC) is only partially understood. Recent electrophysiological research suggests that neurons in mammalian auditory cortex are characterized by broad spatial tuning and a preference for the contralateral hemifield, that is, a nonuniform sampling of sound azimuth. Additionally, spatial selectivity decreases with increasing sound intensity. To accommodate these findings, it has been proposed that sound location is encoded by the integrated activity of neuronal populations with opposite hemifield tuning (“opponent channel model”). In this study, we investigated the validity of such a model in human AC with functional magnetic resonance imaging (fMRI) and a phase-encoding paradigm employing binaural stimuli recorded individually for each participant. In all subjects, we observed preferential fMRI responses to contralateral azimuth positions. Additionally, in most AC …"
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 34,
+        "citedby_url": "/scholar?cites=650537980339629491",
+        "cites_id": [
+            "650537980339629491"
+        ],
+        "public_access": true,
+        "pub_url": "https://academic.oup.com/cercor/article-abstract/26/1/450/2367431",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sy0Lr9gsBwkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 1,
+            "2017": 8,
+            "2018": 9,
+            "2019": 6,
+            "2020": 5,
+            "2021": 2,
+            "2022": 3
+        },
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …ERC grant agreement number 295673 …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organization for Scientific Research (NWO), Middle-sized Infrastructural Grant 480-09-006 and VICI 453-12-002 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
             "title": "Active sound localization sharpens spatial tuning in human primary auditory cortex",
             "pub_year": 2018,
             "author": "Kiki van der Heijden and Josef P Rauschecker and Elia Formisano and Giancarlo Valente and Beatrice de Gelder",
@@ -139,7 +139,7 @@
         },
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:d1gkVwhDpl0C",
-        "num_citations": 22,
+        "num_citations": 27,
         "citedby_url": "/scholar?cites=15119423036839150206",
         "cites_id": [
             "15119423036839150206"
@@ -151,10 +151,18 @@
             "2018": 1,
             "2019": 5,
             "2020": 5,
-            "2021": 10,
-            "2022": 1
+            "2021": 9,
+            "2022": 6
         },
         "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Union’s Horizon 2020 Research and Innovation Programme Grant 645553 …"
+            },
             {
                 "agency": "US National Institutes of Health",
                 "url_policy": "https://publicaccess.nih.gov/policy.htm",
@@ -162,14 +170,6 @@
                 "effective_date": "2008/4",
                 "embargo": "12 months",
                 "acknowledgement": " …NIH Grants R01EY018923 and R01DC014989 …"
-            },
-            {
-                "agency": "German Research Foundation",
-                "url_policy": "https://www.dfg.de/formulare/2_012e/2_012e.pdf",
-                "url_policy_cached": "/mandates/dfg_de-2021-02-13-en.pdf",
-                "effective_date": "2006/1",
-                "embargo": "12 months",
-                "acknowledgement": " …German Excellence Initiative …"
             },
             {
                 "agency": "Netherlands Organisation for Scientific Research",
@@ -180,12 +180,12 @@
                 "acknowledgement": " …NWO Vici-Grant 453-12-002 …"
             },
             {
-                "agency": "European Commission",
-                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
-                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
-                "effective_date": "2013/12",
-                "embargo": "6 months",
-                "acknowledgement": " …European Union’s Horizon 2020 Research and Innovation Programme Grant 645553 …"
+                "agency": "German Research Foundation",
+                "url_policy": "https://www.dfg.de/formulare/2_012e/2_012e.pdf",
+                "url_policy_cached": "/mandates/dfg_de-2021-02-13-en.pdf",
+                "effective_date": "2006/1",
+                "embargo": "12 months",
+                "acknowledgement": " …German Excellence Initiative …"
             },
             {
                 "agency": "US National Science Foundation",
@@ -213,7 +213,7 @@
         },
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:u5HHmVD_uO8C",
-        "num_citations": 8,
+        "num_citations": 9,
         "citedby_url": "/scholar?cites=12835006025266948382",
         "cites_id": [
             "12835006025266948382"
@@ -226,17 +226,9 @@
             "2019": 2,
             "2020": 0,
             "2021": 2,
-            "2022": 2
+            "2022": 3
         },
         "mandates": [
-            {
-                "agency": "US National Institutes of Health",
-                "url_policy": "https://publicaccess.nih.gov/policy.htm",
-                "url_policy_cached": "/mandates/nih-2021-02-13.pdf",
-                "effective_date": "2008/4",
-                "embargo": "12 months",
-                "acknowledgement": " …NIH Grant No. R01 EY018923 …"
-            },
             {
                 "agency": "US National Science Foundation",
                 "url_policy": "https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf",
@@ -244,6 +236,14 @@
                 "effective_date": "2016/1",
                 "embargo": "12 months",
                 "acknowledgement": " …National Science Foundation (OISE-0730255 …"
+            },
+            {
+                "agency": "US National Institutes of Health",
+                "url_policy": "https://publicaccess.nih.gov/policy.htm",
+                "url_policy_cached": "/mandates/nih-2021-02-13.pdf",
+                "effective_date": "2008/4",
+                "embargo": "12 months",
+                "grant": "R01 DC014989"
             },
             {
                 "agency": "European Commission",
@@ -271,7 +271,7 @@
         },
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:2osOgNQ5qMEC",
-        "num_citations": 5,
+        "num_citations": 6,
         "citedby_url": "/scholar?cites=150756900797616219",
         "cites_id": [
             "150756900797616219"
@@ -283,7 +283,7 @@
             "2019": 1,
             "2020": 0,
             "2021": 3,
-            "2022": 1
+            "2022": 2
         },
         "mandates": [
             {
@@ -300,7 +300,7 @@
                 "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
                 "effective_date": "2013/12",
                 "embargo": "6 months",
-                "grant": "295673"
+                "grant": "FP7/2007-2013"
             }
         ]
     },
@@ -320,7 +320,7 @@
         },
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:Y0pCki6q_DkC",
-        "num_citations": 2,
+        "num_citations": 4,
         "citedby_url": "/scholar?cites=1061256029310322770",
         "cites_id": [
             "1061256029310322770"
@@ -329,7 +329,9 @@
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:UojIYrxWug4J:scholar.google.com/",
         "cites_per_year": {
             "2019": 1,
-            "2020": 1
+            "2020": 1,
+            "2021": 0,
+            "2022": 2
         }
     },
     {
@@ -344,7 +346,7 @@
         },
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:Tyk-4Ss8FVUC",
-        "num_citations": 2,
+        "num_citations": 3,
         "citedby_url": "/scholar?cites=14532953038912782359",
         "cites_id": [
             "14532953038912782359"
@@ -353,7 +355,7 @@
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:F4DUPcprr8kJ:scholar.google.com/",
         "cites_per_year": {
             "2021": 1,
-            "2022": 1
+            "2022": 2
         }
     },
     {
@@ -370,7 +372,7 @@
         },
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:zYLM7Y9cAGgC",
-        "num_citations": 2,
+        "num_citations": 3,
         "citedby_url": "/scholar?cites=9886700957911833425",
         "cites_id": [
             "9886700957911833425"
@@ -379,7 +381,7 @@
         "pub_url": "https://www.biorxiv.org/content/10.1101/869578.abstract",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:UVvZpCOeNIkJ:scholar.google.com/",
         "cites_per_year": {
-            "2020": 1,
+            "2020": 2,
             "2021": 1
         },
         "mandates": [
@@ -408,11 +410,17 @@
         },
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:eQOLeE2rZwMC",
-        "num_citations": 0,
+        "num_citations": 1,
+        "citedby_url": "/scholar?cites=12399099909776145469",
+        "cites_id": [
+            "12399099909776145469"
+        ],
         "public_access": true,
         "pub_url": "https://www.sciencedirect.com/science/article/pii/S0925231221011085",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PfzIuKxzEqwJ:scholar.google.com/",
-        "cites_per_year": {},
+        "cites_per_year": {
+            "2022": 1
+        },
         "mandates": [
             {
                 "agency": "European Commission",
@@ -423,5 +431,38 @@
                 "acknowledgement": " …European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 898134 …"
             }
         ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Interaction of bottom-up and top-down neural mechanisms in spatial multi-talker speech perception",
+            "pub_year": 2022,
+            "author": "Prachi Patel and Kiki van der Heijden and Stephan Bickel and Jose L Herrero and Ashesh D Mehta and Nima Mesgarani",
+            "journal": "Current Biology",
+            "publisher": "Cell Press",
+            "abstract": "How the human auditory cortex represents spatially separated simultaneous talkers and how talkers’ locations and voices modulate the neural representations of attended and unattended speech are unclear. Here, we measured the neural responses from electrodes implanted in neurosurgical patients as they performed single-talker and multi-talker speech perception tasks. We found that spatial separation between talkers caused a preferential encoding of the contralateral speech in Heschl’s gyrus (HG), planum temporale (PT), and superior temporal gyrus (STG). Location and spectrotemporal features were encoded in different aspects of the neural response. Specifically, the talker’s location changed the mean response level, whereas the talker’s spectrotemporal features altered the variation of response around response's baseline. These components were differentially modulated by the attended talker’s voice or …"
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:ufrVoPGSRksC",
+        "num_citations": 0,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0960982222011964",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "BAST: Binaural Audio Spectrogram Transformer for Binaural Sound Localization",
+            "pub_year": 2022,
+            "author": "Sheng Kuang and Kiki van der Heijden and Siamak Mehrkanoon",
+            "journal": "arXiv preprint arXiv:2207.03927",
+            "abstract": "Accurate sound localization in a reverberation environment is essential for human auditory perception. Recently, Convolutional Neural Networks (CNNs) have been utilized to model the binaural human auditory pathway. However, CNN shows barriers in capturing the global acoustic features. To address this issue, we propose a novel end-to-end Binaural Audio Spectrogram Transformer (BAST) model to predict the sound azimuth in both anechoic and reverberation environments. Two modes of implementation, i.e. BAST-SP and BAST-NSP corresponding to BAST model with shared and non-shared parameters respectively, are explored. Our model with subtraction interaural integration and hybrid loss achieves an angular distance of 1.29 degrees and a Mean Square Error of 1e-3 at all azimuths, significantly surpassing CNN based model. The exploratory analysis of the BAST's performance on the left-right hemifields and anechoic and reverberation environments shows its generalization ability as well as the feasibility of binaural Transformers in sound localization. Furthermore, the analysis of the attention maps is provided to give additional insights on the interpretation of the localization process in a natural reverberant environment."
+        },
+        "filled": true,
+        "author_pub_id": "l1vEmKMAAAAJ:WF5omc3nYNoC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/2207.03927",
+        "cites_per_year": {}
     }
 ]

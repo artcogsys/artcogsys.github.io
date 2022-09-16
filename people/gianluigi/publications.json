@@ -57,14 +57,14 @@
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
             "title": "Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling",
-            "pub_year": 2021,
+            "pub_year": 2022,
             "author": "Gianluigi Silvestri and Emily Fertig and Dave Moore and Luca Ambrogioni",
-            "journal": "arXiv preprint arXiv:2110.06021",
+            "conference": "International Conference on Learning Representations",
             "abstract": "Normalizing flows have shown great success as general-purpose density estimators. However, many real world applications require the use of domain-specific knowledge, which normalizing flows cannot readily incorporate. We propose embedded-model flows (EMF), which alternate general-purpose transformations with structured layers that embed domain-specific inductive biases. These layers are automatically constructed by converting user-specified differentiable probabilistic models into equivalent bijective transformations. We also introduce gated structured layers, which allow bypassing the parts of the models that fail to capture the statistics of the data. We demonstrate that EMFs can be used to induce desirable properties such as multimodality, hierarchical coupling and continuity. Furthermore, we show that EMFs enable a high performance form of variational inference where the structure of the prior model is embedded in the variational architecture. In our experiments, we show that this approach outperforms state-of-the-art methods in common structured inference problems."
         },
         "filled": true,
         "author_pub_id": "BKRLVogAAAAJ:UeHWp8X0CEIC",
-        "num_citations": 1,
+        "num_citations": 2,
         "citedby_url": "/scholar?cites=13875622113438069976",
         "cites_id": [
             "13875622113438069976"
@@ -72,8 +72,26 @@
         "pub_url": "https://arxiv.org/abs/2110.06021",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2PQHxcsckMAJ:scholar.google.com/",
         "cites_per_year": {
-            "2021": 1
+            "2021": 1,
+            "2022": 1
         }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Closing the gap: Exact maximum likelihood training of generative autoencoders using invertible layers",
+            "pub_year": 2022,
+            "author": "Gianluigi Silvestri and Daan Roos and Luca Ambrogioni",
+            "journal": "arXiv preprint arXiv:2205.09546",
+            "abstract": "In this work, we provide an exact likelihood alternative to the variational training of generative autoencoders. We show that VAE-style autoencoders can be constructed using invertible layers, which offer a tractable exact likelihood without the need for any regularization terms. This is achieved while leaving complete freedom in the choice of encoder, decoder and prior architectures, making our approach a drop-in replacement for the training of existing VAEs and VAE-style models. We refer to the resulting models as Autoencoders within Flows (AEF), since the encoder, decoder and prior are defined as individual layers of an overall invertible architecture. We show that the approach results in strikingly higher performance than architecturally equivalent VAEs in term of log-likelihood, sample quality and denoising performance. In a broad sense, the main ambition of this work is to close the gap between the normalizing flow and autoencoder literature under the common framework of invertibility and exact maximum likelihood."
+        },
+        "filled": true,
+        "author_pub_id": "BKRLVogAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/2205.09546",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1y8f7EsJbDUJ:scholar.google.com/",
+        "cites_per_year": {}
     },
     {
         "container_type": "Publication",
