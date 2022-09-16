@@ -1,1 +1,892 @@
-[]
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic stability of sequential stimulus representations in adapting neuronal networks",
+            "pub_year": 2014,
+            "citation": "Frontiers in Computational Neuroscience 8 (124), 2014",
+            "author": "Renato Duarte and Abigail Morrison",
+            "journal": "Frontiers in Computational Neuroscience",
+            "volume": "8",
+            "number": "124",
+            "publisher": "Frontiers Media SA",
+            "abstract": "The ability to acquire and maintain appropriate representations of time-varying, sequential stimulus events is a fundamental feature of neocortical circuits and a necessary first step towards more specialized information processing. The dynamical properties of such representations depend on the current state of the circuit, which is determined primarily by the ongoing, internally generated activity, setting the ground state from which input-specific transformations emerge. Here, we begin by demonstrating that timing-dependent synaptic plasticity mechanisms have an important role to play in the active maintenance of an ongoing dynamics characterized by asynchronous and irregular firing, closely resembling cortical activity in vivo. Incoming stimuli, acting as perturbations of the local balance of excitation and inhibition, require fast adaptive responses to prevent the development of unstable activity regimes, such as those characterized by a high degree of population-wide synchrony. We establish a link between such pathological network activity, which is circumvented by the action of plasticity, and a reduced computational capacity. Additionally, we demonstrate that the action of plasticity shapes and stabilizes the transient network states exhibited in the presence of sequentially presented stimulus events, allowing the development of adequate and discernible stimulus representations. The main feature responsible for the increased discriminability of stimulus-driven population responses in plastic networks is shown to be the decorrelating action of inhibitory plasticity and the consequent maintenance of the asynchronous irregular dynamic regime both …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:qjMakFHDy7sC",
+        "num_citations": 25,
+        "citedby_url": "/scholar?hl=en&cites=5249679777408804923",
+        "cites_id": [
+            "5249679777408804923"
+        ],
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fncom.2014.00124/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:O-gAjfGb2kgJ:scholar.google.com/",
+        "cites_per_year": {
+            "2015": 4,
+            "2016": 4,
+            "2017": 4,
+            "2018": 4,
+            "2019": 3,
+            "2020": 2,
+            "2021": 2,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synaptic patterning and the timescales of cortical dynamics",
+            "pub_year": 2017,
+            "citation": "Current Opinion in Neurobiology 43, 156-165, 2017",
+            "author": "Renato Duarte and Alexander Seeholzer and Karl Zilles and Abigail Morrison",
+            "volume": "43",
+            "pages": "156-165",
+            "publisher": "Elsevier Current Trends",
+            "abstract": "Neocortical circuits, as large heterogeneous recurrent networks, can potentially operate and process signals at multiple timescales, but appear to be differentially tuned to operate within certain temporal receptive windows. The modular and hierarchical organization of this selectivity mirrors anatomical and physiological relations throughout the cortex and is likely determined by the regional electrochemical composition. Being consistently patterned and actively regulated, the expression of molecules involved in synaptic transmission constitutes the most significant source of laminar and regional variability. Due to their complex kinetics and adaptability, synapses form a natural primary candidate underlying this regional temporal selectivity. The ability of cortical networks to reflect the temporal structure of the sensory environment can thus be regulated by evolutionary and experience-dependent processes."
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:PELIpwtuRlgC",
+        "num_citations": 23,
+        "citedby_url": "/scholar?hl=en&cites=8140553005198216001",
+        "cites_id": [
+            "8140553005198216001"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0959438817300545",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QQsU5tMN-XAJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 3,
+            "2019": 8,
+            "2020": 5,
+            "2021": 5,
+            "2022": 2
+        },
+        "mandates": [
+            {
+                "agency": "Federal Ministry of Education and Research, Germany",
+                "url_policy": "https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/24102_Open_Access_in_Deutschland.pdf?__blob=publicationFile&v=5",
+                "url_policy_cached": "/mandates/bmbf_de-2021-02-13-de.pdf",
+                "effective_date": "2016/11",
+                "embargo": "12 months",
+                "acknowledgement": " …Bundesministerium für Bildung und Forschung) BMBF Grant 01GQ0420 …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Unions Horizon 2020 research and innovation programme under grant agreement no. 720270 (HBP SGA1) …"
+            },
+            {
+                "agency": "Helmholtz Association",
+                "url_policy": "https://os.helmholtz.de/en/open-science-in-the-helmholtz-association/eng-open-access/open-access-policies/open-access-policy-of-the-initiative-and-networking-fund-2016/",
+                "url_policy_cached": "/mandates/helmholtz_de-2021-02-13-en.pdf",
+                "effective_date": "2016/1",
+                "embargo": "6 months",
+                "acknowledgement": " …Helmholtz Alliance on Systems Biology (Germany) …"
+            },
+            {
+                "agency": "Swiss National Science Foundation",
+                "url_policy": "http://www.snf.ch/SiteCollectionDocuments/snsf-general-implementation-regulations-for-the-funding-regulations-e.pdf",
+                "url_policy_cached": "/mandates/snsf_ch-2021-02-13-en.pdf",
+                "effective_date": "2007/9",
+                "embargo": "6 months",
+                "acknowledgement": " …Swiss National Science Foundation (200020_147200) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Closed Loop Interactions between Spiking Neural Network and Robotic Simulators Based on MUSIC and ROS",
+            "pub_year": 2016,
+            "citation": "Frontiers in Neuroinformatics 10, 31, 2016",
+            "author": "Philipp Weidel and Mikael Djurfeldt and Renato Duarte and Abigail Morrison",
+            "journal": "Frontiers in Neuroinformatics",
+            "volume": "10",
+            "pages": "31",
+            "abstract": "In order to properly assess the function and computational properties of simulated neural systems, it is necessary to account for the nature of the stimuli that drive the system. However, providing stimuli that are rich and yet both reproducible and amenable to experimental manipulations is technically challenging, and even more so if a closed-loop scenario is required. In this work, we present a novel approach to solve this problem, connecting robotics and neural network simulators. We implement a middleware solution that bridges the Robotic Operating System (ROS) to the Multi-Simulator Coordinator (MUSIC). This enables any robotic and neural simulators that implement the corresponding interfaces to be efficiently coupled, allowing real-time performance for a wide range of configurations. This work extends the toolset available for researchers in both neurorobotics and computational neuroscience, and creates the opportunity to perform closed-loop experiments of arbitrary complexity to address questions in multiple areas, including embodiment, agency, and reinforcement learning."
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:Y5dfb0dijaUC",
+        "num_citations": 18,
+        "citedby_url": "/scholar?hl=en&cites=3118232508864745010",
+        "cites_id": [
+            "3118232508864745010"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fninf.2016.00031/full?ref=https://githubhelp.com",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Mk71GfIvRisJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 1,
+            "2017": 2,
+            "2018": 0,
+            "2019": 7,
+            "2020": 4,
+            "2021": 3,
+            "2022": 1
+        },
+        "mandates": [
+            {
+                "agency": "Helmholtz Association",
+                "url_policy": "https://os.helmholtz.de/en/open-science-in-the-helmholtz-association/eng-open-access/open-access-policies/open-access-policy-of-the-initiative-and-networking-fund-2016/",
+                "url_policy_cached": "/mandates/helmholtz_de-2021-02-13-en.pdf",
+                "effective_date": "2016/1",
+                "embargo": "6 months",
+                "acknowledgement": " …Helmholtz Alliance …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Leveraging heterogeneity for neural computation with fading memory in layer 2/3 cortical microcircuits",
+            "pub_year": 2019,
+            "citation": "PLoS Computational Biology 15 (4), 1-42, 2019",
+            "author": "Renato Duarte and Abigail Morrison",
+            "journal": "PLoS Computational Biology",
+            "volume": "15",
+            "number": "4",
+            "pages": "1-42",
+            "publisher": "Public Library of Science",
+            "abstract": "Complexity and heterogeneity are intrinsic to neurobiological systems, manifest in every process, at every scale, and are inextricably linked to the systems’ emergent collective behaviours and function. However, the majority of studies addressing the dynamics and computational properties of biologically inspired cortical microcircuits tend to assume (often for the sake of analytical tractability) a great degree of homogeneity in both neuronal and synaptic/connectivity parameters. While simplification and reductionism are necessary to understand the brain’s functional principles, disregarding the existence of the multiple heterogeneities in the cortical composition, which may be at the core of its computational proficiency, will inevitably fail to account for important phenomena and limit the scope and generalizability of cortical models. We address these issues by studying the individual and composite functional roles of heterogeneities in neuronal, synaptic and structural properties in a biophysically plausible layer 2/3 microcircuit model, built and constrained by multiple sources of empirical data. This approach was made possible by the emergence of large-scale, well curated databases, as well as the substantial improvements in experimental methodologies achieved over the last few years. Our results show that variability in single neuron parameters is the dominant source of functional specialization, leading to highly proficient microcircuits with much higher computational power than their homogeneous counterparts. We further show that fully heterogeneous circuits, which are closest to the biophysical reality, owe their response properties to the …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:9vf0nzSNQJEC",
+        "num_citations": 16,
+        "citedby_url": "/scholar?hl=en&cites=13750081781308519690",
+        "cites_id": [
+            "13750081781308519690"
+        ],
+        "public_access": true,
+        "pub_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006781",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CvV2b4ca0r4J:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 1,
+            "2020": 2,
+            "2021": 8,
+            "2022": 4
+        },
+        "mandates": [
+            {
+                "agency": "Helmholtz Association",
+                "url_policy": "https://os.helmholtz.de/en/open-science-in-the-helmholtz-association/eng-open-access/open-access-policies/open-access-policy-of-the-initiative-and-networking-fund-2016/",
+                "url_policy_cached": "/mandates/helmholtz_de-2021-02-13-en.pdf",
+                "effective_date": "2016/1",
+                "embargo": "6 months",
+                "acknowledgement": " …Initiative and Networking Fund of the Helmholtz Association …"
+            },
+            {
+                "agency": "Federal Ministry of Education and Research, Germany",
+                "url_policy": "https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/24102_Open_Access_in_Deutschland.pdf?__blob=publicationFile&v=5",
+                "url_policy_cached": "/mandates/bmbf_de-2021-02-13-de.pdf",
+                "effective_date": "2016/11",
+                "embargo": "12 months",
+                "grant": "01GQ0420"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neuronal spike-rate adaptation supports working memory in language processing",
+            "pub_year": 2020,
+            "citation": "Proceedings of the National Academy of Sciences 117 (34), 20881-20889, 2020",
+            "author": "Hartmut Fitz and Marvin Uhlmann and Dick Van den Broek and Renato Duarte and Peter Hagoort and Karl Magnus Petersson",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "volume": "117",
+            "number": "34",
+            "pages": "20881-20889",
+            "publisher": "National Academy of Sciences",
+            "abstract": "Language processing involves the ability to store and integrate pieces of information in working memory over short periods of time. According to the dominant view, information is maintained through sustained, elevated neural activity. Other work has argued that short-term synaptic facilitation can serve as a substrate of memory. Here we propose an account where memory is supported by intrinsic plasticity that downregulates neuronal firing rates. Single neuron responses are dependent on experience, and we show through simulations that these adaptive changes in excitability provide memory on timescales ranging from milliseconds to seconds. On this account, spiking activity writes information into coupled dynamic variables that control adaptation and move at slower timescales than the membrane potential. From these variables, information is continuously read back into the active membrane state for …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:dQ2og3OwTAUC",
+        "num_citations": 15,
+        "citedby_url": "/scholar?hl=en&cites=1868957364674526589,15212558084266262314",
+        "cites_id": [
+            "1868957364674526589",
+            "15212558084266262314"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.pnas.org/doi/abs/10.1073/pnas.2000222117",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Kv-vYfrcHdMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 2,
+            "2021": 4,
+            "2022": 8
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research Gravitation Grant 024.001.006 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NEST 2.8. 0",
+            "pub_year": 2015,
+            "citation": "JARA-HPC, 2015",
+            "author": "Jochen Martin Eppler and Rajalekshmi Deepu and Claudia Bachmann and Tiziano Zito and Alexander Peyser and Jakob Jordan and Robin Pauli and Luis Riquelme and Sacha Albada and Abigail Morrison and Tammo Ippen and Moritz Helias and Hesam Setareh and Marc-Oliver Gewaltig and Hannah Bos and Frank Michler and Ali Shirvani and Renato Duarte and Maximilian Schmidt and Espen Hagen and Jannis Schuecker and Wolfram Schenck and Moritz Deger and Hans Ekkehard Plesser and Susanne Kunkel and Johanna Senk",
+            "number": "FZJ-2016-00232",
+            "publisher": "JARA-HPC",
+            "abstract": "NEST is a simulator for spiking neural  network models that focuses on the dynamics, size and structure of  neural systems rather than on the exact morphology of individual neurons. For further information, visit http://www. nest-simulator. org.The release notes for this release are available at https://github. com/nest/nest-simulator/releases/tag/v2. 8.0"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:AXPGKjj_ei8C",
+        "num_citations": 13,
+        "citedby_url": "/scholar?hl=en&cites=15262547859060583489,3788913655317162400",
+        "cites_id": [
+            "15262547859060583489",
+            "3788913655317162400"
+        ],
+        "pub_url": "https://juser.fz-juelich.de/record/280458",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oGnOHeXslDQJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 6,
+            "2017": 3,
+            "2018": 4
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Self-Organized Artificial Grammar Learning in Spiking Neural Networks",
+            "pub_year": 2014,
+            "citation": "36th Annual Conference of the Cognitive Science Society, 427-432, 2014",
+            "author": "Renato Duarte and Peggy Series and Abigail Morrison",
+            "conference": "36th Annual Conference of the Cognitive Science Society",
+            "pages": "427-432",
+            "publisher": "Cognitive Science Society",
+            "abstract": "The Artificial Grammar Learning (AGL) paradigm provides a means to study the nature of syntactic processing and implicit sequence learning. With mere exposure and without performance feedback, human beings implicitly acquire knowledge about the structural regularities implemented by complex rule systems. We investigate to which extent a generic cortical microcircuit model can support formally explicit symbolic computations, instantiated by the same grammars used in the human AGL literature and how a functional network emerges, in a self-organized manner, from exposure to this type of data. We use a concrete implementation of an input-driven recurrent network composed of noisy, spiking neurons, built according to the reservoir computing framework and dynamically shaped by a variety of synaptic and intrinsic plasticity mechanisms operating concomitantly. We show that, when shaped by plasticity, these models are capable of acquiring the structure of a simple grammar. When asked to judge string legality (in a manner similar to human subjects), the networks perform at a qualitatively comparable level."
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 11,
+        "citedby_url": "/scholar?hl=en&cites=14429925833819863381",
+        "cites_id": [
+            "14429925833819863381"
+        ],
+        "pub_url": "https://escholarship.org/content/qt75j1b2t0/qt75j1b2t0.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:VbkQxBdlQcgJ:scholar.google.com/",
+        "cites_per_year": {
+            "2014": 1,
+            "2015": 2,
+            "2016": 1,
+            "2017": 2,
+            "2018": 1,
+            "2019": 2,
+            "2020": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Liquid computing on and off the edge of chaos with a striatal microcircuit",
+            "pub_year": 2014,
+            "citation": "Frontiers in Computational Neuroscience 8, 130, 2014",
+            "author": "Carlos Toledo-Suárez and Renato Duarte and Abigail Morrison",
+            "journal": "Frontiers in Computational Neuroscience",
+            "volume": "8",
+            "pages": "130",
+            "publisher": "Frontiers Media SA",
+            "abstract": "In reinforcement learning theories of the basal ganglia, there is a need for the expected rewards corresponding to relevant environmental states to be maintained and modified during the learning process. However, the representation of these states that allows them to be associated with reward expectations remains unclear. Previous studies have tended to rely on pre-defined partitioning of states encoded by disjunct neuronal groups or sparse topological drives. A more likely scenario is that striatal neurons are involved in the encoding of multiple different states through their spike patterns, and that an appropriate partitioning of an environment is learned on the basis of task constraints, thus minimizing the number of states involved in solving a particular task. Here we show that striatal activity is sufficient to implement a liquid state, an important prerequisite for such a computation, whereby transient patterns of striatal activity are mapped onto the relevant states. We develop a simple small scale model of the striatum which can reproduce key features of the experimentally observed activity of the major cell types of the striatum. We then use the activity of this network as input for the supervised training of four simple linear readouts to learn three different functions on a plane, where the network is stimulated with the spike coded position of the agent. We discover that the network configuration that best reproduces striatal activity statistics lies on the edge of chaos and has good performance on all three tasks, but that in general, the edge of chaos is a poor predictor of network performance."
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 11,
+        "citedby_url": "/scholar?hl=en&cites=5194731222654541444",
+        "cites_id": [
+            "5194731222654541444"
+        ],
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fncom.2014.00130/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:hF70LYZkF0gJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 3,
+            "2017": 0,
+            "2018": 1,
+            "2019": 6,
+            "2020": 0,
+            "2021": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unsupervised Learning and Clustered Connectivity Enhance Reinforcement Learning in Spiking Neural Networks",
+            "pub_year": 2021,
+            "citation": "Frontiers in Computational Neuroscience 15 (March), 1-17, 2021",
+            "author": "Philipp Weidel and Renato Duarte and Abigail Morrison",
+            "journal": "Frontiers in Computational Neuroscience",
+            "volume": "15",
+            "number": "March",
+            "pages": "1-17",
+            "abstract": "Reinforcement learning is a learning paradigm that can account for how organisms learn to adapt their behavior in complex environments with sparse rewards. However, implementations in spiking neuronal networks typically rely on input architectures involving place cells or receptive fields. This is problematic, as such approaches either scale badly as the environment grows in size or complexity, or presuppose knowledge on how the environment should be partitioned. Here, we propose a learning architecture that combines unsupervised learning on the input projections with clustered connectivity within the representation layer. This combination allows input features to be mapped to clusters; thus the network self-organizes to produce task-relevant activity patterns that can serve as the basis for reinforcement learning on the output projections. On the basis of the MNIST and Mountain Car tasks, we show that our proposed model performs better than either a comparable unclustered network or a clustered network with static input projections. We conclude that the combination of unsupervised learning and clustered connectivity provides a generic representational substrate suitable for further computation."
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:UHK10RUVsp4C",
+        "num_citations": 9,
+        "citedby_url": "/scholar?hl=en&cites=579939925279995924",
+        "cites_id": [
+            "579939925279995924"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fncom.2021.543872/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FHhhFUpcDAgJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 3,
+            "2022": 6
+        },
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Union’s Horizon 2020 Framework Programme for Research and Innovation under Specific Grant Agreement Nos. 720270, 785907 and 945539 …"
+            },
+            {
+                "agency": "Federal Ministry of Education and Research, Germany",
+                "url_policy": "https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/24102_Open_Access_in_Deutschland.pdf?__blob=publicationFile&v=5",
+                "url_policy_cached": "/mandates/bmbf_de-2021-02-13-de.pdf",
+                "effective_date": "2016/11",
+                "embargo": "12 months",
+                "acknowledgement": " …BMBF Grant 01GQ1343) …"
+            },
+            {
+                "agency": "Helmholtz Association",
+                "url_policy": "https://os.helmholtz.de/en/open-science-in-the-helmholtz-association/eng-open-access/open-access-policies/open-access-policy-of-the-initiative-and-networking-fund-2016/",
+                "url_policy_cached": "/mandates/helmholtz_de-2021-02-13-en.pdf",
+                "effective_date": "2016/1",
+                "embargo": "6 months",
+                "acknowledgement": " …Helmholtz Alliance …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Firing rate homeostasis counteracts changes in stability of recurrent neural networks caused by synapse loss in Alzheimer’s disease",
+            "pub_year": 2020,
+            "citation": "PLOS Computational Biology 16 (8), e1007790, 2020",
+            "author": "Claudia Bachmann and Tom Tetzlaff and Renato Duarte and Abigail Morrison",
+            "journal": "PLOS Computational Biology",
+            "volume": "16",
+            "number": "8",
+            "pages": "e1007790",
+            "publisher": "Public Library of Science",
+            "abstract": "The impairment of cognitive function in Alzheimer’s disease is clearly correlated to synapse loss. However, the mechanisms underlying this correlation are only poorly understood. Here, we investigate how the loss of excitatory synapses in sparsely connected random networks of spiking excitatory and inhibitory neurons alters their dynamical characteristics. Beyond the effects on the activity statistics, we find that the loss of excitatory synapses on excitatory neurons reduces the network’s sensitivity to small perturbations. This decrease in sensitivity can be considered as an indication of a reduction of computational capacity. A full recovery of the network’s dynamical characteristics and sensitivity can be achieved by firing rate homeostasis, here implemented by an up-scaling of the remaining excitatory-excitatory synapses. Mean-field analysis reveals that the stability of the linearised network dynamics is, in good approximation, uniquely determined by the firing rate, and thereby explains why firing rate homeostasis preserves not only the firing rate but also the network’s sensitivity to small perturbations."
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:PR6Y55bgFSsC",
+        "num_citations": 6,
+        "citedby_url": "/scholar?hl=en&cites=16286041561517496667",
+        "cites_id": [
+            "16286041561517496667"
+        ],
+        "public_access": true,
+        "pub_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007790&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:W5l_V4OkA-IJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 3,
+            "2022": 3
+        },
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Union’s Horizon 2020 Framework Programme for Research and Innovation under Specific Grant Agreement No. 720270 and 785907 …"
+            },
+            {
+                "agency": "German Research Foundation",
+                "url_policy": "https://www.dfg.de/formulare/2_012e/2_012e.pdf",
+                "url_policy_cached": "/mandates/dfg_de-2021-02-13-en.pdf",
+                "effective_date": "2006/1",
+                "embargo": "12 months",
+                "acknowledgement": " …German Research Foundation (DFG; grant DI 1721/3-1 [KFO219-TP9] …"
+            },
+            {
+                "agency": "Helmholtz Association",
+                "url_policy": "https://os.helmholtz.de/en/open-science-in-the-helmholtz-association/eng-open-access/open-access-policies/open-access-policy-of-the-initiative-and-networking-fund-2016/",
+                "url_policy_cached": "/mandates/helmholtz_de-2021-02-13-en.pdf",
+                "effective_date": "2016/1",
+                "embargo": "6 months",
+                "acknowledgement": " …Helmholtz Association Initiative and Networking Fund (project no. SO-092 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Passing the Message: Representation Transfer in Modular Balanced Networks",
+            "pub_year": 2019,
+            "citation": "Frontiers in Computational Neuroscience 13, 2019",
+            "author": "Barna Zajzon and Sepehr Mahmoudian and Abigail Morrison and Renato Duarte",
+            "journal": "Frontiers in Computational Neuroscience",
+            "volume": "13",
+            "abstract": "Neurobiological systems rely on hierarchical and modular architectures to carry out intricate computations using minimal resources. A prerequisite for such systems to operate adequately is the capability to reliably and efficiently transfer information across multiple modules. Here, we study the features enabling a robust transfer of stimulus representations in modular networks of spiking neurons, tuned to operate in a balanced regime. To capitalize on the complex, transient dynamics that such networks exhibit during active processing, we apply reservoir computing principles and probe the systems' computational efficacy with specific tasks. Focusing on the comparison of random feed-forward connectivity and biologically inspired topographic maps, we find that, in a sequential set-up, structured projections between the modules are strictly necessary for information to propagate accurately to deeper modules. Such mappings not only improve computational performance and efficiency, they also reduce response variability, increase robustness against interference effects, and boost memory capacity. We further investigate how information from two separate input streams is integrated and demonstrate that it is more advantageous to perform non-linear computations on the input locally, within a given module, and subsequently transfer the result downstream, rather than transferring intermediate information and performing the computation downstream. Depending on how information is integrated early on in the system, the networks achieve similar task-performance using different strategies, indicating that the dimensionality of the neural responses does …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:ZuybSZzF8UAC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?hl=en&cites=4098378528154126000",
+        "cites_id": [
+            "4098378528154126000"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fncom.2019.00079/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:sAa3pY5d4DgJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 3,
+            "2022": 1
+        },
+        "mandates": [
+            {
+                "agency": "Federal Ministry of Education and Research, Germany",
+                "url_policy": "https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/24102_Open_Access_in_Deutschland.pdf?__blob=publicationFile&v=5",
+                "url_policy_cached": "/mandates/bmbf_de-2021-02-13-de.pdf",
+                "effective_date": "2016/11",
+                "embargo": "12 months",
+                "acknowledgement": " …German Ministry for Education and Research 1041 …"
+            },
+            {
+                "agency": "Helmholtz Association",
+                "url_policy": "https://os.helmholtz.de/en/open-science-in-the-helmholtz-association/eng-open-access/open-access-policies/open-access-policy-of-the-initiative-and-networking-fund-2016/",
+                "url_policy_cached": "/mandates/helmholtz_de-2021-02-13-en.pdf",
+                "effective_date": "2016/1",
+                "embargo": "6 months",
+                "acknowledgement": " …Initiative and Networking Fund of the Helmholtz Association …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The best spike filter kernel is a neuron",
+            "pub_year": 2017,
+            "citation": "Computational Cognitive Neuroscience, 2017",
+            "author": "Dick van den Broek and Marvin Uhlmann and Renato Duarte and Hartmut Fitz and Peter Hagoort and Karl Magnus Petersson",
+            "conference": "Computational Cognitive Neuroscience",
+            "abstract": "A common approach to extracting information from simulated spiking neural networks is to train readouts on a spike-rate variable obtained through convolution of output spike-trains with a filter. Here we argue that best practice is to use neurons as spike filters. We describe how neural circuits consist of stock and flow variables that codetermine each other and argue that membrane potentials provide access to the information contained in the circuit in a more natural and unbiased way than filtered spike-trains. We compare the two different approaches to readout calibration in a classification task."
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:JoZmwDi-zQgC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?hl=en&cites=14299721462252935766,16920733318693619228",
+        "cites_id": [
+            "14299721462252935766",
+            "16920733318693619228"
+        ],
+        "pub_url": "https://www2.securecms.com/CCNeuro/docs-0/592822cd68ed3f6f338a2578.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HIbZr02F0uoJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 3,
+            "2020": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Transferring State Representations in Hierarchical Spiking Neural Networks",
+            "pub_year": 2018,
+            "citation": "2018 International Joint Conference on Neural Networks (IJCNN), 2018",
+            "author": "Barna Zajzon and Renato Duarte and Abigail Morrison",
+            "conference": "2018 International Joint Conference on Neural Networks (IJCNN)",
+            "abstract": "Hierarchical modularity is a parsimonious design principle in many complex systems and underlies various key structural and functional aspects of neurobiological systems, whose modules are recurrent networks of spiking neurons. An essential requirement for such systems to adequately function is the ability to transfer information across multiple modules in a reliable and efficient manner. In this work, we study the characteristics of emergent stimulus representations in recurrent, spiking neural networks and the features that allow efficient information transfer among multiple, interacting sub-networks. We find that the specificity of structural mappings between the modules is strictly required for information to propagate to a sufficient depth, in a sequential setup. Conserved topography not only improves computational performance in all scenarios analyzed, but it proves to be more robust against noise and interference …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:eq2jaN3J8jMC",
+        "num_citations": 4,
+        "citedby_url": "/scholar?hl=en&cites=2725105324955241998",
+        "cites_id": [
+            "2725105324955241998"
+        ],
+        "public_access": true,
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/8489135/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Do571dqE0SUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 2,
+            "2020": 1,
+            "2021": 1
+        },
+        "mandates": [
+            {
+                "agency": "Helmholtz Association",
+                "url_policy": "https://os.helmholtz.de/en/open-science-in-the-helmholtz-association/eng-open-access/open-access-policies/open-access-policy-of-the-initiative-and-networking-fund-2016/",
+                "url_policy_cached": "/mandates/helmholtz_de-2021-02-13-en.pdf",
+                "effective_date": "2016/1",
+                "embargo": "6 months",
+                "acknowledgement": " …Initiative and Networking Fund of the Helmholtz Association …"
+            },
+            {
+                "agency": "Federal Ministry of Education and Research, Germany",
+                "url_policy": "https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/24102_Open_Access_in_Deutschland.pdf?__blob=publicationFile&v=5",
+                "url_policy_cached": "/mandates/bmbf_de-2021-02-13-de.pdf",
+                "effective_date": "2016/11",
+                "embargo": "12 months",
+                "acknowledgement": " …German Ministry for Education and Research (BMBF Grant 01GQ0420 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Encoding symbolic sequences with spiking neural reservoirs",
+            "pub_year": 2018,
+            "citation": "2018 International Joint Conference on Neural Networks (IJCNN), 2018",
+            "author": "Renato Duarte and Marvin Uhlmann and Dick van den Broek and Hartmut Fitz and Karl Magnus Petersson and Abigail Morrison",
+            "conference": "2018 International Joint Conference on Neural Networks (IJCNN)",
+            "abstract": "Biologically inspired spiking networks are an important tool to study the nature of computation and cognition in neural systems. In this work, we investigate the representational capacity of spiking networks engaged in an identity mapping task. We compare two schemes for encoding symbolic input, one in which input is injected as a direct current and one where input is delivered as a spatio-temporal spike pattern. We test the ability of networks to discriminate their input as a function of the number of distinct input symbols. We also compare performance using either membrane potentials or filtered spike trains as state variable. Furthermore, we investigate how the circuit behavior depends on the balance between excitation and inhibition, and the degree of synchrony and regularity in its internal dynamics. Finally, we compare different linear methods of decoding population activity onto desired target labels. Overall, our …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:SdhP9T11ey4C",
+        "num_citations": 4,
+        "citedby_url": "/scholar?hl=en&cites=9344425855597392279",
+        "cites_id": [
+            "9344425855597392279"
+        ],
+        "public_access": true,
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/8489114/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:l7HbiM4RroEJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 1,
+            "2021": 1,
+            "2022": 1
+        },
+        "mandates": [
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organization for Scientific Research (NWO) …"
+            },
+            {
+                "agency": "Helmholtz Association",
+                "url_policy": "https://os.helmholtz.de/en/open-science-in-the-helmholtz-association/eng-open-access/open-access-policies/open-access-policy-of-the-initiative-and-networking-fund-2016/",
+                "url_policy_cached": "/mandates/helmholtz_de-2021-02-13-en.pdf",
+                "effective_date": "2016/1",
+                "embargo": "6 months",
+                "acknowledgement": " …Initiative and Networking Fund of the Helmholtz Association …"
+            },
+            {
+                "agency": "Federal Ministry of Education and Research, Germany",
+                "url_policy": "https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/24102_Open_Access_in_Deutschland.pdf?__blob=publicationFile&v=5",
+                "url_policy_cached": "/mandates/bmbf_de-2021-02-13-de.pdf",
+                "effective_date": "2016/11",
+                "embargo": "12 months",
+                "acknowledgement": " …Bundesministerium für Bildung und Forschung) BMBF Grant 01GQ0420 …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Expansion and state-dependent variability along sensory processing streams",
+            "pub_year": 2015,
+            "citation": "Journal of Neuroscience 35 (19), 7315-7316, 2015",
+            "author": "Renato Duarte",
+            "journal": "Journal of Neuroscience",
+            "volume": "35",
+            "number": "19",
+            "pages": "7315-7316",
+            "publisher": "Society for Neuroscience",
+            "abstract": "The fidelity with which cortical sensory areas represent environmental stimuli poses a strong constraint on the quality, suitability, and precision of any subsequent computation and, ultimately, on the organism’s behavioral performance. Understanding the precise nature of such representations, however, is significantly complicated by the fact that natural stimuli do not simply drive cortical activity, but rather modulate it via complex interactions with the local circuit’s ongoing activity. This state dependence of cortical responses to stimuli underlies a pervasive phenomenon observed in primary sensory systems: a high degree of variability in population responses to repeated presentations of well controlled stimuli (Arieli et al., 1996; Kisley and Gerstein, 1999), which, at first sight, appears at odds with the representational fidelity required for adequate processing and communication. It is thus essential to gain a better insight …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:WA5NYHcadZ8C",
+        "num_citations": 4,
+        "citedby_url": "/scholar?hl=en&cites=13996952802575117714",
+        "cites_id": [
+            "13996952802575117714"
+        ],
+        "pub_url": "https://www.jneurosci.org/content/35/19/7315.short",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ku1lN2oqP8IJ:scholar.google.com/",
+        "cites_per_year": {
+            "2017": 1,
+            "2018": 0,
+            "2019": 2,
+            "2020": 0,
+            "2021": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Neural Microcircuit Simulation and Analysis Toolkit",
+            "pub_year": 2017,
+            "citation": "https://doi.org/10.5281/zenodo.594850, 2017",
+            "author": "Renato Duarte and Barna Zajzon and Abigail Morrison",
+            "abstract": "NMSAT is a python package that provides a set of tools to build, simulate and analyse neuronal microcircuit models with any degree of complexity, as well as to probe the circuits with arbitrarily complex input stimuli/signals and to analyse the relevant functional aspects of single neuron, population and network dynamics. It provides a high-level wrapper for PyNEST (which is used as the core simulation engine). As such, the complexity of the microcircuits analysed and their building blocks (neuron and synapse models, circuit topology and connectivity, etc.), are determined by the models available in NEST. The use of NEST allows efficient and highly scalable simulations of very large and complex circuits, constrained only by the computational resources available to the user. The modular design allows the user to specify numerical experiments with varying degrees of complexity depending on concrete research …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:dTyEYWd-f8wC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?hl=en&cites=4957509820348398297",
+        "cites_id": [
+            "4957509820348398297"
+        ],
+        "pub_url": "https://juser.fz-juelich.de/record/843612",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2XpgZOqczEQJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "ROS-MUSIC toolchain for spiking neural network simulations in a robotic environment",
+            "pub_year": 2015,
+            "citation": "BMC Neuroscience 16 (1), 1-2, 2015",
+            "author": "Philipp Weidel and Renato Duarte and Karolína Korvasová and Jenia Jitsev and Abigail Morrison",
+            "journal": "BMC Neuroscience",
+            "volume": "16",
+            "number": "1",
+            "pages": "1-2",
+            "publisher": "BioMed Central",
+            "abstract": "Studying a functional, biologically plausible neural network that performs a particular task is highly relevant for progress in both neuroscience and machine learning. Most tasks used to test the function of a simulated neural network are still very artificial and thus too narrow, providing only little insight into the true value of a particular neural network architecture under study. For example, many models of reinforcement learning in the brain rely on a discrete set of environmental states and actions [1]. In order to move closer towards more realistic models, modeling studies have to be conducted in more realistic environments that provide complex sensory input about the states. A way to achieve this is to provide an interface between a robotic and a neural network simulation, such that a neural network controller gains access to a realistic agent which is acting in a complex environment that can be flexibly designed by the experimentalist. To create such an interface, we present a toolchain, consisting of already existing and robust tools, which forms the missing link between robotic and neuroscience with the goal of connecting robotic simulators with neural simulators. This toolchain is a generic solution and is able to combine various robotic simulators with various neural simulators by connecting the Robot Operating System (ROS)[2] with the Multi-Simulation Coordinator (MUSIC)[3]. ROS is the most widely used middleware in the robotic community with interfaces for robotic simulators like Gazebo, Morse, Webots, etc, and additionally allows the users to specify their own robot and sensors in great detail with the Unified Robot Description Language …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:Mojj43d5GZwC",
+        "num_citations": 1,
+        "citedby_url": "/scholar?hl=en&cites=11462280106157701909",
+        "cites_id": [
+            "11462280106157701909"
+        ],
+        "pub_url": "https://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P169",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FXuO2wYzEp8J:scholar.google.com/",
+        "cites_per_year": {
+            "2017": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Temporal sequence learning via adaptation in biologically plausible spiking neural networks",
+            "pub_year": 2014,
+            "citation": "BMC neuroscience 15 (1), 1-2, 2014",
+            "author": "Renato Duarte and Peggy Seriès and Abigail Morrison",
+            "journal": "BMC neuroscience",
+            "volume": "15",
+            "number": "1",
+            "pages": "1-2",
+            "publisher": "BioMed Central",
+            "abstract": "Ecologically relevant computations are carried out by a complex interaction of adaptive dynamics, through a variety of activity-dependent modifications of synaptic and intrinsic neuronal properties. Such modifications ought to be robust and reliable enough to endow neuronal circuits with the ability to learn from and operate upon complex, dynamic environmental variables. On the lower levels of the cortical processing hierarchy, continuous data streams representing the environment are parsed, in order to isolate and attend to salient and invariant features (’perceptual objects’), upon which higher order cortical networks will operate, by flexibly evaluating the dynamic relations between such structural elements [1]. The formation of stable representations of spatial/spectral environmental features (stimulus selectivity) along with the related ability to discriminate such features and their combinations is known to be …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:VL0QpB8kHFEC",
+        "num_citations": 1,
+        "citedby_url": "/scholar?hl=en&cites=4022103497432814623",
+        "cites_id": [
+            "4022103497432814623"
+        ],
+        "pub_url": "https://link.springer.com/article/10.1186/1471-2202-15-S1-P85",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:H9RWJtJh0TcJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Self-organized sequence processing in recurrent neural networks with multiple interacting plasticity mechanisms",
+            "pub_year": 2011,
+            "citation": "Universidade do Algarve, 2011",
+            "author": "Renato Duarte",
+            "abstract": "“Temporal integration is not found exclusively in language; the coordination of leg movements in insects, the songs of birds, the control of trotting and pacing in a gaited horse, the rat running the maze, the architect designing a house, and the carpenter sawing a board present a problem of sequences of action which cannot be explained in terms of succession of external stimuli.“"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 1,
+        "citedby_url": "/scholar?hl=en&cites=1992264863963223359",
+        "cites_id": [
+            "1992264863963223359"
+        ],
+        "pub_url": "https://scholar.archive.org/work/47qz6v2f2zcmnl3ocglbqumaq4/access/wayback/https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/21277260/SelfOrganizedSequenceProcessinginRecurrentNeuralNetworkswith.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:PxUFm1bypRsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2012": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Tripod neuron: a minimal model of dendric computation",
+            "pub_year": 2022,
+            "citation": "Dendrites 2022: Dendritic anatomy, molecules and function, 2022",
+            "author": "Alessio Quaresima and Dick Van den Broek and Hartmut Fitz and Renato Duarte and Peter Hagoort and Karl Magnus Petersson",
+            "conference": "Dendrites 2022: Dendritic anatomy, molecules and function",
+            "abstract": "The Tripod neuron: a minimal model of dendric computation :: MPG.PuRe Deutsch Hilfe \nDatenschutzhinweis Impressum Volltexte einbeziehen DetailsucheBrowse START ABLAGE \n(0)Werkzeuge Datensatz DATENSATZ AKTIONENEXPORT Zur Ablage hinzufügen Lokale \nTagsFreigabegeschichteDetailsÜbersicht Freigegeben Poster The Tripod neuron: a minimal \nmodel of dendric computation MPG-Autoren /persons/resource/persons230551 Quaresima, \nAlessio Neurobiology of Language Department, MPI for Psycholinguistics, Max Planck Society; \n/persons/resource/persons199752 Van den Broek, Dick Neurobiology of Language Department, \nMPI for Psycholinguistics, Max Planck Society; /persons/resource/persons32604 Fitz, Hartmut \nNeurobiology of Language Department, MPI for Psycholinguistics, Max Planck Society; \n/persons/resource/persons69 Hagoort, Peter Neurobiology of Language Department, MPI for …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:W5xh706n7nkC",
+        "num_citations": 0,
+        "pub_url": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3387496",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Tripod neuron: a minimal structural reduction of the dendritic tree",
+            "pub_year": 2022,
+            "citation": "bioRxiv, 2022",
+            "author": "Alessio Quaresima and Renato Duarte and Hartmut Fitz and Dick van den Broek and Peter Hagoort and Karl Magnus Petersson",
+            "journal": "bioRxiv",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Neuron models with explicit dendritic dynamics have shed light on mechanisms for coincidence detection, pathway selection, and temporal filtering.  However, it is still unclear which morphological and physiological features are required to capture these phenomena. In this work, we introduce the Tripod neuron model and propose a minimal structural reduction of the dendritic tree that is able to reproduce these dendritic computations. The Tripod is a three-compartment model consisting of two segregated passive dendrites and a somatic compartment modeled as an adaptive,  exponential integrate-and-fire neuron. It incorporates dendritic geometry, membrane physiology, and receptor dynamics as measured in human pyramidal cells. We characterize the response of the Tripod to glutamatergic and GABAergic inputs and identify parameters that support supra-linear integration, coincidence-detection, and pathway-specific gating through shunting inhibition. Following NMDA spikes, the Tripod neuron generates plateau potentials whose duration depends on the dendritic length and the strength of synaptic input. When fitted with distal compartments, the Tripod neuron encodes previous activity into a dendritic depolarized state. This dendritic memory allows the neuron to perform temporal binding and we show that the neuron solves transition and sequence detection tasks on which a single-compartment model fails. Thus, the Tripod neuron can account for dendritic computations previously explained only with more detailed neuron models or neural networks. Due to its simplicity, the Tripod model can be used efficiently in simulations of larger cortical …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:7T2F9Uy0os0C",
+        "num_citations": 0,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2022.09.05.506197.abstract",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signal denoising through topographic modularity of neural circuits",
+            "pub_year": 2022,
+            "citation": "bioRxiv, 2022",
+            "author": "Barna Zajzon and David Dahmen and Abigail Morrison and Renato Duarte",
+            "journal": "bioRxiv",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Information from the sensory periphery is conveyed to the cortex via structured projection pathways that spatially segregate stimulus features, providing a robust and efficient encoding strategy. Beyond sensory encoding, this prominent anatomical feature extends throughout the neocortex. However, the extent to which it influences cortical processing is unclear. In this study, we combine cortical circuit modeling with network theory to demonstrate that the sharpness of topographic projections acts as a bifurcation parameter, controlling the macroscopic dynamics and representational precision across a modular network. By shifting the balance of excitation and inhibition, topographic modularity gradually increases task performance and improves the signal-to-noise ratio across the system. We show that this is a robust and generic structural feature that enables a broad range of behaviorally-relevant operating regimes, and provide an in-depth theoretical analysis unravelling the dynamical principles underlying the mechanism."
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:_Ybze24A_UAC",
+        "num_citations": 0,
+        "public_access": true,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2022.01.10.475681.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:d4Fmq2kDngAJ:scholar.google.com/",
+        "cites_per_year": {},
+        "mandates": [
+            {
+                "agency": "Helmholtz Association",
+                "url_policy": "https://os.helmholtz.de/en/open-science-in-the-helmholtz-association/eng-open-access/open-access-policies/open-access-policy-of-the-initiative-and-networking-fund-2016/",
+                "url_policy_cached": "/mandates/helmholtz_de-2021-02-13-en.pdf",
+                "effective_date": "2016/1",
+                "embargo": "6 months",
+                "acknowledgement": " …Initiative and Networking Fund of the Helmholtz Association …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "NESTML 4.0",
+            "pub_year": 2021,
+            "citation": "https://doi.org/10.5281/zenodo.4740083, 2021",
+            "author": "Pooja Nagendra Babu and Charl Linssen and Jochen Martin Eppler and Tobias Schulte to Brinke and Abolfazl Ziaeemehr and Tanguy Fardet and Younes Bouhadjar and Renato Duarte and Bernhard Rumpe and Abigail Morrison"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:uLbwQdceFCQC",
+        "num_citations": 0,
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional Neural Architectures",
+            "pub_year": 2021,
+            "citation": "https://doi.org/10.5281/zenodo.5648150, 2021",
+            "author": "Renato Duarte and Barna Zajzon and Tobias Schulte to Brinke and Abigail Morrison"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:JQOojiI6XY0C",
+        "num_citations": 0,
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Signal denoising through modular topography",
+            "pub_year": 2021,
+            "citation": "30th Annual Computational Neuroscience Meeting, 2021",
+            "author": "Barna Zajzon and David Dahmen and Abigail Morrison and Renato Duarte",
+            "number": "FZJ-2021-03149",
+            "publisher": "Computational and Systems Neuroscience",
+            "abstract": "To navigate in a dynamic and noisy environment, the brain must create reliable and meaningful representations from sensory inputs that are often ambiguous, incomplete or corrupt. From these noisy inputs, cortical circuits extract the relevant features to forge a ground truth against which internally generated signals from inferential processes can be evaluated. Since information that fails to permeate the cortical hierarchy can not influence sensory perception and decision-making, it is critical that external stimuli are encoded and propagated through different processing stages in a manner that minimizes signal degradation. In this study, we hypothesize that stimulus-specific pathways akin to cortical topographic maps may provide the structural scaffold for such signal routing. A pervasive structural feature of the mammalian neocortex, topographic projections can imprint spatiotemporal features of (noisy) sensory inputs …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:Fu2w8maKXqMC",
+        "num_citations": 0,
+        "pub_url": "https://juser.fz-juelich.de/record/894276",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "State-dependent Processing in Spiking Neural Networks",
+            "pub_year": 2018,
+            "citation": "Albert-Ludwigs-Universität Freiburg im Breisgau, 2018",
+            "author": "Renato Duarte"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:hkOj_22Ku90C",
+        "num_citations": 0,
+        "pub_url": "https://scholar.google.com/scholar?cluster=3639369949653600618&hl=en&oi=scholarr",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Characteristic columnar connectivity caters to cortical computation: replication, simulation and evaluation of a microcircuit model",
+            "citation": "Frontiers in Integrative Neuroscience, 121, 0",
+            "author": "Tobias Schulte To Brinke and Renato Duarte and Abigail Morrison",
+            "journal": "Frontiers in Integrative Neuroscience",
+            "pages": "121",
+            "publisher": "Frontiers",
+            "abstract": "The neocortex, and with it the mammalian brain, achieves a level of computational efficiency like no other existing computational engine. A deeper understanding of its building blocks (cortical microcircuits), and their underlying computational principles is thus of paramount interest. To this end, we need reproducible computational models that can be analysed, modified, extended and quantitatively compared. In this study, we further that aim by providing a replication of the seminal cortical column model proposed by Häusler and Maass (2007). This model consists of noisy Hodgkin-Huxley neurons connected by dynamic synapses, whose connectivity scheme is based on empirical findings from intracellular recordings. Our analysis confirms the key original finding that the specific, data-based connectivity structure enhances the computational performance compared to a variety of alternatively structured control …"
+        },
+        "filled": true,
+        "author_pub_id": "NeD4kokAAAAJ:NJ774b8OgUMC",
+        "num_citations": 0,
+        "pub_url": "https://scholar.google.com/scholar?cluster=780316926486876679&hl=en&oi=scholarr",
+        "cites_per_year": {}
+    }
+]

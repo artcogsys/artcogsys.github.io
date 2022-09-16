@@ -5,6 +5,7 @@
         "bib": {
             "title": "Generative adversarial networks for reconstructing natural images from brain activity",
             "pub_year": 2018,
+            "citation": "NeuroImage 181, 775-785, 2018",
             "author": "Katja Seeliger and Umut Güçlü and Luca Ambrogioni and Yagmur Güçlütürk and Marcel AJ van Gerven",
             "journal": "NeuroImage",
             "volume": "181",
@@ -15,7 +16,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:YsMSGLbcyi4C",
         "num_citations": 100,
-        "citedby_url": "/scholar?cites=2494839252962736076",
+        "citedby_url": "/scholar?hl=en&cites=2494839252962736076",
         "cites_id": [
             "2494839252962736076"
         ],
@@ -46,6 +47,7 @@
         "bib": {
             "title": "Theta oscillations locked to intended actions rhythmically modulate perception",
             "pub_year": 2017,
+            "citation": "Elife 6, e25618, 2017",
             "author": "Alice Tomassini and Luca Ambrogioni and W Pieter Medendorp and Eric Maris",
             "journal": "Elife",
             "volume": "6",
@@ -56,7 +58,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:Tyk-4Ss8FVUC",
         "num_citations": 77,
-        "citedby_url": "/scholar?cites=6636248004021866811",
+        "citedby_url": "/scholar?hl=en&cites=6636248004021866811",
         "cites_id": [
             "6636248004021866811"
         ],
@@ -95,6 +97,7 @@
         "bib": {
             "title": "Structurally-informed Bayesian functional connectivity analysis",
             "pub_year": 2014,
+            "citation": "NeuroImage 86, 294-305, 2014",
             "author": "Max Hinne and Luca Ambrogioni and Ronald J Janssen and Tom Heskes and Marcel AJ van Gerven",
             "journal": "NeuroImage",
             "volume": "86",
@@ -105,7 +108,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:u5HHmVD_uO8C",
         "num_citations": 47,
-        "citedby_url": "/scholar?cites=8589411321991564708",
+        "citedby_url": "/scholar?hl=en&cites=8589411321991564708",
         "cites_id": [
             "8589411321991564708"
         ],
@@ -129,6 +132,7 @@
         "bib": {
             "title": "Wasserstein variational inference",
             "pub_year": 2018,
+            "citation": "Neural Information Processing Systems 2018, 2018",
             "author": "Luca Ambrogioni and Umut Güçlü and Yağmur Güçlütürk and Max Hinne and Eric Maris and Marcel AJ van Gerven",
             "journal": "Neural Information Processing Systems 2018",
             "abstract": "This paper introduces Wasserstein variational inference, a new form of approximate Bayesian inference based on optimal transport theory. Wasserstein variational inference uses a new family of divergences that includes both f-divergences and the Wasserstein distance as special cases. The gradients of the Wasserstein variational loss are obtained by backpropagating through the Sinkhorn iterations. This technique results in a very stable likelihood-free training method that can be used with implicit distributions and probabilistic programs. Using the Wasserstein variational inference framework, we introduce several new forms of autoencoders and test their robustness and performance against existing variational autoencoding techniques."
@@ -136,7 +140,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:WF5omc3nYNoC",
         "num_citations": 35,
-        "citedby_url": "/scholar?cites=6451924518029579411",
+        "citedby_url": "/scholar?hl=en&cites=6451924518029579411",
         "cites_id": [
             "6451924518029579411"
         ],
@@ -156,6 +160,7 @@
         "bib": {
             "title": "Neural dynamics of perceptual inference and its reversal during imagery",
             "pub_year": 2020,
+            "citation": "Elife 9, 2020",
             "author": "Nadine Dijkstra and Luca Ambrogioni and Diego Vidaurre and Marcel van Gerven",
             "journal": "Elife",
             "volume": "9",
@@ -165,7 +170,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:kNdYIx-mwKoC",
         "num_citations": 32,
-        "citedby_url": "/scholar?cites=9991129417608214260",
+        "citedby_url": "/scholar?hl=en&cites=9991129417608214260",
         "cites_id": [
             "9991129417608214260"
         ],
@@ -194,6 +199,7 @@
         "bib": {
             "title": "The kernel mixture network: A nonparametric method for conditional density estimation of continuous random variables",
             "pub_year": 2017,
+            "citation": "arXiv preprint arXiv:1705.07111, 2017",
             "author": "Luca Ambrogioni and Umut Güçlü and Marcel AJ van Gerven and Eric Maris",
             "journal": "arXiv preprint arXiv:1705.07111",
             "abstract": "This paper introduces the kernel mixture network, a new method for nonparametric estimation of conditional probability densities using neural networks. We model arbitrarily complex conditional densities as linear combinations of a family of kernel functions centered at a subset of training points. The weights are determined by the outer layer of a deep neural network, trained by minimizing the negative log likelihood. This generalizes the popular quantized softmax approach, which can be seen as a kernel mixture network with square and non-overlapping kernels. We test the performance of our method on two important applications, namely Bayesian filtering and generative modeling. In the Bayesian filtering example, we show that the method can be used to filter complex nonlinear and non-Gaussian signals defined on manifolds. The resulting kernel mixture network filter outperforms both the quantized softmax filter and the extended Kalman filter in terms of model likelihood. Finally, our experiments on generative models show that, given the same architecture, the kernel mixture network leads to higher test set likelihood, less overfitting and more diversified and realistic generated samples than the quantized softmax approach."
@@ -201,7 +207,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:IjCSPb-OGe4C",
         "num_citations": 28,
-        "citedby_url": "/scholar?cites=10047485456764185500",
+        "citedby_url": "/scholar?hl=en&cites=10047485456764185500",
         "cites_id": [
             "10047485456764185500"
         ],
@@ -220,6 +226,7 @@
         "bib": {
             "title": "End-to-end neural system identification with neural information flow",
             "pub_year": 2021,
+            "citation": "PLOS Computational Biology 17 (2), e1008558, 2021",
             "author": "Katja Seeliger and Luca Ambrogioni and Yağmur Güçlütürk and Leonieke M van den Bulk and Umut Güçlü and Marcel AJ van Gerven",
             "journal": "PLOS Computational Biology",
             "volume": "17",
@@ -231,7 +238,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:0EnyYjriUFMC",
         "num_citations": 19,
-        "citedby_url": "/scholar?cites=12743657316724670721,6492836868935185256",
+        "citedby_url": "/scholar?hl=en&cites=12743657316724670721,6492836868935185256",
         "cites_id": [
             "12743657316724670721",
             "6492836868935185256"
@@ -262,6 +269,7 @@
         "bib": {
             "title": "Gait-prop: A biologically plausible learning rule derived from backpropagation of error",
             "pub_year": 2020,
+            "citation": "Neural Information Processing Systems, 2020",
             "author": "Nasir Ahmad and Marcel AJ van Gerven and Luca Ambrogioni",
             "conference": "Neural Information Processing Systems",
             "abstract": "Traditional backpropagation of error, though a highly successful algorithm for learning in artificial neural network models, includes features which are biologically implausible for learning in real neural circuits. An alternative called target propagation proposes to solve this implausibility by using a top-down model of neural activity to convert an error at the output of a neural network into layer-wise and plausible ‘targets’ for every unit. These targets can then be used to produce weight updates for network training. However, thus far, target propagation has been heuristically proposed without demonstrable equivalence to backpropagation. Here, we derive an exact correspondence between backpropagation and a modified form of target propagation (GAIT-prop) where the target is a small perturbation of the forward pass. Specifically, backpropagation and GAIT-prop give identical updates when synaptic weight matrices are orthogonal. In a series of simple computer vision experiments, we show near-identical performance between backpropagation and GAIT-prop with a soft orthogonality-inducing regularizer."
@@ -269,7 +277,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:aqlVkmm33-oC",
         "num_citations": 18,
-        "citedby_url": "/scholar?cites=15875049954561764197",
+        "citedby_url": "/scholar?hl=en&cites=15875049954561764197",
         "cites_id": [
             "15875049954561764197"
         ],
@@ -287,6 +295,7 @@
         "bib": {
             "title": "GP CaKe: Effective brain connectivity with causal kernels",
             "pub_year": 2017,
+            "citation": "Neural Information Processing Systems 2017, 2017",
             "author": "Luca Ambrogioni and Max Hinne and Marcel Van Gerven and Eric Maris",
             "journal": "Neural Information Processing Systems 2017",
             "abstract": "A fundamental goal in network neuroscience is to understand how activity in one brain region drives activity elsewhere, a process referred to as effective connectivity. Here we propose to model this causal interaction using integro-differential equations and causal kernels that allow for a rich analysis of effective connectivity. The approach combines the tractability and flexibility of autoregressive modeling with the biophysical interpretability of dynamic causal modeling. The causal kernels are learned nonparametrically using Gaussian process regression, yielding an efficient framework for causal inference. We construct a novel class of causal covariance functions that enforce the desired properties of the causal kernels, an approach which we call GP CaKe. By construction, the model and its hyperparameters have biophysical meaning and are therefore easily interpretable. We demonstrate the efficacy of GP CaKe on a number of simulations and give an example of a realistic application on magnetoencephalography (MEG) data."
@@ -294,7 +303,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:UeHWp8X0CEIC",
         "num_citations": 13,
-        "citedby_url": "/scholar?cites=15022246851777834148",
+        "citedby_url": "/scholar?hl=en&cites=15022246851777834148",
         "cites_id": [
             "15022246851777834148"
         ],
@@ -313,6 +322,7 @@
         "bib": {
             "title": "Complex-valued Gaussian process regression for time series analysis",
             "pub_year": 2019,
+            "citation": "Signal Processing 160, 215-228, 2019",
             "author": "Luca Ambrogioni and Eric Maris",
             "journal": "Signal Processing",
             "volume": "160",
@@ -323,7 +333,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:9yKSN-GCB0IC",
         "num_citations": 12,
-        "citedby_url": "/scholar?cites=9002695493390943739,11857650862341606558",
+        "citedby_url": "/scholar?hl=en&cites=9002695493390943739,11857650862341606558",
         "cites_id": [
             "9002695493390943739",
             "11857650862341606558"
@@ -345,6 +355,7 @@
         "bib": {
             "title": "Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference",
             "pub_year": 2018,
+            "citation": "Bayesian Deep Learning workshop. NeurIPS, 2018",
             "author": "Luca Ambrogioni and Umut Guclu and Marcel van Gerven",
             "journal": "Bayesian Deep Learning workshop. NeurIPS",
             "abstract": "Particle-based variational inference offers a flexible way of approximating complex posterior distributions with a set of particles. In this paper we introduce a new particle-based variational inference method based on the theory of semi-discrete optimal transport. Instead of minimizing the KL divergence between the posterior and the variational approximation, we minimize a semi-discrete optimal transport divergence. The solution of the resulting optimal transport problem provides both a particle approximation and a set of optimal transportation densities that map each particle to a segment of the posterior distribution. We approximate these transportation densities by minimizing the KL divergence between a truncated distribution and the optimal transport solution. The resulting algorithm can be interpreted as a form of ensemble variational inference where each particle is associated with a local variational approximation."
@@ -352,7 +363,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:5nxA0vEk-isC",
         "num_citations": 10,
-        "citedby_url": "/scholar?cites=14358581590998588445",
+        "citedby_url": "/scholar?hl=en&cites=14358581590998588445",
         "cites_id": [
             "14358581590998588445"
         ],
@@ -372,6 +383,7 @@
         "bib": {
             "title": "Automatic structured variational inference",
             "pub_year": 2021,
+            "citation": "International Conference on Artificial Intelligence and Statistics, 676-684, 2021",
             "author": "Luca Ambrogioni and Kate Lin and Emily Fertig and Sharad Vikram and Max Hinne and Dave Moore and Marcel van Gerven",
             "conference": "International Conference on Artificial Intelligence and Statistics",
             "pages": "676-684",
@@ -381,7 +393,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:M3ejUd6NZC8C",
         "num_citations": 9,
-        "citedby_url": "/scholar?cites=8115014781053707563",
+        "citedby_url": "/scholar?hl=en&cites=8115014781053707563",
         "cites_id": [
             "8115014781053707563"
         ],
@@ -398,6 +410,7 @@
         "bib": {
             "title": "Dynamic Decomposition of Spatiotemporal Neural Signals",
             "pub_year": 2016,
+            "citation": "PLoS Computational Biology, 2016",
             "author": "Luca Ambrogioni and van Gerven Marcel A.J. and Eric Maris",
             "journal": "PLoS Computational Biology",
             "abstract": "Neural signals are characterized by rich temporal and spatiotemporal dynamics that reflect the organization of cortical networks. Theoretical research has shown how neural networks can operate at different dynamic ranges that correspond to specific types of information processing. Here we present a data analysis framework that uses a linearized model of these dynamic states in order to decompose the measured neural signal into a series of components that capture both rhythmic and non-rhythmic neural activity. The method is based on stochastic differential equations and Gaussian process regression. Through computer simulations and analysis of magnetoencephalographic data, we demonstrate the efficacy of the method in identifying meaningful modulations of oscillatory signals corrupted by structured temporal and spatiotemporal noise. These results suggest that the method is particularly suitable for the analysis and interpretation of complex temporal and spatiotemporal neural signals."
@@ -405,7 +418,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:u-x6o8ySG0sC",
         "num_citations": 8,
-        "citedby_url": "/scholar?cites=639445453265362084,1133656634174516403",
+        "citedby_url": "/scholar?hl=en&cites=639445453265362084,1133656634174516403",
         "cites_id": [
             "639445453265362084",
             "1133656634174516403"
@@ -427,6 +440,7 @@
         "bib": {
             "title": "Brain2pix: Fully convolutional naturalistic video reconstruction from brain activity",
             "pub_year": 2021,
+            "citation": "BioRxiv, 2021",
             "author": "Lynn Le and Luca Ambrogioni and Katja Seeliger and Yağmur Güçlütürk and Marcel van Gerven and Umut Güçlü",
             "journal": "BioRxiv",
             "publisher": "Cold Spring Harbor Laboratory",
@@ -435,7 +449,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:QIV2ME_5wuYC",
         "num_citations": 7,
-        "citedby_url": "/scholar?cites=3119362698583748641",
+        "citedby_url": "/scholar?hl=en&cites=3119362698583748641",
         "cites_id": [
             "3119362698583748641"
         ],
@@ -452,6 +466,7 @@
         "bib": {
             "title": "DeepRF: Ultrafast population receptive field mapping with deep learning",
             "pub_year": 2019,
+            "citation": "bioRxiv, 732990, 2019",
             "author": "Jordy Thielen and Umut Güçlü and Yagmur Güçlütürk and Luca Ambrogioni and Sander E Bosch and Marcel AJ van Gerven",
             "journal": "bioRxiv",
             "pages": "732990",
@@ -461,7 +476,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:3fE2CSJIrl8C",
         "num_citations": 6,
-        "citedby_url": "/scholar?cites=17701423681495685738",
+        "citedby_url": "/scholar?hl=en&cites=17701423681495685738",
         "cites_id": [
             "17701423681495685738"
         ],
@@ -490,6 +505,7 @@
         "bib": {
             "title": "Estimating nonlinear dynamics with the ConvNet smoother",
             "pub_year": 2017,
+            "citation": "arXiv preprint arXiv:1702.05243, 2017",
             "author": "Luca Ambrogioni and Umut Güçlü and Eric Maris and Marcel van Gerven",
             "journal": "arXiv preprint arXiv:1702.05243",
             "abstract": "Estimating the state of a dynamical system from a series of noise-corrupted observations is fundamental in many areas of science and engineering. The most well-known method, the Kalman smoother (and the related Kalman filter), relies on assumptions of linearity and Gaussianity that are rarely met in practice. In this paper, we introduced a new dynamical smoothing method that exploits the remarkable capabilities of convolutional neural networks to approximate complex non-linear functions. The main idea is to generate a training set composed of both latent states and observations from an ensemble of simulators and to train the deep network to recover the former from the latter. Importantly, this method only requires the availability of the simulators and can therefore be applied in situations in which either the latent dynamical model or the observation model cannot be easily expressed in closed form. In our simulation studies, we show that the resulting ConvNet smoother has almost optimal performance in the Gaussian case even when the parameters are unknown. Furthermore, the method can be successfully applied to extremely non-linear and non-Gaussian systems. Finally, we empirically validate our approach via the analysis of measured brain signals."
@@ -497,7 +513,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:2osOgNQ5qMEC",
         "num_citations": 6,
-        "citedby_url": "/scholar?cites=4980228194260473950",
+        "citedby_url": "/scholar?hl=en&cites=4980228194260473950",
         "cites_id": [
             "4980228194260473950"
         ],
@@ -518,6 +534,7 @@
         "bib": {
             "title": "Cortical network responses map onto data-driven features that capture visual semantics of movie fragments",
             "pub_year": 2020,
+            "citation": "Scientific reports 10 (1), 1-21, 2020",
             "author": "Julia Berezutskaya and Zachary V Freudenburg and Luca Ambrogioni and Umut Güçlü and Marcel AJ van Gerven and Nick F Ramsey",
             "journal": "Scientific reports",
             "volume": "10",
@@ -529,7 +546,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:9ZlFYXVOiuMC",
         "num_citations": 5,
-        "citedby_url": "/scholar?cites=15861735615829015234",
+        "citedby_url": "/scholar?hl=en&cites=15861735615829015234",
         "cites_id": [
             "15861735615829015234"
         ],
@@ -565,6 +582,7 @@
         "bib": {
             "title": "Forward amortized inference for likelihood-free variational marginalization",
             "pub_year": 2019,
+            "citation": "The 22nd International Conference on Artificial Intelligence and Statistics …, 2019",
             "author": "Luca Ambrogioni and Umut Güçlü and Julia Berezutskaya and Eva van den Borne and Yaǧmur Güçlütürk and Max Hinne and Eric Maris and Marcel van Gerven",
             "conference": "The 22nd International Conference on Artificial Intelligence and Statistics",
             "pages": "777-786",
@@ -574,7 +592,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:ufrVoPGSRksC",
         "num_citations": 5,
-        "citedby_url": "/scholar?cites=16534074432998126370",
+        "citedby_url": "/scholar?hl=en&cites=16534074432998126370",
         "cites_id": [
             "16534074432998126370"
         ],
@@ -594,6 +612,7 @@
         "bib": {
             "title": "Automatic variational inference with cascading flows",
             "pub_year": 2021,
+            "citation": "International Conference on Machine Learning, 2021",
             "author": "Luca Ambrogioni and Gianluigi Silvestri and Marcel van Gerven",
             "conference": "International Conference on Machine Learning",
             "abstract": "The automation of probabilistic reasoning is one of the primary aims of machine learning. Recently, the confluence of variational inference and deep learning has led to powerful and flexible automatic inference methods that can be trained by stochastic gradient descent. In particular, normalizing flows are highly parameterized deep models that can fit arbitrarily complex posterior densities. However, normalizing flows struggle in highly structured probabilistic programs as they need to relearn the forward-pass of the program. Automatic structured variational inference (ASVI) remedies this problem by constructing variational programs that embed the forward-pass. Here, we combine the flexibility of normalizing flows and the prior-embedding property of ASVI in a new family of variational programs, which we named cascading flows. A cascading flows program interposes a newly designed highway flow architecture in between the conditional distributions of the prior program such as to steer it toward the observed data. These programs can be constructed automatically from an input probabilistic program and can also be amortized automatically. We evaluate the performance of the new variational programs in a series of structured inference problems. We find that cascading flows have much higher performance than both normalizing flows and ASVI in a large set of structured inference problems."
@@ -601,7 +620,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:L8Ckcad2t8MC",
         "num_citations": 4,
-        "citedby_url": "/scholar?cites=16991650093300670925",
+        "citedby_url": "/scholar?hl=en&cites=16991650093300670925",
         "cites_id": [
             "16991650093300670925"
         ],
@@ -617,6 +636,7 @@
         "bib": {
             "title": "Integral transforms from finite data: An application of gaussian process regression to fourier analysis",
             "pub_year": 2018,
+            "citation": "International Conference on Artificial Intelligence and Statistics, 217-225, 2018",
             "author": "Luca Ambrogioni and Eric Maris",
             "conference": "International Conference on Artificial Intelligence and Statistics",
             "pages": "217-225",
@@ -626,7 +646,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:qjMakFHDy7sC",
         "num_citations": 4,
-        "citedby_url": "/scholar?cites=809998739564452645",
+        "citedby_url": "/scholar?hl=en&cites=809998739564452645",
         "cites_id": [
             "809998739564452645"
         ],
@@ -643,13 +663,14 @@
         "bib": {
             "title": "Hyperrealistic neural decoding: Reconstruction of face stimuli from fMRI measurements via the GAN latent space",
             "pub_year": 2020,
+            "citation": "",
             "author": "Thirza Dado and Yağmur Güçlütürk and Luca Ambrogioni and Gabrielle Ras and Sander E Bosch and Marcel van Gerven and Umut Güçlü",
             "abstract": "We introduce a new framework for hyperrealistic reconstruction of perceived naturalistic stimuli from brain recordings. To this end, we embrace the use of generative adversarial networks (GANs) at the earliest step of our neural decoding pipeline by acquiring functional magnetic resonance imaging data as subjects perceived face images created by the generator network of a GAN. Subsequently, we used a decoding approach to predict the latent state of the GAN from brain data. Hence, latent representations for stimulus (re-) generation are obtained, leading to state-of-the-art image reconstructions. Altogether, we have developed a highly promising approach for decoding sensory perception from brain activity and systematically analyzing neural information processing in the human brain."
         },
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:mVmsd5A6BfQC",
         "num_citations": 3,
-        "citedby_url": "/scholar?cites=10524495191383923772,14802784632941675685",
+        "citedby_url": "/scholar?hl=en&cites=10524495191383923772,14802784632941675685",
         "cites_id": [
             "10524495191383923772",
             "14802784632941675685"
@@ -666,13 +687,14 @@
         "bib": {
             "title": "Spike-timing-dependent inference of synaptic weights",
             "pub_year": 2020,
+            "citation": "",
             "author": "Nasir Ahmad and Luca Ambrogioni and Marcel AJ van Gerven",
             "abstract": "A potential solution to the weight transport problem, which questions the biological plausibility of the backpropagation of error algorithm, is proposed. We derive our method based upon an (approximate) analysis of the dynamics of leaky integrate-and-fire neurons. We thereafter validate our method and show that the use of spike timing alone out-competes existing biologically plausible methods for synaptic weight inference in spiking neural network models. Furthermore, our proposed method is also more flexible, being applicable to any spiking neuron model, is conservative in how many parameters are required for implementation and can be deployed in an online-fashion with minimal computational overhead. These features, together with its biological plausibility, make it an attractive candidate technique for weight inference at single synapses."
         },
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:qxL8FJ1GzNcC",
         "num_citations": 3,
-        "citedby_url": "/scholar?cites=2716827515260808654,14134889997225814369",
+        "citedby_url": "/scholar?hl=en&cites=2716827515260808654,14134889997225814369",
         "cites_id": [
             "2716827515260808654",
             "14134889997225814369"
@@ -691,6 +713,7 @@
         "bib": {
             "title": "Hyperrealistic neural decoding: Linear reconstruction of face stimuli from fmri measurements via the gan latent space",
             "pub_year": 2020,
+            "citation": "bioRxiv, 2020",
             "author": "Thirza Dado and Yagmur Gucluturk and Luca Ambrogioni and Gabriëlle Ras and Sander E Bosch and Marcel van Gerven and Umut Guclu",
             "journal": "bioRxiv",
             "abstract": "We introduce a new framework for hyperrealistic reconstruction of perceived naturalistic stimuli from brain recordings. To this end, we embrace the use of generative adversarial networks (GANs) at the earliest step of our neural decoding pipeline by acquiring functional magnetic resonance imaging data as subjects perceived face images created by the generator network of a GAN. Subsequently, we used a linear decoding approach to predict the latent state of the GAN from brain data. Hence, latent representations that are needed for stimulus (re-) generation are obtained, leading to ground-breaking image reconstructions. Altogether, we have developed a highly promising approach for decoding neural representations of real-world data, which may pave the way for systematically analyzing neural information processing in the functional brain.Disclaimer: This manuscript contains no real face images; all faces are artificially generated by a generative adversarial network."
@@ -698,7 +721,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:e5wmG9Sq2KIC",
         "num_citations": 3,
-        "citedby_url": "/scholar?cites=12263126497926883028",
+        "citedby_url": "/scholar?hl=en&cites=12263126497926883028",
         "cites_id": [
             "12263126497926883028"
         ],
@@ -714,6 +737,7 @@
         "bib": {
             "title": "Causal inference using bayesian non-parametric quasi-experimental design",
             "pub_year": 2019,
+            "citation": "arXiv preprint arXiv:1911.06722, 2019",
             "author": "Max Hinne and Marcel AJ van Gerven and Luca Ambrogioni",
             "journal": "arXiv preprint arXiv:1911.06722",
             "abstract": "The de facto standard for causal inference is the randomized controlled trial, where one compares an manipulated group with a control group in order to determine the effect of an intervention. However, this research design is not always realistically possible due to pragmatic or ethical concerns. In these situations, quasi-experimental designs may provide a solution, as these allow for causal conclusions at the cost of additional design assumptions. In this paper, we provide a framework for quasi-experimental design using Bayesian model comparison. We provide a theoretical motivation for a Gaussian process based approach, and demonstrate its convenient use in a number of simulations. Finally, we apply the framework to determine the effect the 2005 smoking ban in Sicily on the number of acute coronary events, and of the effect of an alleged historical phantom border in the Netherlands on Dutch voting behaviour."
@@ -721,7 +745,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:KlAtU1dfN6UC",
         "num_citations": 3,
-        "citedby_url": "/scholar?cites=386832604794381255,7668108339659770961",
+        "citedby_url": "/scholar?hl=en&cites=386832604794381255,7668108339659770961",
         "cites_id": [
             "386832604794381255",
             "7668108339659770961"
@@ -738,6 +762,7 @@
         "bib": {
             "title": "Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling",
             "pub_year": 2022,
+            "citation": "International Conference on Learning Representations, 2022",
             "author": "Gianluigi Silvestri and Emily Fertig and Dave Moore and Luca Ambrogioni",
             "journal": "International Conference on Learning Representations",
             "abstract": "Normalizing flows have shown great success as general-purpose density estimators. However, many real world applications require the use of domain-specific knowledge, which normalizing flows cannot readily incorporate. We propose embedded-model flows (EMF), which alternate general-purpose transformations with structured layers that embed domain-specific inductive biases. These layers are automatically constructed by converting user-specified differentiable probabilistic models into equivalent bijective transformations. We also introduce gated structured layers, which allow bypassing the parts of the models that fail to capture the statistics of the data. We demonstrate that EMFs can be used to induce desirable properties such as multimodality, hierarchical coupling and continuity. Furthermore, we show that EMFs enable a high performance form of variational inference where the structure of the prior model is embedded in the variational architecture. In our experiments, we show that this approach outperforms state-of-the-art methods in common structured inference problems."
@@ -745,7 +770,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:-f6ydRqryjwC",
         "num_citations": 2,
-        "citedby_url": "/scholar?cites=13875622113438069976",
+        "citedby_url": "/scholar?hl=en&cites=13875622113438069976",
         "cites_id": [
             "13875622113438069976"
         ],
@@ -762,6 +787,7 @@
         "bib": {
             "title": "Bayesian model ensembling using meta-trained recurrent neural networks",
             "pub_year": 2017,
+            "citation": "[Sl: sn], 2017",
             "author": "Luca Ambrogioni and Y Berezutskaya and Umut Güçlü and Eva WP van den Borne and Yagmur Güçlütürk and Marcel AJ van Gerven and EGG Maris",
             "publisher": "[Sl: sn]",
             "abstract": "In this paper we demonstrate that a recurrent neural network meta-trained on an ensemble of arbitrary classification tasks can be used as an approximation of the Bayes optimal classifier. This result is obtained by relying on the framework of e-free approximate Bayesian inference, where the Bayesian posterior is approximated by training a neural network using synthetic samples. We denote the resulting model as neural ensembler. We show that a single neural ensembler trained on a large set of synthetic data achieves competitive classification performance on multiple real-world classification problems without additional training."
@@ -769,7 +795,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:eQOLeE2rZwMC",
         "num_citations": 2,
-        "citedby_url": "/scholar?cites=6428999290511848971",
+        "citedby_url": "/scholar?hl=en&cites=6428999290511848971",
         "cites_id": [
             "6428999290511848971"
         ],
@@ -786,6 +812,7 @@
         "bib": {
             "title": "Segmentation of Photovoltaic Panels in Aerial Photography Using Group Equivariant FCNs.",
             "pub_year": 2019,
+            "citation": "BNAIC/BENELEARN, 2019",
             "author": "Lars Bokkers and Luca Ambrogioni and Umut Güçlü",
             "conference": "BNAIC/BENELEARN",
             "abstract": "Previous research has shown the benefits of group equivariant convolutions for image recognition tasks. With this work we apply group equivariance to the segmentation of photovoltaic (PV) panel installations in aerial photography to determine whether the benefits translate to aerial photography segmentation. We create a custom annotation of PV panel installations in two Dutch cities using open access aerial photography. We show that group equivariant versions of traditional and residual convolutional neural networks indeed perform at least as well as the traditional versions and provide better generalization."
@@ -793,7 +820,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:Zph67rFs4hoC",
         "num_citations": 1,
-        "citedby_url": "/scholar?cites=14165353949870328854",
+        "citedby_url": "/scholar?hl=en&cites=14165353949870328854",
         "cites_id": [
             "14165353949870328854"
         ],
@@ -809,6 +836,7 @@
         "bib": {
             "title": "Analysis of nonstationary time series using locally coupled gaussian processes",
             "pub_year": 2016,
+            "citation": "Timeseries workshop. NeuirIPS, 2016",
             "author": "Luca Ambrogioni and Eric Maris",
             "journal": "Timeseries workshop. NeuirIPS",
             "abstract": "The analysis of nonstationary time series is of great importance in many scientific fields such as physics and neuroscience. In recent years, Gaussian process regression has attracted substantial attention as a robust and powerful method for analyzing time series. In this paper, we introduce a new framework for analyzing nonstationary time series using locally stationary Gaussian process analysis with parameters that are coupled through a hidden Markov model. The main advantage of this framework is that arbitrary complex nonstationary covariance functions can be obtained by combining simpler stationary building blocks whose hidden parameters can be estimated in closed-form. We demonstrate the flexibility of the method by analyzing two examples of synthetic nonstationary signals: oscillations with time varying frequency and time series with two dynamical states. Finally, we report an example application on real magnetoencephalographic measurements of brain activity."
@@ -816,7 +844,7 @@
         "filled": true,
         "author_pub_id": "J9IABpQAAAAJ:d1gkVwhDpl0C",
         "num_citations": 1,
-        "citedby_url": "/scholar?cites=15889717211130170848",
+        "citedby_url": "/scholar?hl=en&cites=15889717211130170848",
         "cites_id": [
             "15889717211130170848"
         ],
@@ -832,6 +860,7 @@
         "bib": {
             "title": "Optimizing an existing prediction model for quality of life one‐year post‐ICU: an exploratory analysis",
             "pub_year": 2022,
+            "citation": "Acta Anaesthesiologica Scandinavica, 2022",
             "author": "Manon de Jonge and Nina Wubben and Christiaan R van Kaam and Tim Frenzel and Cornelia WE Hoedemaekers and Luca Ambrogioni and Johannes G van der Hoeven and Mark van den Boogaard and Marieke Zegers",
             "journal": "Acta Anaesthesiologica Scandinavica",
             "abstract": "This study aimed to improve the PREPARE model, an existing linear regression prediction model for long‐term Quality of Life (QoL) of Intensive Care Unit (ICU) survivors by incorporating additional ICU data from patients’ Electronic Health Record (EHR) and bedside monitors.1308 adult ICU patients, aged≥16, admitted between July 2016‐January 2019 were included. Several regression‐based machine learning models were fitted on a combination of patient‐reported data and expert‐selected EHR variables and bedside monitor data to predict change in QoL one year after ICU admission. Predictive performance was compared to a five‐feature linear regression prediction model using only 24‐hour data (R2 = 0.54, Mean Square Error (MSE) = 0.031, Mean Absolute Error (MAE) = 0.128).67.9% of the included ICU survivors was male and the median age was 65.0 [IQR: 57.0 …"
@@ -848,6 +877,7 @@
         "bib": {
             "title": "Towards Naturalistic Speech Decoding from Intracranial Brain Data",
             "pub_year": 2022,
+            "citation": "2022 44th Annual International Conference of the IEEE Engineering in …, 2022",
             "author": "Julia Berezutskaya and Luca Ambrogioni and Nick F Ramsey and Marcel AJ van Gerven",
             "conference": "2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
             "pages": "3100-3104",
@@ -862,20 +892,20 @@
         "cites_per_year": {},
         "mandates": [
             {
-                "agency": "European Commission",
-                "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
-                "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
-                "effective_date": "2021/2",
-                "embargo": "none",
-                "acknowledgement": " …European Research Council (Advanced iConnect Project Grant ADV 320708) …"
-            },
-            {
                 "agency": "Netherlands Organisation for Scientific Research",
                 "url_policy": "https://www.nwo.nl/en/open-access-publishing",
                 "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
                 "effective_date": "2021/1",
                 "embargo": "none",
                 "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) 1Julia …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
+                "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
+                "effective_date": "2021/2",
+                "embargo": "none",
+                "acknowledgement": " …European Research Council (Advanced iConnect Project Grant ADV 320708) …"
             }
         ]
     },
@@ -885,6 +915,7 @@
         "bib": {
             "title": "Bayesian model averaging for nonparametric discontinuity design",
             "pub_year": 2022,
+            "citation": "Plos one 17 (6), e0270310, 2022",
             "author": "Max Hinne and David Leeftink and Marcel AJ van Gerven and Luca Ambrogioni",
             "journal": "Plos one",
             "volume": "17",
@@ -905,6 +936,7 @@
         "bib": {
             "title": "Closing the gap: Exact maximum likelihood training of generative autoencoders using invertible layers",
             "pub_year": 2022,
+            "citation": "arXiv preprint arXiv:2205.09546, 2022",
             "author": "Gianluigi Silvestri and Daan Roos and Luca Ambrogioni",
             "journal": "arXiv preprint arXiv:2205.09546",
             "abstract": "In this work, we provide an exact likelihood alternative to the variational training of generative autoencoders. We show that VAE-style autoencoders can be constructed using invertible layers, which offer a tractable exact likelihood without the need for any regularization terms. This is achieved while leaving complete freedom in the choice of encoder, decoder and prior architectures, making our approach a drop-in replacement for the training of existing VAEs and VAE-style models. We refer to the resulting models as Autoencoders within Flows (AEF), since the encoder, decoder and prior are defined as individual layers of an overall invertible architecture. We show that the approach results in strikingly higher performance than architecturally equivalent VAEs in term of log-likelihood, sample quality and denoising performance. In a broad sense, the main ambition of this work is to close the gap between the normalizing flow and autoencoder literature under the common framework of invertibility and exact maximum likelihood."
@@ -922,6 +954,7 @@
         "bib": {
             "title": "Knowledge is reward: Learning optimal exploration by predictive reward cashing",
             "pub_year": 2021,
+            "citation": "arXiv preprint arXiv:2109.08518, 2021",
             "author": "Luca Ambrogioni",
             "journal": "arXiv preprint arXiv:2109.08518",
             "abstract": "There is a strong link between the general concept of intelligence and the ability to collect and use information. The theory of Bayes-adaptive exploration offers an attractive optimality framework for training machines to perform complex information gathering tasks. However, the computational complexity of the resulting optimal control problem has limited the diffusion of the theory to mainstream deep AI research. In this paper we exploit the inherent mathematical structure of Bayes-adaptive problems in order to dramatically simplify the problem by making the reward structure denser while simultaneously decoupling the learning of exploitation and exploration policies. The key to this simplification comes from the novel concept of cross-value (i.e. the value of being in an environment while acting optimally according to another), which we use to quantify the value of currently available information. This results in a new denser reward structure that \"cashes in\" all future rewards that can be predicted from the current information state. In a set of experiments we show that the approach makes it possible to learn challenging information gathering tasks without the use of shaping and heuristic bonuses in situations where the standard RL algorithms fail."
@@ -939,6 +972,7 @@
         "bib": {
             "title": "Scaling up learning with GAIT-prop",
             "pub_year": 2021,
+            "citation": "arXiv preprint arXiv:2102.11598, 2021",
             "author": "Sander Dalm and Nasir Ahmad and Luca Ambrogioni and Marcel van Gerven",
             "journal": "arXiv preprint arXiv:2102.11598",
             "abstract": "Backpropagation of error (BP) is a widely used and highly successful learning algorithm. However, its reliance on non-local information in propagating error gradients makes it seem an unlikely candidate for learning in the brain. In the last decade, a number of investigations have been carried out focused upon determining whether alternative more biologically plausible computations can be used to approximate BP. This work builds on such a local learning algorithm - Gradient Adjusted Incremental Target Propagation (GAIT-prop) - which has recently been shown to approximate BP in a manner which appears biologically plausible. This method constructs local, layer-wise weight update targets in order to enable plausible credit assignment. However, in deep networks, the local weight updates computed by GAIT-prop can deviate from BP for a number of reasons. Here, we provide and test methods to overcome such sources of error. In particular, we adaptively rescale the locally-computed errors and show that this significantly increases the performance and stability of the GAIT-prop algorithm when applied to the CIFAR-10 dataset."
@@ -956,6 +990,7 @@
         "bib": {
             "title": "Hyperrealistic neural decoding of faces",
             "pub_year": 2021,
+            "citation": "Piscataway, NJ: IEEE EMBS, 2021",
             "author": "TM Dado and Y Güçlütürk and L Ambrogioni and GEH Ras and SE Bosch and MAJ van Gerven and U Güçlü",
             "publisher": "Piscataway, NJ: IEEE EMBS",
             "abstract": "We show how generative modeling approximates the neural (face) manifold by obtaining state-of-the-art reconstructions of perceived face images from fMRI activations."
@@ -972,6 +1007,7 @@
         "bib": {
             "title": "The 3TConv: An Intrinsic Approach to Explainable 3D CNNs",
             "pub_year": 2020,
+            "citation": "",
             "author": "Gabrielle Ras and Luca Ambrogioni and Pim Haselager and Marcel van Gerven and Umut Güçlü",
             "abstract": "Current deep learning architectures that make use of the 3D convolution (3DConv) achieve state-of-the-art results on action recognition benchmarks. However, the 3DConv does not easily lend itself to explainable model decisions. To this end we introduce a novel and intrinsic approach, whereby all the aspects of the 3DConv are rendered explainable. Our approach proposes the temporally factorized 3D convolution (3TConv) as an interpretable alternative to the regular 3DConv. In a 3TConv the 3D convolutional filter is obtained by learning a 2D filter and a set of temporal transformation parameters, resulting in a sparse filter requiring less parameters. We demonstrate that 3TConv learns temporal transformations that afford a direct interpretation by analyzing the transformation parameter statistics on a model level. Our experiments show that in the low-data regime the 3TConv outperforms 3DConv and R (2+ 1) D while containing up to 77\\% less parameters."
         },
@@ -988,6 +1024,7 @@
         "bib": {
             "title": "The Indian chefs process",
             "pub_year": 2020,
+            "citation": "Conference on Uncertainty in Artificial Intelligence, 600-608, 2020",
             "author": "Patrick Dallaire and Luca Ambrogioni and Ludovic Trottier and Umut Güçlü and Max Hinne and Philippe Giguère and Marcel Gerven and François Laviolette",
             "conference": "Conference on Uncertainty in Artificial Intelligence",
             "pages": "600-608",
@@ -1007,6 +1044,7 @@
         "bib": {
             "title": "Quality of life after the ICU: A machine learning approach to one-year post-ICU health predictions",
             "pub_year": 2020,
+            "citation": "",
             "author": "M van den Boogaard Radboudumc and L Ambrogioni and M Zegers Radboudumc and R van Kaam Radboudumc",
             "abstract": ""
         },
@@ -1023,6 +1061,7 @@
         "bib": {
             "title": "Explainable 3D Convolutional Neural Networks by Learning Temporal Transformations",
             "pub_year": 2020,
+            "citation": "arXiv preprint arXiv:2006.15983, 2020",
             "author": "Gabriëlle Ras and Luca Ambrogioni and Pim Haselager and Marcel AJ van Gerven and Umut Güçlü",
             "journal": "arXiv preprint arXiv:2006.15983",
             "abstract": "In this paper we introduce the temporally factorized 3D convolution (3TConv) as an interpretable alternative to the regular 3D convolution (3DConv). In a 3TConv the 3D convolutional filter is obtained by learning a 2D filter and a set of temporal transformation parameters, resulting in a sparse filter where the 2D slices are sequentially dependent on each other in the temporal dimension. We demonstrate that 3TConv learns temporal transformations that afford a direct interpretation. The temporal parameters can be used in combination with various existing 2D visualization methods. We also show that insight about what the model learns can be achieved by analyzing the transformation parameter statistics on a layer and model level. Finally, we implicitly demonstrate that, in popular ConvNets, the 2DConv can be replaced with a 3TConv and that the weights can be transferred to yield pretrained 3TConvs. pretrained 3TConvnets leverage more than a decade of work on traditional 2DConvNets by being able to make use of features that have been proven to deliver excellent results on image classification benchmarks."
@@ -1040,6 +1079,7 @@
         "bib": {
             "title": "Background Hardly Matters: Understanding Personality Attribution in Deep Residual Networks",
             "pub_year": 2019,
+            "citation": "arXiv preprint arXiv:1912.09831, 2019",
             "author": "Gabriëlle Ras and Ron Dotsch and Luca Ambrogioni and Umut Güçlü and Marcel AJ van Gerven",
             "journal": "arXiv preprint arXiv:1912.09831",
             "abstract": "Perceived personality traits attributed to an individual do not have to correspond to their actual personality traits and may be determined in part by the context in which one encounters a person. These apparent traits determine, to a large extent, how other people will behave towards them. Deep neural networks are increasingly being used to perform automated personality attribution (e.g., job interviews). It is important that we understand the driving factors behind the predictions, in humans and in deep neural networks. This paper explicitly studies the effect of the image background on apparent personality prediction while addressing two important confounds present in existing literature; overlapping data splits and including facial information in the background. Surprisingly, we found no evidence that background information improves model predictions for apparent personality traits. In fact, when background is explicitly added to the input, a decrease in performance was measured across all models."
@@ -1057,6 +1097,7 @@
         "bib": {
             "title": "Temporal factorization of 3D convolutional kernels",
             "pub_year": 2019,
+            "citation": "arXiv preprint arXiv:1912.04075, 2019",
             "author": "Gabriëlle Ras and Luca Ambrogioni and Umut Güçlü and Marcel AJ van Gerven",
             "journal": "arXiv preprint arXiv:1912.04075",
             "abstract": "3D convolutional neural networks are difficult to train because they are parameter-expensive and data-hungry. To solve these problems we propose a simple technique for learning 3D convolutional kernels efficiently requiring less training data. We achieve this by factorizing the 3D kernel along the temporal dimension, reducing the number of parameters and making training from data more efficient. Additionally we introduce a novel dataset called Video-MNIST to demonstrate the performance of our method. Our method significantly outperforms the conventional 3D convolution in the low data regime (1 to 5 videos per class). Finally, our model achieves competitive results in the high data regime (>10 videos per class) using up to 45% fewer parameters."
@@ -1074,6 +1115,7 @@
         "bib": {
             "title": "SpikeCaKe: Semi-analytic nonparametric Bayesian inference for spike-spike neuronal connectivity",
             "pub_year": 2019,
+            "citation": "The 22nd International Conference on Artificial Intelligence and Statistics …, 2019",
             "author": "Luca Ambrogioni and Patrick Ebel and Max Hinne and Umut Güçlü and Marcel Gerven and Eric Maris",
             "conference": "The 22nd International Conference on Artificial Intelligence and Statistics",
             "pages": "787-795",
@@ -1093,6 +1135,7 @@
         "bib": {
             "title": "Gaussian processes and beyond: From dynamical modeling to statistical signal processing",
             "pub_year": 2019,
+            "citation": "[Sl: sn], 2019",
             "author": "Luca Ambrogioni",
             "abstract": "„The goal of mathematics is the symbolic comprehension of the infinite with human, that is finite, means."
         },
@@ -1109,6 +1152,7 @@
         "bib": {
             "title": "Algorithmic composition of polyphonic music with the WaveCRF",
             "pub_year": 2017,
+            "citation": "[Sl: sn], 2017",
             "author": "Umut Güçlü and Yagmur Güçlütürk and Luca Ambrogioni and EGG Maris and RJ van Lier and MAJ van Gerven",
             "publisher": "[Sl: sn]",
             "abstract": "Here, we propose a new approach for modeling conditional probability distributions of polyphonic music by combining WaveNET and CRF-RNN variants, and show that this approach beats LSTM and WaveNET baselines that do not take into account the statistical dependencies between simultaneous notes."
@@ -1136,6 +1180,7 @@
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
             "title": "Brain2Pix: Fully convolutional naturalistic video frame reconstruction from brain activity",
+            "citation": "Frontiers in Neuroscience, 1684, 0",
             "author": "Lynn Le and Luca Ambrogioni and Katja Seeliger and Yagmur Güç Lütürk and Marcel Van Gerven and Umut Güç Lü",
             "journal": "Frontiers in Neuroscience",
             "pages": "1684",

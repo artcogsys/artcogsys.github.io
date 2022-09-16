@@ -5,6 +5,7 @@
         "bib": {
             "title": "Searching relevant variable subsets in complex systems using k-means PSO",
             "pub_year": 2017,
+            "citation": "Italian Workshop on Artificial Life and Evolutionary Computation, 308-321, 2017",
             "author": "Gianluigi Silvestri and Laura Sani and Michele Amoretti and Riccardo Pecori and Emilio Vicari and Monica Mordonini and Stefano Cagnoni",
             "conference": "Italian Workshop on Artificial Life and Evolutionary Computation",
             "pages": "308-321",
@@ -14,7 +15,7 @@
         "filled": true,
         "author_pub_id": "BKRLVogAAAAJ:u-x6o8ySG0sC",
         "num_citations": 14,
-        "citedby_url": "/scholar?cites=5727892983920118497",
+        "citedby_url": "/scholar?hl=en&cites=5727892983920118497",
         "cites_id": [
             "5727892983920118497"
         ],
@@ -33,6 +34,7 @@
         "bib": {
             "title": "Automatic variational inference with cascading flows",
             "pub_year": 2021,
+            "citation": "International Conference on Machine Learning, 254-263, 2021",
             "author": "Luca Ambrogioni and Gianluigi Silvestri and Marcel Van Gerven",
             "conference": "International Conference on Machine Learning",
             "pages": "254-263",
@@ -42,7 +44,7 @@
         "filled": true,
         "author_pub_id": "BKRLVogAAAAJ:qjMakFHDy7sC",
         "num_citations": 4,
-        "citedby_url": "/scholar?cites=16991650093300670925",
+        "citedby_url": "/scholar?hl=en&cites=16991650093300670925",
         "cites_id": [
             "16991650093300670925"
         ],
@@ -58,6 +60,7 @@
         "bib": {
             "title": "Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling",
             "pub_year": 2022,
+            "citation": "International Conference on Learning Representations, 2022",
             "author": "Gianluigi Silvestri and Emily Fertig and Dave Moore and Luca Ambrogioni",
             "conference": "International Conference on Learning Representations",
             "abstract": "Normalizing flows have shown great success as general-purpose density estimators. However, many real world applications require the use of domain-specific knowledge, which normalizing flows cannot readily incorporate. We propose embedded-model flows (EMF), which alternate general-purpose transformations with structured layers that embed domain-specific inductive biases. These layers are automatically constructed by converting user-specified differentiable probabilistic models into equivalent bijective transformations. We also introduce gated structured layers, which allow bypassing the parts of the models that fail to capture the statistics of the data. We demonstrate that EMFs can be used to induce desirable properties such as multimodality, hierarchical coupling and continuity. Furthermore, we show that EMFs enable a high performance form of variational inference where the structure of the prior model is embedded in the variational architecture. In our experiments, we show that this approach outperforms state-of-the-art methods in common structured inference problems."
@@ -65,7 +68,7 @@
         "filled": true,
         "author_pub_id": "BKRLVogAAAAJ:UeHWp8X0CEIC",
         "num_citations": 2,
-        "citedby_url": "/scholar?cites=13875622113438069976",
+        "citedby_url": "/scholar?hl=en&cites=13875622113438069976",
         "cites_id": [
             "13875622113438069976"
         ],
@@ -82,6 +85,7 @@
         "bib": {
             "title": "Closing the gap: Exact maximum likelihood training of generative autoencoders using invertible layers",
             "pub_year": 2022,
+            "citation": "arXiv preprint arXiv:2205.09546, 2022",
             "author": "Gianluigi Silvestri and Daan Roos and Luca Ambrogioni",
             "journal": "arXiv preprint arXiv:2205.09546",
             "abstract": "In this work, we provide an exact likelihood alternative to the variational training of generative autoencoders. We show that VAE-style autoencoders can be constructed using invertible layers, which offer a tractable exact likelihood without the need for any regularization terms. This is achieved while leaving complete freedom in the choice of encoder, decoder and prior architectures, making our approach a drop-in replacement for the training of existing VAEs and VAE-style models. We refer to the resulting models as Autoencoders within Flows (AEF), since the encoder, decoder and prior are defined as individual layers of an overall invertible architecture. We show that the approach results in strikingly higher performance than architecturally equivalent VAEs in term of log-likelihood, sample quality and denoising performance. In a broad sense, the main ambition of this work is to close the gap between the normalizing flow and autoencoder literature under the common framework of invertibility and exact maximum likelihood."
@@ -99,6 +103,7 @@
         "bib": {
             "title": "One-Shot Neural Architecture Search for Deep Multi-Task Learning in Computer Vision",
             "pub_year": 2020,
+            "citation": "",
             "author": "Gianluigi Silvestri",
             "abstract": "In this work, a neural architecture search algorithm for multi-task learning is proposed. Given any dataset and tasks group, the method aims to find the optimal way of sharing layers among tasks in convolutional neural networks. A search space suited to multi-task learning is designed, and a novel strategy to rank different Pareto optimal solutions is developed. The core of the algorithm is an adaptation of a state-of-the-art neural architecture search strategy. Experimental results on the Cityscapes dataset, on the tasks of semantic segmentation and depth estimation, do not provide the expected results. Despite the lack of stable results, this work lays down the fundamentals to further develop novel multi-task neural architecture search methods."
         },

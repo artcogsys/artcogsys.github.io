@@ -1,5 +1,5 @@
 ---
-name: "Renato Farinha Duarte"
+name: "Renato Duarte"
 title: "Assistant Professor"
-affiliation: "Donders Centre for Cognition"
+affiliation: "Donders Institute for Brain, Cognition and Behaviour"
 ---

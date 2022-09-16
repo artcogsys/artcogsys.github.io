@@ -5,6 +5,7 @@
         "bib": {
             "title": "The effects of augmented reality visual cues on turning in place in Parkinson's disease patients with freezing of gait",
             "pub_year": 2020,
+            "citation": "Frontiers in neurology 11, 185, 2020",
             "author": "Sabine Janssen and Jaap de Ruyter van Steveninck and Hizirwan S Salim and Helena M Cockx and Bastiaan R Bloem and Tjitske Heida and Richard JA Van Wezel",
             "journal": "Frontiers in neurology",
             "volume": "11",
@@ -15,7 +16,7 @@
         "filled": true,
         "author_pub_id": "751H_tMAAAAJ:d1gkVwhDpl0C",
         "num_citations": 12,
-        "citedby_url": "/scholar?cites=3167931427059800781",
+        "citedby_url": "/scholar?hl=en&cites=3167931427059800781",
         "cites_id": [
             "3167931427059800781"
         ],
@@ -28,20 +29,20 @@
         },
         "mandates": [
             {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …Netherlands Organization for Scientific Research …"
-            },
-            {
                 "agency": "Netherlands Organisation for Health Research and Development",
                 "url_policy": "https://www.zonmw.nl/fileadmin/zonmw/documenten/Gezondheidsbescherming/Open_Access/Open_Access_Policy_ZonMw_2021..pdf",
                 "url_policy_cached": "/mandates/zonmw_nl-2021-02-13-en.pdf",
                 "effective_date": "2013/7",
                 "embargo": "6 months",
                 "acknowledgement": " …Netherlands Organization for Health Research and Development (ZonMw) …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organization for Scientific Research …"
             }
         ]
     },
@@ -51,6 +52,7 @@
         "bib": {
             "title": "End-to-end optimization of prosthetic vision",
             "pub_year": 2022,
+            "citation": "Journal of Vision 22 (2), 20-20, 2022",
             "author": "Jaap de Ruyter van Steveninck and Umut Güçlü and Richard van Wezel and Marcel van Gerven",
             "journal": "Journal of Vision",
             "volume": "22",
@@ -62,7 +64,7 @@
         "filled": true,
         "author_pub_id": "751H_tMAAAAJ:2osOgNQ5qMEC",
         "num_citations": 9,
-        "citedby_url": "/scholar?cites=1277070885734257456",
+        "citedby_url": "/scholar?hl=en&cites=1277070885734257456",
         "cites_id": [
             "1277070885734257456"
         ],
@@ -90,6 +92,7 @@
         "bib": {
             "title": "The beneficial effects of conventional visual cues are retained when augmented reality glasses are worn",
             "pub_year": 2020,
+            "citation": "Parkinson’s Disease 2020, 2020",
             "author": "Sabine Janssen and Jaap De Ruyter Van Steveninck and Hizirwan S Salim and Bastiaan R Bloem and Tjitske Heida and Richard JA Van Wezel",
             "journal": "Parkinson’s Disease",
             "volume": "2020",
@@ -99,7 +102,7 @@
         "filled": true,
         "author_pub_id": "751H_tMAAAAJ:9yKSN-GCB0IC",
         "num_citations": 4,
-        "citedby_url": "/scholar?cites=12812678583841469450",
+        "citedby_url": "/scholar?hl=en&cites=12812678583841469450",
         "cites_id": [
             "12812678583841469450"
         ],
@@ -134,6 +137,7 @@
         "bib": {
             "title": "Real-world indoor mobility with simulated prosthetic vision: The benefits and feasibility of contour-based scene simplification at different phosphene resolutions",
             "pub_year": 2022,
+            "citation": "Journal of Vision 22 (2), 1-1, 2022",
             "author": "Jaap de Ruyter van Steveninck and Tom van Gestel and Paula Koenders and Guus van der Ham and Floris Vereecken and Umut Güçlü and Marcel van Gerven and Yağmur Güçlütürk and Richard van Wezel",
             "journal": "Journal of Vision",
             "volume": "22",
@@ -145,7 +149,7 @@
         "filled": true,
         "author_pub_id": "751H_tMAAAAJ:UeHWp8X0CEIC",
         "num_citations": 3,
-        "citedby_url": "/scholar?cites=7138790114948681059",
+        "citedby_url": "/scholar?hl=en&cites=7138790114948681059",
         "cites_id": [
             "7138790114948681059"
         ],
@@ -172,6 +176,7 @@
         "bib": {
             "title": "Optimization of Neuroprosthetic Vision via End-to-end Deep Reinforcement Learning",
             "pub_year": 2022,
+            "citation": "bioRxiv, 2022",
             "author": "Burcu Küçükoğlu and Bodo Rueckauer and Nasir Ahmad and Jaap de Ruyter van Steveninck and Umut Güçlü and Marcel van Gerven",
             "journal": "bioRxiv",
             "publisher": "Cold Spring Harbor Laboratory",

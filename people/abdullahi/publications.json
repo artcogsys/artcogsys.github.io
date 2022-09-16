@@ -5,13 +5,14 @@
         "bib": {
             "title": "Predictive coding is a consequence of energy efficiency in recurrent neural networks",
             "pub_year": 2021,
+            "citation": "https://doi.org/10.1101/2021.02.16.430904, 2021",
             "author": "Abdullahi Ali and Nasir Ahmad and Elgar de Groot and Marcel A.J. van Gerven and Tim C. Kietzmann",
             "abstract": "Predictive coding represents a promising framework for understanding brain function. It postulates that the brain continuously inhibits predictable sensory input, ensuring a preferential processing of surprising elements. A central aspect of this view is its hierarchical connectivity, involving recurrent message passing between excitatory bottom-up signals and inhibitory top-down feedback. Here we use computational modelling to demonstrate that such architectural hard-wiring is not necessary. Rather, predictive coding is shown to emerge as a consequence of energy efficiency. When training recurrent neural networks to minimise their energy consumption while operating in predictive environments, the networks self-organise into prediction and error units with appropriate inhibitory and excitatory interconnections, and learn to inhibit predictable sensory input. Moving beyond the view of purely top-down driven predictions, we demonstrate via virtual lesioning experiments that networks perform predictions on two timescales: fast lateral predictions among sensory units, and slower prediction cycles that integrate evidence over time."
         },
         "filled": true,
         "author_pub_id": "n57ygVkAAAAJ:d1gkVwhDpl0C",
         "num_citations": 10,
-        "citedby_url": "/scholar?cites=3873756733302774912",
+        "citedby_url": "/scholar?hl=en&cites=3873756733302774912",
         "cites_id": [
             "3873756733302774912"
         ],
@@ -28,6 +29,7 @@
         "bib": {
             "title": "A spiking neural algorithm for the network flow problem",
             "pub_year": 2019,
+            "citation": "arXiv preprint arXiv:1911.13097, 2019",
             "author": "Abdullahi Ali and Johan Kwisthout",
             "journal": "arXiv preprint arXiv:1911.13097",
             "abstract": "It is currently not clear what the potential is of neuromorphic hardware beyond machine learning and neuroscience. In this project, a problem is investigated that is inherently difficult to fully implement in neuromorphic hardware by introducing a new machine model in which a conventional Turing machine and neuromorphic oracle work together to solve such types of problems. We show that the P-complete Max Network Flow problem is intractable in models where the oracle may be consulted only once (`create-and-run' model) but becomes tractable using an interactive (`neuromorphic co-processor') model of computation. More in specific we show that a logspace-constrained Turing machine with access to an interactive neuromorphic oracle with linear space, time, and energy constraints can solve Max Network Flow. A modified variant of this algorithm is implemented on the Intel Loihi chip; a neuromorphic manycore processor developed by Intel Labs. We show that by off-loading the search for augmenting paths to the neuromorphic processor we can get energy efficiency gains, while not sacrificing runtime resources. This result demonstrates how P-complete problems can be mapped on neuromorphic architectures in a theoretically and potentially practically efficient manner."
@@ -35,7 +37,7 @@
         "filled": true,
         "author_pub_id": "n57ygVkAAAAJ:u5HHmVD_uO8C",
         "num_citations": 4,
-        "citedby_url": "/scholar?cites=15105164838630876226,11532110971466083199",
+        "citedby_url": "/scholar?hl=en&cites=15105164838630876226,11532110971466083199",
         "cites_id": [
             "15105164838630876226",
             "11532110971466083199"

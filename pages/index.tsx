@@ -21,6 +21,7 @@ export default function Home() {
   return (
     <Layout pageIdx={1}>
       <Stack spacing={1}>
+        <span>This Page is currently under construction</span>
         <Paper elevation={3} style={{ opacity: "90%" }}>
           <Container maxWidth="md" className={styles.padded}>
             <Stack spacing={1}>

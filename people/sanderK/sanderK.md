@@ -1,6 +1,6 @@
 ---
 name: "Sander Keemink"
 title: "Assistant Professor"
-affiliation: "Donders Centre for Cognition"
+affiliation: "AI department, Donders Institute for Brain, Cognition and Behaviour"
 ---
 

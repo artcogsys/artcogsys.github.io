@@ -5,6 +5,7 @@
         "bib": {
             "title": "Cortical mechanisms of spatial hearing",
             "pub_year": 2019,
+            "citation": "Nature Reviews Neuroscience 20 (10), 609-623, 2019",
             "author": "Kiki van der Heijden and Josef P Rauschecker and Beatrice de Gelder and Elia Formisano",
             "volume": "20",
             "number": "10",
@@ -15,7 +16,7 @@
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:9yKSN-GCB0IC",
         "num_citations": 38,
-        "citedby_url": "/scholar?cites=18196024213832332372",
+        "citedby_url": "/scholar?hl=en&cites=18196024213832332372",
         "cites_id": [
             "18196024213832332372"
         ],
@@ -29,6 +30,14 @@
             "2022": 14
         },
         "mandates": [
+            {
+                "agency": "German Research Foundation",
+                "url_policy": "https://www.dfg.de/formulare/2_012e/2_012e.pdf",
+                "url_policy_cached": "/mandates/dfg_de-2021-02-13-en.pdf",
+                "effective_date": "2006/1",
+                "embargo": "12 months",
+                "acknowledgement": " …German Excellence Initiative …"
+            },
             {
                 "agency": "US National Institutes of Health",
                 "url_policy": "https://publicaccess.nih.gov/policy.htm",
@@ -46,14 +55,6 @@
                 "acknowledgement": " …Netherlands Organization for Scientific Research (VICI grant number 453–12–002) …"
             },
             {
-                "agency": "US National Science Foundation",
-                "url_policy": "https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf",
-                "url_policy_cached": "/mandates/nsf-2021-02-13.pdf",
-                "effective_date": "2016/1",
-                "embargo": "12 months",
-                "acknowledgement": " …US National Science Foundation (PIRE grant number OISE-0730255 …"
-            },
-            {
                 "agency": "European Commission",
                 "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
                 "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
@@ -62,12 +63,12 @@
                 "acknowledgement": " …European Union’s Horizon 2020 Research and Innovation Programme (grant number 645553) …"
             },
             {
-                "agency": "German Research Foundation",
-                "url_policy": "https://www.dfg.de/formulare/2_012e/2_012e.pdf",
-                "url_policy_cached": "/mandates/dfg_de-2021-02-13-en.pdf",
-                "effective_date": "2006/1",
+                "agency": "US National Science Foundation",
+                "url_policy": "https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf",
+                "url_policy_cached": "/mandates/nsf-2021-02-13.pdf",
+                "effective_date": "2016/1",
                 "embargo": "12 months",
-                "acknowledgement": " …German Excellence Initiative …"
+                "acknowledgement": " …US National Science Foundation (PIRE grant number OISE-0730255 …"
             }
         ]
     },
@@ -77,6 +78,7 @@
         "bib": {
             "title": "Opponent coding of sound location (azimuth) in planum temporale is robust to sound-level variations",
             "pub_year": 2016,
+            "citation": "Cerebral Cortex 26 (1), 450-464, 2016",
             "author": "Kiki Derey and Giancarlo Valente and Beatrice De Gelder and Elia Formisano",
             "journal": "Cerebral Cortex",
             "volume": "26",
@@ -88,7 +90,7 @@
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:u-x6o8ySG0sC",
         "num_citations": 34,
-        "citedby_url": "/scholar?cites=650537980339629491",
+        "citedby_url": "/scholar?hl=en&cites=650537980339629491",
         "cites_id": [
             "650537980339629491"
         ],
@@ -106,20 +108,20 @@
         },
         "mandates": [
             {
-                "agency": "European Commission",
-                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
-                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
-                "effective_date": "2013/12",
-                "embargo": "6 months",
-                "acknowledgement": " …ERC grant agreement number 295673 …"
-            },
-            {
                 "agency": "Netherlands Organisation for Scientific Research",
                 "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
                 "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
                 "effective_date": "2015/12",
                 "embargo": "none",
                 "acknowledgement": " …Netherlands Organization for Scientific Research (NWO), Middle-sized Infrastructural Grant 480-09-006 and VICI 453-12-002 …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …ERC grant agreement number 295673 …"
             }
         ]
     },
@@ -129,6 +131,7 @@
         "bib": {
             "title": "Active sound localization sharpens spatial tuning in human primary auditory cortex",
             "pub_year": 2018,
+            "citation": "Journal of Neuroscience 38 (40), 8574-8587, 2018",
             "author": "Kiki van der Heijden and Josef P Rauschecker and Elia Formisano and Giancarlo Valente and Beatrice de Gelder",
             "journal": "Journal of Neuroscience",
             "volume": "38",
@@ -140,7 +143,7 @@
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:d1gkVwhDpl0C",
         "num_citations": 27,
-        "citedby_url": "/scholar?cites=15119423036839150206",
+        "citedby_url": "/scholar?hl=en&cites=15119423036839150206",
         "cites_id": [
             "15119423036839150206"
         ],
@@ -156,12 +159,12 @@
         },
         "mandates": [
             {
-                "agency": "European Commission",
-                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
-                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
-                "effective_date": "2013/12",
-                "embargo": "6 months",
-                "acknowledgement": " …European Union’s Horizon 2020 Research and Innovation Programme Grant 645553 …"
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …NWO Vici-Grant 453-12-002 …"
             },
             {
                 "agency": "US National Institutes of Health",
@@ -170,14 +173,6 @@
                 "effective_date": "2008/4",
                 "embargo": "12 months",
                 "acknowledgement": " …NIH Grants R01EY018923 and R01DC014989 …"
-            },
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …NWO Vici-Grant 453-12-002 …"
             },
             {
                 "agency": "German Research Foundation",
@@ -194,6 +189,14 @@
                 "effective_date": "2016/1",
                 "embargo": "12 months",
                 "acknowledgement": " …US National Science Foundation (OISE-0730255 …"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …European Union’s Horizon 2020 Research and Innovation Programme Grant 645553 …"
             }
         ]
     },
@@ -203,6 +206,7 @@
         "bib": {
             "title": "Localization of complex sounds is modulated by behavioral relevance and sound category",
             "pub_year": 2017,
+            "citation": "The Journal of the Acoustical Society of America 142 (4), 1757-1773, 2017",
             "author": "Kiki Derey and Josef P Rauschecker and Elia Formisano and Giancarlo Valente and Beatrice de Gelder",
             "journal": "The Journal of the Acoustical Society of America",
             "volume": "142",
@@ -214,7 +218,7 @@
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:u5HHmVD_uO8C",
         "num_citations": 9,
-        "citedby_url": "/scholar?cites=12835006025266948382",
+        "citedby_url": "/scholar?hl=en&cites=12835006025266948382",
         "cites_id": [
             "12835006025266948382"
         ],
@@ -261,6 +265,7 @@
         "bib": {
             "title": "Reorganization of sound location processing in the auditory cortex of blind humans",
             "pub_year": 2020,
+            "citation": "Cerebral Cortex 30 (3), 1103-1116, 2020",
             "author": "Kiki van der Heijden and Elia Formisano and Giancarlo Valente and Minye Zhan and Ron Kupers and Beatrice de Gelder",
             "journal": "Cerebral Cortex",
             "volume": "30",
@@ -272,7 +277,7 @@
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:2osOgNQ5qMEC",
         "num_citations": 6,
-        "citedby_url": "/scholar?cites=150756900797616219",
+        "citedby_url": "/scholar?hl=en&cites=150756900797616219",
         "cites_id": [
             "150756900797616219"
         ],
@@ -310,6 +315,7 @@
         "bib": {
             "title": "Evaluating hearing performance with cochlear implants within the same patient using daily randomization and imaging-based fitting-The ELEPHANT study",
             "pub_year": 2020,
+            "citation": "Trials 21 (1), 1-14, 2020",
             "author": "LJG Lambriks and Marc Van Hoof and JA Debruyne and Miranda Janssen and Josef Chalupper and KA van der Heijden and JR Hof and CA Hellingman and ELJ George and EMJ Devocht",
             "journal": "Trials",
             "volume": "21",
@@ -321,7 +327,7 @@
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:Y0pCki6q_DkC",
         "num_citations": 4,
-        "citedby_url": "/scholar?cites=1061256029310322770",
+        "citedby_url": "/scholar?hl=en&cites=1061256029310322770",
         "cites_id": [
             "1061256029310322770"
         ],
@@ -340,6 +346,7 @@
         "bib": {
             "title": "Modelling human sound localization with deep neural networks",
             "pub_year": 2020,
+            "citation": "Proceedings of the Twenty-Eight European Symposium on Artificial Neural …, 2020",
             "author": "Kiki van der Heijden and Siamak Mehrkanoon",
             "journal": "Proceedings of the Twenty-Eight European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN).",
             "abstract": "How the brain transforms binaural, real-life sounds into a neural representation of sound location is unclear. This paper introduces a deep learning approach to address these neurocomputational mechanisms: We develop a biological-inspired deep neural network model of sound azimuth encoding operating on auditory nerve representations of real-life sounds. We explore two types of loss functions: Euclidean distance and angular distance. Our results show that a network resembling the early stages of the human auditory pathway can predict sound azimuth location. The type of loss function modulates spatial acuity in different ways. Finally, learning is independent of environment-specific acoustic properties."
@@ -347,7 +354,7 @@
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:Tyk-4Ss8FVUC",
         "num_citations": 3,
-        "citedby_url": "/scholar?cites=14532953038912782359",
+        "citedby_url": "/scholar?hl=en&cites=14532953038912782359",
         "cites_id": [
             "14532953038912782359"
         ],
@@ -364,6 +371,7 @@
         "bib": {
             "title": "Decoding of emotion expression in the face, body and voice reveals sensory modality specific representations.",
             "pub_year": 2019,
+            "citation": "bioRxiv, 869578, 2019",
             "author": "Maarten Vaessen and Kiki van der Heijden and Beatrice de Gelder",
             "journal": "bioRxiv",
             "pages": "869578",
@@ -373,7 +381,7 @@
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:zYLM7Y9cAGgC",
         "num_citations": 3,
-        "citedby_url": "/scholar?cites=9886700957911833425",
+        "citedby_url": "/scholar?hl=en&cites=9886700957911833425",
         "cites_id": [
             "9886700957911833425"
         ],
@@ -401,6 +409,7 @@
         "bib": {
             "title": "Goal-driven, neurobiological-inspired convolutional neural network models of human spatial hearing",
             "pub_year": 2022,
+            "citation": "Neurocomputing 470, 432-442, 2022",
             "author": "Kiki van der Heijden and Siamak Mehrkanoon",
             "journal": "Neurocomputing",
             "volume": "470",
@@ -411,7 +420,7 @@
         "filled": true,
         "author_pub_id": "l1vEmKMAAAAJ:eQOLeE2rZwMC",
         "num_citations": 1,
-        "citedby_url": "/scholar?cites=12399099909776145469",
+        "citedby_url": "/scholar?hl=en&cites=12399099909776145469",
         "cites_id": [
             "12399099909776145469"
         ],
@@ -438,6 +447,7 @@
         "bib": {
             "title": "Interaction of bottom-up and top-down neural mechanisms in spatial multi-talker speech perception",
             "pub_year": 2022,
+            "citation": "Current Biology, 2022",
             "author": "Prachi Patel and Kiki van der Heijden and Stephan Bickel and Jose L Herrero and Ashesh D Mehta and Nima Mesgarani",
             "journal": "Current Biology",
             "publisher": "Cell Press",
@@ -455,6 +465,7 @@
         "bib": {
             "title": "BAST: Binaural Audio Spectrogram Transformer for Binaural Sound Localization",
             "pub_year": 2022,
+            "citation": "arXiv preprint arXiv:2207.03927, 2022",
             "author": "Sheng Kuang and Kiki van der Heijden and Siamak Mehrkanoon",
             "journal": "arXiv preprint arXiv:2207.03927",
             "abstract": "Accurate sound localization in a reverberation environment is essential for human auditory perception. Recently, Convolutional Neural Networks (CNNs) have been utilized to model the binaural human auditory pathway. However, CNN shows barriers in capturing the global acoustic features. To address this issue, we propose a novel end-to-end Binaural Audio Spectrogram Transformer (BAST) model to predict the sound azimuth in both anechoic and reverberation environments. Two modes of implementation, i.e. BAST-SP and BAST-NSP corresponding to BAST model with shared and non-shared parameters respectively, are explored. Our model with subtraction interaural integration and hybrid loss achieves an angular distance of 1.29 degrees and a Mean Square Error of 1e-3 at all azimuths, significantly surpassing CNN based model. The exploratory analysis of the BAST's performance on the left-right hemifields and anechoic and reverberation environments shows its generalization ability as well as the feasibility of binaural Transformers in sound localization. Furthermore, the analysis of the attention maps is provided to give additional insights on the interpretation of the localization process in a natural reverberant environment."

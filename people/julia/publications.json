@@ -5,6 +5,7 @@
         "bib": {
             "title": "Neural tuning to low-level features of speech throughout the perisylvian cortex",
             "pub_year": 2017,
+            "citation": "Journal of Neuroscience 37 (33), 7906-7920, 2017",
             "author": "Julia Berezutskaya and Zachary V Freudenburg and Umut Güçlü and Marcel AJ van Gerven and Nick F Ramsey",
             "journal": "Journal of Neuroscience",
             "volume": "37",
@@ -16,7 +17,7 @@
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:9yKSN-GCB0IC",
         "num_citations": 29,
-        "citedby_url": "/scholar?cites=17277144270804478242",
+        "citedby_url": "/scholar?hl=en&cites=17277144270804478242",
         "cites_id": [
             "17277144270804478242"
         ],
@@ -55,6 +56,7 @@
         "bib": {
             "title": "Brain-optimized extraction of complex sound features that drive continuous auditory perception",
             "pub_year": 2020,
+            "citation": "PLoS computational biology 16 (7), e1007992, 2020",
             "author": "Julia Berezutskaya and Zachary V Freudenburg and Umut Güçlü and Marcel AJ van Gerven and Nick F Ramsey",
             "journal": "PLoS computational biology",
             "volume": "16",
@@ -66,7 +68,7 @@
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:4DMP91E08xMC",
         "num_citations": 10,
-        "citedby_url": "/scholar?cites=10977080310325828461",
+        "citedby_url": "/scholar?hl=en&cites=10977080310325828461",
         "cites_id": [
             "10977080310325828461"
         ],
@@ -80,20 +82,20 @@
         },
         "mandates": [
             {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …NWO Gravitation grant 024.001.006) …"
-            },
-            {
                 "agency": "European Commission",
                 "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
                 "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
                 "effective_date": "2013/12",
                 "embargo": "6 months",
                 "grant": "Advanced iConnect Project Grant ADV 320708"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
+                "effective_date": "2015/12",
+                "embargo": "none",
+                "acknowledgement": " …NWO Gravitation grant 024.001.006) …"
             }
         ]
     },
@@ -103,6 +105,7 @@
         "bib": {
             "title": "High‐density intracranial recordings reveal a distinct site in anterior dorsal precentral cortex that tracks perceived speech",
             "pub_year": 2020,
+            "citation": "Human brain mapping 41 (16), 4587-4609, 2020",
             "author": "Julia Berezutskaya and Clarissa Baratin and Zachary V Freudenburg and Nicolas F Ramsey",
             "journal": "Human brain mapping",
             "volume": "41",
@@ -114,7 +117,7 @@
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:9ZlFYXVOiuMC",
         "num_citations": 7,
-        "citedby_url": "/scholar?cites=5665685728319117251",
+        "citedby_url": "/scholar?hl=en&cites=5665685728319117251",
         "cites_id": [
             "5665685728319117251"
         ],
@@ -150,6 +153,7 @@
         "bib": {
             "title": "Cortical network responses map onto data-driven features that capture visual semantics of movie fragments",
             "pub_year": 2020,
+            "citation": "Scientific reports 10 (1), 1-21, 2020",
             "author": "Julia Berezutskaya and Zachary V Freudenburg and Luca Ambrogioni and Umut Güçlü and Marcel AJ van Gerven and Nick F Ramsey",
             "journal": "Scientific reports",
             "volume": "10",
@@ -161,7 +165,7 @@
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:mVmsd5A6BfQC",
         "num_citations": 5,
-        "citedby_url": "/scholar?cites=15861735615829015234",
+        "citedby_url": "/scholar?hl=en&cites=15861735615829015234",
         "cites_id": [
             "15861735615829015234"
         ],
@@ -174,20 +178,20 @@
         },
         "mandates": [
             {
-                "agency": "European Commission",
-                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
-                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
-                "effective_date": "2013/12",
-                "embargo": "6 months",
-                "grant": "Advanced iConnect Project Grant ADV 320708"
-            },
-            {
                 "agency": "Netherlands Organisation for Scientific Research",
                 "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
                 "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
                 "effective_date": "2015/12",
                 "embargo": "none",
                 "grant": "Language in Interaction Project Gravitation Grant 024.001. 006"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "grant": "Advanced iConnect Project Grant ADV 320708"
             }
         ]
     },
@@ -197,6 +201,7 @@
         "bib": {
             "title": "Forward amortized inference for likelihood-free variational marginalization",
             "pub_year": 2019,
+            "citation": "The 22nd International Conference on Artificial Intelligence and Statistics …, 2019",
             "author": "Luca Ambrogioni and Umut Güçlü and Julia Berezutskaya and Eva Borne and Yaǧmur Güçlütürk and Max Hinne and Eric Maris and Marcel Gerven",
             "conference": "The 22nd International Conference on Artificial Intelligence and Statistics",
             "pages": "777-786",
@@ -206,7 +211,7 @@
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:d1gkVwhDpl0C",
         "num_citations": 5,
-        "citedby_url": "/scholar?cites=16534074432998126370",
+        "citedby_url": "/scholar?hl=en&cites=16534074432998126370",
         "cites_id": [
             "16534074432998126370"
         ],
@@ -226,6 +231,7 @@
         "bib": {
             "title": "Modeling brain responses to perceived speech with lstm networks",
             "pub_year": 2017,
+            "citation": "Benelearn, 149-153, 2017",
             "author": "Julia Berezutskaya and Z Freudenburg and N Ramsey and U Güçlü and M van Gerven and W Duivesteijn and M Pechenizkiy and G Fletcher and V Menkovski and E Postma",
             "journal": "Benelearn",
             "pages": "149-153",
@@ -234,7 +240,7 @@
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:u-x6o8ySG0sC",
         "num_citations": 5,
-        "citedby_url": "/scholar?cites=12081245053635736471",
+        "citedby_url": "/scholar?hl=en&cites=12081245053635736471",
         "cites_id": [
             "12081245053635736471"
         ],
@@ -253,6 +259,7 @@
         "bib": {
             "title": "Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film",
             "pub_year": 2022,
+            "citation": "Scientific Data 9 (1), 1-13, 2022",
             "author": "Julia Berezutskaya and Mariska J Vansteensel and Erik J Aarnoutse and Zachary V Freudenburg and Giovanni Piantoni and Mariana P Branco and Nick F Ramsey",
             "journal": "Scientific Data",
             "volume": "9",
@@ -264,7 +271,7 @@
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:L8Ckcad2t8MC",
         "num_citations": 4,
-        "citedby_url": "/scholar?cites=17987651500783133612",
+        "citedby_url": "/scholar?hl=en&cites=17987651500783133612",
         "cites_id": [
             "17987651500783133612"
         ],
@@ -299,6 +306,7 @@
         "bib": {
             "title": "Reduced brain activation during spoken language processing in children with developmental language disorder and children with 22q11. 2 deletion syndrome",
             "pub_year": 2021,
+            "citation": "Neuropsychologia 158, 107907, 2021",
             "author": "Mariska J Vansteensel and Iris S Selten and Lisette Charbonnier and Julia Berezutskaya and Mathijs AH Raemaekers and Nick F Ramsey and Frank Wijnen",
             "journal": "Neuropsychologia",
             "volume": "158",
@@ -309,7 +317,7 @@
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:7PzlFSSx8tAC",
         "num_citations": 3,
-        "citedby_url": "/scholar?cites=14556817435830959803",
+        "citedby_url": "/scholar?hl=en&cites=14556817435830959803",
         "cites_id": [
             "14556817435830959803"
         ],
@@ -326,6 +334,7 @@
         "bib": {
             "title": "Bayesian model ensembling using meta-trained recurrent neural networks",
             "pub_year": 2017,
+            "citation": "[Sl: sn], 2017",
             "author": "Luca Ambrogioni and Y Berezutskaya and Umut Güçlü and Eva WP van den Borne and Yagmur Güçlütürk and Marcel AJ van Gerven and EGG Maris",
             "publisher": "[Sl: sn]",
             "abstract": "In this paper we demonstrate that a recurrent neural network meta-trained on an ensemble of arbitrary classification tasks can be used as an approximation of the Bayes optimal classifier. This result is obtained by relying on the framework of e-free approximate Bayesian inference, where the Bayesian posterior is approximated by training a neural network using synthetic samples. We denote the resulting model as neural ensembler. We show that a single neural ensembler trained on a large set of synthetic data achieves competitive classification performance on multiple real-world classification problems without additional training."
@@ -333,7 +342,7 @@
         "filled": true,
         "author_pub_id": "S3Xx9ccAAAAJ:Tyk-4Ss8FVUC",
         "num_citations": 2,
-        "citedby_url": "/scholar?cites=6428999290511848971",
+        "citedby_url": "/scholar?hl=en&cites=6428999290511848971",
         "cites_id": [
             "6428999290511848971"
         ],
@@ -350,6 +359,7 @@
         "bib": {
             "title": "How does artificial intelligence contribute to iEEG research?",
             "pub_year": 2022,
+            "citation": "arXiv preprint arXiv:2207.13190, 2022",
             "author": "Julia Berezutskaya and Anne-Lise Saive and Karim Jerbi and Marcel van Gerven",
             "journal": "arXiv preprint arXiv:2207.13190",
             "abstract": "Artificial intelligence (AI) is a fast-growing field focused on modeling and machine implementation of various cognitive functions with an increasing number of applications in computer vision, text processing, robotics, neurotechnology, bio-inspired computing and others. In this chapter, we describe how AI methods can be applied in the context of intracranial electroencephalography (iEEG) research. IEEG data is unique as it provides extremely high-quality signals recorded directly from brain tissue. Applying advanced AI models to these data carries the potential to further our understanding of many fundamental questions in neuroscience. At the same time, as an invasive technique, iEEG lends itself well to long-term, mobile brain-computer interface applications, particularly for communication in severely paralyzed individuals. We provide a detailed overview of these two research directions in the application of AI techniques to iEEG. That is, (1) the development of computational models that target fundamental questions about the neurobiological nature of cognition (AI-iEEG for neuroscience) and (2) applied research on monitoring and identification of event-driven brain states for the development of clinical brain-computer interface systems (AI-iEEG for neurotechnology). We explain key machine learning concepts, specifics of processing and modeling iEEG data and details of state-of-the-art iEEG-based neurotechnology and brain-computer interfaces."
@@ -377,6 +387,7 @@
         "bib": {
             "title": "Towards Naturalistic Speech Decoding from Intracranial Brain Data",
             "pub_year": 2022,
+            "citation": "2022 44th Annual International Conference of the IEEE Engineering in …, 2022",
             "author": "Julia Berezutskaya and Luca Ambrogioni and Nick F Ramsey and Marcel AJ van Gerven",
             "conference": "2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
             "pages": "3100-3104",
@@ -391,20 +402,20 @@
         "cites_per_year": {},
         "mandates": [
             {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
-                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
-                "effective_date": "2021/1",
-                "embargo": "none",
-                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) 1Julia …"
-            },
-            {
                 "agency": "European Commission",
                 "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
                 "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
                 "effective_date": "2021/2",
                 "embargo": "none",
                 "acknowledgement": " …European Research Council (Advanced iConnect Project Grant ADV 320708) …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Project Gravitation Grant 024.001.006) 1Julia …"
             }
         ]
     },
@@ -414,6 +425,7 @@
         "bib": {
             "title": "Mapping Acoustics to Articulatory Gestures in Dutch: Relating Speech Gestures, Acoustics and Neural Data",
             "pub_year": 2022,
+            "citation": "2022 44th Annual International Conference of the IEEE Engineering in …, 2022",
             "author": "Paolo Favero and Julia Berezutskaya and Nick F Ramsey and Aleksei Nazarov and Zachary V Freudenburg",
             "conference": "2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
             "pages": "802-806",
@@ -432,6 +444,7 @@
         "bib": {
             "title": "Direct Speech Reconstruction from Sensorimotor Brain Activity with Optimized Deep Learning Models",
             "pub_year": 2022,
+            "citation": "bioRxiv, 2022",
             "author": "Julia Berezutskaya and Zachary V Freudenburg and Mariska J Vansteensel and Erik J Aarnoutse and Nick F Ramsey and Marcel AJ van Gerven",
             "journal": "bioRxiv",
             "publisher": "Cold Spring Harbor Laboratory",
@@ -445,20 +458,20 @@
         "cites_per_year": {},
         "mandates": [
             {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
-                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
-                "effective_date": "2021/1",
-                "embargo": "none",
-                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Consortium, Gravitation Grant No. 024.001.006 …"
-            },
-            {
                 "agency": "European Commission",
                 "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
                 "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
                 "effective_date": "2021/2",
                 "embargo": "none",
                 "acknowledgement": " …European Research Council (Advanced iConnect Project Grant ADV 320708) …"
+            },
+            {
+                "agency": "Netherlands Organisation for Scientific Research",
+                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
+                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
+                "effective_date": "2021/1",
+                "embargo": "none",
+                "acknowledgement": " …Netherlands Organisation for Scientific Research (Language in Interaction Consortium, Gravitation Grant No. 024.001.006 …"
             }
         ]
     },
@@ -468,6 +481,7 @@
         "bib": {
             "title": "Data-driven modeling of the neural dynamics underlying language processing",
             "pub_year": 2020,
+            "citation": "Utrecht University, 2020",
             "author": "Julia Berezutskaya",
             "abstract": "In this thesis, we use data-driven techniques in an attempt to explain the neural data during speech and language perception in unconstrained naturalistic setup. We aim to use a combination of data exploration approaches and data-driven feature extraction models to provide a more bottom-up way of studying the neural responses. We hope that these data-driven strategies can confirm some of the previous theory-based neurolinguistic findings but at the same time offer new insight regarding how the human brain processes speech related information."
         },
@@ -484,6 +498,7 @@
         "bib": {
             "title": "One-back task functional localizer for visual word form area reveals inverse pattern of activation in readers of Russian",
             "pub_year": 2012,
+            "citation": "Journal of Vision 12 (9), 531-531, 2012",
             "author": "Ekaterina Pechenkova and Rosa Vlasova and Yuliya Berezutskaya and Valentin Sinitsyn",
             "journal": "Journal of Vision",
             "volume": "12",

@@ -5,6 +5,7 @@
         "bib": {
             "title": "Keystroke dynamics in the pre-touchscreen era",
             "pub_year": 2013,
+            "citation": "Frontiers in human neuroscience 7, 835, 2013",
             "author": "Nasir Ahmad and Andrea Szymkowiak and Paul A Campbell",
             "volume": "7",
             "pages": "835",
@@ -14,7 +15,7 @@
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:2osOgNQ5qMEC",
         "num_citations": 20,
-        "citedby_url": "/scholar?cites=17156101252464457256",
+        "citedby_url": "/scholar?hl=en&cites=17156101252464457256",
         "cites_id": [
             "17156101252464457256"
         ],
@@ -38,6 +39,7 @@
         "bib": {
             "title": "Gait-prop: A biologically plausible learning rule derived from backpropagation of error",
             "pub_year": 2020,
+            "citation": "Advances in Neural Information Processing Systems 33, 10913-10923, 2020",
             "author": "Nasir Ahmad and Marcel A van Gerven and Luca Ambrogioni",
             "journal": "Advances in Neural Information Processing Systems",
             "volume": "33",
@@ -47,7 +49,7 @@
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:Tyk-4Ss8FVUC",
         "num_citations": 18,
-        "citedby_url": "/scholar?cites=15875049954561764197",
+        "citedby_url": "/scholar?hl=en&cites=15875049954561764197",
         "cites_id": [
             "15875049954561764197"
         ],
@@ -65,6 +67,7 @@
         "bib": {
             "title": "A new approach to solving the feature-binding problem in primate vision",
             "pub_year": 2018,
+            "citation": "Interface focus 8 (4), 20180021, 2018",
             "author": "James B Isbister and Akihiro Eguchi and Nasir Ahmad and Juan M Galeazzi and Mark J Buckley and Simon Stringer",
             "journal": "Interface focus",
             "volume": "8",
@@ -76,7 +79,7 @@
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:u-x6o8ySG0sC",
         "num_citations": 16,
-        "citedby_url": "/scholar?cites=9459483670020280580",
+        "citedby_url": "/scholar?hl=en&cites=9459483670020280580",
         "cites_id": [
             "9459483670020280580"
         ],
@@ -91,14 +94,6 @@
             "2022": 3
         },
         "mandates": [
-            {
-                "agency": "UK Medical Research Council",
-                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
-                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
-                "effective_date": "2013/4",
-                "embargo": "6 months",
-                "grant": "MR/K005480/1"
-            },
             {
                 "agency": "UK Economic and Social Research Council",
                 "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
@@ -130,6 +125,14 @@
                 "effective_date": "2013/4",
                 "embargo": "6 months",
                 "acknowledgement": " …Engineering and Physical Science Research Council (EPSRC)(grant no. EP/N509711/1) …"
+            },
+            {
+                "agency": "UK Medical Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "grant": "MR/K005480/1"
             }
         ]
     },
@@ -139,6 +142,7 @@
         "bib": {
             "title": "The emergence of polychronization and feature binding in a spiking neural network model of the primate ventral visual system.",
             "pub_year": 2018,
+            "citation": "Psychological review 125 (4), 545, 2018",
             "author": "Akihiro Eguchi and James B Isbister and Nasir Ahmad and Simon Stringer",
             "journal": "Psychological review",
             "volume": "125",
@@ -150,7 +154,7 @@
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:u5HHmVD_uO8C",
         "num_citations": 16,
-        "citedby_url": "/scholar?cites=1687730347765966201",
+        "citedby_url": "/scholar?hl=en&cites=1687730347765966201",
         "cites_id": [
             "1687730347765966201"
         ],
@@ -171,6 +175,7 @@
         "bib": {
             "title": "Predictive coding is a consequence of energy efficiency in recurrent neural networks",
             "pub_year": 2021,
+            "citation": "bioRxiv, 2021",
             "author": "Abdullahi Ali and Nasir Ahmad and Elgar de Groot and Marcel AJ van Gerven and Tim C Kietzmann",
             "journal": "bioRxiv",
             "publisher": "Cold Spring Harbor Laboratory",
@@ -179,7 +184,7 @@
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:Y0pCki6q_DkC",
         "num_citations": 10,
-        "citedby_url": "/scholar?cites=3873756733302774912",
+        "citedby_url": "/scholar?hl=en&cites=3873756733302774912",
         "cites_id": [
             "3873756733302774912"
         ],
@@ -196,6 +201,7 @@
         "bib": {
             "title": "Harmonic training and the formation of pitch representation in a neural network model of the auditory brain",
             "pub_year": 2016,
+            "citation": "Frontiers in computational neuroscience 10, 24, 2016",
             "author": "Nasir Ahmad and Irina Higgins and Kerry MM Walker and Simon M Stringer",
             "journal": "Frontiers in computational neuroscience",
             "volume": "10",
@@ -206,7 +212,7 @@
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:9yKSN-GCB0IC",
         "num_citations": 7,
-        "citedby_url": "/scholar?cites=11144816164274037535",
+        "citedby_url": "/scholar?hl=en&cites=11144816164274037535",
         "cites_id": [
             "11144816164274037535"
         ],
@@ -237,6 +243,7 @@
         "bib": {
             "title": "Spike: a GPU optimised spiking neural network simulator",
             "pub_year": 2018,
+            "citation": "bioRxiv, 461160, 2018",
             "author": "Nasir Ahmad and James B Isbister and Toby St Clere Smithe and Simon M Stringer",
             "journal": "bioRxiv",
             "pages": "461160",
@@ -246,7 +253,7 @@
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:d1gkVwhDpl0C",
         "num_citations": 6,
-        "citedby_url": "/scholar?cites=9563982074505779399",
+        "citedby_url": "/scholar?hl=en&cites=9563982074505779399",
         "cites_id": [
             "9563982074505779399"
         ],
@@ -291,6 +298,7 @@
         "bib": {
             "title": "Overcoming the Weight Transport Problem via Spike-Timing-Dependent Weight Inference",
             "pub_year": 2020,
+            "citation": "arXiv preprint arXiv:2003.03988, 2020",
             "author": "Nasir Ahmad and Luca Ambrogioni and Marcel AJ van Gerven",
             "journal": "arXiv preprint arXiv:2003.03988",
             "abstract": "We propose a solution to the weight transport problem, which questions the biological plausibility of the backpropagation algorithm. We derive our method based upon a theoretical analysis of the (approximate) dynamics of leaky integrate-and-fire neurons. We show that the use of spike timing alone outcompetes existing biologically plausible methods for synaptic weight inference in spiking neural network models. Furthermore, our proposed method is more flexible, being applicable to any spiking neuron model, is conservative in how many parameters are required for implementation and can be deployed in an online-fashion with minimal computational overhead. These features, together with its biological plausibility, make it an attractive mechanism underlying weight inference at single synapses."
@@ -298,7 +306,7 @@
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:ufrVoPGSRksC",
         "num_citations": 3,
-        "citedby_url": "/scholar?cites=2716827515260808654,14134889997225814369",
+        "citedby_url": "/scholar?hl=en&cites=2716827515260808654,14134889997225814369",
         "cites_id": [
             "2716827515260808654",
             "14134889997225814369"
@@ -317,6 +325,7 @@
         "bib": {
             "title": "Constrained Parameter Inference as a Principle for Learning",
             "pub_year": 2022,
+            "citation": "arXiv preprint arXiv:2203.13203, 2022",
             "author": "Nasir Ahmad and Ellen Schrader and Marcel van Gerven",
             "journal": "arXiv preprint arXiv:2203.13203",
             "abstract": "Learning in biological and artificial neural networks is often framed as a problem in which targeted error signals guide parameter updating for more optimal network behaviour. Backpropagation of error (BP) is an example of such an approach and has proven to be a highly successful application of stochastic gradient descent to deep neural networks. However, BP relies on the global transmission of gradient information and has therefore been criticised for its biological implausibility. We propose constrained parameter inference (COPI) as a new principle for learning. COPI allows for the estimation of network parameters under the constraints of decorrelated neural inputs and top-down perturbations of neural states. We show that COPI not only is more biologically plausible but also provides distinct advantages for fast learning, compared with standard backpropagation of error."
@@ -324,7 +333,7 @@
         "filled": true,
         "author_pub_id": "J9HOU6YAAAAJ:kNdYIx-mwKoC",
         "num_citations": 1,
-        "citedby_url": "/scholar?cites=8653508604911151039",
+        "citedby_url": "/scholar?hl=en&cites=8653508604911151039",
         "cites_id": [
             "8653508604911151039"
         ],
@@ -340,6 +349,7 @@
         "bib": {
             "title": "Optimization of Neuroprosthetic Vision via End-to-end Deep Reinforcement Learning",
             "pub_year": 2022,
+            "citation": "bioRxiv, 2022",
             "author": "Burcu Küçükoğlu and Bodo Rueckauer and Nasir Ahmad and Jaap de Ruyter van Steveninck and Umut Güçlü and Marcel van Gerven",
             "journal": "bioRxiv",
             "publisher": "Cold Spring Harbor Laboratory",
@@ -369,6 +379,7 @@
         "bib": {
             "title": "P4O: Efficient Deep Reinforcement Learning with Predictive Processing Proximal Policy Optimization",
             "pub_year": 2021,
+            "citation": "",
             "author": "Burcu Küçükoğlu and Walraaf Borkent and Bodo Rueckauer and Nasir Ahmad and Umut Güçlü and Marcel van Gerven",
             "abstract": "Advances in reinforcement learning (RL) often rely on massive compute resources and remain notoriously sample inefficient. In contrast, the human brain is able to efficiently learn effective control strategies using limited resources. This raises the question whether insights from neuroscience can be used to improve current RL methods. Predictive processing is a popular theoretical framework which maintains that the human brain is actively seeking to minimize surprise. We show that recurrent neural networks which predict their own sensory states can be leveraged to minimise surprise, yielding substantial gains in cumulative reward. Specifically, we present the Predictive Processing Proximal Policy Optimization (P4O) agent; an actor-critic reinforcement learning agent that applies predictive processing to a recurrent variant of the PPO algorithm by integrating a world model in its hidden state. P4O significantly outperforms a baseline recurrent variant of the PPO algorithm on multiple Atari games using a single GPU. It also outperforms other state-of-the-art agents given the same wall-clock time and exceeds human gamer performance on Seaquest, which is a particularly challenging environment in the Atari domain. Altogether, our work underscores how insights from the field of neuroscience may support the development of more capable and efficient artificial agents.Supplementary Material: zip6 RepliesLoading"
         },
@@ -385,6 +396,7 @@
         "bib": {
             "title": "Brain-inspired learning drives advances in neuromorphic computing",
             "pub_year": 2021,
+            "citation": "ERCIM News, 24-25, 2021",
             "author": "Nasir Ahmad and Bodo Rueckauer and Marcel van Gerven",
             "journal": "ERCIM News",
             "number": "125",
@@ -405,6 +417,7 @@
         "bib": {
             "title": "Scaling up learning with GAIT-prop",
             "pub_year": 2021,
+            "citation": "arXiv preprint arXiv:2102.11598, 2021",
             "author": "Sander Dalm and Nasir Ahmad and Luca Ambrogioni and Marcel van Gerven",
             "journal": "arXiv preprint arXiv:2102.11598",
             "abstract": "Backpropagation of error (BP) is a widely used and highly successful learning algorithm. However, its reliance on non-local information in propagating error gradients makes it seem an unlikely candidate for learning in the brain. In the last decade, a number of investigations have been carried out focused upon determining whether alternative more biologically plausible computations can be used to approximate BP. This work builds on such a local learning algorithm - Gradient Adjusted Incremental Target Propagation (GAIT-prop) - which has recently been shown to approximate BP in a manner which appears biologically plausible. This method constructs local, layer-wise weight update targets in order to enable plausible credit assignment. However, in deep networks, the local weight updates computed by GAIT-prop can deviate from BP for a number of reasons. Here, we provide and test methods to overcome such sources of error. In particular, we adaptively rescale the locally-computed errors and show that this significantly increases the performance and stability of the GAIT-prop algorithm when applied to the CIFAR-10 dataset."
@@ -422,6 +435,7 @@
         "bib": {
             "title": "Competitive learning in rate coded and spiking neural networks models with applications to vision and audition",
             "pub_year": 2019,
+            "citation": "University of Oxford, 2019",
             "author": "Nasir Ahmad",
             "abstract": "Competitive learning is a common and successful approach used to train unsupervised rate-based neural network models. We apply such a technique in this thesis and produce a rate-coded neural network model of pitch processing which provides insights into the training protocols necessary to develop robust pitch representations. However, the extension of reliable unsupervised competitive learning approaches from rate-coded to spiking neural networks has proven challenging, especially when biological plausibility and detail are desired. Transitioning to spiking neural network models is made more difficult by the comparatively high computational cost and complexity of these network models compared to rate-based models.We describe a transition from rate-based to spiking neural network models and address these outstanding issues. First, we focus on increasing simulation efficiency. We develop a state of the art graphical processing unit (GPU) based spiking neural network simulator which adopts optimisations from central processing unit (CPU) and cluster-based simulators. In benchmarks, we show that our novel simulator is capable of simulation speeds up to an order of magnitude greater than contemporary simulators. This greater simulation speed is intended to enable a higher throughput of spiking neural network simulations and thereby accelerate research. In order to ensure that present and future simulators can be efficiently and effectively compared, we also compile a repository of benchmarks which allow validation of simulator performance and simulated neural network dynamics.Having developed efficient simulation …"
         },

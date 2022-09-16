@@ -1,1 +1,578 @@
-[]
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Behavioral-state modulation of inhibition is context-dependent and cell type specific in mouse visual cortex",
+            "pub_year": 2016,
+            "citation": "Elife 5, 2016",
+            "author": "Janelle MP Pakan and Scott C Lowe and Evelyn Dylda and Sander W Keemink and Stephen P Currie and Christopher A Coutts and Nathalie L Rochefort",
+            "journal": "Elife",
+            "volume": "5",
+            "publisher": "eLife Sciences Publications, Ltd",
+            "abstract": "Cortical responses to sensory stimuli are modulated by behavioral state. In the primary visual cortex (V1), visual responses of pyramidal neurons increase during locomotion. This response gain was suggested to be mediated through inhibitory neurons, resulting in the disinhibition of pyramidal neurons. Using in vivo two-photon calcium imaging in layers 2/3 and 4 in mouse V1, we reveal that locomotion increases the activity of vasoactive intestinal peptide (VIP), somatostatin (SST) and parvalbumin (PV)-positive interneurons during visual stimulation, challenging the disinhibition model. In darkness, while most VIP and PV neurons remained locomotion responsive, SST and excitatory neurons were largely non-responsive. Context-dependent locomotion responses were found in each cell type, with the highest proportion among SST neurons. These findings establish that modulation of neuronal activity by locomotion …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 195,
+        "citedby_url": "/scholar?hl=en&cites=854270530813392218",
+        "cites_id": [
+            "854270530813392218"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5030095/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:WnU3i4X62gsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 2,
+            "2017": 27,
+            "2018": 39,
+            "2019": 36,
+            "2020": 33,
+            "2021": 25,
+            "2022": 33
+        },
+        "mandates": [
+            {
+                "agency": "UK Engineering and Physical Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "grant": "Doctoral Training Centre in Neuroinformatics, BB/F529254/1"
+            },
+            {
+                "agency": "Wellcome Trust",
+                "url_policy": "http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm",
+                "url_policy_cached": "/mandates/wellcome_uk-2018-01-28.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "grant": "Sir Henry Dale fellowship, 102857/Z/13/Z"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …Marie Curie Actions …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FISSA: A neuropil decontamination toolbox for calcium imaging signals",
+            "pub_year": 2018,
+            "citation": "Scientific reports 8 (1), 1-12, 2018",
+            "author": "Sander W Keemink and Scott C Lowe and Janelle MP Pakan and Evelyn Dylda and Mark CW Van Rossum and Nathalie L Rochefort",
+            "journal": "Scientific reports",
+            "volume": "8",
+            "number": "1",
+            "pages": "1-12",
+            "publisher": "Nature Publishing Group",
+            "abstract": "In vivo calcium imaging has become a method of choice to image neuronal population activity throughout the nervous system. These experiments generate large sequences of images. Their analysis is computationally intensive and typically involves motion correction, image segmentation into regions of interest (ROIs), and extraction of fluorescence traces from each ROI. Out of focus fluorescence from surrounding neuropil and other cells can strongly contaminate the signal assigned to a given ROI. In this study, we introduce the FISSA toolbox (Fast Image Signal Separation Analysis) for neuropil decontamination. Given pre-defined ROIs, the FISSA toolbox automatically extracts the surrounding local neuropil and performs blind-source separation with non-negative matrix factorization. Using both simulated and in vivo data, we show that this toolbox performs similarly or better than existing published methods. FISSA …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 55,
+        "citedby_url": "/scholar?hl=en&cites=15500040671728073630",
+        "cites_id": [
+            "15500040671728073630"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.nature.com/articles/s41598-018-21640-2",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:nnt1Qt40G9cJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 7,
+            "2019": 9,
+            "2020": 7,
+            "2021": 16,
+            "2022": 16
+        },
+        "mandates": [
+            {
+                "agency": "Wellcome Trust",
+                "url_policy": "http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm",
+                "url_policy_cached": "/mandates/wellcome_uk-2018-01-28.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Wellcome Trust/United Kingdom BB/N023161/1/Biotechnology …"
+            },
+            {
+                "agency": "Royal Society UK",
+                "url_policy": "https://royalsociety.org/grants-schemes-awards/grants/about-grants/",
+                "url_policy_cached": "/mandates/royal_society_uk-2021-10-03.pdf",
+                "effective_date": "2018/1",
+                "embargo": "12 months",
+                "acknowledgement": " …Royal Society …"
+            },
+            {
+                "agency": "UK Biotechnology and Biological Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "grant": "BB/N023161/1"
+            },
+            {
+                "agency": "European Commission",
+                "url_policy": "https://erc.europa.eu/sites/default/files/document/file/ERC%20Open%20Access%20guidelines-Version%201.1._10.04.2017.pdf",
+                "url_policy_cached": "/mandates/horizon2020_eu-2021-02-13-en.pdf",
+                "effective_date": "2013/12",
+                "embargo": "6 months",
+                "acknowledgement": " …Marie Curie Actions …"
+            },
+            {
+                "agency": "UK Engineering and Physical Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …EPSRC …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Decoding and encoding (de) mixed population responses",
+            "pub_year": 2019,
+            "citation": "Current opinion in neurobiology 58, 112-121, 2019",
+            "author": "Sander W Keemink and Christian K Machens",
+            "volume": "58",
+            "pages": "112-121",
+            "publisher": "Elsevier Current Trends",
+            "abstract": "A central tenet of neuroscience is that the brain works through large populations of interacting neurons. With recent advances in recording techniques, the inner working of these populations has come into full view. Analyzing the resulting large-scale data sets is challenging because of the often complex and ‘mixed’ dependency of neural activities on experimental parameters, such as stimuli, decisions, or motor responses. Here we review recent insights gained from analyzing these data with dimensionality reduction methods that ‘demix’ these dependencies. We demonstrate that the mappings from (carefully chosen) experimental parameters to population activities appear to be typical and stable across tasks, brain areas, and animals, and are often identifiable by linear methods. By considering when and why dimensionality reduction and demixing work well, we argue for a view of population coding in which …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 22,
+        "citedby_url": "/scholar?hl=en&cites=442697954464886603",
+        "cites_id": [
+            "442697954464886603"
+        ],
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S095943881830240X",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:S--rrnHHJAYJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 4,
+            "2021": 9,
+            "2022": 8
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A unified account of tilt illusions, association fields, and contour detection based on elastica",
+            "pub_year": 2016,
+            "citation": "Vision research 126, 164-173, 2016",
+            "author": "Sander W Keemink and Mark CW van Rossum",
+            "journal": "Vision research",
+            "volume": "126",
+            "pages": "164-173",
+            "publisher": "Pergamon",
+            "abstract": "As expressed in the Gestalt law of good continuation, human perception tends to associate stimuli that form smooth continuations. Contextual modulation in primary visual cortex, in the form of association fields, is believed to play an important role in this process. Yet a unified and principled account of the good continuation law on the neural level is lacking. In this study we introduce a population model of primary visual cortex. Its contextual interactions depend on the elastica curvature energy of the smoothest contour connecting oriented bars. As expected, this model leads to association fields consistent with data. However, in addition the model displays tilt-illusions for stimulus configurations with grating and single bars that closely match psychophysics. Furthermore, the model explains not only pop-out of contours amid a variety of backgrounds, but also pop-out of single targets amid a uniform background. We thus …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 9,
+        "citedby_url": "/scholar?hl=en&cites=11920924038511504138",
+        "cites_id": [
+            "11920924038511504138"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0042698915002540",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Cqvk1UChb6UJ:scholar.google.com/",
+        "cites_per_year": {
+            "2016": 1,
+            "2017": 1,
+            "2018": 3,
+            "2019": 0,
+            "2020": 3,
+            "2021": 1
+        },
+        "mandates": [
+            {
+                "agency": "UK Engineering and Physical Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …EPSRC …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Understanding spiking networks through convex optimization",
+            "pub_year": 2020,
+            "citation": "Advances in Neural Information Processing Systems 33, 8824-8835, 2020",
+            "author": "Allan Mancoo and Sander Keemink and Christian K Machens",
+            "journal": "Advances in Neural Information Processing Systems",
+            "volume": "33",
+            "pages": "8824-8835",
+            "abstract": "Neurons mainly communicate through spikes, and much effort has been spent to understand how the dynamics of spiking neural networks (SNNs) relates to their connectivity. Meanwhile, most major advances in machine learning have been made with simpler, rate-based networks, with SNNs only recently showing competitive results, largely thanks to transferring insights from rate to spiking networks. However, it is still an open question exactly which computations SNNs perform. Recently, the time-averaged firing rates of several SNNs were shown to yield the solutions to convex optimization problems. Here we turn these findings around and show that virtually all inhibition-dominated SNNs can be understood through the lens of convex optimization, with network connectivity, timescales, and firing thresholds being intricately linked to the parameters of underlying convex optimization problems. This approach yields new, geometric insights into the computations performed by spiking networks. In particular, we establish a class of SNNs whose instantaneous output provides a solution to linear or quadratic programming problems, and we thereby reveal their input-output mapping. Using these insights, we derive local, supervised learning rules that can approximate given convex input-output functions, and we show that the resulting networks are consistent with many features from biological networks, such as low firing rates, irregular firing, E/I balance, and robustness to perturbations and synaptic delays."
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 7,
+        "citedby_url": "/scholar?hl=en&cites=13728762608347936383",
+        "cites_id": [
+            "13728762608347936383"
+        ],
+        "public_access": true,
+        "pub_url": "https://proceedings.neurips.cc/paper/2020/hash/64714a86909d401f8feb83e8c2d94b23-Abstract.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:f3Y-rNpchr4J:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 4,
+            "2022": 1
+        },
+        "mandates": [
+            {
+                "agency": "Fundação para a Ciência e a Tecnologia, Portugal",
+                "url_policy": "https://www.fct.pt/documentos/PoliticaAcessoAberto_Publicacoes.pdf",
+                "url_policy_cached": "/mandates/fct_pt-2021-02-13-pt.pdf",
+                "effective_date": "2014/5",
+                "embargo": "6 months",
+                "acknowledgement": " …Fundação para a Ciência ea Tecnologia (032077) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Effects of V1 surround modulation tuning on visual saliency and the tilt illusion",
+            "pub_year": 2018,
+            "citation": "Journal of Neurophysiology 120 (3), 942-952, 2018",
+            "author": "Sander W Keemink and Clemens Boucsein and Mark CW van Rossum",
+            "journal": "Journal of Neurophysiology",
+            "volume": "120",
+            "number": "3",
+            "pages": "942-952",
+            "publisher": "American Physiological Society",
+            "abstract": "Neurons in the primary visual cortex respond to oriented stimuli placed in the center of their receptive field, yet their response is modulated by stimuli outside the receptive field (the surround). Classically, this surround modulation is assumed to be strongest if the orientation of the surround stimulus aligns with the neuron’s preferred orientation, irrespective of the actual center stimulus. This neuron-dependent surround modulation has been used to explain a wide range of psychophysical phenomena, such as biased tilt perception and saliency of stimuli with contrasting orientation. However, several neurophysiological studies have shown that for most neurons surround modulation is instead center dependent: it is strongest if the surround orientation aligns with the center stimulus. As the impact of such center-dependent modulation on the population level is unknown, we examine this using computational models. We …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?hl=en&cites=7395091918542440004",
+        "cites_id": [
+            "7395091918542440004"
+        ],
+        "public_access": true,
+        "pub_url": "https://journals.physiology.org/doi/abs/10.1152/jn.00864.2017",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RIYVRuukoGYJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 1,
+            "2022": 1
+        },
+        "mandates": [
+            {
+                "agency": "UK Engineering and Physical Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …UK Engineering and Physical Sciences Research Council (EPSRC) …"
+            },
+            {
+                "agency": "UK Biotechnology and Biological Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …UK Biotechnology and Biological Sciences Research Council (BBSRC) …"
+            },
+            {
+                "agency": "UK Medical Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Medical Research Council/United Kingdom …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Biases in multivariate neural population codes",
+            "pub_year": 2017,
+            "citation": "bioRxiv, 113803, 2017",
+            "author": "Sander W Keemink and Mark CW van Rossum",
+            "journal": "bioRxiv",
+            "pages": "113803",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Throughout the nervous system information is typically coded in activity distributed over large population of neurons with broad tuning curves. In idealized situations where a single, continuous stimulus is encoded in a homogeneous population code, the value of an encoded stimulus can be read out without bias. Here we find that when multiple stimuli are simultaneously coded in the population, biases in the estimates of the stimuli and strong correlations between estimates can emerge. Although bias produced via this novel mechanism can be reduced by competitive coding and disappears in the complete absence of noise, the bias diminishes only slowly as a function of neural noise level. A Gaussian Process framework allows for accurate calculation of the bias and shows that a bimodal estimate distribution underlies the bias. The results have implications for neural coding and behavioral experiments."
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?hl=en&cites=3244966414011011587",
+        "cites_id": [
+            "3244966414011011587"
+        ],
+        "public_access": true,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/113803.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:AxIzz8JvCC0J:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 2
+        },
+        "mandates": [
+            {
+                "agency": "UK Engineering and Physical Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …EPSRC …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mimicking synaptic plasticity in memristive neuromorphic systems",
+            "pub_year": 2012,
+            "citation": "",
+            "author": "SW Keemink",
+            "abstract": "Development of artificial intelligence has been disappointing in many aspects, and has been severely limited by the basic architecture of computers. The new field of neuromorphic engineering tries to tackle this problem by basing circuit design on brain architecture. There are two features of the brain that people try to implement especially: massive parallelism and plasticity. Synapse implementations, however, have proven difficult, due to a lack of inherently plastic circuit elements. This leads to the need of overly complex circuits to mimic any kind of plasticity. Recent developments in nanotechnology provide us with an exciting new opportunity: the memristor. The memristor is basically a resistor whose resistance depends on the amount of current that passed through it: effectively it is a plastic resistor. This is the first element of its kind and could potentially revolutionize the field of neuromorphic engineering. This …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 2,
+        "citedby_url": "/scholar?hl=en&cites=11026542438356801575",
+        "cites_id": [
+            "11026542438356801575"
+        ],
+        "pub_url": "https://studenttheses.uu.nl/handle/20.500.12932/17345",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:J9gGM-0lBpkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2013": 1,
+            "2014": 0,
+            "2015": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Unconscious biases in neural populations coding multiple stimuli",
+            "pub_year": 2018,
+            "citation": "Neural Computation 30 (12), 3168-3188, 2018",
+            "author": "Sander W Keemink and Dharmesh V Tailor and Mark CW van Rossum",
+            "journal": "Neural Computation",
+            "volume": "30",
+            "number": "12",
+            "pages": "3168-3188",
+            "publisher": "MIT Press",
+            "abstract": "Throughout the nervous system, information is commonly coded in activity distributed over populations of neurons. In idealized situations where a single, continuous stimulus is encoded in a homogeneous population code, the value of the encoded stimulus can be read out without bias. However, in many situations, multiple stimuli are simultaneously present; for example, multiple motion patterns might overlap. Here we find that when multiple stimuli that overlap in their neural representation are simultaneously encoded in the population, biases in the read-out emerge. Although the bias disappears in the absence of noise, the bias is remarkably persistent at low noise levels. The bias can be reduced by competitive encoding schemes or by employing complex decoders. To study the origin of the bias, we develop a novel general framework based on gaussian processes that allows an accurate calculation of the …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 1,
+        "citedby_url": "/scholar?hl=en&cites=5907883221200968703",
+        "cites_id": [
+            "5907883221200968703"
+        ],
+        "public_access": true,
+        "pub_url": "https://direct.mit.edu/neco/article-abstract/30/12/3168/8430",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_5ssBn0E_VEJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1
+        },
+        "mandates": [
+            {
+                "agency": "UK Engineering and Physical Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Engineering and Physical Sciences Research Council (grant EP/F500386/1) …"
+            },
+            {
+                "agency": "UK Biotechnology and Biological Sciences Research Council",
+                "url_policy": "https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-OpenAccessPolicy.pdf",
+                "url_policy_cached": "/mandates/ukri_uk-2021-02-13.pdf",
+                "effective_date": "2013/4",
+                "embargo": "6 months",
+                "acknowledgement": " …Biotechnology and Biological Sciences Research Council (grant BB/F529254/1) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Nonlinear computations in spiking neural networks through multiplicative synapses",
+            "pub_year": 2021,
+            "citation": "Peer Community Journal 1, 2021",
+            "author": "Michele Nardin and James W Phillips and William F Podlaski and Sander W Keemink",
+            "journal": "Peer Community Journal",
+            "volume": "1",
+            "abstract": "The brain e ciently performs nonlinear computations through its intricate networks of spiking neurons, but how this is done remains elusive. While nonlinear computations can be implemented successfully in spiking neural networks, this requires supervised training and the resulting connectivity can be hard to interpret. In contrast, the required connectivity for any computation in the form of a linear dynamical system can be directly derived and understood with the spike coding network (SCN) framework. These networks also have biologically realistic activity patterns and are highly robust to cell death. Here we extend the SCN framework to directly implement any polynomial dynamical system, without the need for training. This results in networks requiring a mix of synapse types (fast, slow, and multiplicative), which we term multiplicative spike coding networks (mSCNs). Using mSCNs, we demonstrate how to directly derive the required connectivity for several nonlinear dynamical systems. We also show how to carry out higher-order polynomials with coupled networks that use only pair-wise multiplicative synapses, and provide expected numbers of connections for each synapse type. Overall, our work demonstrates a novel method for implementing nonlinear computations in spiking neural networks, while keeping the attractive features of standard SCNs (robustness, realistic activity patterns, and interpretable connectivity). Finally, we discuss the biological plausibility of our approach, and how the high accuracy and robustness of the approach may be of interest for neuromorphic computing."
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:ufrVoPGSRksC",
+        "num_citations": 0,
+        "public_access": true,
+        "pub_url": "https://peercommunityjournal.org/articles/10.24072/pcjournal.69/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:7o19LDFN_hoJ:scholar.google.com/",
+        "cites_per_year": {},
+        "mandates": [
+            {
+                "agency": "European Commission",
+                "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
+                "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
+                "effective_date": "2021/2",
+                "embargo": "none",
+                "acknowledgement": " …European Union Horizon 2020 (665385) …"
+            },
+            {
+                "agency": "Fundação para a Ciência e a Tecnologia, Portugal",
+                "url_policy": "https://www.fct.pt/documentos/PoliticaAcessoAberto_Publicacoes.pdf",
+                "url_policy_cached": "/mandates/fct_pt-2021-02-13-pt.pdf",
+                "effective_date": "2014/5",
+                "embargo": "6 months",
+                "acknowledgement": " …FCT (032077) …"
+            }
+        ]
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coding of multivariate stimuli and contextual interactions in the visual cortex",
+            "pub_year": 2018,
+            "citation": "The University of Edinburgh, 2018",
+            "author": "Sander Wessel Keemink",
+            "publisher": "The University of Edinburgh",
+            "abstract": "The primary visual cortex (V1) has long been considered the main low level visual analysis area of the brain. The classical view is of a feedfoward system functioning as an edge detector, in which each cell has a receptive field (RF) and a preferred orientation. Whilst intuitive, this view is not the whole story. Although stimuli outside a neuron’s RF do not result in an increased response by themselves, they do modulate a neuron’s response to what’s inside its RF. We will refer to such extra-RF effects as contextual modulation. Contextual modulation is thought to underlie several perceptual phenomena, such as various orientation illusions and saliency of specific features (such as a contour or differing element). This gives a view of V1 as more than a collection of edge detectors, with neurons collectively extracting information beyond their RFs. However, many of the accounts linking psychophysics and physiology explain only a small subset of the illusions and saliency effects: we would like to find a common principle. So first, we assume the contextual modulations experienced by V1 neurons is determined by the elastica model, which describes the shape of the smoothest curve between two points. This single assumption gives rise to a wide range of known contextual modulation and psychophysical effects. Next, we consider the more general problem of encoding and decoding multi-variate stimuli (such as center surround gratings) in neurons, and how well the stimuli can be decoded under substantial noise levels with a maximum likelihood decoder. Although the maximum likelihood decoder is widely considered optimal and unbiased in the limit of …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 0,
+        "pub_url": "https://www.kth.se/polopoly_fs/1.842305.1600689470!/Keemink_(2017)_-_Edinburgh_thesis-compressed.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:izDnLcUb1bsJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Correction: Behavioral-state modulation of inhibition is context-dependent and cell type specific in mouse visual cortex",
+            "pub_year": 2017,
+            "citation": "Elife 6, e31708, 2017",
+            "author": "Janelle MP Pakan and Scott C Lowe and Evelyn Dylda and Sander W Keemink and Stephen P Currie and Christopher A Coutts and Nathalie L Rochefort",
+            "journal": "Elife",
+            "volume": "6",
+            "pages": "e31708",
+            "publisher": "eLife Sciences Publications Limited",
+            "abstract": "Pakan JMP, Lowe SC, Dylda E, Keemick SW, Currie SP, Coutts CA, Rochefort NL. 2016. Behavioral-state modulation of inhibition is context-dependent and cell type specific in mouse visual cortex. eLife 5: e14985. doi: 10.7554/eLife. 14985."
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:qjMakFHDy7sC",
+        "num_citations": 0,
+        "pub_url": "https://elifesciences.org/articles/31708",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Coding and decoding from neural populations representing multiple stimuli",
+            "pub_year": 2014,
+            "citation": "AREADNE 2014 Research in Encoding And Decoding of Neural Ensembles, 2014",
+            "author": "Sander Keemink and Mark Van Rossum",
+            "conference": "AREADNE 2014 Research in Encoding And Decoding of Neural Ensembles",
+            "abstract": "Most theoretical neural decoding studies assume populations of neurons tuned to single stimuli, such as grating orientation or motion direction. For such stimuli, maximum likelihood decoding in particular has been shown to be a robust and in many cases optimal decoder. However, in reality neurons are rarely affected by a single stimulus alone, and experience a wide range of contextual effects when more complex stimuli are presented. They thus code for"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:roLk4NBRz8UC",
+        "num_citations": 0,
+        "pub_url": "https://www.research.ed.ac.uk/en/publications/coding-and-decoding-from-neural-populations-representing-multiple",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Saliency detection without biasing stimulus estimation",
+            "pub_year": 2014,
+            "citation": "Visual Image Interpretation in Humans and Machines, 2014",
+            "author": "Sander Keemink and Mark Van Rossum",
+            "conference": "Visual Image Interpretation in Humans and Machines",
+            "abstract": "In surround modulation in V1 the response of a neuron to a centre grating is modulated by the presence of a surround grating. Generally, the modulation is thought to be suppressive and surround orientation dependent, with the strongest effect when the surround is aligned with the preferred orientation of a neuron. This simple model allows for a wide range of perceptual effects, including saliency detection."
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0,
+        "pub_url": "https://www.research.ed.ac.uk/en/publications/saliency-detection-without-biasing-stimulus-estimation",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Impact of orientation specific surround modulation and tuning curve shape on population coding and tilt illusion in V1",
+            "pub_year": 2013,
+            "citation": "BMC Neuroscience 14 (1), 1-1, 2013",
+            "author": "Sander W Keemink and Clemens Boucsein and Mark CW van Rossum",
+            "journal": "BMC Neuroscience",
+            "volume": "14",
+            "number": "1",
+            "pages": "1-1",
+            "publisher": "BioMed Central",
+            "abstract": "The tilt illusion is a well-studied visual phenomenon, whereby the perceived angle of a center stimulus is misjudged in the presence of a differently aligned surround stimulus (eg [1]). The dependence of V1 neuron activity on center-surround interactions has been studied extensively (eg [2]). These center-surround interactions can be used to explain the tilt illusion, as they result in tuning curve modulations. When population activity is decoded using these modulated tuning curves, the tilt illusion arises [2]. In this work, we examine two factors affecting the tilt illusion:First, we examine is the effect of the tuning curve width on the tilt illusion. Tuning curves widths vary widely in vivo [3]. Although changes in tuning curve width due to center-surround interactions have been shown to potentially contribute to the tilt illusion [2, 4], how the tuning curve width itself affects the illusion is less well understood. Using a firing rate …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 0,
+        "pub_url": "https://link.springer.com/article/10.1186/1471-2202-14-S1-P404",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DhNCs6W3TUoJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Contextual interactions and association fields in a V1 network encoding a Bayesian posterior",
+            "pub_year": 2013,
+            "citation": "The Bernstein Conference on Computational Neuroscience 2013, 2013",
+            "author": "Sander Keemink and Clemens Boucsein and Mark CW van Rossum",
+            "conference": "The Bernstein Conference on Computational Neuroscience 2013",
+            "abstract": "Contextual interactions and association fields in a V1 network encoding a Bayesian posterior \n— University of Edinburgh Research Explorer Skip to main navigation Skip to search Skip to \nmain content University of Edinburgh Research Explorer Logo Help & FAQ Home Research \noutput Profiles Research Units Projects Datasets Prizes Activities Press / Media Equipment \nSearch by expertise, name or affiliation Contextual interactions and association fields in a V1 \nnetwork encoding a Bayesian posterior Sander Keemink, Clemens Boucsein, Mark CW van \nRossum School of Informatics Institute for Adaptive and Neural Computation Research \noutput: Contribution to conference › Poster › peer-review Overview Original language English \nPublication status Published - 2013 Event The Bernstein Conference on Computational \nNeuroscience 2013 - Tübingen, Germany Duration: 24 Sep 2013 → 27 Sep 2013 Conference …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 0,
+        "pub_url": "https://www.research.ed.ac.uk/en/publications/contextual-interactions-and-association-fields-in-a-v1-network-en",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Stimulus dependency of surround modulation in V1 allows for unbiased orientation decoding",
+            "pub_year": 2013,
+            "citation": "Society for Neuroscience Annual Meeting 2013, 2013",
+            "author": "Sander Keemink and Clemens Boucsein and Mark CW van Rossum",
+            "conference": "Society for Neuroscience Annual Meeting 2013",
+            "abstract": "Stimulus dependency of surround modulation in V1 allows for unbiased orientation decoding — \nUniversity of Edinburgh Research Explorer Skip to main navigation Skip to search Skip to main \ncontent University of Edinburgh Research Explorer Home University of Edinburgh Research \nExplorer Logo Help & FAQ Home Research output Profiles Research Units Projects Datasets \nPrizes Activities Press / Media Equipment Search by expertise, name or affiliation Stimulus \ndependency of surround modulation in V1 allows for unbiased orientation decoding Sander \nKeemink, Clemens Boucsein, Mark CW van Rossum School of Informatics Institute for Adaptive \nand Neural Computation Research output: Contribution to conference › Poster › peer-review \nOverview Original language English Publication status Published - 2013 Event Society \nfor Neuroscience Annual Meeting 2013 - San Diego, United States Duration: 9 Nov 2013 …"
+        },
+        "filled": true,
+        "author_pub_id": "0urBm8EAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 0,
+        "pub_url": "https://www.research.ed.ac.uk/en/publications/stimulus-dependency-of-surround-modulation-in-v1-allows-for-unbia",
+        "cites_per_year": {}
+    }
+]
