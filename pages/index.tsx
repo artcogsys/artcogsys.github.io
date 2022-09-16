@@ -52,7 +52,7 @@ export default function Home() {
             </Stack>
           </Container>
         </Paper>
-        <Typography className={styles.headingXl}>What's New</Typography>
+        <Typography component="h1" className={styles.headingXl}>What's New</Typography>
         <PostList allPostsData={sortedPostData} pageIdx={0} unWrapped />
             
         <div style={{ marginTop: "5%" }}>
