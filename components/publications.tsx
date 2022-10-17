@@ -32,7 +32,7 @@ export default function PublicationAccordion({
       // Split author name into [Firstname, Surname].
       const names = author.split(" ");
       // Rejoin the two into a string of form "Surname X."
-      return `${names.at(-1)}, ${names[0][0]}.`;
+      return `${names[names.length - 1]}, ${names[0][0]}.`;
     });
 
     // Reconnect the list of authors into a single string according to APA format
@@ -42,14 +42,12 @@ export default function PublicationAccordion({
       apaAuthor = authorList[0];
       // Follow APA rules for >20 authors
     } else if (authorList.length > 20) {
-      apaAuthor = `${authorList.slice(0, 19).join(", ")}, ..., ${authorList.at(
-        -1
-      )}`;
+      apaAuthor = `${authorList.slice(0, 19).join(", ")}, ..., ${authorList[authorList.length - 1]}`;
       // Follow APA rules for 2 - 20 authors.
     } else {
       apaAuthor = `${authorList
         .slice(0, authorList.length - 1)
-        .join(", ")}, & ${authorList.at(-1)}`;
+        .join(", ")}, & ${authorList[authorList.length - 1]}`;
     }
 
     return (
