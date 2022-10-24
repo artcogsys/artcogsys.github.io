@@ -53,11 +53,6 @@ export default function Home() {
             </Stack>
           </Container>
         </Paper>
-        <h1 className={styles.headingXl}>
-          What's New
-        </h1>
-        <PostList allPostsData={sortedPostData} pageIdx={0} unWrapped />
-
         <div style={{ marginTop: "5%" }}>
           <a
             className="twitter-timeline"
