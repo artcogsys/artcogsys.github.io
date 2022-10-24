@@ -56,6 +56,7 @@ export default function Home() {
         <div style={{ marginTop: "5%" }}>
           <a
             className="twitter-timeline"
+            data-theme="dark"
             href="https://twitter.com/artcogsys?ref_src=twsrc%5Etfw"
             style={{ height: "600px" }}
           >
