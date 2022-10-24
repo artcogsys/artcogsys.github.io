@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Homepage of the Artificial Cognitive Systems Lab - Development Guide
+
+This guide provides a comprehensive documentation of the website's architecture and instructions of how to add/adjust the website itself or content therein.
+
+## Architecture
+
+### Framework/Language overview
+
+- [**NextJS:**](https://nextjs.org/) The website is built with the NextJS framework.
+
+- [**ReactJS:**](https://reactjs.org/) The web components are built using ReactJS.
+
+- [**Typescript:**](https://www.typescriptlang.org/) All Javascript code is written using the Typescript language language extension. This is to enable strongly typed programming within Javascript.
+
+- [**MDXJS:**](https://mdxjs.com/) Posts are written using the MDXJS framework. MDX allows the combination of Markdown, HTML and Javascript code within a single file to create richer documents.
 
 ## Getting Started
 
