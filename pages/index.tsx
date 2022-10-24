@@ -23,8 +23,8 @@ export default function Home() {
       <Stack spacing={1}>
         <span style={{textAlign: "center"}}>This Page is currently under construction</span>
         <Paper elevation={3} style={{ opacity: "90%" }}>
-          <Container maxWidth="md" className={styles.padded}>
-            <Stack spacing={1}>
+          <Container maxWidth="lg" className={styles.padded}>
+            <Stack spacing={1} style={{textAlign: "center"}}>
               <Typography
                 className={styles.headingXl}
                 style={{ marginTop: "0px" }}
