@@ -9,7 +9,7 @@ import { Paper } from "@mui/material";
 import Stack from "@mui/material/Stack";
 import Grid from "@mui/material/Grid";
 import Container from "@mui/material/Container";
-import PublicationAccordionPagedWrapper from "../../components/pagingPublications";
+import PublicationsPagingWrapper from "../../components/publicationsPagingWrapper";
 
 import utilStyles from "../../styles/utils.module.css";
 
@@ -68,7 +68,7 @@ export default function Post({
             </Stack>
           </Container>
         </Paper>
-        <PublicationAccordionPagedWrapper
+        <PublicationsPagingWrapper
           publications={personData.publications.slice(
             page * pubsPerPage,
             sliceMax

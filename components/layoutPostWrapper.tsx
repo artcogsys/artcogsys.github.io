@@ -11,23 +11,29 @@ import Date from "./date";
 import Constants from "../lib/constants";
 import utilStyles from "../styles/utils.module.css";
 
+/**
+ * Wrapper Component: Can be used to wrap the website layout around a post.
+ * @param children The post to be wrapped.
+ * @param title Title of the post.
+ * @param date Date of publication/last edit, Format: YYYY-MM-DD.
+ * @param head HTML content to be injected to the <head/> of the page. 
+ * @param opaque Indicator for the opacity of the background.
+ */
 export default function LayoutPostWrapper({
   children,
   title,
   date,
   head,
-  pageIdx,
   opaque=false
 }: {
   children: React.ReactNode;
   title?: string;
   date?: string;
   head?: React.ReactNode;
-  pageIdx: number;
   opaque?: boolean;
 }) {
   return (
-    <Layout pageIdx={pageIdx}>
+    <Layout pageIdx={2}>
       <Head>
         <title>{title || Constants.SITE_TITLE}</title>
         {head}

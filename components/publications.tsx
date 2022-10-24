@@ -14,9 +14,8 @@ import { sortPublicationsByDate } from "../lib/publications"
 import { Publication } from "../types/publication";
 
 /**
- * Turns the scraped publications into a HTML Element. Displays the data in Accordion format.
- * @param pubs The publications scraped from Google Scholar.
- * @returns {React.ReactNode}
+ * Turns a list of Publication objects into a React Accordion element.
+ * @param pubs The list of Publication objects.
  */
 export default function PublicationAccordion({
   pubs,

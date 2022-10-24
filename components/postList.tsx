@@ -12,9 +12,14 @@ import Typography from '@mui/material/Typography';
 import utilStyles from "../styles/utils.module.css";
 import layoutStyles from "../styles/layout.module.css";
 
+/**
+ * Component to display the information of, and link to all provided posts.
+ * @param allPostsData Meta information of each post as a list.
+ * @param unWrapped Indicator if the component should be used without the Layout Wrapper.
+ * @returns 
+ */
 export default function PostList({
   allPostsData,
-  pageIdx,
   unWrapped
 }: {
   allPostsData: {
@@ -25,7 +30,6 @@ export default function PostList({
     thumbnail: string;
     abstract: string;
   }[];
-  pageIdx: number;
   unWrapped?: boolean;
 }) {
 
@@ -59,6 +63,6 @@ export default function PostList({
             ))}
         </Grid>)
   return unWrapped ? <PostListInner /> :(
-    <Layout pageIdx={pageIdx}><PostListInner /></Layout>
+    <Layout pageIdx={2}><PostListInner /></Layout>
   );
 }

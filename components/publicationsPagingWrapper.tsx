@@ -17,11 +17,14 @@ import { Publication } from "../types/publication";
 import utilStyles from "../styles/utils.module.css";
 
 /**
- * Wrapper for the Accordion for publications, provides paging controls.
- * @param pageIdx The index of the currently active tab.
- * @returns {React.ReactNode} The navigation bar.
+ * Wrapper for the publications, provides paging controls.
+ * @param publications List of all Publication objects to be displayed.
+ * @param numPubs Number of Publication objects.
+ * @param pubsPerPage Number of publications to display per page.
+ * @param setPage React function handler that invokes a switch to the next page.
+ * @param currentPage The current page to be displayed
  */
-export default function PublicationAccordionPagedWrapper({
+export default function PublicationsPagingWrapper({
   publications,
   numPubs,
   pubsPerPage,
@@ -33,7 +36,7 @@ export default function PublicationAccordionPagedWrapper({
   pubsPerPage: number;
   setPage: (currentPage) => void;
   currentPage: number;
-}) {
+})  {
   const [textInput, setTextInput] = React.useState(currentPage + 1);
 
   const handleBack = () => {

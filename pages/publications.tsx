@@ -6,7 +6,7 @@ import { Stack } from "@mui/material";
 
 import { Publication } from "../types/publication";
 import Layout from "../components/layout";
-import PublicationAccordionPagedWrapper from "../components/pagingPublications";
+import PublicationsPagingWrapper from "../components/publicationsPagingWrapper";
 import { getPublications } from "../lib/people";
 
 import Constants from "../lib/constants";
@@ -40,7 +40,7 @@ export default function Publications({
         <h1 className={utilStyles.headingXl} style={{ marginTop: "0" }}>
           {Constants.LABEL_PUBLICATIONS}
         </h1>
-        <PublicationAccordionPagedWrapper
+        <PublicationsPagingWrapper
           setPage={setPage}
           numPubs={publicationData.length}
           pubsPerPage={pubsPerPage}

@@ -22,7 +22,7 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
    * @param event - The DOM click-event.
    * @param newValue - The index of the clicked tab.
    */
-  const handleChange = (event: React.SyntheticEvent, newValue: number) => {
+  const handleChange = (event: React.SyntheticEvent, newValue: number) : void => {
     // Find the HTML element from the navigation bar, that the user clicked on
     const navElement: any = event.target;
     // Find the label of the clicked tab
