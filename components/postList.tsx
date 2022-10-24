@@ -4,6 +4,7 @@ import Date from "../components/date";
 import Box from "@mui/material/Box";
 import Grid from '@mui/material/Grid';
 import Card from '@mui/material/Card';
+import Stack from "@mui/material/Stack";
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
@@ -31,7 +32,7 @@ export default function PostList({
   const PostListInner = () => (<Grid container spacing={3}>
             {allPostsData.map(post => (
             <Grid item key={post.id}>
-                <Card elevation={3} sx={{ maxWidth: 250, height: 400 }}>
+                <Card elevation={3} sx={{ maxWidth: 200, height: 400 }}>
                     <CardMedia
                         component="img"
                         height="200"
@@ -39,14 +40,19 @@ export default function PostList({
                         alt="thumbnail"
                     />
                     <CardContent>
+                      <Stack>
                         <a href={`/posts/${post.id}`} style={{color: "white"}}>
-                        <Typography gutterBottom variant="h5" component="div">
-                        {post.title}
-                        </Typography>
+                          <Typography gutterBottom variant="h5" component="div">
+                            {post.title}
+                          </Typography>
                         </a>
                         <Typography variant="body2" color="text.secondary">
-                        {post.abstract}
+                          {post.abstract}
                         </Typography>
+                        <div className={utilStyles.lightText}>
+                          <Date dateString={post.date} />
+                        </div>
+                      </Stack>
                     </CardContent>
                 </Card>
             </Grid>
