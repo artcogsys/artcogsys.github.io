@@ -12,7 +12,7 @@ const peopleDirectoryPath = path.join(process.cwd(), "people");
 
 /**
  * HELPER: Get the name of each directory in a given source path.
- * @param source
+ * @param source The source path.
  * @returns List of directory names
  */
 const getDirectories = (source): Array<string> =>
