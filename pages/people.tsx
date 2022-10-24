@@ -15,6 +15,10 @@ import Button from "@mui/material/Button";
 
 import utilStyles from "../styles/utils.module.css";
 
+/**
+ * The "Team" page. Displays an overview over the team members.
+ * @param allPeopleData Meta information for each member.
+ */
 export default function People({
   allPeopleData,
 }: {
@@ -96,6 +100,10 @@ export default function People({
   );
 }
 
+/**
+ * Invoked by NextJS when the page is loaded. 
+ * Is used to retrieve the information of the team members.
+ */
 export const getStaticProps: GetStaticProps = async () => {
   const allPeopleData = getPeopleData();
   return {

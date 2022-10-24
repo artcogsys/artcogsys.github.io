@@ -13,7 +13,11 @@ import PublicationsPagingWrapper from "../../components/publicationsPagingWrappe
 
 import utilStyles from "../../styles/utils.module.css";
 
-export default function Post({
+/**
+ * Page to display the information of a person.
+ * @param personData the meta information of the person to be displayed.
+ */
+export default function Person({
   personData,
 }: {
   personData: {
@@ -83,6 +87,10 @@ export default function Post({
   );
 }
 
+/**
+ * Called by NextJS to dynamically build the URL for each Person page.
+ * @returns A meta object for NextJS to dynamically create the URL paths to each person
+ */
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = getAllPeopleIds();
   return {
@@ -91,7 +99,13 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
+/**
+ * Called by NextJS onLoad of the page. Is used to load the info of the person to be displayed.
+ * @param params The ID is retrieved from the dynamic path created in <getStaticPaths>
+ * @returns 
+ */
 export const getStaticProps: GetStaticProps = async ({ params }) => {
+  // Use the ID from the path to load the corresponding Person object
   const personData = await getPersonData(params.id as string);
   return {
     props: {

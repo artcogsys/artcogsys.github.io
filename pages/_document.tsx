@@ -2,6 +2,10 @@
 /* eslint-disable @next/next/no-sync-scripts */
 import { Html, Head, Main, NextScript } from "next/document";
 
+
+/**
+ * Wrapper Component: Wraps a custom HTML layer around the NextJS App.
+ */
 export default function Document() {
   return (
     <Html>

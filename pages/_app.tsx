@@ -12,6 +12,12 @@ const darkTheme = createTheme({
   },
 });
 
+/**
+ * Wrapper Component: Wraps a Next App and the Material CSS around the content of the website.
+ * @param Component The component to wrap around.
+ * @param pageProps The props that should be hoisted to the Component.
+ * @returns 
+ */
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <ThemeProvider theme={darkTheme}>
