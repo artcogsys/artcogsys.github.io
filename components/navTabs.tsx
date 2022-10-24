@@ -36,7 +36,7 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
 
   // artcogsys logo as HTML element, stored so it can be used as an icon.
   const logo = (
-    <img src="/artcogsys_transparent.png" height={80} width={80} alt={"artcogsys"} />
+    <img src="/general/artcogsys_transparent.png" height={80} width={80} alt={"artcogsys"} />
   );
 
   return (

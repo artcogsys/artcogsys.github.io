@@ -7,7 +7,7 @@ const posts: Array<Post> = [
         title: "Intro",
         date: "2020-01-02",
         author: "Marcel van Gerven",
-        thumbnail: "/acs.png",
+        thumbnail: "/general/artcogsys.png",
         abstract: "Introducing the Artificial Cognitive Systems research group"
     },
     {
@@ -15,7 +15,7 @@ const posts: Array<Post> = [
         title: "Playground for posts",
         date: "2022-09-09",
         author: "Jan Schering",
-        thumbnail: "/pyscriptGraphic.png",
+        thumbnail: "/thumbnails/pyscriptGraphic.png",
         abstract: "Testing out some useful functionalities"
     }
 ]

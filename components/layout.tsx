@@ -25,13 +25,13 @@ export default function Layout({
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/acs.png" />
+        <link rel="icon" href="/general/artcogsys_transparent.png" />
         <meta name="description" content={Constants.META_DESCRIPTION} />
         <meta name="og:title" content={Constants.SITE_TITLE} />
         <title>{Constants.SITE_TITLE}</title>
       </Head>
       <video className={styles.fixed} id="backgroundVideo" autoPlay muted loop>
-        <source src="/bgvid.mp4" type="video/mp4" />
+        <source src="/general/bgvid.mp4" type="video/mp4" />
         {Constants.INFO_HTML5}
       </video>
       <header className={styles.header}>
