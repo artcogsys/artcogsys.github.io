@@ -29,7 +29,7 @@ export default function Home() {
                 className={styles.headingXl}
                 style={{ marginTop: "0px" }}
               >
-                Artificial Cognitive Systems Research Lab
+                Artificial Cognitive Systems Lab
               </Typography>
               <Typography
                 className={styles.headingLg}
