@@ -3,10 +3,48 @@ import * as React from "react";
 
 import Box from "@mui/material/Box";
 import Tab from "@mui/material/Tab";
+import MenuItem from '@mui/material/MenuItem';
+import MenuIcon from '@mui/icons-material/Menu';
+import IconButton from '@mui/material/IconButton';
+import Typography from '@mui/material/Typography';
+import Menu from '@mui/material/Menu';
+import ArrowRightIcon from '@mui/icons-material/ArrowRight';
 
 import { StyledTab, StyledTabs } from "./styledTabs";
 
 import Constants from "../lib/constants";
+
+const pageMeta = [
+  {
+    label: "Home",
+    path: "/"
+  },
+  {
+    label: "Research",
+    path: "/research"
+  },
+  {
+    label: "People",
+    path: "/people"
+  },
+  {
+    label: "Publications",
+    path: "/publications"
+  },
+  {
+    label: "Education",
+    path: "/education"
+  },
+  {
+    label: "Code",
+    path: "https://github.com/artcogsys",
+    external: true
+  },
+  {
+    label: "Contact",
+    path: "/contact"
+  }
+]
 
 /**
  * Navigation Bar.
@@ -16,6 +54,14 @@ import Constants from "../lib/constants";
 export default function NavTabs({ pageIdx }: { pageIdx: number }) {
   // Stateful variable that tracks the currently active tab
   const [activeTab, setActiveTab] = React.useState(pageIdx);
+  const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(null);
+  const handleOpenNavMenu = (event: React.MouseEvent<HTMLElement>) => {
+    setAnchorElNav(event.currentTarget);
+  };
+  const handleCloseNavMenu = () => {
+    setAnchorElNav(null);
+  };
+
 
   /**
    * Helper function to handle clicks on the tabs.
@@ -39,8 +85,66 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
     <img src="/general/artcogsys_transparent.png" height={80} width={80} alt={"artcogsys"} />
   );
 
-  return (
-    <Box sx={{ width: "100%", opacity: "90%" }}>
+  return (<>
+    <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
+            <IconButton
+              size="large"
+              aria-label="account of current user"
+              aria-controls="menu-appbar"
+              aria-haspopup="true"
+              onClick={handleOpenNavMenu}
+              color="inherit"
+              style={{marginLeft: "auto", marginRight: "auto", maxWidth: "95%"}}
+            >
+              <MenuIcon sx={{fontSize: 45}}/>
+              {logo}
+              <Typography>
+                Artificial Cognitive Systems Lab
+              </Typography>
+            </IconButton>
+            <Menu
+              id="menu-appbar"
+              anchorEl={anchorElNav}
+              anchorOrigin={{
+                vertical: 'bottom',
+                horizontal: 'left',
+              }}
+              keepMounted
+              transformOrigin={{
+                vertical: 'top',
+                horizontal: 'left',
+              }}
+              open={Boolean(anchorElNav)}
+              onClose={handleCloseNavMenu}
+              sx={{
+                display: { xs: 'block', md: 'none' },
+              }}
+            >
+              {pageMeta.map((page) => (
+                <MenuItem key={page.label} onClick={handleCloseNavMenu}>
+                  {page.external ? (
+                  <a 
+                    rel="noreferrer"
+                    target="_blank"
+                    href={page.path}
+                    style={{color: "white"}}
+                  >
+                    <ArrowRightIcon/>{page.label}
+                  </a>)
+                  : (
+                    <a 
+                      href={page.path}
+                      style={{color: "white"}}
+                    >
+                      <ArrowRightIcon/>
+                      {page.label}
+                    </a>
+                  )}
+                </MenuItem>
+              ))}
+            </Menu>
+          </Box>
+    <Box sx={{ width: "100%", opacity: "90%",  flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
       <StyledTabs
         value={activeTab}
         onChange={handleChange}
@@ -60,20 +164,21 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
             fontWeight: "bold",
           }}
         />
-        <StyledTab label={Constants.LABEL_LANDING} href="/" />
-        <StyledTab label={Constants.LABEL_BLOG} href="/research" />
-        <StyledTab label={Constants.LABEL_TEAM} href="/people" />
-        <StyledTab label={Constants.LABEL_PUBLICATIONS} href="/publications" />
-        <StyledTab label={Constants.LABEL_EDUCATION} href="/education" />
-        <StyledTab
-          component="a"
-          href={Constants.GITHUB_URL}
-          label={Constants.LABEL_REPO}
-          rel="noreferrer"
-          target="_blank"
-        />
-        <StyledTab label={Constants.LABEL_CONTACT} href="/contact" />
+          <StyledTab label={Constants.LABEL_LANDING} href="/" />
+          <StyledTab label={Constants.LABEL_BLOG} href="/research" />
+          <StyledTab label={Constants.LABEL_TEAM} href="/people" />
+          <StyledTab label={Constants.LABEL_PUBLICATIONS} href="/publications" />
+          <StyledTab label={Constants.LABEL_EDUCATION} href="/education" />
+          <StyledTab
+            component="a"
+            href={Constants.GITHUB_URL}
+            label={Constants.LABEL_REPO}
+            rel="noreferrer"
+            target="_blank"
+          />
+          <StyledTab label={Constants.LABEL_CONTACT} href="/contact" />
       </StyledTabs>
     </Box>
+    </>
   );
 }

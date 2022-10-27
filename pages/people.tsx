@@ -3,6 +3,7 @@ import * as React from "react";
 import Link from "next/link";
 
 import Container from "@mui/material/Container";
+import Box from "@mui/material/Box";
 import { Stack } from "@mui/material";
 import { Paper } from "@mui/material";
 import ImageList from "@mui/material/ImageList";
@@ -63,12 +64,17 @@ export default function People({
                       cursor: "pointer"
                     }}
                   >
+                    <Box sx={{ 
+                      height: {xs: 150, md: 314, lg: 314 },
+                      width: {xs: 150, md: 314, lg: 314 }
+                    }}>
                     <img
                         src={`data:image/png;base64,${person.image}`}
                         alt={person.title}
                         loading="lazy"
-                        style={{height: 314}}
+                        style={{height: "inherit"}}
                       />
+                    </Box>
                       <ImageListItemBar
                         title={
                           <Button
