@@ -76,7 +76,7 @@ export default function PublicationsPagingWrapper({
             size="medium"
             onClick={handleBack}
           >
-            Next
+            Prev
           </Button>
         </Grid>
         <Grid item xs={2}>
