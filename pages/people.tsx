@@ -38,7 +38,7 @@ export default function People({
   ];
 
   const CardStack = titles.map((title, idx) => (
-    <Paper elevation={3} style={{ opacity: "94%" }} key={idx}>
+    <Paper elevation={3} key={idx}>
       <Container maxWidth="xl" className={utilStyles.padded}>
         <Stack spacing={1}>
           <h2 className={utilStyles.headingLg} style={{ marginTop: "0" }}>

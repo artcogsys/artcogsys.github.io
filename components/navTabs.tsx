@@ -144,7 +144,7 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
               ))}
             </Menu>
           </Box>
-    <Box sx={{ width: "100%", opacity: "90%",  flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
+    <Box sx={{ width: "100%",  flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
       <StyledTabs
         value={activeTab}
         onChange={handleChange}

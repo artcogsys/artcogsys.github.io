@@ -46,7 +46,7 @@ export default function Person({
         <title>Team - {personData.name}</title>
       </Head>
       <Stack spacing={1}>
-        <Paper elevation={3} style={{ opacity: "90%" }}>
+        <Paper elevation={3}>
           <Container maxWidth="xl" className={utilStyles.padded}>
             <Stack spacing={1}>
               <Grid container spacing={2}>

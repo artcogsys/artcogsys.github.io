@@ -19,7 +19,7 @@ export default function Home() {
     <Layout pageIdx={1}>
       <Stack spacing={1}>
         <span style={{textAlign: "center"}}>This Page is currently under construction</span>
-        <Paper elevation={3} style={{ opacity: "90%" }}>
+        <Paper elevation={3}>
           <Container maxWidth="lg" className={styles.padded}>
             <Stack spacing={1} style={{textAlign: "center"}}>
               <Typography
