@@ -11,6 +11,7 @@ import Grid from "@mui/material/Grid";
 import Container from "@mui/material/Container";
 import PublicationsPagingWrapper from "../../components/publicationsPagingWrapper";
 
+import {sortPublicationsByDate} from "../../lib/publications"
 import utilStyles from "../../styles/utils.module.css";
 
 /**
@@ -29,12 +30,13 @@ export default function Person({
     publications: Array<Publication>;
   };
 }) {
+  const sortedPublications = sortPublicationsByDate(personData.publications)
   const [page, setPage] = React.useState(0);
 
   const pubsPerPage = 10;
 
   let sliceMax;
-  if (page * pubsPerPage + pubsPerPage > personData.publications.length) {
+  if (page * pubsPerPage + pubsPerPage > sortedPublications.length) {
     sliceMax = personData.publications.length;
   } else {
     sliceMax = page * pubsPerPage + pubsPerPage;
@@ -73,11 +75,11 @@ export default function Person({
           </Container>
         </Paper>
         <PublicationsPagingWrapper
-          publications={personData.publications.slice(
+          publications={sortedPublications.slice(
             page * pubsPerPage,
             sliceMax
           )}
-          numPubs={personData.publications.length}
+          numPubs={sortedPublications.length}
           pubsPerPage={pubsPerPage}
           setPage={setPage}
           currentPage={page}
