@@ -130,7 +130,6 @@ Introduction as Markdown here...
 
 We recommend that the new member checks the generated publications for correctness. This can simply be done by running the development server, then in the browser navigating to `localhost:3000/team/new_member`. Add the bottom of the page, an overview of the generated publications is provided.
 
-<img src="./public/docs/pubs_overview.png" alt="pub_overview" width="500"/>
-
+![pub_overview](https://github.com/artcogsys/artcogsys.github.io/blob/main/public/docs/pubs_overview.PNG?raw=true)
 
 
