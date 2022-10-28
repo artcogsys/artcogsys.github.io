@@ -33,9 +33,8 @@ export default function LayoutPostWrapper({
   opaque?: boolean;
 }) {
   return (
-    <Layout pageIdx={2}>
+    <Layout pageIdx={2} title={title}>
       <Head>
-        <title>{title || Constants.SITE_TITLE}</title>
         {head}
       </Head>
       <Stack spacing={1}>

@@ -18,17 +18,17 @@ import styles from "./layout.module.css";
 export default function Layout({
   children,
   pageIdx,
+  title="Artificial Cognitive Systems Research Group"
 }: {
   children: React.ReactNode;
   pageIdx?: number;
+  title?: string;
 }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/general/artcogsys_transparent.png" />
-        <meta name="description" content={Constants.META_DESCRIPTION} />
-        <meta name="og:title" content={Constants.SITE_TITLE} />
-        <title>{Constants.SITE_TITLE}</title>
+        <meta name="og:title" content={title} />
+        <title>{title}</title>
       </Head>
       {/**
        * <video className={styles.fixed} id="backgroundVideo" autoPlay muted loop>

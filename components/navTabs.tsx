@@ -14,6 +14,8 @@ import { StyledTab, StyledTabs } from "./styledTabs";
 
 import Constants from "../lib/constants";
 
+const CODE_LABEL = "Code"
+
 const pageMeta = [
   {
     label: "Home",
@@ -36,7 +38,7 @@ const pageMeta = [
     path: "/education"
   },
   {
-    label: "Code",
+    label: CODE_LABEL,
     path: "https://github.com/artcogsys",
     external: true
   },
@@ -74,7 +76,7 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
     // Find the label of the clicked tab
     const tabLabel: string = navElement.outerText;
     // The repo tab leads to an external page, no need to change the active tab
-    if (tabLabel.toUpperCase() !== Constants.LABEL_REPO.toUpperCase()) {
+    if (tabLabel.toUpperCase() !== CODE_LABEL.toUpperCase()) {
       // If the user clicks on the logo, set tab for homepage as active, otherwise the clicked tab
       newValue == -1 ? setActiveTab(0) : setActiveTab(newValue);
     }
@@ -164,19 +166,16 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
             fontWeight: "bold",
           }}
         />
-          <StyledTab label={Constants.LABEL_LANDING} href="/" />
-          <StyledTab label={Constants.LABEL_BLOG} href="/research" />
-          <StyledTab label={Constants.LABEL_TEAM} href="/people" />
-          <StyledTab label={Constants.LABEL_PUBLICATIONS} href="/publications" />
-          <StyledTab label={Constants.LABEL_EDUCATION} href="/education" />
-          <StyledTab
-            component="a"
-            href={Constants.GITHUB_URL}
-            label={Constants.LABEL_REPO}
-            rel="noreferrer"
-            target="_blank"
-          />
-          <StyledTab label={Constants.LABEL_CONTACT} href="/contact" />
+          {pageMeta.map(page => (
+            <StyledTab 
+              component="a" 
+              key={page.label}
+              label={page.label} 
+              href={page.path} 
+              rel={page.external ? "noreferrer" : ""}
+              target={page.external ? "_blank" : ""}
+            />
+          ))}
       </StyledTabs>
     </Box>
     </>
