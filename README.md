@@ -8,7 +8,7 @@ This guide provides a comprehensive documentation of the website's architecture 
 
 - [**ReactJS:**](https://reactjs.org/) ReactJS is a JavaScript library for building user interfaces. All web components in this website are built using ReactJS.
 
-- [**NextJS:**](https://nextjs.org/) Next.js is a ReactJS framework that provides building blocks to create fast web applications, including *routing, data-fetching, rendering* and *infrastructure*.
+- [**NextJS:**](https://nextjs.org/) Next.js is a ReactJS framework that provides building blocks to create web applications, including *routing, data-fetching, rendering* and *infrastructure*.
     - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
     - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
@@ -17,6 +17,10 @@ This guide provides a comprehensive documentation of the website's architecture 
 - [**Typescript:**](https://www.typescriptlang.org/) All Javascript code in this project is written using the Typescript language extension. This is to enable strongly typed programming within Javascript.
 
 - [**MDXJS:**](https://mdxjs.com/) Posts are written using the MDXJS framework. MDX allows the combination of Markdown, HTML and Javascript code within a single file to create richer documents.
+
+****
+
+- [**Scholarly:**](https://pypi.org/project/scholarly/) Scholarly is a Python library that provides tools for web scraping of Google Scholar.
 
 ### Server and Web 
 
