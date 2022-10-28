@@ -95,7 +95,7 @@ npm run dev
 
 Open the web browser and navigate to [localhost:3000](http://localhost:3000/) to view the results.
 
-## Adding/Removing/Editing Team Member pages
+## Adding/Removing team members
 
     ├── ...                 
     ├── people                  
@@ -132,4 +132,50 @@ We recommend that the new member checks the generated publications for correctne
 
 ![pub_overview](https://github.com/artcogsys/artcogsys.github.io/blob/main/public/docs/pubs_overview.PNG?raw=true)
 
+In case that the list is incomplete or any inaccuracies are found, the `publications.json` can be adjusted manually.
 
+### Removing Members
+
+To remove a member, simply remove their folder from the `./people` directory. 
+
+## Writing a research post
+
+
+    ├── ...                 
+    ├── pages                  
+    │   └── posts              
+    │   |   └── post_id.mdx         +
+    ├── posts
+    |   └── post_id                 +
+    │   |   └── ...                 # assets for the post
+    │   └── posts.ts                # holds the meta information of all posts
+    └── ...
+
+To write a research post, three things need to be done:
+
+1. Define the meta information of the post in `./posts/posts.ts`: The typescript file exports an Array of objects. To add your meta information, add an object of form: 
+
+```js
+{
+    id: "post_id",
+    title: "Title of the post",
+    date: "YYYY-MM-DD",
+    author: "Full Name",
+    thumbnail: "/path/to/thumbnail.png",
+    abstract: "Short description of the post."
+}
+```
+
+2. Create a folder for your assets as `./posts/post_id`: In this folder, you can store all the assets necessary for the post. I.e. scripts, images, videos, etc. 
+
+3. Create an MDX file `./pages/posts/post_id.mdx`: Add the bottom of your mdx file, include following code snippet to ensure that the post is wrapped in the layout of the website:
+
+```js
+import LayoutPostWrapper from "../../components/layoutPostWrapper"
+
+export default ({ children }) => (
+  <LayoutPostWrapper title="Title of the Post" date="YYYY-MM-DD">
+    {children}
+  </LayoutPostWrapper>
+)
+```
