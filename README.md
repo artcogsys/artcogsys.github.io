@@ -123,7 +123,15 @@ To remove a member, simply remove their folder from the `./people` directory.
     │   └── posts.ts                # holds the meta information of all posts
     └── ...
 
-To write a research post, three things need to be done:
+Before making any changes, please create a new Git branch for the research post, using:
+
+```bash
+git checkout -b post_id
+```
+
+Where the `post_id` should be a self-explanatory id of own choosing (e.g.: `linear_alg_intro`). 
+
+When the new branch has been created, we can proceed to create the post. To write a research post, three things need to be done:
 
 1. Define the meta information of the post in `./posts/posts.ts`: The typescript file exports an Array of objects. To add your meta information, add an object of form: 
 
@@ -153,6 +161,21 @@ export default ({ children }) => (
 ```
 
 You can find example posts under `./examples/posts`.
+
+Once the post is ready for publication, we can merge the feature branch with the *main* branch of the project. To do this, first run:
+
+```bash
+git merge main 
+```
+
+Resolve merge conflicts, if necessary. Then:
+
+```bash
+git checkout main
+git merge post_id
+```
+
+When the resulting merge is pushed to the GitHub, the post will automatically be published to the website.
 
 ## Infrastructure
 
