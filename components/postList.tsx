@@ -1,7 +1,6 @@
 import * as React from "react";
 import Layout from "../components/layout";
 import Date from "../components/date";
-import Box from "@mui/material/Box";
 import Grid from '@mui/material/Grid';
 import Card from '@mui/material/Card';
 import Stack from "@mui/material/Stack";

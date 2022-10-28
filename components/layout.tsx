@@ -4,8 +4,6 @@ import Head from "next/head";
 import Container from "@mui/material/Container";
 import NavTabs from "../components/navTabs";
 
-import Constants from "../lib/constants";
-
 import utilStyles from "../styles/utils.module.css";
 import styles from "./layout.module.css";
 
@@ -33,7 +31,7 @@ export default function Layout({
       {/**
        * <video className={styles.fixed} id="backgroundVideo" autoPlay muted loop>
         <source src="/general/bgvid.mp4" type="video/mp4" />
-        {Constants.INFO_HTML5}
+        Your browser does not support HTML5 video.
       </video>
        */}
       <header className={styles.header}>

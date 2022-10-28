@@ -6,8 +6,6 @@ import Container from "@mui/material/Container";
 import { Paper } from "@mui/material";
 import Stack from "@mui/material/Stack";
 
-import Constants from "../lib/constants";
-
 import layoutStyles from "../styles/layout.module.css";
 import styles from "../styles/utils.module.css";
 
@@ -32,7 +30,7 @@ export default function Home() {
                 className={styles.headingLg}
                 style={{ marginTop: "0px" }}
               >
-                {Constants.MISSION}
+                Mission Statement
               </Typography>
               <Typography variant="body2">
                 Understanding how mind emerges from matter remains one of the

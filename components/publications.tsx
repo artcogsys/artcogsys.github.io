@@ -9,7 +9,6 @@ import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import Button from "@mui/material/Button";
 import Stack from "@mui/material/Stack";
 
-import Constants from "../lib/constants";
 import { sortPublicationsByDate } from "../lib/publications"
 import { Publication } from "../types/publication";
 
@@ -83,7 +82,7 @@ export default function PublicationAccordion({
         </AccordionSummary>
         <AccordionDetails>
           <Stack spacing={2}>
-            <Typography>{Constants.INFO_SCHOLAR}</Typography>
+            <Typography>Abstract taken from Google Scholar:</Typography>
             <Typography>{publication.bib.abstract}</Typography>
             <Typography>
               <Button
@@ -93,7 +92,7 @@ export default function PublicationAccordion({
                 rel="noreferrer"
                 target="_blank"
               >
-                <p>{Constants.ACTION_ARTICLE}</p>
+                <p>Go to article</p>
               </Button>
             </Typography>
           </Stack>

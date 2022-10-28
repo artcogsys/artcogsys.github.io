@@ -9,8 +9,6 @@ import Layout from "../components/layout";
 import PublicationsPagingWrapper from "../components/publicationsPagingWrapper";
 import { getPublications } from "../lib/people";
 
-import Constants from "../lib/constants";
-
 import utilStyles from "../styles/utils.module.css";
 
 /**
@@ -37,7 +35,7 @@ export default function Publications({
     <Layout pageIdx={4}>
       <Stack spacing={1}>
         <h1 className={utilStyles.headingXl} style={{ marginTop: "0" }}>
-          {Constants.LABEL_PUBLICATIONS}
+          Publications
         </h1>
         <PublicationsPagingWrapper
           setPage={setPage}

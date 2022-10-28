@@ -10,7 +10,6 @@ import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import TextField from "@mui/material/TextField";
 
-import Constants from "../lib/constants";
 import PublicationAccordion from "./publications";
 import { Publication } from "../types/publication";
 

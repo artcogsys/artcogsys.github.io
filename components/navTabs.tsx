@@ -12,8 +12,6 @@ import ArrowRightIcon from '@mui/icons-material/ArrowRight';
 
 import { StyledTab, StyledTabs } from "./styledTabs";
 
-import Constants from "../lib/constants";
-
 const CODE_LABEL = "Code"
 
 const pageMeta = [
