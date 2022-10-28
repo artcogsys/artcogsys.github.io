@@ -179,3 +179,5 @@ export default ({ children }) => (
   </LayoutPostWrapper>
 )
 ```
+
+You can find example posts under `./examples/posts`.
