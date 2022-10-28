@@ -94,3 +94,43 @@ npm run dev
 ```
 
 Open the web browser and navigate to [localhost:3000](http://localhost:3000/) to view the results.
+
+## Adding/Removing/Editing Team Member pages
+
+    ├── ...                 
+    ├── people                  
+    │   └── new_member              + 
+    │   |   └── new_member.md       # Introduction comes here
+    │   |   └── new_member.png      # image of the member
+    │   |   └── publications.json   # generated through Google Scholar scraper
+    ├── scraper.ipynb
+    └── ...
+
+### Adding a new member
+
+To add a new member, create a  new folder in (`root/people/new_member`). In this folder, we have to add three files: 
+
+1. `new_member.png`: An image of the new member in square format (i.e. 300x300)
+2. `new_member.md`: This file contains the content of the new members' introduction page, as well as some necessary meta information. The Markdown file has to be filled as follows:
+
+```
+---
+name: "Full Name"
+title: "PhD Student" | "Principal Investigator" | "Assistant Professor" | "Postdoctoral Researcher"
+affiliation: "Academic affiliation"
+---
+
+Introduction as Markdown here...
+```
+
+3. `publications.json`: This file can be automatically generated and filled through running the `scraper.ipynb`. A few need to be considered to ensure correct functionality of the tool:
+    - The member has a Google Scholar Author profile: To find the publications of an author, the tool relies on the author's Google Scholar profile. If the new member does not have an account, they can be set up [here](https://scholar.google.nl/citations?view_op=new_profile&hl=en)
+    - The academic affiliation provided in `new_member.md` matches the academic affiliation provided in the Google Scholar profile
+    - Full Name provided in `new_member.md` matches the name provided in the Google Scholar profile
+
+We recommend that the new member checks the generated publications for correctness. This can simply be done by running the development server, then in the browser navigating to `localhost:3000/team/new_member`. Add the bottom of the page, an overview of the generated publications is provided.
+
+<img src="./public/docs/pubs_overview.png" alt="pub_overview" width="500"/>
+
+
+
