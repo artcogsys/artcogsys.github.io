@@ -23,16 +23,18 @@ export default function LayoutPostWrapper({
   title,
   date,
   head,
+  pageIdx=2,
   opaque=false
 }: {
   children: React.ReactNode;
   title?: string;
   date?: string;
   head?: React.ReactNode;
+  pageIdx?: number;
   opaque?: boolean;
 }) {
   return (
-    <Layout pageIdx={2} title={title}>
+    <Layout pageIdx={pageIdx} title={title}>
       <Head>
         {head}
       </Head>
