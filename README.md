@@ -9,6 +9,8 @@ This guide provides a comprehensive documentation of the website's architecture 
 - [**ReactJS:**](https://reactjs.org/) ReactJS is a JavaScript library for building user interfaces. All web components in this website are built using ReactJS.
 
 - [**NextJS:**](https://nextjs.org/) Next.js is a ReactJS framework that provides building blocks to create fast web applications, including *routing, data-fetching, rendering* and *infrastructure*.
+    - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+    - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 - [**MaterialUI:**](https://mui.com/material-ui/getting-started/overview/) Material UI is an open-source ReactJS component library that implements Google's Material Design. It provides pre-built web components that can be personalized and integrated into the website. 
 
@@ -55,40 +57,36 @@ Deployments are run automatically through Netlify's support for the NextJS frame
     ├── ...                         # project settings files
     └── README.md
 
-First, run the development server:
+### Setting up the project locally for development
 
-```bash
+#### **Prerequisites**
+
+- [NodeJS+NPM:](https://nodejs.org/en/) NodeJS is a JavaScript runtime that is necessary to run JS backend code locally. NodeJS is bundled with the Node Package Manager (NPM). NPM is used to manage third-party library dependencies. Install on your device via the website
+
+- [Git:](https://git-scm.com/) Used for version control. Make sure Git is installed on your device
+
+- GitHub Collaborator rights: In order to contribute to the project, the GitHub account of the member needs to be added as a collaborator to the project.
+
+#### **Local installation**
+
+1. Clone the project to your device. Open a terminal, navigate to the location in which you wish to store the project (`cd path/to/my/location`). Then, in the terminal enter:
+
+```
+git clone https://github.com/artcogsys/artcogsys.github.io.git
+```
+
+2. Once the cloning process finished, in the terminal, navigate into the project folder (`cd ./artcogsys.github.io`). Then, in the terminal, start initializing the project via: 
+
+```
+npm install
+```
+
+#### **Running the local development server**
+
+To start the development server, open a terminal in the root folder of the project. Then, in the terminal, enter:
+
+```
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-# Exporting updated version
-
-```
-- npm run build_dev
-- npm run export_dev
-- cd docs
-- http-server
-```
-
-# TODO
-
-- Font on exported version doesnt match font on dev version. gets overwritten during export.
+Open the web browser and navigate to [localhost:3000](http://localhost:3000/) to view the results.
