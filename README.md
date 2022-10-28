@@ -204,3 +204,9 @@ The website is deployed via an integration of [Netlify](https://www.netlify.com/
 Deployments are run automatically through Netlify's support for the NextJS framework. The deployed state of the website is pulled from the **main** branch of the repository. When a new commit is pushed to the **main** branch, Netlify automatically deploys the updated version.
 
 --> It is recommended that contributors do **not** work directly on the main branch. Instead, please create a feature branch for continuous development until the changes are ready to be released. 
+
+### Website
+
+The general structure of the website is shown by the following diagram:
+
+![pub_overview](https://github.com/artcogsys/artcogsys.github.io/blob/main/public/docs/website_layout.png?raw=true)
