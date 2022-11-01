@@ -20,12 +20,12 @@ export default function Home() {
         <Paper elevation={3}>
           <Container maxWidth="lg" className={styles.padded}>
             <Stack spacing={1} style={{textAlign: "justify"}}>
-              <Typography
+              <div
                 className={styles.headingXl}
                 style={{ marginTop: "0px", textAlign: "center" }}
               >
                 Mission Statement
-              </Typography>
+              </div>
               <Typography variant="body2">
                 Understanding how mind emerges from matter remains one of the
                 great open questions in science. The artificial cognitive
