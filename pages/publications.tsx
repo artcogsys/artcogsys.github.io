@@ -24,9 +24,11 @@ export default function Publications({
 
   const pubsPerPage = 15;
 
+  const validPubs = publicationData.filter(pub => pub.bib.author.includes("Gerven"))
+
   let sliceMax;
-  if (page * pubsPerPage + pubsPerPage > publicationData.length) {
-    sliceMax = publicationData.length;
+  if (page * pubsPerPage + pubsPerPage > validPubs.length) {
+    sliceMax = validPubs.length;
   } else {
     sliceMax = page * pubsPerPage + pubsPerPage;
   }
@@ -39,10 +41,10 @@ export default function Publications({
         </h1>
         <PublicationsPagingWrapper
           setPage={setPage}
-          numPubs={publicationData.length}
+          numPubs={validPubs.length}
           pubsPerPage={pubsPerPage}
           currentPage={page}
-          publications={publicationData.slice(page * pubsPerPage, sliceMax)}
+          publications={validPubs.slice(page * pubsPerPage, sliceMax)}
         />
       </Stack>
     </Layout>
