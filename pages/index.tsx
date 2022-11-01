@@ -19,16 +19,10 @@ export default function Home() {
         <span style={{textAlign: "center"}}>This Page is currently under construction</span>
         <Paper elevation={3}>
           <Container maxWidth="lg" className={styles.padded}>
-            <Stack spacing={1} style={{textAlign: "center"}}>
+            <Stack spacing={1} style={{textAlign: "justify"}}>
               <Typography
                 className={styles.headingXl}
-                style={{ marginTop: "0px" }}
-              >
-                Artificial Cognitive Systems Lab
-              </Typography>
-              <Typography
-                className={styles.headingLg}
-                style={{ marginTop: "0px" }}
+                style={{ marginTop: "0px", textAlign: "center" }}
               >
                 Mission Statement
               </Typography>
