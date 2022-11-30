@@ -35,13 +35,21 @@ This guide provides a comprehensive documentation of the website's architecture 
 
 ### Setting up the project locally for development
 
-#### **Prerequisites**
+#### **Prerequisites Web**
 
 - [NodeJS+NPM:](https://nodejs.org/en/) NodeJS is a JavaScript runtime that is necessary to run JS backend code locally. NodeJS is bundled with the Node Package Manager (NPM). NPM is used to manage third-party library dependencies. Install on your device via the website
 
 - [Git:](https://git-scm.com/) Used for version control. Make sure Git is installed on your device
 
 - GitHub Collaborator rights: In order to contribute to the project, the GitHub account of the member needs to be added as a collaborator to the project.
+
+#### **Prerequisites Python**
+
+- [Scholarly](https://pypi.org/project/scholarly/) Library that provides tools for Web-scraping Google Scholar via Python.
+
+- Fake-UserAgent: please run `pip install --upgrade fake-useragent` to ensure the dependency is up-to-date for Scholarly
+
+- [Python-Markdown](https://python-markdown.github.io/install/) install via `pip install markdown` 
 
 #### **Local installation**
 
