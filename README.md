@@ -95,10 +95,16 @@ affiliation: "Academic affiliation"
 Introduction as Markdown here...
 ```
 
-3. `publications.json`: This file can be automatically generated and filled through running the `scraper.ipynb`. A few need to be considered to ensure correct functionality of the tool:
+3. `publications.json`: This file can be automatically generated and filled through running the scraping script `scrape.py`. First, please create an empty `publication.json` file in the respective location. A few things need to be considered to ensure correct functionality of the tool:
     - The member has a Google Scholar Author profile: To find the publications of an author, the tool relies on the author's Google Scholar profile. If the new member does not have an account, they can be set up [here](https://scholar.google.nl/citations?view_op=new_profile&hl=en)
     - The academic affiliation provided in `new_member.md` matches the academic affiliation provided in the Google Scholar profile
     - Full Name provided in `new_member.md` matches the name provided in the Google Scholar profile
+
+With all of this in place, open a new terminal at the root of the project and run:
+
+```bash
+python scrape.py --path people\<folder_of_new_member>
+```
 
 We recommend that the new member checks the generated publications for correctness. This can simply be done by running the development server, then in the browser navigating to `localhost:3000/team/new_member`. Add the bottom of the page, an overview of the generated publications is provided.
 
@@ -110,7 +116,9 @@ In case that the list is incomplete or any inaccuracies are found, the `publicat
 
 To remove a member, simply remove their folder from the `./people` directory. 
 
-## Writing a research post
+## Writing/Removing posts
+
+### Writing a new post
 
 
     ├── ...                 
@@ -176,6 +184,18 @@ git merge post_id
 ```
 
 When the resulting merge is pushed to the GitHub, the post will automatically be published to the website.
+
+### Removing an existing post
+
+There are two levels of removal possible: a post can be made invisible (it is still reachable via the URL but all references on the website to it are removed), or the post can be fully removed.
+
+1. Making the post invisible:
+
+To make the post invisible, navigate to `root/posts/posts.ts`. Here, search out the entry for the post from the array of meta data (simply search for the ID pf the post via `ctrl + f`). Removing this entry from the array will make the post invisible.
+
+2. Fully removing a post:
+
+To fully remove a post from the website, first follow the instructions laid out in (1.). Then, navigate to the source folder of the post, i.e. `root/posts/<my_post>`. Removing this folder should remove the post and all of the assets it uses.
 
 ## Infrastructure
 
