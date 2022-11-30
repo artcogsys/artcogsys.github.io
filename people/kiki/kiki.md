@@ -1,6 +1,6 @@
 ---
 name: "Kiki van der Heijden"
-title: "Postdoctoral Researcher"
+title: "Assistant Professor"
 affiliation: "Marie-Curie Research Fellow Columbia University"
 ---
 
