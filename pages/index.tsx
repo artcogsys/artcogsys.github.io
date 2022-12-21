@@ -16,7 +16,6 @@ export default function Home() {
   return (
     <Layout pageIdx={1}>
       <Stack spacing={1}>
-        <span style={{textAlign: "center"}}>This Page is currently under construction</span>
         <Paper elevation={3}>
           <Container maxWidth="lg" className={styles.padded}>
             <Stack spacing={1} style={{textAlign: "justify"}}>
@@ -27,17 +26,16 @@ export default function Home() {
                 Mission Statement
               </div>
               <Typography variant="body2">
-                Understanding how mind emerges from matter remains one of the
-                great open questions in science. The artificial cognitive
-                systems lab studies the computational mechanisms of learning,
-                inference and control in natural systems. To this end, we bring
-                together ideas from machine learning, computational
-                neuroscience, control theory, dynamical systems theory,
-                statistical physics and theoretical biology. Our aim is to
-                advance our understanding of how biological agents learn to
-                behave in complex environments. Such understanding may, in turn,
-                drive the development of more capable and efficient intelligent
-                agents and provide new insights about human brain function.
+                  Understanding how mind emerges from matter remains one
+                  of the great mysteries in science. The artificial cognitive
+                  systems lab studies the computational mechanisms of learning,
+                  inference and control in natural and artificial systems.
+                  To this end, we bring together ideas from a wide range of
+                  disciplines such as machine learning, computational neuroscience,
+                  control theory, dynamical systems theory, statistical physics and
+                  theoretical biology. Ultimately, our goal is to bridge the gap
+                  between natural and artificial intelligence and contribute
+                  solutions to a variety of scientific and societal challenges.
               </Typography>
             </Stack>
           </Container>
