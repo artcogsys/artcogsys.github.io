@@ -32,6 +32,7 @@ export default function People({
   const titles = [
     "Principal Investigator",
     "Assistant Professor",
+    "Research Fellow",
     "Postdoctoral Researcher",
     "PhD Student",
   ];
