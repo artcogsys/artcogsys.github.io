@@ -1,1 +1,1217 @@
-[]
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Conditions for Reionizing the Universe with A Low Galaxy Ionizing Photon Escape Fraction",
+            "pub_year": 2019,
+            "citation": "The Astrophysical Journal 879 (1), 36, 2019",
+            "author": "Steven L Finkelstein and Anson D’Aloisio and Jan-Pieter Paardekooper and Russell Ryan Jr and Peter Behroozi and Kristian Finlator and Rachael Livermore and Phoebe R Upton Sanderbeck and Claudio Dalla Vecchia and Sadegh Khochfar",
+            "journal": "The Astrophysical Journal",
+            "volume": "879",
+            "number": "1",
+            "pages": "36",
+            "publisher": "IOP Publishing",
+            "abstract": "We explore scenarios for reionizing the intergalactic medium with low galaxy ionizing photon escape fractions. We combine simulation-based halo mass–dependent escape fractions with an extrapolation of the observed galaxy rest-ultraviolet luminosity functions to solve for the reionization history from z= . We explore the posterior distributions for key unknown quantities, including the limiting halo mass for star formation, the ionizing photon production efficiency, and a potential contribution from active galactic nuclei (AGNs). We marginalize over the allowable parameter space using a Markov chain Monte Carlo method, finding a solution that satisfies the most model-independent constraints on reionization. Our fiducial model can match observational constraints with an average escape fraction of< 5% throughout the bulk of the epoch of reionization if (i) galaxies form stars down to the atomic cooling limit before …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:qjMakFHDy7sC",
+        "num_citations": 222,
+        "citedby_url": "/scholar?hl=en&cites=3374994950114709527",
+        "cites_id": [
+            "3374994950114709527"
+        ],
+        "pub_url": "https://iopscience.iop.org/article/10.3847/1538-4357/ab1ea8/meta",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FxBTkAZk1i4J:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 16,
+            "2020": 44,
+            "2021": 57,
+            "2022": 79,
+            "2023": 25
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The First Billion Years project: the escape fraction of ionizing photons in the epoch of reionization",
+            "pub_year": 2015,
+            "citation": "Monthly Notices of the Royal Astronomical Society 451 (3), 2544-2563, 2015",
+            "author": "Jan-Pieter Paardekooper and Sadegh Khochfar and Claudio Dalla Vecchia",
+            "journal": "Monthly Notices of the Royal Astronomical Society",
+            "volume": "451",
+            "number": "3",
+            "pages": "2544-2563",
+            "publisher": "Oxford University Press",
+            "abstract": "Protogalaxies forming in low-mass dark matter haloes are thought to provide the majority of ionizing photons needed to reionize the Universe, due to their high escape fractions of ionizing photons. We study how the escape fraction in high-redshift galaxies relates to the physical properties of the halo in which the galaxies form, by computing escape fractions in more than 75 000 haloes between redshifts 27 and 6 that were extracted from the First Billion Years project, high-resolution cosmological hydrodynamical simulations of galaxy formation. We find that the main constraint on the escape fraction is the gas column density in a radius of 10 pc around the stellar populations, causing a strong mass dependence of the escape fraction. The lower potential well in haloes with M200 ≲ 108 M⊙ results in low column densities that can be penetrated by radiation from young stars (age <5 Myr). In haloes with M200 …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 215,
+        "citedby_url": "/scholar?hl=en&cites=4295395647645010960",
+        "cites_id": [
+            "4295395647645010960"
+        ],
+        "pub_url": "https://academic.oup.com/mnras/article-abstract/451/3/2544/1187241",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:EMyjY5VPnDsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2015": 5,
+            "2016": 21,
+            "2017": 30,
+            "2018": 27,
+            "2019": 26,
+            "2020": 41,
+            "2021": 25,
+            "2022": 32,
+            "2023": 8
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The First Billion Years project: birthplaces of direct collapse black holes",
+            "pub_year": 2014,
+            "citation": "Monthly Notices of the Royal Astronomical Society 443 (1), 648-657, 2014",
+            "author": "Bhaskar Agarwal and Claudio Dalla Vecchia and Jarrett L Johnson and Sadegh Khochfar and Jan-Pieter Paardekooper",
+            "journal": "Monthly Notices of the Royal Astronomical Society",
+            "volume": "443",
+            "number": "1",
+            "pages": "648-657",
+            "publisher": "Oxford University Press",
+            "abstract": "We investigate the environment in which direct-collapse black holes may form by analysing a cosmological, hydrodynamical simulation that is part of the First Billion Years project. This simulation includes the most relevant physical processes leading to direct collapse of haloes, most importantly, molecular hydrogen depletion by dissociation of H2 and H− from the evolving Lyman–Werner radiation field. We selected a sample of pristine atomic-cooling haloes that have never formed stars in their past, have not been polluted with heavy elements and are cooling predominantly via atomic hydrogen lines. Amongst them we identified six haloes that could potentially harbour massive seed black holes formed via direct collapse (with masses in the range of 104−6 M⊙). These potential hosts of direct-collapse black holes form as satellites are found within 15 physical kpc of protogalaxies, with stellar masses in the …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:WF5omc3nYNoC",
+        "num_citations": 122,
+        "citedby_url": "/scholar?hl=en&cites=7366748439104802375",
+        "cites_id": [
+            "7366748439104802375"
+        ],
+        "pub_url": "https://academic.oup.com/mnras/article-abstract/443/1/648/1473560",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:R06BtqzyO2YJ:scholar.google.com/",
+        "cites_per_year": {
+            "2014": 6,
+            "2015": 13,
+            "2016": 21,
+            "2017": 19,
+            "2018": 17,
+            "2019": 17,
+            "2020": 3,
+            "2021": 10,
+            "2022": 11,
+            "2023": 5
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The First Billion Years project: proto-galaxies reionizing the Universe",
+            "pub_year": 2013,
+            "citation": "Monthly Notices of the Royal Astronomical Society: Letters 429 (1), L94-L98, 2013",
+            "author": "Jan-Pieter Paardekooper and Sadegh Khochfar and Claudio Vecchia Dalla",
+            "journal": "Monthly Notices of the Royal Astronomical Society: Letters",
+            "volume": "429",
+            "number": "1",
+            "pages": "L94-L98",
+            "publisher": "Oxford University Press",
+            "abstract": "The contribution of stars in galaxies to cosmic reionization depends on the star formation history in the Universe, the abundance of galaxies during reionization, the escape fraction of ionizing photons and the clumping factor of the intergalactic medium. We compute the star formation rate and clumping factor during reionization in a cosmological volume using a high-resolution hydrodynamical simulation. We post-process the output with detailed radiative transfer simulations to compute the escape fraction of ionizing photons. Together, this gives us the opportunity to assess the contribution of galaxies to reionization self-consistently. The strong mass and redshift dependence of the escape fraction indicates that reionization occurred between z = 15 and 10 and was mainly driven by proto-galaxies forming in dark matter haloes with masses between 107 and 108 M⊙. More massive galaxies that are rare at these …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 106,
+        "citedby_url": "/scholar?hl=en&cites=15127620923211563104",
+        "cites_id": [
+            "15127620923211563104"
+        ],
+        "pub_url": "https://academic.oup.com/mnrasl/article-abstract/429/1/L94/1107010",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YMDKgBQb8NEJ:scholar.google.com/",
+        "cites_per_year": {
+            "2013": 4,
+            "2014": 11,
+            "2015": 22,
+            "2016": 12,
+            "2017": 15,
+            "2018": 13,
+            "2019": 9,
+            "2020": 12,
+            "2021": 2,
+            "2022": 3,
+            "2023": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Assessment of automated driving systems using real-life scenarios",
+            "pub_year": 2017,
+            "citation": "2017 IEEE Intelligent Vehicles Symposium (IV), 589-594, 2017",
+            "author": "Erwin de Gelder and Jan-Pieter Paardekooper",
+            "conference": "2017 IEEE Intelligent Vehicles Symposium (IV)",
+            "pages": "589-594",
+            "publisher": "IEEE",
+            "abstract": "More and more Advanced Driver Assistance Systems (ADAS) are entering the market for improving both safety and comfort by assisting the driver with their driving task. An important aspect in developing future ADAS and Automated Driving Systems (ADS) is testing and validation. Validating the failure rate of an ADS requires so many operational hours that testing in real time is almost impossible. One way to reduce this test load is virtual testing or hardware in-the-loop testing. The major challenge is to create realistic test cases that closely resemble the situation on the road. We present a way to use data of naturalistic driving to generate test cases for Monte-Carlo simulations of ADS. Because real-life data is used, the assessment allows to draw conclusions on how the ADS would perform in real traffic. The method, developed in EU AdaptIVe, is demonstrated by testing an Adaptive Cruise Control (ACC) system in …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 99,
+        "citedby_url": "/scholar?hl=en&cites=7044903646284858901",
+        "cites_id": [
+            "7044903646284858901"
+        ],
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/7995782/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FcapcYqGxGEJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 4,
+            "2019": 19,
+            "2020": 21,
+            "2021": 24,
+            "2022": 27,
+            "2023": 4
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The spectral evolution of the first Galaxies. III. Simulated James Webb Space Telescope spectra of reionization-epoch galaxies with Lyman-continuum leakage",
+            "pub_year": 2017,
+            "citation": "The Astrophysical Journal 836 (1), 78, 2017",
+            "author": "Erik Zackrisson and Christian Binggeli and Kristian Finlator and Nickolay Y Gnedin and Jan-Pieter Paardekooper and Ikkoh Shimizu and Akio K Inoue and Hannes Jensen and Genoveva Micheva and Sadegh Khochfar and Claudio Dalla Vecchia",
+            "journal": "The Astrophysical Journal",
+            "volume": "836",
+            "number": "1",
+            "pages": "78",
+            "publisher": "IOP Publishing",
+            "abstract": "Using four different suites of cosmological simulations, we generate synthetic spectra for galaxies with different Lyman-continuum escape fractions (f esc) at redshifts –9, in the rest-frame wavelength range relevant for the James Webb Space Telescope (JWST) NIRSpec instrument. By investigating the effects of realistic star formation histories and metallicity distributions on the EW (Hβ)–β diagram (previously proposed as a tool for identifying galaxies with very high f esc), we find that neither of these effects are likely to jeopardize the identification of galaxies with extreme Lyman-continuum leakage. Based on our models, we expect that essentially all  galaxies that exhibit rest-frame  Å to have . Incorrect assumptions concerning the ionizing fluxes of stellar populations or the dust properties of  galaxies can in principle bias the selection, but substantial model deficiencies of this type …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:ufrVoPGSRksC",
+        "num_citations": 67,
+        "citedby_url": "/scholar?hl=en&cites=7436157350629496688",
+        "cites_id": [
+            "7436157350629496688"
+        ],
+        "pub_url": "https://iopscience.iop.org/article/10.3847/1538-4357/836/1/78/meta",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:cFcuQraJMmcJ:scholar.google.com/",
+        "cites_per_year": {
+            "2017": 10,
+            "2018": 13,
+            "2019": 9,
+            "2020": 8,
+            "2021": 2,
+            "2022": 18,
+            "2023": 7
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The escape of ionising radiation from high-redshift dwarf galaxies",
+            "pub_year": 2011,
+            "citation": "Astronomy & Astrophysics 530, A87, 2011",
+            "author": "J-P Paardekooper and Federico I Pelupessy and Gabriel Altay and CJH Kruip",
+            "journal": "Astronomy & Astrophysics",
+            "volume": "530",
+            "pages": "A87",
+            "publisher": "EDP Sciences",
+            "abstract": ""
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:5nxA0vEk-isC",
+        "num_citations": 59,
+        "citedby_url": "/scholar?hl=en&cites=11377309888071911417",
+        "cites_id": [
+            "11377309888071911417"
+        ],
+        "pub_url": "https://www.aanda.org/articles/aa/abs/2011/06/aa16841-11/aa16841-11.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-ccQShBT5J0J:scholar.google.com/",
+        "cites_per_year": {
+            "2011": 3,
+            "2012": 7,
+            "2013": 9,
+            "2014": 6,
+            "2015": 8,
+            "2016": 7,
+            "2017": 3,
+            "2018": 4,
+            "2019": 2,
+            "2020": 6,
+            "2021": 4
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of reionization on the formation of supermassive black hole seeds",
+            "pub_year": 2014,
+            "citation": "Monthly Notices of the Royal Astronomical Society 445 (1), 686-693, 2014",
+            "author": "Jarrett L Johnson and Daniel J Whalen and Bhaskar Agarwal and Jan-Pieter Paardekooper and Sadegh Khochfar",
+            "journal": "Monthly Notices of the Royal Astronomical Society",
+            "volume": "445",
+            "number": "1",
+            "pages": "686-693",
+            "publisher": "The Royal Astronomical Society",
+            "abstract": "Direct collapse black holes (DCBHs) formed from the collapse of atomically cooled primordial gas in the early Universe are strong candidates for the seeds of supermassive BHs. DCBHs are thought to form in atomic cooling haloes in the presence of a strong molecule-dissociating, Lyman–Werner (LW) radiation field. Given that star-forming galaxies are likely to be the source of the LW radiation in this scenario, ionizing radiation from these galaxies may accompany the LW radiation. We present cosmological simulations resolving the collapse of primordial gas into an atomic cooling halo, including the effects of both LW and ionizing radiation. We find that in cases where the gas is not self-shielded from the ionizing radiation, the collapse can be delayed by ∼25 Myr. When the ionized gas does collapse, the free electrons that are present catalyse H2 formation. In turn, H2 cooling becomes efficient in the centre of …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 49,
+        "citedby_url": "/scholar?hl=en&cites=14232948987326559636",
+        "cites_id": [
+            "14232948987326559636"
+        ],
+        "pub_url": "https://academic.oup.com/mnras/article-abstract/445/1/686/986163",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lPXaz7GXhcUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2014": 4,
+            "2015": 6,
+            "2016": 11,
+            "2017": 8,
+            "2018": 5,
+            "2019": 7,
+            "2020": 5,
+            "2021": 2,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "SimpleX2: radiative transfer on an unstructured, dynamic grid",
+            "pub_year": 2010,
+            "citation": "Astronomy & Astrophysics 515, A79, 2010",
+            "author": "J-P Paardekooper and CJH Kruip and V Icke",
+            "journal": "Astronomy & Astrophysics",
+            "volume": "515",
+            "pages": "A79",
+            "publisher": "EDP Sciences",
+            "abstract": ""
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:2osOgNQ5qMEC",
+        "num_citations": 45,
+        "citedby_url": "/scholar?hl=en&cites=3246861012132887261",
+        "cites_id": [
+            "3246861012132887261"
+        ],
+        "pub_url": "https://www.aanda.org/articles/aa/abs/2010/07/aa13821-09/aa13821-09.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3fo-T-MqDy0J:scholar.google.com/",
+        "cites_per_year": {
+            "2010": 3,
+            "2011": 6,
+            "2012": 2,
+            "2013": 5,
+            "2014": 4,
+            "2015": 8,
+            "2016": 1,
+            "2017": 3,
+            "2018": 4,
+            "2019": 2,
+            "2020": 2,
+            "2021": 1,
+            "2022": 3,
+            "2023": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards an ontology for scenario definition for the assessment of automated vehicles: An object-oriented framework",
+            "pub_year": 2022,
+            "citation": "IEEE Transactions on Intelligent Vehicles, 2022",
+            "author": "Erwin De Gelder and Jan-Pieter Paardekooper and Arash Khabbaz Saberi and Hala Elrofai and Olaf op den Camp and Steven Kraines and Jeroen Ploeg and Bart De Schutter",
+            "journal": "IEEE Transactions on Intelligent Vehicles",
+            "publisher": "IEEE",
+            "abstract": "The development of new assessment methods for the performance of automated vehicles is essential to enable the deployment of automated driving technologies, due to the complex operational domain of automated vehicles. One contributing method is scenario-based assessment in which test cases are derived from real-world road traffic scenarios obtained from driving data. Given the complexity of the reality that is being modeled in these scenarios, it is a challenge to define a structure for capturing these scenarios. An intensional definition that provides a set of characteristics that are deemed to be both necessary and sufficient to qualify as a scenario assures that the scenarios constructed are both complete and intercomparable. In this article, we develop a comprehensive and operable definition of the notion of scenario while considering existing definitions in the literature. This is achieved by proposing an …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 37,
+        "citedby_url": "/scholar?hl=en&cites=13678346819987814351,7296660571565793905",
+        "cites_id": [
+            "13678346819987814351",
+            "7296660571565793905"
+        ],
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/9693162/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:z7f3N_Y_070J:scholar.google.com/",
+        "cites_per_year": {
+            "2017": 1,
+            "2018": 1,
+            "2019": 0,
+            "2020": 5,
+            "2021": 8,
+            "2022": 19,
+            "2023": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Ontology for Scenarios for the Assessment of Automated Vehicles",
+            "pub_year": 2020,
+            "citation": "arXiv preprint arXiv:2001.11507, 2020",
+            "author": "Erwin De Gelder and J-P Paardekooper and A Khabbaz Saberi and Hala Elrofai and J Ploeg and L Friedmann and B De Schutter",
+            "journal": "arXiv preprint arXiv:2001.11507"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 37,
+        "citedby_url": "/scholar?hl=en&cites=13678346819987814351",
+        "cites_id": [
+            "13678346819987814351"
+        ],
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:z7f3N_Y_070J:scholar.google.com/",
+        "cites_per_year": {
+            "2017": 1,
+            "2018": 1,
+            "2019": 0,
+            "2020": 5,
+            "2021": 8,
+            "2022": 19,
+            "2023": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D radiative transfer simulations of Eta Carinae's inner colliding winds–I. Ionization structure of helium at apastron",
+            "pub_year": 2015,
+            "citation": "Monthly Notices of the Royal Astronomical Society 447 (3), 2445-2458, 2015",
+            "author": "Nicola Clementel and Thomas I Madura and CJH Kruip and J-P Paardekooper and Theodore R Gull",
+            "journal": "Monthly Notices of the Royal Astronomical Society",
+            "volume": "447",
+            "number": "3",
+            "pages": "2445-2458",
+            "publisher": "Oxford University Press",
+            "abstract": "The highly eccentric binary system Eta Carinae (η Car) shows numerous time-variable emission and absorption features. These observational signatures are the result of interactions between the complex three-dimensional (3D) wind–wind collision regions and photoionization by the luminous stars. Specifically, helium presents several interesting spectral features that provide important clues on the geometry and physical proprieties of the system and the individual stars. We use the simplex algorithm to post-process 3D smoothed particle hydrodynamics simulation output of the interacting winds in η Car in order to obtain the fractions of ionized helium assuming three different primary star (ηA) mass-loss rates. The resultant ionization maps constrain the regions where helium is singly- and doubly-ionized. We find that reducing ηA's mass-loss rate ($\\skew{4}\\dot{M}_{\\eta _{\\mathrm{A}}}$) increases the volume of …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 34,
+        "citedby_url": "/scholar?hl=en&cites=1411780450735337388",
+        "cites_id": [
+            "1411780450735337388"
+        ],
+        "pub_url": "https://academic.oup.com/mnras/article-abstract/447/3/2445/2892768",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rK_rCtemlxMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2015": 6,
+            "2016": 8,
+            "2017": 5,
+            "2018": 6,
+            "2019": 1,
+            "2020": 4,
+            "2021": 2,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scenario-based safety validation of connected and automated driving",
+            "pub_year": 2018,
+            "citation": "Netherlands Organization for Applied Scientific Research, TNO, Tech. Rep, 2018",
+            "author": "Hala Elrofai and Jan-Pieter Paardekooper and Erwin de Gelder and Sytze Kalisvaart and Olaf Op den Camp",
+            "journal": "Netherlands Organization for Applied Scientific Research, TNO, Tech. Rep",
+            "abstract": "Automated Driving (AD) technology is anticipated to be a key aspect for achieving a higher level of road safety, a further reduction of harmful emissions, improving traffic flow, increasing comfort and ensuring mobility for all, including elderly and impaired. As AD technology is rapidly being developed, an increasing number of driving tasks in vehicles is currently being taken over by automation in Advanced Driver Assistance Systems (ADAS). With the transition towards Connected and Automated Driving (CAD), automation is expected to further increase until the driver is completely out of the driving loop [1]. An important aspect in this continuous development is the safety assessment of the road worthiness of these new functions and systems.Intensive testing and assessment of automotive technology to ensure implementation of new safety and comfort systems and functionalities has become state of the art in the last decades. Safety driven assessments such as Euro NCAP have promoted the implementation of new functions and strongly enhanced the overall car safety performance, both to prevent accidents and to mitigate the possible consequences."
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:8k81kl-MbHgC",
+        "num_citations": 27,
+        "citedby_url": "/scholar?hl=en&cites=13822008047178545674",
+        "cites_id": [
+            "13822008047178545674"
+        ],
+        "pub_url": "https://publications.tno.nl/publication/34626550/AyT8Zc/TNO-2018-streetwise.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CvqqNhaj0b8J:scholar.google.com/",
+        "cites_per_year": {
+            "2017": 1,
+            "2018": 0,
+            "2019": 4,
+            "2020": 10,
+            "2021": 6,
+            "2022": 6
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "StreetWise: scenario-based safety validation of connected automated driving",
+            "pub_year": 2018,
+            "citation": "TNO, 2018",
+            "author": "H Elrofai and JP Paardekooper and E de Gelder and S Kalisvaart and O Op den Camp",
+            "publisher": "TNO",
+            "abstract": "utomated Driving (AD) technology is anticipated to be a key aspect for achieving a higher level of road safety, a further reduction of harmful emissions, improving traffic flow, increasing comfort and ensuring mobility for all, including elderly and impaired. As AD technology is rapidly being developed, an increasing number of driving tasks in vehicles is currently being taken over by automation in Advanced Driver Assistance Systems (ADAS). With the transition towards Connected and Automated Driving (CAD), automation is expected to further increase until the driver is completely out of the driving loop. An important aspect in this continuous development is the safety assessment of the road worthiness of these new functions and systems."
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:0EnyYjriUFMC",
+        "num_citations": 25,
+        "citedby_url": "/scholar?hl=en&cites=9906472087793883669",
+        "cites_id": [
+            "9906472087793883669"
+        ],
+        "pub_url": "https://www.scipedia.com/public/Elrofai_et_al_2018a",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FdpGiuDbeokJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 4,
+            "2020": 6,
+            "2021": 6,
+            "2022": 7,
+            "2023": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D radiative transfer simulations of Eta Carinae's inner colliding winds–II. Ionization structure of helium at periastron",
+            "pub_year": 2015,
+            "citation": "Monthly Notices of the Royal Astronomical Society 450 (2), 1388-1398, 2015",
+            "author": "Nicola Clementel and Thomas I Madura and Chael JH Kruip and J-P Paardekooper",
+            "journal": "Monthly Notices of the Royal Astronomical Society",
+            "volume": "450",
+            "number": "2",
+            "pages": "1388-1398",
+            "publisher": "Oxford University Press",
+            "abstract": "Spectral observations of the massive colliding wind binary Eta Carinae show phase-dependent variations, in intensity and velocity, of numerous helium emission and absorption lines throughout the entire 5.54-yr orbit. Approaching periastron, the 3D structure of the wind–wind interaction region (WWIR) gets highly distorted due to the eccentric (e ∼ 0.9) binary orbit. The secondary star (ηB) at these phases is located deep within the primary's dense wind photosphere. The combination of these effects is thought to be the cause of the particularly interesting features observed in the helium lines at periastron. We perform 3D radiative transfer simulations of η Car's interacting winds at periastron. Using the simplex radiative transfer algorithm, we post-process output from 3D smoothed particle hydrodynamic simulations of the inner 150 au of the η Car system for two different primary star mass-loss rates (). Using previous …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 25,
+        "citedby_url": "/scholar?hl=en&cites=1942256455050709173",
+        "cites_id": [
+            "1942256455050709173"
+        ],
+        "pub_url": "https://academic.oup.com/mnras/article-abstract/450/2/1388/982731",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tcgBkvRH9BoJ:scholar.google.com/",
+        "cites_per_year": {
+            "2015": 3,
+            "2016": 8,
+            "2017": 3,
+            "2018": 4,
+            "2019": 1,
+            "2020": 4,
+            "2021": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Safety assessment of automated vehicles: how to determine whether we have collected enough field data?",
+            "pub_year": 2019,
+            "citation": "Traffic injury prevention 20 (sup1), S162-S170, 2019",
+            "author": "Erwin de Gelder and Jan-Pieter Paardekooper and Olaf Op den Camp and Bart De Schutter",
+            "journal": "Traffic injury prevention",
+            "volume": "20",
+            "number": "sup1",
+            "pages": "S162-S170",
+            "publisher": "Taylor & Francis",
+            "abstract": "Objective: The amount of collected field data from naturalistic driving studies is quickly increasing. The data are used for, among others, developing automated driving technologies (such as crash avoidance systems), studying driver interaction with such technologies, and gaining insights into the variety of scenarios in real-world traffic. Because data collection is time consuming and requires high investments and resources, questions like “Do we have enough data?,” “How much more information can we gain when obtaining more data?,” and “How far are we from obtaining completeness?” are highly relevant. In fact, deducing safety claims based on collected data—for example, through testing scenarios based on collected data—requires knowledge about the degree of completeness of the data used. We propose a method for quantifying the completeness of the so-called activities in a data set. This enables us to …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 24,
+        "citedby_url": "/scholar?hl=en&cites=3719878462605791743",
+        "cites_id": [
+            "3719878462605791743"
+        ],
+        "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/15389588.2019.1602727",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_5E-w8CpnzMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 4,
+            "2021": 7,
+            "2022": 11,
+            "2023": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of safety indicators for truck platooning",
+            "pub_year": 2017,
+            "citation": "2017 IEEE Intelligent Vehicles Symposium (IV), 1013-1018, 2017",
+            "author": "Ellen van Nunen and Francesco Esposto and Arash Khabbaz Saberi and Jan-Pieter Paardekooper",
+            "conference": "2017 IEEE Intelligent Vehicles Symposium (IV)",
+            "pages": "1013-1018",
+            "publisher": "IEEE",
+            "abstract": "This paper addresses safety indicators for truck platooning at short inter-vehicle distances (with a time gap of 0.5 s). The aim of a safety indicator is to determine the correct moment for initiating a Collision Avoidance brake action to prevent a collision with the preceding truck in threatening situations. Three safety indicators are selected for an evaluation: the intended acceleration of the preceding truck, which is shared via Vehicle-to-Vehicle (V2V) communication, the Brake Threat Number (BTN - based on simple vehicle models and an emergency brake assumption of the lead), and the Time-To-Collision (TTC - based on a constant velocity assumption). The latter two do not rely on V2V communication, but are obtained via on-board signals. Requirements for the amount of false negatives (missing a threatening situation) and the false positives (identifying a safe situation as threatening) are derived from a functional …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 23,
+        "citedby_url": "/scholar?hl=en&cites=8479662298895470081",
+        "cites_id": [
+            "8479662298895470081"
+        ],
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/7995847/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ac7vBO_PrXUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2017": 2,
+            "2018": 3,
+            "2019": 4,
+            "2020": 2,
+            "2021": 7,
+            "2022": 5
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D printing meets computational astrophysics: deciphering the structure of η Carinae's inner colliding winds",
+            "pub_year": 2015,
+            "citation": "Monthly Notices of the Royal Astronomical Society 449 (4), 3780-3794, 2015",
+            "author": "Thomas I Madura and Nicola Clementel and Theodore R Gull and Chael JH Kruip and J-P Paardekooper",
+            "journal": "Monthly Notices of the Royal Astronomical Society",
+            "volume": "449",
+            "number": "4",
+            "pages": "3780-3794",
+            "publisher": "The Royal Astronomical Society",
+            "abstract": "We present the first 3D prints of output from a supercomputer simulation of a complex astrophysical system, the colliding stellar winds in the massive (≳120 M⊙), highly eccentric (e ∼ 0.9) binary star system η Carinae. We demonstrate the methodology used to incorporate 3D interactive figures into a PDF (Portable Document Format) journal publication and the benefits of using 3D visualization and 3D printing as tools to analyse data from multidimensional numerical simulations. Using a consumer-grade 3D printer (MakerBot Replicator 2X), we successfully printed 3D smoothed particle hydrodynamics simulations of η Carinae's inner (r ∼ 110 au) wind–wind collision interface at multiple orbital phases. The 3D prints and visualizations reveal important, previously unknown ‘finger-like’ structures at orbital phases shortly after periastron (ϕ ∼ 1.045) that protrude radially outwards from the spiral wind–wind …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 23,
+        "citedby_url": "/scholar?hl=en&cites=5605365430302568401",
+        "cites_id": [
+            "5605365430302568401"
+        ],
+        "pub_url": "https://academic.oup.com/mnras/article-abstract/449/4/3780/1167282",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0W9wDSlCyk0J:scholar.google.com/",
+        "cites_per_year": {
+            "2015": 4,
+            "2016": 7,
+            "2017": 3,
+            "2018": 0,
+            "2019": 1,
+            "2020": 4,
+            "2021": 2,
+            "2022": 1,
+            "2023": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Automatic identification of critical scenarios in a public dataset of 6000 km of public-road driving",
+            "pub_year": 2019,
+            "citation": "26th International Technical Conference on the Enhanced Safety of Vehicles …, 2019",
+            "author": "Jan-Pieter Paardekooper and S Montfort and Jeroen Manders and Jorrit Goos and Erwin de Gelder and Olaf Op den Camp and Annie Bracquemond and Gildas Thiolon",
+            "journal": "26th International Technical Conference on the Enhanced Safety of Vehicles (ESV)",
+            "pages": "1-8",
+            "publisher": "Mira Smart",
+            "abstract": "An increasing number of driving tasks in vehicles is being taken over by automation as automated driving technology is developed. An important aspect in this development is the safety assessment of new functions and systems. Scenario-based assessment is a promising tool, but it relies heavily on the availability of realistic scenarios for generating test cases."
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 18,
+        "citedby_url": "/scholar?hl=en&cites=5175172754264482423",
+        "cites_id": [
+            "5175172754264482423"
+        ],
+        "pub_url": "https://www-esv.nhtsa.dot.gov/Proceedings/26/26ESV-000255.PDF",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:d-I2ZTPo0UcJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 2,
+            "2020": 2,
+            "2021": 6,
+            "2022": 7,
+            "2023": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Mathematical properties of the SimpleX algorithm",
+            "pub_year": 2010,
+            "citation": "Astronomy & Astrophysics 515, A78, 2010",
+            "author": "CJH Kruip and J-P Paardekooper and BJF Clauwens and V Icke",
+            "journal": "Astronomy & Astrophysics",
+            "volume": "515",
+            "pages": "A78",
+            "publisher": "EDP Sciences",
+            "abstract": ""
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:UebtZRa9Y70C",
+        "num_citations": 17,
+        "citedby_url": "/scholar?hl=en&cites=9753407005585365024",
+        "cites_id": [
+            "9753407005585365024"
+        ],
+        "pub_url": "https://www.aanda.org/articles/aa/abs/2010/07/aa13439-09/aa13439-09.html",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:INi47f4PW4cJ:scholar.google.com/",
+        "cites_per_year": {
+            "2010": 3,
+            "2011": 1,
+            "2012": 0,
+            "2013": 0,
+            "2014": 1,
+            "2015": 4,
+            "2016": 0,
+            "2017": 2,
+            "2018": 2,
+            "2019": 0,
+            "2020": 1,
+            "2021": 0,
+            "2022": 2,
+            "2023": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The potential of applying machine learning for predicting cut-in behaviour of surrounding traffic for truck-platooning safety",
+            "pub_year": 2017,
+            "citation": "25th International Technical Conference on the Enhanced Safety of Vehicles …, 2017",
+            "author": "Irene Cara and Jan-Pieter Paardekooper and TNO Helmond",
+            "journal": "25th International Technical Conference on the Enhanced Safety of Vehicles (ESV) National Highway Traffic Safety Administration",
+            "abstract": "Truck platooning has great potential for reducing transport costs by lowering fuel consumption and increasing traffic efficiency. The short time headway between trucks in a platoon makes detecting the behaviour of other road participants essential for safety. Current safety controllers rely only on the traffic situation at the same instant, but accurate predictions of traffic behaviour are necessary to optimize the distance between the trucks and use the full potential of truck platooning in a safe way.This study aims to show the potential of applying machine learning techniques to in-vehicle sensor data for predicting a cut-in manoeuvre by a passenger car. We have trained several algorithms, ranging from linear regression to Support Vector Regression and LSTM neural networks, on a dataset of naturalistic driving that contains 146 cut-ins. The results were compared to a benchmark of linear extrapolation under the assumption of a constant speed of the passenger car."
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:Se3iqnhoufwC",
+        "num_citations": 13,
+        "citedby_url": "/scholar?hl=en&cites=9369792789225847648",
+        "cites_id": [
+            "9369792789225847648"
+        ],
+        "pub_url": "https://www.researchgate.net/profile/Jan-Pieter-Paardekooper/publication/322662053_The_potential_of_applying_machine_learning_for_predicting_cut-in_behavioir_of_surrounding_traffic_for_truck-platooning_safety/links/5b923a6792851c78c4f3f90e/The-potential-of-applying-machine-learning-for-predicting-cut-in-behavioir-of-surrounding-traffic-for-truck-platooning-safety.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YLvSBOYwCIIJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 3,
+            "2019": 3,
+            "2020": 2,
+            "2021": 2,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "sprai: coupling of radiative feedback and primordial chemistry in moving mesh hydrodynamics",
+            "pub_year": 2018,
+            "citation": "Monthly Notices of the Royal Astronomical Society 475 (2), 2822-2834, 2018",
+            "author": "Ondrej Jaura and Simon CO Glover and Ralf S Klessen and Jan-Pieter Paardekooper",
+            "journal": "Monthly Notices of the Royal Astronomical Society",
+            "volume": "475",
+            "number": "2",
+            "pages": "2822-2834",
+            "publisher": "Oxford University Press",
+            "abstract": "In this paper, we introduce a new radiative transfer code sprai (Simplex Photon Radiation in the Arepo Implementation) based on the simplex radiation transfer method. This method, originally used only for post-processing, is now directly integrated into the arepo code and takes advantage of its adaptive unstructured mesh. Radiated photons are transferred from the sources through the series of Voronoi gas cells within a specific solid angle. From the photon attenuation, we derive corresponding photon fluxes and ionization rates and feed them to a primordial chemistry module. This gives us a self-consistent method for studying dynamical and chemical processes caused by ionizing sources in primordial gas. Since the computational cost of the simplex method does not scale directly with the number of sources, it is convenient for studying systems such as primordial star-forming haloes that may form multiple …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:_kc_bZDykSQC",
+        "num_citations": 11,
+        "citedby_url": "/scholar?hl=en&cites=16821463456092132634",
+        "cites_id": [
+            "16821463456092132634"
+        ],
+        "pub_url": "https://academic.oup.com/mnras/article-abstract/475/2/2822/4788798",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:GhWWruPXcekJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 0,
+            "2020": 4,
+            "2021": 2,
+            "2022": 3,
+            "2023": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Real-world scenario mining for the assessment of automated vehicles",
+            "pub_year": 2020,
+            "citation": "2020 IEEE 23rd International Conference on Intelligent Transportation …, 2020",
+            "author": "Erwin de Gelder and Jeroen Manders and Corrado Grappiolo and Jan-Pieter Paardekooper and Olaf Op den Camp and Bart De Schutter",
+            "conference": "2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)",
+            "pages": "1-8",
+            "publisher": "IEEE",
+            "abstract": "Scenario-based methods for the assessment of Automated Vehicles (AVs) are widely supported by many players in the automotive field. Scenarios captured from real-world data can be used to define the scenarios for the assessment and to estimate their relevance. Therefore, different techniques are proposed for capturing scenarios from real-world data. In this paper, we propose a new method to capture scenarios from real-world data using a two-step approach. The first step consists in automatically labeling the data with tags. Second, we mine the scenarios, represented by a combination of tags, based on the labeled tags. One of the benefits of our approach is that the tags can be used to identify characteristics of a scenario that are shared among different type of scenarios. In this way, these characteristics need to be identified only once. Furthermore, the method is not specific for one type of scenario and …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:4TOpqqG69KYC",
+        "num_citations": 9,
+        "citedby_url": "/scholar?hl=en&cites=5114338686029070006",
+        "cites_id": [
+            "5114338686029070006"
+        ],
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/9294652/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tv7MIfDH-UYJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 3,
+            "2022": 5
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Galactic wind X-ray heating of the intergalactic medium during the Epoch of Reionization",
+            "pub_year": 2017,
+            "citation": "Monthly Notices of the Royal Astronomical Society 471 (3), 3632-3645, 2017",
+            "author": "Avery Meiksin and Sadegh Khochfar and Jan-Pieter Paardekooper and Claudio Dalla Vecchia and Saul Kohn",
+            "journal": "Monthly Notices of the Royal Astronomical Society",
+            "volume": "471",
+            "number": "3",
+            "pages": "3632-3645",
+            "publisher": "Oxford University Press",
+            "abstract": "The diffuse soft X-ray emissivity from galactic winds is computed during the Epoch of Reionization (EoR). We consider two analytic models, a pressure-driven wind and a superbubble model, and a 3D cosmological simulation including gas dynamics from the First Billion Years (FiBY) project. The analytic models are normalized to match the diffuse X-ray emissivity of star-forming galaxies in the nearby Universe. The cosmological simulation uses physically motivated star formation and wind prescriptions, and includes radiative transfer corrections. The models and the simulation all are found to produce sufficient heating of the intergalactic medium to be detectable by current and planned radio facilities through 21 cm measurements during the EoR. While the analytic models predict a 21 cm emission signal relative to the cosmic microwave backgroundsets in by ztrans ≃ 8–10, the predicted signal in the FiBY …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 8,
+        "citedby_url": "/scholar?hl=en&cites=2185535828439420811",
+        "cites_id": [
+            "2185535828439420811"
+        ],
+        "pub_url": "https://academic.oup.com/mnras/article-abstract/471/3/3632/4002694",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:i08FqkGVVB4J:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 3,
+            "2019": 0,
+            "2020": 2,
+            "2021": 1,
+            "2022": 1,
+            "2023": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Risk Quantification for Automated Driving Systems in Real-World Driving Scenarios",
+            "pub_year": 2021,
+            "citation": "IEEE Access 9, 168953-168970, 2021",
+            "author": "Erwin De Gelder and Hala Elrofai and Arash Khabbaz Saberi and Jan-Pieter Paardekooper and Olaf Op Den Camp and Bart De Schutter",
+            "journal": "IEEE Access",
+            "volume": "9",
+            "pages": "168953-168970",
+            "publisher": "IEEE",
+            "abstract": "The development of safety validation methods is essential for the safe deployment and operation of Automated Driving Systems (ADSs). One of the goals of safety validation is to prospectively evaluate the risk of an ADS dealing with real-world traffic. ISO 26262 and ISO/DIS 21448, the leading standards in automotive safety, provide an approach to estimate the risk where the former focuses on risks due to potential malfunctioning of components and the latter focuses on risks due to possible functional insufficiencies. The main shortcomings of the approach provided in ISO 26262 are that it depends on subjective judgments of safety experts and that only a qualitative risk estimation is performed. ISO/DIS 21448 addresses these shortcomings partially by providing statistical methods to guide the safety validation, but no complete method is provided to quantify the risk. The first objective of this article is to propose a …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 7,
+        "citedby_url": "/scholar?hl=en&cites=6076037693820801212",
+        "cites_id": [
+            "6076037693820801212"
+        ],
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/9656172/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vJASHhdsUlQJ:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 6,
+            "2023": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A case study of hurdle and generalized additive models in astronomy: the escape of ionizing radiation",
+            "pub_year": 2019,
+            "citation": "Monthly Notices of the Royal Astronomical Society 483 (3), 3307-3321, 2019",
+            "author": "MW Hattab and RS de Souza and B Ciardi and JP Paardekooper and S Khochfar and C Dalla Vecchia",
+            "journal": "Monthly Notices of the Royal Astronomical Society",
+            "volume": "483",
+            "number": "3",
+            "pages": "3307-3321",
+            "publisher": "Oxford University Press",
+            "abstract": "The dark ages of the Universe end with the formation of the first generation of stars residing in primeval galaxies. These objects were the first to produce ultraviolet ionizing photons in a period when the cosmic gas changed from a neutral state to an ionized one, known as Epoch of Reionization (EoR). A pivotal aspect to comprehend the EoR is to probe the intertwined relationship between the fraction of ionizing photons capable to escape dark haloes, also known as the escape fraction (fesc), and the physical properties of the galaxy. This work develops a sound statistical model suitable to account for such non-linear relationships and the non-Gaussian nature of fesc. This model simultaneously estimates the probability that a given primordial galaxy starts the ionizing photon production and estimates the mean level of the fesc once it is triggered. The model was employed in the First Billion Years simulation suite …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:Zph67rFs4hoC",
+        "num_citations": 7,
+        "citedby_url": "/scholar?hl=en&cites=15282453163660892911",
+        "cites_id": [
+            "15282453163660892911"
+        ],
+        "pub_url": "https://academic.oup.com/mnras/article-abstract/483/3/3307/5232389",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:71qNtC4uFtQJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 5,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards a Characterization of Safe Driving Behavior for Automated Vehicles Based on Models of “Typical” Human Driving Behavior",
+            "pub_year": 2020,
+            "citation": "2020 IEEE 23rd International Conference on Intelligent Transportation …, 2020",
+            "author": "Arturo Tejada and Jeroen Manders and Ron Snijders and Jan-Pieter Paardekooper and Stefanie de Hair-Buijssen",
+            "conference": "2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)",
+            "pages": "1-6",
+            "publisher": "IEEE",
+            "abstract": "Automated driving is expected to play a central role in future mobility systems by enabling, among other benefits, mobility-as-a-service schemes and better road utilization. To this end, automated vehicles must not only be functionally safe. They should also be perceived as driving safely by other traffic participants and have a positive impact on traffic safety. However, to the best of our knowledge, there is no consensus yet on what “driving safely” means. This article proposes a new characterization of safe driving behavior for automated vehicles based on models of “typical” human driving behavior. Such behavior (specially from attentive, experienced drivers) is known to lead to interactions of mid to low severity (i.e., low collision risk). Automated vehicles displaying similar behavior would interact with other traffic participants in a recognizable, predictable, and safe way. As a first step towards this characterization …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:M3ejUd6NZC8C",
+        "num_citations": 6,
+        "citedby_url": "/scholar?hl=en&cites=4309317556490292662",
+        "cites_id": [
+            "4309317556490292662"
+        ],
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/9294184/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tk31YnzFzTsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 4,
+            "2022": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Scenario Parameter Generation Method and Scenario Representativeness Metric for Scenario-Based Assessment of Automated Vehicles",
+            "pub_year": 2022,
+            "citation": "IEEE Transactions on Intelligent Transportation Systems, 2022",
+            "author": "Erwin de Gelder and Jasper Hof and Eric Cator and Jan-Pieter Paardekooper and Olaf Op den Camp and Jeroen Ploeg and Bart De Schutter",
+            "journal": "IEEE Transactions on Intelligent Transportation Systems",
+            "publisher": "IEEE",
+            "abstract": "The development of assessment methods for the performance of Automated Vehicles (AVs) is essential to enable the deployment of automated driving technologies, due to the complex operational domain of AVs. One candidate is scenario-based assessment, in which test cases are derived from real-world road traffic scenarios obtained from driving data. Because of the high variety of the possible scenarios, using only observed scenarios for the assessment is not sufficient. Therefore, methods for generating additional scenarios are necessary. Our contribution is twofold. First, we propose a method to determine the parameters that describe the scenarios to a sufficient degree while relying less on strong assumptions on the parameters that characterize the scenarios. By estimating the probability density function (pdf) of these parameters, realistic parameter values can be generated. Second, we present the Scenario …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:dhFuZR0502QC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?hl=en&cites=7588702559753894098",
+        "cites_id": [
+            "7588702559753894098"
+        ],
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/9730798/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0ng6fMV8UGkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 1,
+            "2022": 3,
+            "2023": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Constrained sampling from a kernel density estimator to generate scenarios for the assessment of automated vehicles",
+            "pub_year": 2021,
+            "citation": "2021 IEEE Intelligent Vehicles Symposium Workshops (IV Workshops), 203-208, 2021",
+            "author": "Erwin De Gelder and Eric Cator and Jan-Pieter Paardekooper and Olaf Op Den Camp and Bart De Schutter",
+            "conference": "2021 IEEE Intelligent Vehicles Symposium Workshops (IV Workshops)",
+            "pages": "203-208",
+            "publisher": "IEEE",
+            "abstract": "The safety assessment of Automated Vehicles (AVs) is an important aspect of the development cycle of AVs. A scenario-based assessment approach is accepted by many players in the field as part of the complete safety assessment. A scenario is a representation of a situation on the road to which the AV needs to respond appropriately. One way to generate the required scenario-based test descriptions is to parameterize the scenarios and to draw these parameters from a probability density function (pdf). Because the shape of the pdf is unknown beforehand, assuming a functional form of the pdf and fitting the parameters to the data may lead to inaccurate fits. As an alternative, Kernel Density Estimation (KDE) is a promising candidate for estimating the underlying pdf, because it is flexible with the underlying distribution of the parameters. Drawing random samples from a pdf estimated with KDE is possible without …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:mVmsd5A6BfQC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?hl=en&cites=2585768979112414145",
+        "cites_id": [
+            "2585768979112414145"
+        ],
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/9669213/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wUs4vy9_4iMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 1,
+            "2022": 2,
+            "2023": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Predicting the intention of cyclists",
+            "pub_year": 2017,
+            "citation": "The 6th International Cycling Safety Conference, 2017",
+            "author": "Riske Meijer and Stefanie de Hair and Jos Elfring and Jan Pieter Paardekooper",
+            "publisher": "The 6th International Cycling Safety Conference",
+            "abstract": "This article is part of the Proceedings of the 6th Annual International Cycling Safety Conference held in Davis, California, USA on September 20th through 23rd in the year 2017.Paper ID: 35"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:hqOjcs7Dif8C",
+        "num_citations": 5,
+        "citedby_url": "/scholar?hl=en&cites=9805063606956067467",
+        "cites_id": [
+            "9805063606956067467"
+        ],
+        "pub_url": "https://icsc2017.figshare.com/articles/journal_contribution/Predicting_the_intention_of_cyclists/5405014",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iwq6rGaVEogJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 1,
+            "2020": 1,
+            "2021": 1,
+            "2022": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Hybrid-AI Approach for Competence Assessment of Automated Driving functions.",
+            "pub_year": 2021,
+            "citation": "SafeAI@ AAAI, 2021",
+            "author": "Jan-Pieter Paardekooper and Mauro Comi and Corrado Grappiolo and Ron Snijders and Willeke van Vught and Rutger Beekelaar",
+            "conference": "SafeAI@ AAAI",
+            "abstract": "An increasing number of tasks is being taken over from the human driver as automated driving technology is developed. Accidents have been reported in situations where the automated driving technology was not able to function according to specifications. As data-driven Artificial Intelligence (AI) systems are becoming more ubiquitous in automated vehicles, it is increasingly important to make AI systems situational aware. One aspect of this is determining whether these systems are competent in the current and immediate traffic situation, or that they should hand over control to the driver or safety system.We aim to increase the safety of automated driving functions by combining data-driven AI systems with knowledge-based AI into a hybrid-AI system that can reason about competence in the traffic state now and in the next few seconds. We showcase our method using an intention prediction algorithm that is based on a deep neural network and trained with real-world data of traffic participants performing a cut-in maneuver in front of the vehicle. This is combined with a unified, quantitative representation of the situation on the road represented by an ontology-based knowledge graph and firstorder logic inference rules, that takes as input both the observations of the sensors of the automated vehicle as well as the output of the intention prediction algorithm. The knowledge graph utilises the two features of importance, based on domain knowledge, and doubt, based on the observations and information about the dataset, to reason about the competence of the intention prediction algorithm. We have applied the competence assessment of the intention …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 4,
+        "citedby_url": "/scholar?hl=en&cites=17653405076684212385",
+        "cites_id": [
+            "17653405076684212385"
+        ],
+        "pub_url": "http://ceur-ws.org/Vol-2808/Paper_37.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:oQjXr2J-_fQJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 1,
+            "2022": 1,
+            "2023": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Radiation Hydrodynamics of First Stars with SimpleX Radiative Transfer",
+            "pub_year": 2008,
+            "citation": "AIP Conference Proceedings 990 (1), 453-455, 2008",
+            "author": "Jan‐Pieter Paardekooper and Vincent Icke and Jelle Ritzerveld",
+            "journal": "AIP Conference Proceedings",
+            "volume": "990",
+            "number": "1",
+            "pages": "453-455",
+            "publisher": "American Institute of Physics",
+            "abstract": "We present a new radiative transfer method, the SimpleX method, that solves the radiative transfer equation on an unstructured, physical grid. SimpleX is a computationally very fast method that does not scale with the number of sources in the simulation domain. Tests show that the results of ionization front calculations done with SimpleX are comparable to the results of other methods, but at lower computational costs. It is important to incorporate diffuse photons in calculations of ionization fronts. The outer parts of H II regions are dominated by diffuse photons, so we need to incorporate these to model the shape and dynamics of ionization fronts properly. Because SimpleX does not scale with the number of sources in the simulation domain, we can model diffuse photons without extra computational costs. Our goal is to couple SimpleX to the hydrodynamics code FLASH to calculate radiative transfer in step with the …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?hl=en&cites=14398171704885702991",
+        "cites_id": [
+            "14398171704885702991"
+        ],
+        "pub_url": "https://aip.scitation.org/doi/abs/10.1063/1.2905662",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:T_HKfOGU0McJ:scholar.google.com/",
+        "cites_per_year": {
+            "2015": 1,
+            "2016": 0,
+            "2017": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "And there was light: Voronoi-Delaunay radiative transfer and cosmic reionisation",
+            "pub_year": 2010,
+            "citation": "Leiden University, 2010",
+            "author": "Jan-Pieter Paardekooper",
+            "abstract": "The appearance of the first luminous sources in the Universe marks the beginning of the epoch of reionisation. The cosmic reionisation of hydrogen has been the last major phase transition in the evolution of the Universe, turning cool neutral gas into the hot, ionised plasma we observe today. Up to now, direct observations of reionisation have been impossible, most of our current knowledge therefore stems from numerical studies. However, even with current computing facilities the modelling of the reionisation epoch presents some serious challenges. Radiative transfer is perhaps the biggest challenge, due to the high dimensionality and non-locality of the problem. In this thesis the latest improvements of the SimpleX method, that was designed to overcome some of the problems related to radiative transfer, are presented. We have used this method to study the escape fraction of ionising photons from galaxies. Our results show that high-redshift dwarf galaxies can be important contributors to cosmic reionisation. In addition, we have studied the effect of the inclusion of diffuse recombination radiation in reionisation simulations on large scales, which has been neglected by recent studies. We show that diffuse recombination radiation does not have a significant influence on the reionisation process."
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:roLk4NBRz8UC",
+        "num_citations": 1,
+        "citedby_url": "/scholar?hl=en&cites=9317399698924164130",
+        "cites_id": [
+            "9317399698924164130"
+        ],
+        "pub_url": "https://scholarlypublications.universiteitleiden.nl/handle/1887/16247",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ItS0FKkNToEJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "LOFAR-The New Eye for the Low-Frequency Universe",
+            "pub_year": 2004,
+            "citation": "American Astronomical Society Meeting Abstracts 205, 153.08, 2004",
+            "author": "DM Salter and J-P Paardekooper and HJA Röttgering and L Bähren and M Brentjens and H Falcke and S Wijnholds",
+            "journal": "American Astronomical Society Meeting Abstracts",
+            "volume": "205",
+            "pages": "153.08",
+            "abstract": "The Low Frequency Array (LOFAR) is the first in the next generation of digital radio telescopes making strides in the Netherlands at∼ 10 to 240 MHz (30 to 1.2 m). The LOFAR initial test station (ITS) represents the first prototype in the setup of a LOFAR station; it is comprised of 60 inverted-V dipole antennae operating at 10 to 35 MHz. With 45 additional stations similar to ITS planned and separated by a maximum baseline of 100 kilometers, LOFAR will achieve near arc second resolution by the year 2008. Here we report on the achievements of ITS, including: some of the first all-sky images, spectral index mapping of the galactic plane, the response and sensitivity functions of operating in a phase-array mode, as well as details on the software development aimed at maximizing the flexibility of managing, calibrating, processing and distributing the radio data collected by the array. Due to its design as a wide-area …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 1,
+        "citedby_url": "/scholar?hl=en&cites=4004795207032404887",
+        "cites_id": [
+            "4004795207032404887"
+        ],
+        "pub_url": "https://ui.adsabs.harvard.edu/abs/2004AAS...20515308S/abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:l3tawQXkkzcJ:scholar.google.com/",
+        "cites_per_year": {
+            "2007": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Erratum:“The Spectral Evolution of the First Galaxies. III. Simulated James Webb Space Telescope Spectra of Reionization-epoch Galaxies with Lyman-continuum Leakage”(2017, ApJ, 836, 78)",
+            "pub_year": 2021,
+            "citation": "The Astrophysical Journal 908 (1), 116, 2021",
+            "author": "Erik Zackrisson and Christian Binggeli and Kristian Finlator and Nickolay Y Gnedin and Jan-Pieter Paardekooper and Ikkoh Shimizu and Akio K Inoue and Hannes Jensen and Genoveva Micheva and Sadegh Khochfar and Claudio Dalla Vecchia",
+            "journal": "The Astrophysical Journal",
+            "volume": "908",
+            "number": "1",
+            "pages": "116",
+            "publisher": "IOP Publishing",
+            "abstract": "Due to a mistake, the BPASS v2. 0 binary-star model (Stanway et al. 2016) used in Figure 6 (b) of the published article featured a different initial mass function (IMF) than the Geneva single-star model used for comparison. While the Geneva model used the Kroupa universal IMF (Kroupa 2001) with upper slope α= 2.3 ( µ a-dN M M d) at 0.5 M (Me) 100, the BPASS model used a slope of α= 2.0 throughout the same mass interval. Hence, in its original form, that figure actually illustrated the combined effect of assuming binary stars and adopting a more extreme IMF. This resulted in a greater number of massive stars and a boosted ionizing flux for the BPASS model.In the revised Figure 6 (b), we show the corrected comparison with identical IMF slopes (α= 2.3). In this case, the shift between the two sets of simulated galaxies in the EW (Hβ)–β diagram is more modest than in the published article. The galaxies simulated …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:aqlVkmm33-oC",
+        "num_citations": 0,
+        "pub_url": "https://iopscience.iop.org/article/10.3847/1538-4357/abe1b2/meta",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_m8evd2qb9MJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Spectral Evolution of the First Galaxies. III. Simulated James Webb Space Telescope Spectra of Reionization-epoch Galaxies with Lyman-continuum Leakage (vol 836, 78, 2017)",
+            "pub_year": 2021,
+            "citation": "ASTROPHYSICAL JOURNAL 908 (1), 2021",
+            "author": "Erik Zackrisson and Christian Binggeli and Kristian Finlator and Nickolay Y Gnedin and Jan-Pieter Paardekooper and Ikkoh Shimizu and Akio K Inoue and Hannes Jensen and Genoveva Micheva and Sadegh Khochfar and Claudio Dalla Vecchia",
+            "journal": "ASTROPHYSICAL JOURNAL",
+            "volume": "908",
+            "number": "1",
+            "publisher": "IOP PUBLISHING LTD"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0,
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Evaluation of safety indicators for truck platooning",
+            "pub_year": 2017,
+            "citation": "",
+            "author": "Ellen van Nunen Nunen and Jan-Pieter Paardekooper Paardekooper and Francesco Esposto Esposto and Arash Khabbaz Saberi Saberi",
+            "volume": "2017",
+            "abstract": "This paper addresses safety indicators for truck platooning at short inter-vehicle distances (with a time gap of 0.5 s). The aim of a safety indicator is to determine the correct moment for initiating a Collision Avoidance brake action to prevent a collision with the preceding truck in threatening situations. Three safety indicators are selected for an evaluation: the intended acceleration of the preceding truck, which is shared via Vehicle-to-Vehicle (V2V) communication, the Brake Threat Number (BTN—based on simple vehicle models and an emergency brake assumption of the lead), and the Time-To-Collision (TTC—based on a constant velocity assumption). The latter two do not rely on V2V communication, but are obtained via on-board signals. Requirements for the amount of false negatives (missing a threatening situation) and the false positives (identifying a safe situation as threatening) are derived from a functional …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:4DMP91E08xMC",
+        "num_citations": 0,
+        "pub_url": "https://www.scipedia.com/public/Nunen_et_al_2017a",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A New Semi-Empirical Model of Reionization",
+            "pub_year": 2017,
+            "citation": "American Astronomical Society Meeting Abstracts# 229 229, 347.04, 2017",
+            "author": "Steven L Finkelstein and Jan-Pieter Paardekooper and Peter Behroozi and Russell E Ryan and Anson D'Aloisio and Rachael C Livermore",
+            "journal": "American Astronomical Society Meeting Abstracts# 229",
+            "volume": "229",
+            "pages": "347.04",
+            "abstract": "I will present the results of our new analysis of the contribution of both galaxies and AGNs to the reionization of the intergalactic medium (IGM). The time evolution of reionization, and the ionizing sources, are poorly constrained primarily due to the lack of knowledge about the escape fraction of ionizing photons from star-forming galaxies. Using the results of detailed zoom-in hydrodynamical simulations, we parameterize the escape fraction as a function of halo mass and combine this with observations of the evolution of the galaxy luminosity function at high redshift. This fiducial model does not complete reionization by z= 6. We thus run a MCMC analysis, using the observations of quasars and the electron scattering optical depth to the CMB to constrain a number of free parameters, including a scale factor applied to the simulation escape fraction results, a contribution from AGN, minimum halo mass for star formation …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 0,
+        "pub_url": "https://ui.adsabs.harvard.edu/abs/2017AAS...22934704F/abstract",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D hydrodynamical and radiative transfer modeling of Eta Carinae's colliding winds",
+            "pub_year": 2015,
+            "citation": "arXiv preprint arXiv:1508.03861, 2015",
+            "author": "Thomas I Madura and Nicola Clementel and Theodore R Gull and Chael JH Kruip and Jan-Pieter Paardekooper and Vincent Icke",
+            "journal": "arXiv preprint arXiv:1508.03861",
+            "abstract": "We present results of full 3D hydrodynamical and radiative transfer simulations of the colliding stellar winds in the massive binary system Eta Carinae. We accomplish this by applying the SimpleX algorithm for 3D radiative transfer on an unstructured Voronoi-Delaunay grid to recent 3D smoothed particle hydrodynamics (SPH) simulations of the binary colliding winds. We use SimpleX to obtain detailed ionization fractions of hydrogen and helium, in 3D, at the resolution of the original SPH simulations. We investigate several computational domain sizes and Luminous Blue Variable primary star mass-loss rates. We furthermore present new methods of visualizing and interacting with output from complex 3D numerical simulations, including 3D interactive graphics and 3D printing. While we initially focus on Eta Car, the methods employed can be applied to numerous other colliding wind (WR 140, WR 137, WR 19) and dusty 'pinwheel' (WR 104, WR 98a) binary systems. Coupled with 3D hydrodynamical simulations, SimpleX simulations have the potential to help determine the regions where various observed time-variable emission and absorption lines form in these unique objects."
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/1508.03861",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:fn1l4VkF6dQJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "3D Printing Meets Computational Astrophysics: Deciphering the Structure of Eta Carinae’s Colliding Winds Using 3D Prints of Smoothed Particle Hydrodynamics Simulations",
+            "pub_year": 2015,
+            "citation": "American Astronomical Society Meeting Abstracts# 225 225, 344.22, 2015",
+            "author": "Thomas Madura and Theodore R Gull and Nicola Clementel and Jan-Pieter Paardekooper and Chael Kruip and Michael F Corcoran and Kenji Hamaguchi and Mairan Teodoro",
+            "journal": "American Astronomical Society Meeting Abstracts# 225",
+            "volume": "225",
+            "pages": "344.22",
+            "abstract": "We present the first 3D prints of output from a supercomputer simulation of a complex astrophysical system, the colliding stellar winds in the massive (> 120 M Sun), highly eccentric (e~ 0.9) binary Eta Carinae. Using a consumer-grade 3D printer (Makerbot Replicator 2X), we successfully printed 3D smoothed particle hydrodynamics simulations of Eta Carinae's inner (r~ 110 AU) wind-wind collision interface at multiple orbital phases. These 3D prints reveal important, previously unknown'finger-like'structures at orbital phases shortly after periastron (φ~ 1.045) that protrude radially outward from the spiral wind-wind collision region. We speculate that these fingers are related to instabilities (eg Rayleigh-Taylor) that arise at the interface between the radiatively-cooled layer of dense post-shock primary-star wind and the hot, adiabatic post-shock companion-star wind. The success of our work and easy identification of …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 0,
+        "pub_url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22534422M/abstract",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "FiBY: the First Billion Years simulation",
+            "pub_year": 2012,
+            "citation": "High Performance Computing in Science and Engineering, Garching/Munich 2012 …, 2012",
+            "author": "Claudio Dalla Vecchia and Sadegh Khochfar and Jarrett Johnson and Umberto Maio and Jan-Pieter Paardekooper and Andrew Davis",
+            "pages": "58-60",
+            "publisher": "Bayerische Akademie der Wissenschaften",
+            "abstract": "FiBY: the First Billion Years simulation :: MPG.PuRe Deutsch Hilfe Datenschutzhinweis \nImpressum Volltexte einbeziehen DetailsucheBrowse START ABLAGE (0)Werkzeuge \nDatensatz DATENSATZ AKTIONENEXPORT Zur Ablage hinzufügen Lokale TagsFreigabegeschichteDetailsÜbersicht \nFreigegeben Buchkapitel FiBY: the First Billion Years simulation MPG-Autoren /persons/resource/persons16114 \nDalla Vecchia, Claudio Optical and Interpretative Astronomy, MPI for Extraterrestrial Physics, \nMax Planck Society; /persons/resource/persons4702 Khochfar, Sadegh Optical and \nInterpretative Astronomy, MPI for Extraterrestrial Physics, Max Planck Society; /persons/resource/persons22316 \nJohnson, Jarrett Optical and Interpretative Astronomy, MPI for Extraterrestrial Physics, Max \nPlanck Society; /persons/resource/persons18619 Maio, Umberto Optical and Interpretative \nAstronomy, MPI for Extraterrestrial Physics, Max …"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0,
+        "pub_url": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1677302",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "VORONOI-DELAUNAY RADIATIVE TRANSFER AND COSMIC REIONISATION",
+            "citation": "",
+            "author": "Jan-Pieter Paardekooper"
+        },
+        "filled": true,
+        "author_pub_id": "DyumFosAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 0,
+        "cites_per_year": {}
+    }
+]
