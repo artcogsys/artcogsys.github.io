@@ -26,16 +26,10 @@ export default function Home() {
                 Mission Statement
               </div>
               <Typography variant="body2">
-                  Understanding how mind emerges from matter remains one
-                  of the great mysteries in science. The artificial cognitive
-                  systems lab studies the computational mechanisms of learning,
-                  inference and control in natural and artificial systems.
-                  To this end, we bring together ideas from a wide range of
-                  disciplines such as machine learning, computational neuroscience,
-                  control theory, dynamical systems theory, statistical physics and
-                  theoretical biology. Ultimately, our goal is to bridge the gap
-                  between natural and artificial intelligence and contribute
-                  solutions to a variety of scientific and societal challenges.
+              The artificial cognitive systems lab studies the computational mechanisms of learning, inference and control in natural and artificial systems. 
+              To this end, we bring together ideas from a wide range of disciplines such as machine learning, computational neuroscience, control theory, dynamical systems theory, 
+              statistical physics and theoretical biology. Ultimately, our goal is to bridge the gap between natural and artificial intelligence and contribute more capable and 
+              efficient AI solutions to address a wide variety of scientific and societal challenges.
               </Typography>
             </Stack>
           </Container>
