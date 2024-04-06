@@ -5,28 +5,29 @@
         "bib": {
             "title": "Classifying autism spectrum disorder using the temporal statistics of resting-state functional MRI data with 3D convolutional neural networks",
             "pub_year": 2020,
-            "citation": "Frontiers in psychiatry 11, 440, 2020",
+            "citation": "Frontiers in psychiatry 11, 533943, 2020",
             "author": "Rajat Mani Thomas and Selene Gallo and Leonardo Cerliani and Paul Zhutovsky and Ahmed El-Gazzar and Guido Van Wingen",
             "journal": "Frontiers in psychiatry",
             "volume": "11",
-            "pages": "440",
-            "publisher": "Frontiers Media SA",
+            "pages": "533943",
+            "publisher": "Frontiers",
             "abstract": "Resting-state functional magnetic resonance imaging (rs-fMRI) data are 4-dimensional volumes (3-space + 1-time) that have been posited to reflect the underlying mechanisms of information exchange between brain regions, thus making it an attractive modality to develop diagnostic biomarkers of brain dysfunction. The enormous success of deep learning in computer vision has sparked recent interest in applying deep learning in neuroimaging. But the dimensionality of rs-fMRI data is too high (~20 M), making it difficult to meaningfully process the data in its raw form for deep learning experiments. It is currently not clear how the data should be engineered to optimally extract the time information, and whether combining different representations of time could provide better results. In this paper, we explored various transformations that retain the full spatial resolution by summarizing the temporal dimension of the rs-fMRI data, therefore making it possible to train a full three-dimensional convolutional neural network (3D-CNN) even on a moderately sized [~2,000 from Autism Brain Imaging Data Exchange (ABIDE)-I and II] data set. These transformations summarize the activity in each voxel of the rs-fMRI or that of the voxel and its neighbors to a single number. For each brain volume, we calculated regional homogeneity, the amplitude of low-frequency fluctuations, the fractional amplitude of low-frequency fluctuations, degree centrality, eigenvector centrality, local functional connectivity density, entropy, voxel-mirrored homotopic connectivity, and auto-correlation lag. We trained the 3D-CNN on a publically available autism dataset to classify the rs-fMRI …"
         },
         "filled": true,
         "author_pub_id": "0lxrCcsAAAAJ:9yKSN-GCB0IC",
-        "num_citations": 67,
+        "num_citations": 95,
         "citedby_url": "/scholar?hl=en&cites=4339052703070383055",
         "cites_id": [
             "4339052703070383055"
         ],
-        "pub_url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00440/full",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:z2s1tHFpNzwJ:scholar.google.com/",
+        "pub_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2020.00440/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:z2s1tHFpNzwJ:scholar.google.com/",
         "cites_per_year": {
-            "2020": 4,
-            "2021": 26,
-            "2022": 28,
-            "2023": 8
+            "2020": 3,
+            "2021": 24,
+            "2022": 32,
+            "2023": 34,
+            "2024": 2
         }
     },
     {
@@ -35,27 +36,27 @@
         "bib": {
             "title": "A hybrid 3DCNN and 3DC-LSTM based model for 4D spatio-temporal fMRI data: an ABIDE autism classification study",
             "pub_year": 2019,
-            "citation": "OR 2.0 Context-Aware Operating Theaters and Machine Learning in Clinical …, 2019",
+            "citation": "International Workshop on OR 2.0 Context-Aware Operating Theaters, 95-102, 2019",
             "author": "Ahmed El-Gazzar and Mirjam Quaak and Leonardo Cerliani and Peter Bloem and Guido van Wingen and Rajat Mani Thomas",
-            "conference": "OR 2.0 Context-Aware Operating Theaters and Machine Learning in Clinical Neuroimaging: Second International Workshop, OR 2.0 2019, and Second International Workshop, MLCN 2019, Held in Conjunction with MICCAI 2019, Shenzhen, China, October 13 and 17, 2019, Proceedings 2",
             "pages": "95-102",
             "publisher": "Springer International Publishing",
             "abstract": "Functional Magnetic Resonance Imaging (fMRI) captures the temporal dynamics of neural activity as a function of spatial location in the brain. Thus, fMRI scans are represented as 4-Dimensional (3-space + 1-time) tensors. And it is widely believed that the spatio-temporal patterns in fMRI manifests as behaviour and clinical symptoms. Because of the high dimensionality (1 Million) of fMRI, and the added constraints of limited cardinality of data sets, extracting such patterns are challenging. A standard approach to overcome these hurdles is to reduce the dimensionality of the data by either summarizing activation over time or space at the expense of possible loss of useful information. Here, we introduce an end-to-end algorithm capable of extracting spatiotemporal features from the full 4-D data using 3-D CNNs and 3-D Convolutional LSTMs. We evaluate our proposed model on the publicly available …"
         },
         "filled": true,
         "author_pub_id": "0lxrCcsAAAAJ:d1gkVwhDpl0C",
-        "num_citations": 36,
+        "num_citations": 49,
         "citedby_url": "/scholar?hl=en&cites=3471411927462392952",
         "cites_id": [
             "3471411927462392952"
         ],
         "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-32695-1_11",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:eDRzdcHuLDAJ:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:eDRzdcHuLDAJ:scholar.google.com/",
         "cites_per_year": {
             "2020": 3,
             "2021": 13,
-            "2022": 17,
-            "2023": 3
+            "2022": 19,
+            "2023": 13,
+            "2024": 1
         }
     },
     {
@@ -73,19 +74,51 @@
         },
         "filled": true,
         "author_pub_id": "0lxrCcsAAAAJ:u-x6o8ySG0sC",
-        "num_citations": 31,
+        "num_citations": 37,
         "citedby_url": "/scholar?hl=en&cites=17508818354969160642",
         "cites_id": [
             "17508818354969160642"
         ],
         "pub_url": "https://ieeexplore.ieee.org/abstract/document/8852002/",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:wqvGNIfR-_IJ:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:wqvGNIfR-_IJ:scholar.google.com/",
         "cites_per_year": {
             "2019": 1,
             "2020": 5,
             "2021": 12,
-            "2022": 12,
-            "2023": 1
+            "2022": 11,
+            "2023": 7,
+            "2024": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Functional connectivity signatures of major depressive disorder: machine learning analysis of two multicenter neuroimaging studies",
+            "pub_year": 2023,
+            "citation": "Molecular Psychiatry 28 (7), 3013-3022, 2023",
+            "author": "Selene Gallo and Ahmed El-Gazzar and Paul Zhutovsky and Rajat M Thomas and Nooshin Javaheripour and Meng Li and Lucie Bartova and Deepti Bathula and Udo Dannlowski and Christopher Davey and Thomas Frodl and Ian Gotlib and Simone Grimm and Dominik Grotegerd and Tim Hahn and Paul J Hamilton and Ben J Harrison and Andreas Jansen and Tilo Kircher and Bernhard Meyer and Igor Nenadić and Sebastian Olbrich and Elisabeth Paul and Lukas Pezawas and Matthew D Sacchet and Philipp Sämann and Gerd Wagner and Henrik Walter and Martin Walter and PsyMRI and Guido van Wingen",
+            "journal": "Molecular Psychiatry",
+            "volume": "28",
+            "number": "7",
+            "pages": "3013-3022",
+            "publisher": "Nature Publishing Group UK",
+            "abstract": "The promise of machine learning has fueled the hope for developing diagnostic tools for psychiatry. Initial studies showed high accuracy for the identification of major depressive disorder (MDD) with resting-state connectivity, but progress has been hampered by the absence of large datasets. Here we used regular machine learning and advanced deep learning algorithms to differentiate patients with MDD from healthy controls and identify neurophysiological signatures of depression in two of the largest resting-state datasets for MDD. We obtained resting-state functional magnetic resonance imaging data from the REST-meta-MDD (N = 2338) and PsyMRI (N = 1039) consortia. Classification of functional connectivity matrices was done using support vector machines (SVM) and graph convolutional neural networks (GCN), and performance was evaluated using 5-fold cross-validation. Features were visualized …"
+        },
+        "filled": true,
+        "author_pub_id": "0lxrCcsAAAAJ:ULOm3_A8WrAC",
+        "num_citations": 29,
+        "citedby_url": "/scholar?hl=en&cites=5003466172091731189,2765515999132666576",
+        "cites_id": [
+            "5003466172091731189",
+            "2765515999132666576"
+        ],
+        "pub_url": "https://www.nature.com/articles/s41380-023-01977-5",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:9Qw2Wfnhb0UJ:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 3,
+            "2023": 16,
+            "2024": 10
         }
     },
     {
@@ -103,16 +136,18 @@
         },
         "filled": true,
         "author_pub_id": "0lxrCcsAAAAJ:2osOgNQ5qMEC",
-        "num_citations": 18,
+        "num_citations": 29,
         "citedby_url": "/scholar?hl=en&cites=10349222100046637194",
         "cites_id": [
             "10349222100046637194"
         ],
         "pub_url": "http://proceedings.mlr.press/v121/arya20a.html",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:iujm3qrSn48J:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:iujm3qrSn48J:scholar.google.com/",
         "cites_per_year": {
             "2021": 6,
-            "2022": 12
+            "2022": 11,
+            "2023": 11,
+            "2024": 1
         }
     },
     {
@@ -130,22 +165,24 @@
         },
         "filled": true,
         "author_pub_id": "0lxrCcsAAAAJ:u5HHmVD_uO8C",
-        "num_citations": 18,
+        "num_citations": 19,
         "citedby_url": "/scholar?hl=en&cites=17731356280571921111",
         "cites_id": [
             "17731356280571921111"
         ],
         "pub_url": "https://ieeexplore.ieee.org/abstract/document/7353460/",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:14JhqZduEvYJ:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:14JhqZduEvYJ:scholar.google.com/",
         "cites_per_year": {
             "2015": 1,
             "2016": 4,
             "2017": 3,
             "2018": 1,
             "2019": 0,
-            "2020": 1,
-            "2021": 5,
-            "2022": 3
+            "2020": 2,
+            "2021": 4,
+            "2022": 2,
+            "2023": 1,
+            "2024": 1
         }
     },
     {
@@ -163,90 +200,24 @@
         },
         "filled": true,
         "author_pub_id": "0lxrCcsAAAAJ:UeHWp8X0CEIC",
-        "num_citations": 4,
+        "num_citations": 14,
         "citedby_url": "/scholar?hl=en&cites=16475348278979537853",
         "cites_id": [
             "16475348278979537853"
         ],
         "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-87586-2_13",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vStrN_gxpOQJ:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:vStrN_gxpOQJ:scholar.google.com/",
         "cites_per_year": {
-            "2022": 4
+            "2022": 3,
+            "2023": 10,
+            "2024": 1
         }
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Thalamic hyperconnectivity as neurophysiological signature of major depressive disorder in two multicenter studies",
-            "pub_year": 2021,
-            "citation": "PsyArXiv, 2021",
-            "author": "Selene Gallo and Ahmed ElGazzar and Paul Zhutovsky and Rajat Mani Thomas and Nooshin Javaheripour and Li Meng and Lucie Bartova and Deepti R Bathula and Udo Dannlowski and Christopher Davey and Thomas Frodl and Ian Gotlib and Simone Grimm and Dominik Grotegerd and Tim Hahn and Paul J Hamilton and Ben J Harrison and Andreas Jansen and Tilo Kircher and Bernhard Meyer and Igor Nenadic and Sebastian Olbich and Elisabeth Paul and Lukas Pezawas and Matthew Sacchet and Philipp G Sämann and Henrik Walter and Martin Walter and Guido van Wingen",
-            "publisher": "PsyArXiv",
-            "abstract": "The promise of machine learning has fueled the hope for developing diagnostic tools for psychiatry. Initial studies showed high accuracy for the identification of major depressive disorder (MDD) with resting-state connectivity, but progress has been hampered by the absence of large datasets. Here we used regular machine learning and advanced deep learning algorithms to differentiate patients with MDD from healthy controls and identify neurophysiological signatures of depression in two of the largest resting-state datasets for MDD. Resting-state functional magnetic resonance imaging data were obtained from the REST-meta-MDD (N= 2338) and PsyMRI (N= 1039) consortia. Classification of functional connectivity matrices was done using support vector machines (SVM) and graph convolutional neural networks (GCN) and performance was evaluated using 5-fold cross-validation. Results were visualized using GCN-Explainer, an ablation study and univariate t-testing. Mean classification accuracy was 61% for MDD versus controls. Mean accuracy for classifying (non-) medicated subgroups was 62%. Visualization of the results showed that classifications were driven by stronger thalamic connections in both datasets, while nearly all other connections were weaker with small univariate effect sizes. Whole brain resting-state connectivity is a reliable though poor biomarker for MDD, presumably due to disease heterogeneity. Deep learning revealed thalamic hyperconnectivity as a prominent neurophysiological signature of depression in both multicenter studies, which may guide the development of biomarkers in future studies."
-        },
-        "filled": true,
-        "author_pub_id": "0lxrCcsAAAAJ:IjCSPb-OGe4C",
-        "num_citations": 2,
-        "citedby_url": "/scholar?hl=en&cites=2765515999132666576",
-        "cites_id": [
-            "2765515999132666576"
-        ],
-        "pub_url": "https://psyarxiv.com/b6a7q/download?format=pdf",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0Er2HCYWYSYJ:scholar.google.com/",
-        "cites_per_year": {
-            "2022": 1,
-            "2023": 1
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Improving the Diagnosis of Psychiatric Disorders with Self-Supervised Graph State Space Models",
-            "pub_year": 2022,
-            "citation": "arXiv preprint arXiv:2206.03331, 2022",
-            "author": "Ahmed El Gazzar and Rajat Mani Thomas and Guido Van Wingen",
-            "journal": "arXiv preprint arXiv:2206.03331",
-            "abstract": "Single subject prediction of brain disorders from neuroimaging data has gained increasing attention in recent years. Yet, for some heterogeneous disorders such as major depression disorder (MDD) and autism spectrum disorder (ASD), the performance of prediction models on large-scale multi-site datasets remains poor. We present a two-stage framework to improve the diagnosis of heterogeneous psychiatric disorders from resting-state functional magnetic resonance imaging (rs-fMRI). First, we propose a self-supervised mask prediction task on data from healthy individuals that can exploit differences between healthy controls and patients in clinical datasets. Next, we train a supervised classifier on the learned discriminative representations. To model rs-fMRI data, we develop Graph-S4; an extension to the recently proposed state-space model S4 to graph settings where the underlying graph structure is not known in advance. We show that combining the framework and Graph-S4 can significantly improve the diagnostic performance of neuroimaging-based single subject prediction models of MDD and ASD on three open-source multi-center rs-fMRI clinical datasets."
-        },
-        "filled": true,
-        "author_pub_id": "0lxrCcsAAAAJ:zYLM7Y9cAGgC",
-        "num_citations": 1,
-        "citedby_url": "/scholar?hl=en&cites=11852399516241642257",
-        "cites_id": [
-            "11852399516241642257"
-        ],
-        "pub_url": "https://arxiv.org/abs/2206.03331",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:EUOYNZAufKQJ:scholar.google.com/",
-        "cites_per_year": {
-            "2022": 1
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Functional connectivity signatures of major depressive disorder: machine learning analysis of two multicenter neuroimaging studies",
-            "pub_year": 2023,
-            "citation": "Molecular Psychiatry, 1-10, 2023",
-            "author": "Selene Gallo and Ahmed El-Gazzar and Paul Zhutovsky and Rajat M Thomas and Nooshin Javaheripour and Meng Li and Lucie Bartova and Deepti Bathula and Udo Dannlowski and Christopher Davey and Thomas Frodl and Ian Gotlib and Simone Grimm and Dominik Grotegerd and Tim Hahn and Paul J Hamilton and Ben J Harrison and Andreas Jansen and Tilo Kircher and Bernhard Meyer and Igor Nenadić and Sebastian Olbrich and Elisabeth Paul and Lukas Pezawas and Matthew D Sacchet and Philipp Sämann and Gerd Wagner and Henrik Walter and Martin Walter and PsyMRI and Guido van Wingen",
-            "journal": "Molecular Psychiatry",
-            "pages": "1-10",
-            "publisher": "Nature Publishing Group UK",
-            "abstract": "The promise of machine learning has fueled the hope for developing diagnostic tools for psychiatry. Initial studies showed high accuracy for the identification of major depressive disorder (MDD) with resting-state connectivity, but progress has been hampered by the absence of large datasets. Here we used regular machine learning and advanced deep learning algorithms to differentiate patients with MDD from healthy controls and identify neurophysiological signatures of depression in two of the largest resting-state datasets for MDD. We obtained resting-state functional magnetic resonance imaging data from the REST-meta-MDD (N = 2338) and PsyMRI (N = 1039) consortia. Classification of functional connectivity matrices was done using support vector machines (SVM) and graph convolutional neural networks (GCN), and performance was evaluated using 5-fold cross-validation. Features were visualized …"
-        },
-        "filled": true,
-        "author_pub_id": "0lxrCcsAAAAJ:ULOm3_A8WrAC",
-        "num_citations": 0,
-        "pub_url": "https://www.nature.com/articles/s41380-023-01977-5",
-        "cites_per_year": {}
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Benchmarking Graph Neural Networks for FMRI analysis",
+            "title": "Benchmarking graph neural networks for fMRI analysis",
             "pub_year": 2022,
             "citation": "arXiv preprint arXiv:2211.08927, 2022",
             "author": "Ahmed ElGazzar and Rajat Thomas and Guido Van Wingen",
@@ -255,10 +226,98 @@
         },
         "filled": true,
         "author_pub_id": "0lxrCcsAAAAJ:eQOLeE2rZwMC",
-        "num_citations": 0,
+        "num_citations": 7,
+        "citedby_url": "/scholar?hl=en&cites=18354513881176673313",
+        "cites_id": [
+            "18354513881176673313"
+        ],
         "pub_url": "https://arxiv.org/abs/2211.08927",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IQyD6CBVuP4J:scholar.google.com/",
-        "cites_per_year": {}
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:IQyD6CBVuP4J:scholar.google.com/",
+        "cites_per_year": {
+            "2023": 5,
+            "2024": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Improving the diagnosis of psychiatric disorders with self-supervised graph state space models",
+            "pub_year": 2022,
+            "citation": "arXiv preprint arXiv:2206.03331, 2022",
+            "author": "Ahmed El Gazzar and Rajat Mani Thomas and Guido Van Wingen",
+            "journal": "arXiv preprint arXiv:2206.03331",
+            "abstract": "Single subject prediction of brain disorders from neuroimaging data has gained increasing attention in recent years. Yet, for some heterogeneous disorders such as major depression disorder (MDD) and autism spectrum disorder (ASD), the performance of prediction models on large-scale multi-site datasets remains poor. We present a two-stage framework to improve the diagnosis of heterogeneous psychiatric disorders from resting-state functional magnetic resonance imaging (rs-fMRI). First, we propose a self-supervised mask prediction task on data from healthy individuals that can exploit differences between healthy controls and patients in clinical datasets. Next, we train a supervised classifier on the learned discriminative representations. To model rs-fMRI data, we develop Graph-S4; an extension to the recently proposed state-space model S4 to graph settings where the underlying graph structure is not known in advance. We show that combining the framework and Graph-S4 can significantly improve the diagnostic performance of neuroimaging-based single subject prediction models of MDD and ASD on three open-source multi-center rs-fMRI clinical datasets."
+        },
+        "filled": true,
+        "author_pub_id": "0lxrCcsAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?hl=en&cites=11852399516241642257",
+        "cites_id": [
+            "11852399516241642257"
+        ],
+        "pub_url": "https://arxiv.org/abs/2206.03331",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:EUOYNZAufKQJ:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 1,
+            "2023": 3,
+            "2024": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Medical imaging with deep learning",
+            "pub_year": 2020,
+            "citation": "PMLR,, 2020",
+            "author": "D Arya and R Olij and DK Gupta and A El Gazzar and G Wingen and M Worring and RM Thomas",
+            "pages": "44-61",
+            "publisher": "PMLR,"
+        },
+        "filled": true,
+        "author_pub_id": "0lxrCcsAAAAJ:2P1L_qKh6hAC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?hl=en&cites=15299668060735032670",
+        "cites_id": [
+            "15299668060735032670"
+        ],
+        "pub_url": "https://scholar.google.com/scholar?cluster=15299668060735032670&hl=en&oi=scholarr",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:Xk2ARQpXU9QJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 0,
+            "2021": 1,
+            "2022": 1,
+            "2023": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Harmonization techniques for machine learning studies using multi-site functional MRI data",
+            "pub_year": 2023,
+            "citation": "bioRxiv, 2023.06. 14.544758, 2023",
+            "author": "Ahmed El-Gazzar and Rajat Mani Thomas and Guido van Wingen",
+            "journal": "bioRxiv",
+            "pages": "2023.06. 14.544758",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "In recent years, the collection and sharing of resting-state functional magnetic resonance imaging (fMRI) datasets across multiple centers have enabled studying psychiatric disorders at scale, and prompted the application of statistically powerful tools such as deep neural networks. Yet, multi-center datasets introduce non-biological heterogeneity that can confound the biological signal of interest and produce erroneous findings. To mitigate this problem, the neuroimaging community has adopted harmonization techniques previously proposed in other domains to remove site-effects from fMRI data. The reported success of these approaches in improving the generalization of the models have varied significantly. It remains unclear whether harmonization techniques could boost the final outcome of multi-site fMRI studies, to what extent, and which approaches are best suited for this task. In an attempt to objectively answer these questions, we conduct a standardized rigorous evaluation of seven different harmonization techniques from the neuroimaging and computer vision literature on two large-scale multi-site datasets (N = 2169 and N = 2366) to diagnose autism spectrum disorder and major depression disorder from static and dynamic representations of fMRI data. Interestingly, while all harmonization techniques removed site-effects from the data, they had little influence on disorder classification performance in standard k-fold and leave-one-site-out validation settings over a well-tuned baseline. Further investigation shows that the baseline model implicitly learns site-invariant features which could well explain its competitiveness with explicit …"
+        },
+        "filled": true,
+        "author_pub_id": "0lxrCcsAAAAJ:70eg2SAEIzsC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?hl=en&cites=14650414757946434691",
+        "cites_id": [
+            "14650414757946434691"
+        ],
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2023.06.14.544758.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:g6SJ45m6UMsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2023": 1,
+            "2024": 1
+        }
     },
     {
         "container_type": "Publication",
@@ -266,7 +325,7 @@
         "bib": {
             "title": "fMRI-S4: learning short-and long-range dynamic fMRI dependencies using 1D Convolutions and State Space Models",
             "pub_year": 2022,
-            "citation": "Machine Learning in Clinical Neuroimaging: 5th International Workshop, MLCN …, 2022",
+            "citation": "International Workshop on Machine Learning in Clinical Neuroimaging, 158-168, 2022",
             "author": "Ahmed El-Gazzar and Rajat Mani Thomas and Guido Van Wingen",
             "pages": "158-168",
             "publisher": "Springer Nature Switzerland",
@@ -274,9 +333,53 @@
         },
         "filled": true,
         "author_pub_id": "0lxrCcsAAAAJ:W7OEmFMy1HYC",
-        "num_citations": 0,
+        "num_citations": 1,
+        "citedby_url": "/scholar?hl=en&cites=11409701515359096488",
+        "cites_id": [
+            "11409701515359096488"
+        ],
         "pub_url": "https://link.springer.com/chapter/10.1007/978-3-031-17899-3_16",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:qA43uBNnV54J:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:qA43uBNnV54J:scholar.google.com/",
+        "cites_per_year": {
+            "2024": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Universal Differential Equations as a Common Modeling Language for Neuroscience",
+            "pub_year": 2024,
+            "citation": "arXiv preprint arXiv:2403.14510, 2024",
+            "author": "Ahmed ElGazzar and Marcel van Gerven",
+            "journal": "arXiv preprint arXiv:2403.14510",
+            "abstract": "The unprecedented availability of large-scale datasets in neuroscience has spurred the exploration of artificial deep neural networks (DNNs) both as empirical tools and as models of natural neural systems. Their appeal lies in their ability to approximate arbitrary functions directly from observations, circumventing the need for cumbersome mechanistic modeling. However, without appropriate constraints, DNNs risk producing implausible models, diminishing their scientific value. Moreover, the interpretability of DNNs poses a significant challenge, particularly with the adoption of more complex expressive architectures. In this perspective, we argue for universal differential equations (UDEs) as a unifying approach for model development and validation in neuroscience. UDEs view differential equations as parameterizable, differentiable mathematical objects that can be augmented and trained with scalable deep learning techniques. This synergy facilitates the integration of decades of extensive literature in calculus, numerical analysis, and neural modeling with emerging advancements in AI into a potent framework. We provide a primer on this burgeoning topic in scientific machine learning and demonstrate how UDEs fill in a critical gap between mechanistic, phenomenological, and data-driven models in neuroscience. We outline a flexible recipe for modeling neural systems with UDEs and discuss how they can offer principled solutions to inherent challenges across diverse neuroscience applications such as understanding neural computation, controlling neural systems, neural decoding, and normative modeling."
+        },
+        "filled": true,
+        "author_pub_id": "0lxrCcsAAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/2403.14510",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:85jO-7kGqxsJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Dynamical Systems Approach to Optimal Foraging",
+            "pub_year": 2024,
+            "citation": "bioRxiv, 2024.01. 20.576399, 2024",
+            "author": "Siddharth Chaturvedi and Ahmed ElGazzar and Marcel van Gerven",
+            "journal": "bioRxiv",
+            "pages": "2024.01. 20.576399",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Foraging for resources in an environment is a fundamental activity that must be addressed by any biological agent. Thus, modelling this phenomenon in simulations can enhance our understanding of the characteristics of natural intelligence. In this work, we present a novel approach to modelling this phenomenon in silico. We achieve this by using a continuous coupled dynamical system for modelling the system. The dynamical system is composed of three differential equations, representing the position of the agent, the agent's control policy, and the environmental resource dynamics. Crucially, the control policy is implemented as a neural differential equation which allows the control policy to adapt in order to solve the foraging task. Using this setup, we show that when these dynamics are coupled and the controller parameters are optimized to maximize the rate of reward collected, adaptive foraging emerges in the agent. We further show that the internal dynamics of the controller, as a surrogate brain model, closely resemble the dynamics of the evidence accumulation mechanism, which may be used by certain neurons of the dorsal anterior cingulate cortex region in non-human primates, for deciding when to migrate from one patch to another. Finally, we show that by modulating the resource growth rates of the environment, the emergent behaviour of the artificial agent agrees with the predictions of the optimal foraging theory."
+        },
+        "filled": true,
+        "author_pub_id": "0lxrCcsAAAAJ:abG-DnoFyZgC",
+        "num_citations": 0,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2024.01.20.576399.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&oe=ASCII&q=related:geUvMPKWHfgJ:scholar.google.com/",
         "cites_per_year": {}
     }
 ]

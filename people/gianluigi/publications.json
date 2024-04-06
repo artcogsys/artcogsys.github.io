@@ -4,28 +4,30 @@
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
             "title": "Searching relevant variable subsets in complex systems using k-means PSO",
-            "pub_year": 2017,
-            "citation": "Italian Workshop on Artificial Life and Evolutionary Computation, 308-321, 2017",
+            "pub_year": 2018,
+            "citation": "Artificial Life and Evolutionary Computation: 12th Italian Workshop, WIVACE …, 2018",
             "author": "Gianluigi Silvestri and Laura Sani and Michele Amoretti and Riccardo Pecori and Emilio Vicari and Monica Mordonini and Stefano Cagnoni",
-            "conference": "Italian Workshop on Artificial Life and Evolutionary Computation",
+            "conference": "Artificial Life and Evolutionary Computation: 12th Italian Workshop, WIVACE 2017, Venice, Italy, September 19-21, 2017, Revised Selected Papers 12",
             "pages": "308-321",
-            "publisher": "Springer, Cham",
+            "publisher": "Springer International Publishing",
             "abstract": "The Relevance Index method has been shown to be effective in identifying Relevant Sets in complex systems, i.e., variable sub-sets that exhibit a coordinated behavior, along with a clear independence from the remaining variables. The need for computing the Relevance Index for each possible variable sub-set makes such a computation unfeasible, as the size of the system increases. Because of this, smart search methods are needed to analyze large-size systems using such an approach. Niching metaheuristics provide an effective solution to this problem, as they join search capabilities to good exploration properties, which allow them to explore different regions of the search space in parallel and converge onto several local/global minima.In this paper, we describe the application of a niching metaheuristic, K-means PSO, to a set of complex systems of different size, comparing, when possible, its …"
         },
         "filled": true,
         "author_pub_id": "BKRLVogAAAAJ:u-x6o8ySG0sC",
-        "num_citations": 14,
-        "citedby_url": "/scholar?hl=en&cites=5727892983920118497",
+        "num_citations": 16,
+        "citedby_url": "/scholar?hl=en&cites=7272487089333616886,3162698178351074269",
         "cites_id": [
-            "5727892983920118497"
+            "7272487089333616886",
+            "3162698178351074269"
         ],
         "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-78658-2_23",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4coCOlKQfU8J:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9kBY-XkQ7WQJ:scholar.google.com/",
         "cites_per_year": {
-            "2018": 4,
-            "2019": 4,
-            "2020": 2,
-            "2021": 4
+            "2018": 3,
+            "2019": 3,
+            "2020": 4,
+            "2021": 5,
+            "2022": 1
         }
     },
     {
@@ -35,7 +37,7 @@
             "title": "Automatic variational inference with cascading flows",
             "pub_year": 2021,
             "citation": "International Conference on Machine Learning, 254-263, 2021",
-            "author": "Luca Ambrogioni and Gianluigi Silvestri and Marcel Van Gerven",
+            "author": "Luca Ambrogioni and Gianluigi Silvestri and Marcel van Gerven",
             "conference": "International Conference on Machine Learning",
             "pages": "254-263",
             "publisher": "PMLR",
@@ -43,7 +45,7 @@
         },
         "filled": true,
         "author_pub_id": "BKRLVogAAAAJ:qjMakFHDy7sC",
-        "num_citations": 4,
+        "num_citations": 10,
         "citedby_url": "/scholar?hl=en&cites=16991650093300670925",
         "cites_id": [
             "16991650093300670925"
@@ -51,7 +53,10 @@
         "pub_url": "http://proceedings.mlr.press/v139/ambrogioni21a.html",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zWHr9rt3zusJ:scholar.google.com/",
         "cites_per_year": {
-            "2021": 4
+            "2021": 5,
+            "2022": 1,
+            "2023": 2,
+            "2024": 2
         }
     },
     {
@@ -67,7 +72,7 @@
         },
         "filled": true,
         "author_pub_id": "BKRLVogAAAAJ:UeHWp8X0CEIC",
-        "num_citations": 2,
+        "num_citations": 5,
         "citedby_url": "/scholar?hl=en&cites=13875622113438069976",
         "cites_id": [
             "13875622113438069976"
@@ -76,25 +81,72 @@
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2PQHxcsckMAJ:scholar.google.com/",
         "cites_per_year": {
             "2021": 1,
-            "2022": 1
+            "2022": 1,
+            "2023": 2,
+            "2024": 1
         }
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Closing the gap: Exact maximum likelihood training of generative autoencoders using invertible layers",
-            "pub_year": 2022,
-            "citation": "arXiv preprint arXiv:2205.09546, 2022",
+            "title": "Deterministic training of generative autoencoders using invertible layers",
+            "pub_year": 2023,
+            "citation": "The Eleventh International Conference on Learning Representations, 2023",
             "author": "Gianluigi Silvestri and Daan Roos and Luca Ambrogioni",
-            "journal": "arXiv preprint arXiv:2205.09546",
-            "abstract": "In this work, we provide an exact likelihood alternative to the variational training of generative autoencoders. We show that VAE-style autoencoders can be constructed using invertible layers, which offer a tractable exact likelihood without the need for any regularization terms. This is achieved while leaving complete freedom in the choice of encoder, decoder and prior architectures, making our approach a drop-in replacement for the training of existing VAEs and VAE-style models. We refer to the resulting models as Autoencoders within Flows (AEF), since the encoder, decoder and prior are defined as individual layers of an overall invertible architecture. We show that the approach results in strikingly higher performance than architecturally equivalent VAEs in term of log-likelihood, sample quality and denoising performance. In a broad sense, the main ambition of this work is to close the gap between the normalizing flow and autoencoder literature under the common framework of invertibility and exact maximum likelihood."
+            "conference": "The Eleventh International Conference on Learning Representations",
+            "abstract": "In this work, we provide a deterministic alternative to the stochastic variational training of generative autoencoders. We refer to these new generative autoencoders as AutoEncoders within Flows (AEF), since the encoder and decoder are defined as affine layers of an overall invertible architecture. This results in a deterministic encoding of the data, as opposed to the stochastic encoding of VAEs. The paper introduces two related families of AEFs. The first family relies on a partition of the ambient space and is trained by exact maximum-likelihood. The second family exploits a deterministic expansion of the ambient space and is trained by maximizing the log-probability in this extended space. This latter case leaves complete freedom in the choice of encoder, decoder and prior architectures, making it a drop-in replacement for the training of existing VAEs and VAE-style models. We show that these AEFs can have strikingly higher performance than architecturally identical VAEs in terms of log-likelihood and sample quality, especially for low dimensional latent spaces. Importantly, we show that AEF samples are substantially sharper than VAE samples."
         },
         "filled": true,
-        "author_pub_id": "BKRLVogAAAAJ:zYLM7Y9cAGgC",
-        "num_citations": 0,
+        "author_pub_id": "BKRLVogAAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?hl=en&cites=12955742553462600307",
+        "cites_id": [
+            "12955742553462600307"
+        ],
         "pub_url": "https://arxiv.org/abs/2205.09546",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:1y8f7EsJbDUJ:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:c_KMvDULzLMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2023": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models",
+            "pub_year": 2024,
+            "citation": "arXiv preprint arXiv:2403.18486, 2024",
+            "author": "Guido Klein and Pierre Guetschel and Gianluigi Silvestri and Michael Tangermann",
+            "journal": "arXiv preprint arXiv:2403.18486",
+            "abstract": "Data scarcity in the brain-computer interface field can be alleviated through the use of generative models, specifically diffusion models. While diffusion models have previously been successfully applied to electroencephalogram (EEG) data, existing models lack flexibility w.r.t.~sampling or require alternative representations of the EEG data. To overcome these limitations, we introduce a novel approach to conditional diffusion models that utilizes classifier-free guidance to directly generate subject-, session-, and class-specific EEG data. In addition to commonly used metrics, domain-specific metrics are employed to evaluate the specificity of the generated samples. The results indicate that the proposed model can generate EEG data that resembles real data for each subject, session, and class."
+        },
+        "filled": true,
+        "author_pub_id": "BKRLVogAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/2403.18486",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:D8xmBgDTdR8J:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparison of state-of-the-art deep learning architectures for detection of freezing of gait in Parkinson’s disease",
+            "pub_year": 2023,
+            "citation": "Frontiers in neurology 14, 1306129, 2023",
+            "author": "Emilie Charlotte Klaver and Irene B Heijink and Gianluigi Silvestri and Jeroen PP van Vugt and Sabine Janssen and Jorik Nonnekes and Richard JA van Wezel and Marleen C Tjepkema-Cloostermans",
+            "journal": "Frontiers in neurology",
+            "volume": "14",
+            "pages": "1306129",
+            "publisher": "Frontiers",
+            "abstract": "Freezing of gait (FOG) is one of the most debilitating motor symptoms experienced by patients with Parkinson’s disease (PD). FOG detection is possible using acceleration data from wearable sensors, and a convolutional neural network (CNN) is often used to determine the presence of FOG epochs. We compared the performance of a standard CNN for the detection of FOG with two more complex networks, which are well suited for time series data, the MiniRocket and the InceptionTime.We combined acceleration data of people with PD across four studies. The final data set was split into a training (80%) and hold-out test (20%) set. A fifth study was included as an unseen test set. The data were windowed (2 s) and five-fold cross-validation was applied. The CNN, MiniRocket, and InceptionTime models were evaluated using a receiver operating characteristic (ROC) curve and its area under the curve (AUC). Multiple sensor configurations were evaluated for the best model. The geometric mean was subsequently calculated to select the optimal threshold. The selected model and threshold were evaluated on the hold-out and unseen test set.A total of 70 participants (23.7 h, 9% FOG) were included in this study for training and testing, and in addition, 10 participants provided an unseen test set (2.4 h, 11% FOG). The CNN performed best (AUC = 0.86) in comparison to the InceptionTime (AUC = 0.82) and MiniRocket (AUC = 0.76) models. For the CNN, we found a similar performance for a seven-sensor configuration (lumbar, upper and lower legs and feet; AUC = 0.86), six-sensor configuration (upper and …"
+        },
+        "filled": true,
+        "author_pub_id": "BKRLVogAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 0,
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fneur.2023.1306129/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:tY_jpxSN95QJ:scholar.google.com/",
         "cites_per_year": {}
     },
     {
