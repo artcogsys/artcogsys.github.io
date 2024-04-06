@@ -9,6 +9,6 @@ I am a Mechanical and Electrical engineer. Regarding my PhD, I am interested in,
 ---
 ## Potential topics for thesis internship seekers 
 1. AI students: Applying various reinforcement learning algorithms to a multi-agent foraging environment.
-2. NeuroScience srudents: Testing various hypotheses about neural mechanisms underlying foraging decisions in simulations.
+2. Neuroscience students: Testing various hypotheses about neural mechanisms underlying foraging decisions in simulations.
 ---
 (note for external applicants: no funding available)
