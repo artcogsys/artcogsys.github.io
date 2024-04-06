@@ -1,1 +1,39 @@
-[]
+[
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Dynamical Systems Approach to Optimal Foraging",
+            "pub_year": 2024,
+            "citation": "bioRxiv, 2024.01. 20.576399, 2024",
+            "author": "Siddharth Chaturvedi and Ahmed ElGazzar and Marcel van Gerven",
+            "journal": "bioRxiv",
+            "pages": "2024.01. 20.576399",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Foraging for resources in an environment is a fundamental activity that must be addressed by any biological agent. Thus, modelling this phenomenon in simulations can enhance our understanding of the characteristics of natural intelligence. In this work, we present a novel approach to modelling this phenomenon in silico. We achieve this by using a continuous coupled dynamical system for modelling the system. The dynamical system is composed of three differential equations, representing the position of the agent, the agent's control policy, and the environmental resource dynamics. Crucially, the control policy is implemented as a neural differential equation which allows the control policy to adapt in order to solve the foraging task. Using this setup, we show that when these dynamics are coupled and the controller parameters are optimized to maximize the rate of reward collected, adaptive foraging emerges in the agent. We further show that the internal dynamics of the controller, as a surrogate brain model, closely resemble the dynamics of the evidence accumulation mechanism, which may be used by certain neurons of the dorsal anterior cingulate cortex region in non-human primates, for deciding when to migrate from one patch to another. Finally, we show that by modulating the resource growth rates of the environment, the emergent behaviour of the artificial agent agrees with the predictions of the optimal foraging theory."
+        },
+        "filled": true,
+        "author_pub_id": "adwoK0MAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 0,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2024.01.20.576399.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:geUvMPKWHfgJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Dynamic energy budgeting using potential-based reward function",
+            "pub_year": 2021,
+            "citation": "University of Twente, 2021",
+            "author": "SS Chaturvedi",
+            "abstract": "As robots become more common in our day to day lives it becomes increasingly significant to design the software that controls them in ways that minimize the risk of human injury when physical human-robot interaction (pHRI) occurs. At the same time care must be taken that a safety centric software design does not hinder the robot’s autonomy as it is essential to perform a task in an unstructured and dynamic environment.Reinforcement learning (RL) is often used to achieve autonomy in robotics. One of the ways to achieve safe pHRI is by limiting the amount of energy that flows from the robot to the environment. Such limits can be easily included in the objective function of an RL framework. However, as RL uses black-box optimization algorithms to tune the robot’s controller, limiting the energy used cannot be guaranteed. In order to limit the energy energy used in a deterministic way, virtual energy tank architecture is often used. However, these tanks are initialized with complete task energy which is often greater than the safety energy limit."
+        },
+        "filled": true,
+        "author_pub_id": "adwoK0MAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 0,
+        "pub_url": "http://essay.utwente.nl/88729/1/Chaturvedi_MA_EEMCs.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:FDTrh5OqUW0J:scholar.google.com/",
+        "cites_per_year": {}
+    }
+]

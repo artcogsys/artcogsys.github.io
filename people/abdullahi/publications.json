@@ -4,23 +4,25 @@
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
             "title": "Predictive coding is a consequence of energy efficiency in recurrent neural networks",
-            "pub_year": 2021,
-            "citation": "https://doi.org/10.1101/2021.02.16.430904, 2021",
+            "pub_year": 2022,
+            "citation": "https://doi.org/10.1016/j.patter.2022.100639, 2022",
             "author": "Abdullahi Ali and Nasir Ahmad and Elgar de Groot and Marcel A.J. van Gerven and Tim C. Kietzmann",
-            "abstract": "Predictive coding represents a promising framework for understanding brain function. It postulates that the brain continuously inhibits predictable sensory input, ensuring a preferential processing of surprising elements. A central aspect of this view is its hierarchical connectivity, involving recurrent message passing between excitatory bottom-up signals and inhibitory top-down feedback. Here we use computational modelling to demonstrate that such architectural hard-wiring is not necessary. Rather, predictive coding is shown to emerge as a consequence of energy efficiency. When training recurrent neural networks to minimise their energy consumption while operating in predictive environments, the networks self-organise into prediction and error units with appropriate inhibitory and excitatory interconnections, and learn to inhibit predictable sensory input. Moving beyond the view of purely top-down driven predictions, we demonstrate via virtual lesioning experiments that networks perform predictions on two timescales: fast lateral predictions among sensory units, and slower prediction cycles that integrate evidence over time."
+            "abstract": "Predictive coding is a promising framework for understanding brain function. It postulates that the brain continuously inhibits predictable sensory input, ensuring preferential processing of surprising elements. A central aspect of this view is its hierarchical connectivity, involving recurrent message passing between excitatory bottom-up signals and inhibitory top-down feedback. Here we use computational modeling to demonstrate that such architectural hardwiring is not necessary. Rather, predictive coding is shown to emerge as a consequence of energy efficiency. When training recurrent neural networks to minimize their energy consumption while operating in predictive environments, the networks self-organize into prediction and error units with appropriate inhibitory and excitatory interconnections and learn to inhibit predictable sensory input. Moving beyond the view of purely top-down-driven predictions, we …"
         },
         "filled": true,
         "author_pub_id": "n57ygVkAAAAJ:d1gkVwhDpl0C",
-        "num_citations": 10,
-        "citedby_url": "/scholar?hl=en&cites=3873756733302774912",
+        "num_citations": 36,
+        "citedby_url": "/scholar?hl=en&cites=8221849874453525963,15844834907967656550",
         "cites_id": [
-            "3873756733302774912"
+            "8221849874453525963",
+            "15844834907967656550"
         ],
-        "pub_url": "https://www.biorxiv.org/content/10.1101/2021.02.16.430904.abstract",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gBzKkjlZwjUJ:scholar.google.com/",
+        "pub_url": "https://www.cell.com/patterns/pdf/S2666-3899(22)00271-9.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:y3VkS-bgGXIJ:scholar.google.com/",
         "cites_per_year": {
-            "2021": 4,
-            "2022": 6
+            "2022": 8,
+            "2023": 25,
+            "2024": 3
         }
     },
     {
@@ -43,7 +45,7 @@
             "11532110971466083199"
         ],
         "pub_url": "https://arxiv.org/abs/1911.13097",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:f-ueLNRJCqAJ:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QmRQ4GNToNEJ:scholar.google.com/",
         "cites_per_year": {
             "2021": 2,
             "2022": 2

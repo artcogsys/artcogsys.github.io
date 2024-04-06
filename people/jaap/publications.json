@@ -3,58 +3,11 @@
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "The effects of augmented reality visual cues on turning in place in Parkinson's disease patients with freezing of gait",
-            "pub_year": 2020,
-            "citation": "Frontiers in neurology 11, 185, 2020",
-            "author": "Sabine Janssen and Jaap de Ruyter van Steveninck and Hizirwan S Salim and Helena M Cockx and Bastiaan R Bloem and Tjitske Heida and Richard JA Van Wezel",
-            "journal": "Frontiers in neurology",
-            "volume": "11",
-            "pages": "185",
-            "publisher": "Frontiers Media SA",
-            "abstract": ""
-        },
-        "filled": true,
-        "author_pub_id": "751H_tMAAAAJ:d1gkVwhDpl0C",
-        "num_citations": 12,
-        "citedby_url": "/scholar?hl=en&cites=3167931427059800781",
-        "cites_id": [
-            "3167931427059800781"
-        ],
-        "public_access": true,
-        "pub_url": "https://www.frontiersin.org/articles/10.3389/fneur.2020.00185/full",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zRqyNtnA9isJ:scholar.google.com/",
-        "cites_per_year": {
-            "2021": 2,
-            "2022": 10
-        },
-        "mandates": [
-            {
-                "agency": "Netherlands Organisation for Health Research and Development",
-                "url_policy": "https://www.zonmw.nl/fileadmin/zonmw/documenten/Gezondheidsbescherming/Open_Access/Open_Access_Policy_ZonMw_2021..pdf",
-                "url_policy_cached": "/mandates/zonmw_nl-2021-02-13-en.pdf",
-                "effective_date": "2013/7",
-                "embargo": "6 months",
-                "acknowledgement": " …Netherlands Organization for Health Research and Development (ZonMw) …"
-            },
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …Netherlands Organization for Scientific Research …"
-            }
-        ]
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
             "title": "End-to-end optimization of prosthetic vision",
             "pub_year": 2022,
-            "citation": "Journal of Vision 22 (2), 20-20, 2022",
+            "citation": "Journal of vision 22 (2), 20-20, 2022",
             "author": "Jaap de Ruyter van Steveninck and Umut Güçlü and Richard van Wezel and Marcel van Gerven",
-            "journal": "Journal of Vision",
+            "journal": "Journal of vision",
             "volume": "22",
             "number": "2",
             "pages": "20-20",
@@ -63,28 +16,108 @@
         },
         "filled": true,
         "author_pub_id": "751H_tMAAAAJ:2osOgNQ5qMEC",
-        "num_citations": 9,
+        "num_citations": 33,
         "citedby_url": "/scholar?hl=en&cites=1277070885734257456",
         "cites_id": [
             "1277070885734257456"
         ],
-        "public_access": true,
         "pub_url": "https://tvst.arvojournals.org/article.aspx?articleid=2778616",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MBMvUTQRuREJ:scholar.google.com/",
         "cites_per_year": {
-            "2021": 1,
-            "2022": 8
+            "2021": 2,
+            "2022": 14,
+            "2023": 10,
+            "2024": 7
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The effects of augmented reality visual cues on turning in place in Parkinson's disease patients with freezing of gait",
+            "pub_year": 2020,
+            "citation": "Frontiers in neurology 11, 185, 2020",
+            "author": "Sabine Janssen and Jaap de Ruyter van Steveninck and Hizirwan S Salim and Helena M Cockx and Bastiaan R Bloem and Tjitske Heida and Richard JA Van Wezel",
+            "journal": "Frontiers in neurology",
+            "volume": "11",
+            "pages": "185",
+            "publisher": "Frontiers Media SA",
+            "abstract": "Background: Turning in place is particularly bothersome for patients with Parkinson's disease (PD) experiencing freezing of gait (FOG). Cues designed to enforce goal-directed turning are not yet available.Objectives: Assess whether augmented reality (AR) visual cues improve FOG and turning in place in PD patients with FOG.Methods: Sixteen PD patients with FOG performed a series of 180° turns under an experimental condition with AR visual cues displayed through a HoloLens and two control conditions (one consisting of auditory cues and one without any cues). FOG episodes were annotated by two independent raters from video recordings. Motion data were measured with 17 inertial measurement units for calculating axial kinematics, scaling, and timing of turning.Results: AR visual cues did not reduce the percent time frozen (p = 0.73) or the number (p = 0.73) and duration (p = 0.78) of FOG episodes compared to the control condition without cues. All FOG parameters were higher with AR visual cues than with auditory cues [percent time frozen (p = 0.01), number (p = 0.02), and duration (p = 0.007) of FOG episodes]. The AR visual cues did reduce the peak angular velocity (visual vs. uncued p = 0.03; visual vs. auditory p = 0.02) and step height (visual vs. uncued p = 0.02; visual vs. auditory p = 0.007), and increased the step height coefficient of variation (visual vs. uncued p = 0.04; visual vs. auditory p = 0.01) and time to maximum head–pelvis separation (visual vs. uncued p = 0.02; visual vs. auditory p = 0.005), compared to both control conditions.Conclusions: The AR visual cues in this study did not reduce FOG, and worsened some …"
         },
-        "mandates": [
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
-                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
-                "effective_date": "2021/1",
-                "embargo": "none",
-                "acknowledgement": " …Dutch Organization for Scientific Research (NWO) …"
-            }
-        ]
+        "filled": true,
+        "author_pub_id": "751H_tMAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 29,
+        "citedby_url": "/scholar?hl=en&cites=3167931427059800781",
+        "cites_id": [
+            "3167931427059800781"
+        ],
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fneur.2020.00185/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zRqyNtnA9isJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 2,
+            "2022": 12,
+            "2023": 14
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Optimization of neuroprosthetic vision via end-to-end deep reinforcement learning",
+            "pub_year": 2022,
+            "citation": "International Journal of Neural Systems 32 (11), 2250052, 2022",
+            "author": "Burcu Küçükoğlu and Bodo Rueckauer and Nasir Ahmad and Jaap de Ruyter van Steveninck and Umut Güçlü and Marcel van Gerven",
+            "journal": "International Journal of Neural Systems",
+            "volume": "32",
+            "number": "11",
+            "pages": "2250052",
+            "publisher": "World Scientific Publishing Company",
+            "abstract": "Visual neuroprostheses are a promising approach to restore basic sight in visually impaired people. A major challenge is to condense the sensory information contained in a complex environment into meaningful stimulation patterns at low spatial and temporal resolution. Previous approaches considered task-agnostic feature extractors such as edge detectors or semantic segmentation, which are likely suboptimal for specific tasks in complex dynamic environments. As an alternative approach, we propose to optimize stimulation patterns by end-to-end training of a feature extractor using deep reinforcement learning agents in virtual environments. We present a task-oriented evaluation framework to compare different stimulus generation mechanisms, such as static edge-based and adaptive end-to-end approaches like the one introduced here. Our experiments in Atari games show that stimulation patterns obtained …"
+        },
+        "filled": true,
+        "author_pub_id": "751H_tMAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 20,
+        "citedby_url": "/scholar?hl=en&cites=13893822049777717499",
+        "cites_id": [
+            "13893822049777717499"
+        ],
+        "pub_url": "https://www.worldscientific.com/doi/abs/10.1142/S0129065722500526",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-5B9qYrF0MAJ:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 4,
+            "2023": 8,
+            "2024": 8
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Real-world indoor mobility with simulated prosthetic vision: The benefits and feasibility of contour-based scene simplification at different phosphene resolutions",
+            "pub_year": 2022,
+            "citation": "Journal of vision 22 (2), 1-1, 2022",
+            "author": "Jaap de Ruyter van Steveninck and Tom van Gestel and Paula Koenders and Guus van der Ham and Floris Vereecken and Umut Güçlü and Marcel van Gerven and Yağmur Güçlütürk and Richard van Wezel",
+            "journal": "Journal of vision",
+            "volume": "22",
+            "number": "2",
+            "pages": "1-1",
+            "publisher": "The Association for Research in Vision and Ophthalmology",
+            "abstract": "Neuroprosthetic implants are a promising technology for restoring some form of vision in people with visual impairments via electrical neurostimulation in the visual pathway. Although an artificially generated prosthetic percept is relatively limited compared with normal vision, it may provide some elementary perception of the surroundings, re-enabling daily living functionality. For mobility in particular, various studies have investigated the benefits of visual neuroprosthetics in a simulated prosthetic vision paradigm with varying outcomes. The previous literature suggests that scene simplification via image processing, and particularly contour extraction, may potentially improve the mobility performance in a virtual environment. In the current simulation study with sighted participants, we explore both the theoretically attainable benefits of strict scene simplification in an indoor environment by controlling the environmental complexity, as well as the practically achieved improvement with a deep learning-based surface boundary detection implementation compared with traditional edge detection. A simulated electrode resolution of 26× 26 was found to provide sufficient information for mobility in a simple environment. Our results suggest that, for a lower number of implanted electrodes, the removal of background textures and within-surface gradients may be beneficial in theory. However, the deep learning-based implementation for surface boundary detection did not improve mobility performance in the current study. Furthermore, our findings indicate that, for a greater number of electrodes, the removal of within-surface gradients and background textures …"
+        },
+        "filled": true,
+        "author_pub_id": "751H_tMAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 15,
+        "citedby_url": "/scholar?hl=en&cites=7138790114948681059",
+        "cites_id": [
+            "7138790114948681059"
+        ],
+        "pub_url": "https://iovs.arvojournals.org/article.aspx?articleid=2778332",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Yw2WX8kTEmMJ:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 9,
+            "2023": 4,
+            "2024": 2
+        }
     },
     {
         "container_type": "Publication",
@@ -101,103 +134,177 @@
         },
         "filled": true,
         "author_pub_id": "751H_tMAAAAJ:9yKSN-GCB0IC",
-        "num_citations": 4,
+        "num_citations": 8,
         "citedby_url": "/scholar?hl=en&cites=12812678583841469450",
         "cites_id": [
             "12812678583841469450"
         ],
-        "public_access": true,
         "pub_url": "https://www.hindawi.com/journals/pd/2020/4104712/",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:CjQgm0nHz7EJ:scholar.google.com/",
         "cites_per_year": {
-            "2022": 4
-        },
-        "mandates": [
-            {
-                "agency": "Netherlands Organisation for Health Research and Development",
-                "url_policy": "https://www.zonmw.nl/fileadmin/zonmw/documenten/Gezondheidsbescherming/Open_Access/Open_Access_Policy_ZonMw_2021..pdf",
-                "url_policy_cached": "/mandates/zonmw_nl-2021-02-13-en.pdf",
-                "effective_date": "2013/7",
-                "embargo": "6 months",
-                "acknowledgement": " …Netherlands Organization for Health Research and Development (ZonMw) and the National Initiative Brain and Cognition (NIHC) and a research grant (PROJ-00872) …"
-            },
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "url_policy_cached": "/mandates/nwo_nl-2018-01-28-en.pdf",
-                "effective_date": "2015/12",
-                "embargo": "none",
-                "acknowledgement": " …Netherlands Organization for Scientific Research …"
-            }
-        ]
+            "2022": 4,
+            "2023": 4
+        }
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Real-world indoor mobility with simulated prosthetic vision: The benefits and feasibility of contour-based scene simplification at different phosphene resolutions",
+            "title": "Biologically plausible phosphene simulation for the differentiable optimization of visual cortical prostheses",
             "pub_year": 2022,
-            "citation": "Journal of Vision 22 (2), 1-1, 2022",
-            "author": "Jaap de Ruyter van Steveninck and Tom van Gestel and Paula Koenders and Guus van der Ham and Floris Vereecken and Umut Güçlü and Marcel van Gerven and Yağmur Güçlütürk and Richard van Wezel",
-            "journal": "Journal of Vision",
-            "volume": "22",
-            "number": "2",
-            "pages": "1-1",
-            "publisher": "The Association for Research in Vision and Ophthalmology",
-            "abstract": "Neuroprosthetic implants are a promising technology for restoring some form of vision in people with visual impairments via electrical neurostimulation in the visual pathway. Although an artificially generated prosthetic percept is relatively limited compared with normal vision, it may provide some elementary perception of the surroundings, re-enabling daily living functionality. For mobility in particular, various studies have investigated the benefits of visual neuroprosthetics in a simulated prosthetic vision paradigm with varying outcomes. The previous literature suggests that scene simplification via image processing, and particularly contour extraction, may potentially improve the mobility performance in a virtual environment. In the current simulation study with sighted participants, we explore both the theoretically attainable benefits of strict scene simplification in an indoor environment by controlling the environmental complexity, as well as the practically achieved improvement with a deep learning-based surface boundary detection implementation compared with traditional edge detection. A simulated electrode resolution of 26× 26 was found to provide sufficient information for mobility in a simple environment. Our results suggest that, for a lower number of implanted electrodes, the removal of background textures and within-surface gradients may be beneficial in theory. However, the deep learning-based implementation for surface boundary detection did not improve mobility performance in the current study. Furthermore, our findings indicate that, for a greater number of electrodes, the removal of within-surface gradients and background textures …"
+            "citation": "bioRxiv, 2022.12. 23.521749, 2022",
+            "author": "Maureen Louisa van der Grinten and Jaap de Ruyter van Steveninck and Antonio Lozano and Laura Pijnacker and Bodo Rueckauer and Pieter Roelfsema and Marcel van Gerven and Richard van Wezel and Umut Guclu and Yagmur Gucluturk",
+            "journal": "bioRxiv",
+            "pages": "2022.12. 23.521749",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "Blindness affects millions of people around the world, and is expected to become increasingly prevalent in the years to come. For some blind individuals, a promising solution to restore a form of vision are cortical visual prostheses, which convert camera input to electrical stimulation of the cortex to bypass part of the impaired visual system. Due to the constrained number of electrodes that can be implanted, the artificially induced visual percept (a pattern of localized light flashes, or ‘phosphenes’) is of limited resolution, and a great portion of the field’s research attention is devoted to optimizing the efficacy, efficiency, and practical usefulness of the encoding of visual information. A commonly exploited method is the non-invasive functional evaluation in sighted subjects or with computational models by making use of simulated prosthetic vision (SPV) pipelines. Although the SPV literature has provided us with some fundamental insights, an important drawback that researchers and clinicians may encounter is the lack of realism in the simulation of cortical prosthetic vision, which limits the validity for real-life applications. Moreover, none of the existing simulators address the specific practical requirements for the electrical stimulation parameters. In this study, we developed a PyTorch-based, fast and fully differentiable phosphene simulator. Our simulator transforms specific electrode stimulation patterns into biologically plausible representations of the artificial visual percepts that the prosthesis wearer is expected to see. The simulator integrates a wide range of both classical and recent clinical results with neurophysiological evidence in humans and non …"
         },
         "filled": true,
-        "author_pub_id": "751H_tMAAAAJ:UeHWp8X0CEIC",
-        "num_citations": 3,
-        "citedby_url": "/scholar?hl=en&cites=7138790114948681059",
+        "author_pub_id": "751H_tMAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 4,
+        "citedby_url": "/scholar?hl=en&cites=16640686144734743412",
         "cites_id": [
-            "7138790114948681059"
+            "16640686144734743412"
         ],
-        "public_access": true,
-        "pub_url": "https://iovs.arvojournals.org/article.aspx?articleid=2778332",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Yw2WX8kTEmMJ:scholar.google.com/",
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2022.12.23.521749.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:dMut6-GX7-YJ:scholar.google.com/",
         "cites_per_year": {
-            "2022": 3
+            "2023": 3,
+            "2024": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards biologically plausible phosphene simulation for the differentiable optimization of visual cortical prostheses",
+            "pub_year": 2024,
+            "citation": "Elife 13, e85812, 2024",
+            "author": "Maureen van der Grinten and Jaap de Ruyter van Steveninck and Antonio Lozano and Laura Pijnacker and Bodo Rueckauer and Pieter Roelfsema and Marcel van Gerven and Richard van Wezel and Umut Güçlü and Yağmur Güçlütürk",
+            "journal": "Elife",
+            "volume": "13",
+            "pages": "e85812",
+            "publisher": "eLife Sciences Publications Limited",
+            "abstract": "Blindness affects millions of people around the world. A promising solution to restoring a form of vision for some individuals are cortical visual prostheses, which bypass part of the impaired visual pathway by converting camera input to electrical stimulation of the visual system. The artificially induced visual percept (a pattern of localized light flashes, or ‘phosphenes’) has limited resolution, and a great portion of the field’s research is devoted to optimizing the efficacy, efficiency, and practical usefulness of the encoding of visual information. A commonly exploited method is noninvasive functional evaluation in sighted subjects or with computational models by using simulated prosthetic vision (SPV) pipelines. An important challenge in this approach is to balance enhanced perceptual realism, biologically plausibility, and real-time performance in the simulation of cortical prosthetic vision. We present a biologically plausible, PyTorch-based phosphene simulator that can run in real-time and uses differentiable operations to allow for gradient-based computational optimization of phosphene encoding models. The simulator integrates a wide range of clinical results with neurophysiological evidence in humans and non-human primates. The pipeline includes a model of the retinotopic organization and cortical magnification of the visual cortex. Moreover, the quantitative effects of stimulation parameters and temporal dynamics on phosphene characteristics are incorporated. Our results demonstrate the simulator’s suitability for both computational applications such as end-to-end deep learning-based prosthetic vision optimization as well as behavioral …"
         },
-        "mandates": [
-            {
-                "agency": "Netherlands Organisation for Scientific Research",
-                "url_policy": "https://www.nwo.nl/en/open-access-publishing",
-                "url_policy_cached": "/mandates/nwo_nl-2021-02-13-en.pdf",
-                "effective_date": "2021/1",
-                "embargo": "none",
-                "acknowledgement": " …Dutch Organisation for Scientific Research (NWO) …"
-            }
-        ]
+        "filled": true,
+        "author_pub_id": "751H_tMAAAAJ:ufrVoPGSRksC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?hl=en&cites=17341316344401265165",
+        "cites_id": [
+            "17341316344401265165"
+        ],
+        "pub_url": "https://elifesciences.org/articles/85812",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DYK2RVa7qPAJ:scholar.google.com/",
+        "cites_per_year": {
+            "2024": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gaze-contingent processing improves mobility, scene recognition and visual search in simulated head-steered prosthetic vision",
+            "pub_year": 2024,
+            "citation": "Journal of Neural Engineering, 2024",
+            "author": "Jaap de Ruyter van Steveninck and Mo Nipshagen and Marcel van Gerven and Umut Güçlü and Yağmur Güçlüturk and Richard van Wezel",
+            "journal": "Journal of Neural Engineering",
+            "abstract": "OBJECTIVE The enabling technology of visual prosthetics for the blind is making rapid progress. However, there are still uncertainties regarding the functional outcomes, which can depend on many design choices in the development. In visual prostheses with a head-mounted camera, a particularly challenging question is how to deal with the gaze-locked visual percept associated with spatial updating conflicts in the brain. The current study investigates a recently proposed compensation strategy based on gaze-contingent image processing with eye-tracking. Gaze-contingent processing is expected to reinforce natural-like visual scanning and reestablished spatial updating based on eye movements. The beneficial effects remain to be investigated for daily life activities in complex visual environments.  APPROACH The current study evaluates the benefits of gaze-contingent processing versus gaze-locked and gaze …"
+        },
+        "filled": true,
+        "author_pub_id": "751H_tMAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0,
+        "pub_url": "https://iopscience.iop.org/article/10.1088/1741-2552/ad357d/meta",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4pBB9K6ysD8J:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gaze-contingent processing improves mobility performance and visual orientation in simulated head-steered prosthetic vision",
+            "pub_year": 2023,
+            "citation": "bioRxiv, 2023.09. 18.558225, 2023",
+            "author": "Jaap de Ruyter van Steveninck and Mo Nipshagen and Marcel van Gerven and Umut Guclu and Yagmur Gucluturk and Richard van Wezel",
+            "journal": "bioRxiv",
+            "pages": "2023.09. 18.558225",
+            "publisher": "Cold Spring Harbor Laboratory",
+            "abstract": "The enabling technology of visual prosthetics for the blind is making rapid progress. However, there are still uncertainties regarding the functional outcomes, which can depend on many design choices in the development. In visual prostheses with a head-mounted camera, a particularly challenging question is how to deal with the gaze-locked visual percept associated with spatial updating conflicts in the brain. A recently proposed compensation strategy is gaze-contingent image processing with eye-tracking, which enables natural visual scanning and reestablished spatial updating based on eye movements. The current study evaluates the benefits of gaze-contingent processing versus gaze-locked and gaze-ignored simulations in the context of mobility and orientation, using a simulated prosthetic vision paradigm with sighted subjects. Compared to gaze-locked vision, gaze-contingent processing was found to improve the speed in all experimental tasks, as well as the subjective quality of vision. Similar or further improvements were found in a control condition that ignores gaze-depended effects, a simulation that is unattainable in the clinical reality. Our results suggest that gaze-locked vision and spatial updating conflicts can be debilitating for complex visually-guided activities of daily living such as mobility and orientation. Therefore, for prospective users of head-steered prostheses with an unimpaired oculomotor system, the inclusion of a compensatory eye-tracking system is strongly endorsed."
+        },
+        "filled": true,
+        "author_pub_id": "751H_tMAAAAJ:eQOLeE2rZwMC",
+        "num_citations": 0,
+        "pub_url": "https://www.biorxiv.org/content/10.1101/2023.09.18.558225.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:RJvs-4NVPb4J:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Talk session 25. Low Level Vision Deep reinforcement learning for evaluation and optimization of prosthetic vision",
+            "pub_year": 2022,
+            "citation": "PERCEPTION 51, 178-179, 2022",
+            "author": "Jaap de Ruyter van Steveninck and Sam Danen and Burcu Küçükoğlu and Umut Güçlü and Richard van Wezel and Marcel van Gerven",
+            "conference": "PERCEPTION",
+            "volume": "51",
+            "pages": "178-179",
+            "publisher": "SAGE PUBLICATIONS LTD"
+        },
+        "filled": true,
+        "author_pub_id": "751H_tMAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 0,
+        "pub_url": "https://scholar.google.com/scholar?cluster=4790162433266698637&hl=en&oi=scholarr",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:jUlIi1oTekIJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Gaze-contingent processing improves mobility, scene recognition and visual search in simulated head-steered prosthetic vision",
+            "citation": "Journal of neural engineering, 0",
+            "author": "Jaap de Ruyter van Steveninck and Mo Nipshagen and Marcel van Gerven and Umut Güçlü and Yağmur Güçlüturk and Richard van Wezel",
+            "journal": "Journal of neural engineering",
+            "abstract": ""
+        },
+        "filled": true,
+        "author_pub_id": "751H_tMAAAAJ:LkGwnXOMwfcC",
+        "num_citations": 0,
+        "pub_url": "https://pubmed.ncbi.nlm.nih.gov/38502957/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KUy5FaT6nNcJ:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Prosthetic vision for the blind: Intelligent optimization of limited vision Testing trained computer agents for phosphene vision in a realistic environment",
+            "citation": "",
+            "author": "Berfu Karaca and Marcel van Gerven and Umut Güçlü and Burcu Küçükoglu and Jaap de Ruyter van Steveninck and Berfu Karaca",
+            "abstract": "Blindness is a common societal problem that affects day-to-day functioning. Even though there is no effective treatment yet, there are some alternative ways such as neuroprosthetic visual implants. Although prosthetic vision does not provide normal vision, it does provide a rudimentary form of the environment through point-like flashes known as phosphenes which might still help basic activities like navigation. However, due to biological limitations, the current implants have low resolution. The limited capacity of resolution increases the need for optimal information extraction from the scene for efficient understanding of the environment. In line with this, there is a need for better image pre-processing techniques.One limitation of the studies testing phosphene vision is the necessary surgical operation for implants. For this reason, researchers found other techniques to test phosphene vision. One solution is testing sighted participants with wearable head-mounted displays (eg, VR) that convert the real scene to processed phosphene vision. However, studies suggested that different image pre-processing techniques should be used for different contexts and scenes which requires an optimization adaptive to the scene. The variability in parameters to be tested and the need for optimization raise other challenges such as significantly increased number of tests for optimization problems which also means increased cost."
+        },
+        "filled": true,
+        "author_pub_id": "751H_tMAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 0,
+        "pub_url": "https://theses.ubn.ru.nl/server/api/core/bitstreams/3dca1eb7-8198-4e1d-9436-0a7602229f30/content",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:ob9cIGBDhe4J:scholar.google.com/",
+        "cites_per_year": {}
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
             "title": "Optimization of Neuroprosthetic Vision via End-to-end Deep Reinforcement Learning",
-            "pub_year": 2022,
-            "citation": "bioRxiv, 2022",
-            "author": "Burcu Küçükoğlu and Bodo Rueckauer and Nasir Ahmad and Jaap de Ruyter van Steveninck and Umut Güçlü and Marcel van Gerven",
-            "journal": "bioRxiv",
-            "publisher": "Cold Spring Harbor Laboratory",
+            "citation": "",
+            "author": "Burcu Küçükoğlu Bodo Rueckauer and Nasir Ahmad and Jaap de Ruyter van Steveninck and Umut Güçlü Marcel van Gerven",
             "abstract": "Visual neuroprostheses are a promising approach to restore basic sight in visually impaired people. A major challenge is to condense the sensory information contained in a complex environment into meaningful stimulation patterns at low spatial and temporal resolution. Previous approaches considered task-agnostic feature extractors such as edge detectors or semantic segmentation, which are likely suboptimal for specific tasks in complex dynamic environments. As an alternative approach, we propose to optimize stimulation patterns by end-to-end training of a feature extractor using deep reinforcement learning agents in virtual environments. We present a task-oriented evaluation framework to compare different stimulus generation mechanisms, such as static edge-based and adaptive end-to-end approaches like the one introduced here. Our experiments in Atari games show that stimulation patterns obtained via task-dependent end-to-end optimized reinforcement learning result in equivalent or improved performance compared to fixed feature extractors on high difficulty levels. These findings signify the relevance of adaptive reinforcement learning for neuroprosthetic vision in complex environments."
         },
         "filled": true,
-        "author_pub_id": "751H_tMAAAAJ:IjCSPb-OGe4C",
+        "author_pub_id": "751H_tMAAAAJ:Tyk-4Ss8FVUC",
         "num_citations": 0,
-        "public_access": true,
-        "pub_url": "https://www.biorxiv.org/content/10.1101/2022.02.25.482017.abstract",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-5B9qYrF0MAJ:scholar.google.com/",
-        "cites_per_year": {},
-        "mandates": [
-            {
-                "agency": "European Commission",
-                "url_policy": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf",
-                "url_policy_cached": "/mandates/horizon-europe-eu-2021-08-14-en.pdf",
-                "effective_date": "2021/2",
-                "embargo": "none",
-                "acknowledgement": " …European Union’s Horizon 2020 research and innovation programme under grant agreement No 899287 …"
-            }
-        ]
+        "pub_url": "https://scholar.archive.org/work/llgyv6hblnhrpdmguuylhupczm/access/wayback/https://www.biorxiv.org/content/biorxiv/early/2022/02/28/2022.02.25.482017.full.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:esDUUn6gXQgJ:scholar.google.com/",
+        "cites_per_year": {}
     }
 ]

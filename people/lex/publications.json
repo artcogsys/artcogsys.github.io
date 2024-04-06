@@ -4,62 +4,68 @@
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
             "title": "Chronic central serous chorioretinopathy: long-term follow-up and vision-related quality of life",
-            "pub_year": 2017,
+            "pub_year": 2016,
+            "citation": "Clinical Ophthalmology, 39-46, 2016",
             "author": "Myrte B Breukink and Alexander JM Dingemans and Anneke I den Hollander and Jan EE Keunen and Robert E MacLaren and Sascha Fauser and Giuseppe Querques and Carel B Hoyng and Susan M Downes and Camiel JF Boon",
-            "journal": "Clinical ophthalmology (Auckland, NZ)",
-            "volume": "11",
-            "pages": "39",
-            "publisher": "Dove Press",
-            "abstract": "PurposeTo describe the clinical findings and long-term outcome of patients with chronic central serous chorioretinopathy (cCSC).Materials and methodsThis was a retrospective case series in 52 eyes of 36 patients with a follow-up period of at least 1 year. Extensive ophthalmic examination and a validated questionnaire concerning vision-related quality of life (National Eye Institute Visual Function Questionnaire [NEI-VFQ]-39) were analyzed.ResultsMean visual acuity showed a significant decline over time of 0.16 logarithm of minimum angle of resolution ([logMAR] range:− 0.22 to 1.3; P= 0.009) after a mean follow-up period of 10.6 years. Also, patients reported lower vision-related quality of life based on the NEI-VFQ-39 for almost all categories compared to healthy controls. Macular atrophy was diagnosed more often on optical coherence tomography compared to other diagnostic entities. Retinal pigment …"
+            "journal": "Clinical Ophthalmology",
+            "pages": "39-46",
+            "publisher": "Taylor & Francis",
+            "abstract": "To describe the clinical findings and long-term outcome of patients with chronic central serous chorioretinopathy (cCSC).This was a retrospective case series in 52 eyes of 36 patients with a follow-up period of at least 1 year. Extensive ophthalmic examination and a validated questionnaire concerning vision-related quality of life (National Eye Institute Visual Function Questionnaire [NEI-VFQ]-39) were analyzed.Mean visual acuity showed a significant decline over time of 0.16 logarithm of minimum angle of resolution ([logMAR] range: −0.22 to 1.3; P=0.009) after a mean follow-up period of 10.6 years. Also, patients reported lower vision-related quality of life based on the NEI-VFQ-39 for almost all categories compared to healthy controls. Macular atrophy was diagnosed more often on optical coherence tomography compared to other diagnostic entities. Retinal pigment …"
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:2osOgNQ5qMEC",
-        "num_citations": 100,
-        "citedby_url": "/scholar?cites=5552278952169303402,1387401223713440023",
+        "num_citations": 135,
+        "citedby_url": "/scholar?hl=en&cites=5573982214100344096,13985420099165814812,1387401223713440023",
         "cites_id": [
-            "5552278952169303402",
+            "5573982214100344096",
+            "13985420099165814812",
             "1387401223713440023"
         ],
-        "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5189979/",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:F8Fh7A8KQRMJ:scholar.google.com/",
+        "pub_url": "https://www.tandfonline.com/doi/abs/10.2147/OPTH.S115685",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IN3Ln0rDWk0J:scholar.google.com/",
         "cites_per_year": {
-            "2017": 4,
-            "2018": 17,
-            "2019": 21,
-            "2020": 12,
-            "2021": 19,
-            "2022": 26
+            "2017": 5,
+            "2018": 16,
+            "2019": 24,
+            "2020": 14,
+            "2021": 18,
+            "2022": 26,
+            "2023": 26,
+            "2024": 5
         }
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "KAT6A syndrome: genotype–phenotype correlation in 76 patients with pathogenic KAT6A variants",
+            "title": "KAT6A Syndrome: genotype–phenotype correlation in 76 patients with pathogenic KAT6A variants",
             "pub_year": 2019,
-            "author": "Joanna Kennedy and David Goudie and Edward Blair and Kate Chandler and Shelagh Joss and Victoria McKay and Andrew Green and Ruth Armstrong and Melissa Lees and Benjamin Kamien and Bruce Hopper and Tiong Yang Tan and Patrick Yap and Zornitza Stark and Nobuhiko Okamoto and Noriko Miyake and Naomichi Matsumoto and Ellen Macnamara and Jennifer L Murphy and Elizabeth McCormick and Hakon Hakonarson and Marni J Falk and Dong Li and Patrick Blackburn and Eric Klee and Dusica Babovic-Vuksanovic and Susan Schelley and Louanne Hudgins and Sarina Kant and Bertrand Isidor and Benjamin Cogne and Kimberley Bradbury and Mark Williams and Chirag Patel and Helen Heussler and Celia Duff-Farrier and Phillis Lakeman and Ingrid Scurr and Usha Kini and Mariet Elting and Margot Reijnders and Janneke Schuurs-Hoeijmakers and Mohamed Wafik and Anne Blomhoff and Claudia AL Ruivenkamp and Esther Nibbeling and Alexander JM Dingemans and Emilie D Douine and Stanley F Nelson and Maja Hempel and Tatjana Bierhals and Davor Lessel and Jessika Johannsen and Valerie A Arboleda and Ruth Newbury-Ecob",
+            "citation": "Genetics in medicine 21 (4), 850-860, 2019",
+            "author": "Joanna Kennedy and David Goudie and Edward Blair and Kate Chandler and Shelagh Joss and Victoria McKay and Andrew Green and Ruth Armstrong and Melissa Lees and Benjamin Kamien and Bruce Hopper and Tiong Yang Tan and Patrick Yap and Zornitza Stark and Nobuhiko Okamoto and Noriko Miyake and Naomichi Matsumoto and Ellen Macnamara and Jennifer L Murphy and Elizabeth McCormick and Hakon Hakonarson and Marni J Falk and Dong Li and Patrick Blackburn and Eric Klee and Dusica Babovic-Vuksanovic and Susan Schelley and Louanne Hudgins and Sarina Kant and Bertrand Isidor and Benjamin Cogne and Kimberley Bradbury and Mark Williams and Chirag Patel and Helen Heussler and Celia Duff-Farrier and Phillis Lakeman and Ingrid Scurr and Usha Kini and Mariet Elting and Margot Reijnders and Janneke Schuurs-Hoeijmakers and Mohamed Wafik and Anne Blomhoff and Claudia AL Ruivenkamp and Esther Nibbeling and Alexander JM Dingemans and Emilie D Douine and Stanley F Nelson and DDD Study and  and Maja Hempel and Tatjana Bierhals and Davor Lessel and Jessika Johannsen and Valerie A Arboleda and Ruth Newbury-Ecob",
             "journal": "Genetics in medicine",
             "volume": "21",
             "number": "4",
             "pages": "850-860",
-            "publisher": "Nature Publishing Group",
+            "publisher": "Nature Publishing Group US",
             "abstract": " Pathogenic variants in KAT6A have recently been identified as a cause of syndromic developmental delay. Within 2 years, the number of patients identified with pathogenic KAT6A variants has rapidly expanded and the full extent and variability of the clinical phenotype has not been reported.We obtained data for patients with KAT6A pathogenic variants through three sources: treating clinicians, an online family survey distributed through social media, and a literature review.We identified 52 unreported cases, bringing the total number of published cases to 76. Our results expand the genotypic spectrum of pathogenic variants to include missense and splicing mutations. We functionally validated a pathogenic splice-site variant and identified a likely hotspot location forde novo missense variants. The majority of clinical features in KAT6A syndrome have highly variable penetrance. For core …"
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:9yKSN-GCB0IC",
-        "num_citations": 52,
-        "citedby_url": "/scholar?cites=4914932737948777521,6131959510401408506,12077171112544675244",
+        "num_citations": 89,
+        "citedby_url": "/scholar?hl=en&cites=4914932737948777521,6886207077549163131",
         "cites_id": [
             "4914932737948777521",
-            "6131959510401408506",
-            "12077171112544675244"
+            "6886207077549163131"
         ],
         "pub_url": "https://www.nature.com/articles/s41436-018-0259-2",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Mfxf5EhZNUQJ:scholar.google.com/",
         "cites_per_year": {
+            "2019": 1,
             "2020": 16,
-            "2021": 18,
-            "2022": 18
+            "2021": 17,
+            "2022": 22,
+            "2023": 25,
+            "2024": 8
         }
     },
     {
@@ -68,27 +74,61 @@
         "bib": {
             "title": "Opposite modulation of RAC1 by mutations in TRIO is associated with distinct, domain-specific neurodevelopmental disorders",
             "pub_year": 2020,
-            "author": "Sónia Barbosa and Stephanie Greville-Heygate and Maxime Bonnet and Annie Godwin and Christine Fagotto-Kaufmann and Andrey V Kajava and Damien Laouteouet and Rebecca Mawby and Htoo Aung Wai and Alexander JM Dingemans and Jayne Hehir-Kwa and Marjorlaine Willems and Yline Capri and Sarju G Mehta and Helen Cox and David Goudie and Fleur Vansenne and Peter Turnpenny and Marie Vincent and Benjamin Cogné and Gaëtan Lesca and Jozef Hertecant and Diana Rodriguez and Boris Keren and Lydie Burglen and Marion Gérard and Audrey Putoux and Vincent Cantagrel and Karine Siquier-Pernet and Marlene Rio and Siddharth Banka and Ajoy Sarkar and Marcie Steeves and Michael Parker and Emma Clement and Sébastien Moutton and Frédéric Tran Mau-Them and Amélie Piton and Bert BA de Vries and Matthew Guille and Anne Debant and Susanne Schmidt and Diana Baralle and C4RCD Research Group",
+            "citation": "The American Journal of Human Genetics 106 (3), 338-355, 2020",
+            "author": "Sónia Barbosa and Stephanie Greville-Heygate and Maxime Bonnet and Annie Godwin and Christine Fagotto-Kaufmann and Andrey V Kajava and Damien Laouteouet and Rebecca Mawby and Htoo Aung Wai and Alexander JM Dingemans and Jayne Hehir-Kwa and Marjorlaine Willems and Yline Capri and Sarju G Mehta and Helen Cox and David Goudie and Fleur Vansenne and Peter Turnpenny and Marie Vincent and Benjamin Cogné and Gaëtan Lesca and Jozef Hertecant and Diana Rodriguez and Boris Keren and Lydie Burglen and Marion Gérard and Audrey Putoux and Vincent Cantagrel and Karine Siquier-Pernet and Marlene Rio and Siddharth Banka and Ajoy Sarkar and Marcie Steeves and Michael Parker and Emma Clement and Sébastien Moutton and Frédéric Tran Mau-Them and Amélie Piton and Bert BA de Vries and Matthew Guille and Anne Debant and Susanne Schmidt and Diana Baralle",
             "journal": "The American Journal of Human Genetics",
             "volume": "106",
             "number": "3",
             "pages": "338-355",
-            "publisher": "Cell Press",
+            "publisher": "Elsevier",
             "abstract": "The Rho-guanine nucleotide exchange factor (RhoGEF) TRIO acts as a key regulator of neuronal migration, axonal outgrowth, axon guidance, and synaptogenesis by activating the GTPase RAC1 and modulating actin cytoskeleton remodeling. Pathogenic variants in TRIO are associated with neurodevelopmental diseases, including intellectual disability (ID) and autism spectrum disorders (ASD). Here, we report the largest international cohort of 24 individuals with confirmed pathogenic missense or nonsense variants in TRIO. The nonsense mutations are spread along the TRIO sequence, and affected individuals show variable neurodevelopmental phenotypes. In contrast, missense variants cluster into two mutational hotspots in the TRIO sequence, one in the seventh spectrin repeat and one in the RAC1-activating GEFD1. Although all individuals in this cohort present with developmental delay and a neuro …"
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:IjCSPb-OGe4C",
-        "num_citations": 43,
-        "citedby_url": "/scholar?cites=8402587510013512254",
+        "num_citations": 72,
+        "citedby_url": "/scholar?hl=en&cites=8402587510013512254",
         "cites_id": [
             "8402587510013512254"
         ],
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0002929720300185",
+        "pub_url": "https://www.cell.com/ajhg/pdf/S0002-9297(20)30018-5.pdf",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Pkp9UNL8m3QJ:scholar.google.com/",
         "cites_per_year": {
             "2020": 5,
             "2021": 16,
-            "2022": 21
+            "2022": 18,
+            "2023": 23,
+            "2024": 8
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Truncating SRCAP variants outside the Floating-Harbor syndrome locus cause a distinct neurodevelopmental disorder with a specific DNA methylation signature",
+            "pub_year": 2021,
+            "citation": "The American Journal of Human Genetics 108 (6), 1053-1068, 2021",
+            "author": "Dmitrijs Rots and Eric Chater-Diehl and Alexander JM Dingemans and Sarah J Goodman and Michelle T Siu and Cheryl Cytrynbaum and Sanaa Choufani and Ny Hoang and Susan Walker and Zain Awamleh and Joshua Charkow and Stephen Meyn and Rolph Pfundt and Tuula Rinne and Thatjana Gardeitchik and Bert BA de Vries and A Chantal Deden and Erika Leenders and Michael Kwint and Constance TRM Stumpel and Servi JC Stevens and Jeroen R Vermeulen and Jeske VT van Harssel and Danielle GM Bosch and Koen LI van Gassen and Ellen van Binsbergen and Christa M de Geus and Hein Brackel and Maja Hempel and Davor Lessel and Jonas Denecke and Anne Slavotinek and Jonathan Strober and Amy Crunk and Leandra Folk and Ingrid M Wentzensen and Hui Yang and Fanggeng Zou and Francisca Millan and Richard Person and Yili Xie and Shuxi Liu and Lilian B Ousager and Martin Larsen and Laura Schultz-Rogers and Eva Morava and Eric W Klee and Ian R Berry and Jennifer Campbell and Kristin Lindstrom and Brianna Pruniski and Ann M Neumeyer and Jessica A Radley and Chanika Phornphutkul and Berkley Schmidt and William G Wilson and Katrin Õunap and Karit Reinson and Sander Pajusalu and Arie van Haeringen and Claudia Ruivenkamp and Roos Cuperus and Fernando Santos-Simarro and María Palomares-Bralo and Marta Pacio-Míguez and Alyssa Ritter and Elizabeth Bhoj and Elin Tønne and Kristian Tveten and Gerarda Cappuccio and Nicola Brunetti-Pierri and Leah Rowe and Jason Bunn and Margarita Saenz and Konrad Platzer and Mareike Mertens and Oana Caluseriu and Małgorzata JM Nowaczyk and Ronald D Cohn and Peter Kannu and Ebba Alkhunaizi and David Chitayat and Stephen W Scherer and Han G Brunner and Lisenka ELM Vissers and Tjitske Kleefstra and David A Koolen and Rosanna Weksberg",
+            "journal": "The American Journal of Human Genetics",
+            "volume": "108",
+            "number": "6",
+            "pages": "1053-1068",
+            "publisher": "Elsevier",
+            "abstract": "Truncating variants in exons 33 and 34 of the SNF2-related CREBBP activator protein (SRCAP) gene cause the neurodevelopmental disorder (NDD) Floating-Harbor syndrome (FLHS), characterized by short stature, speech delay, and facial dysmorphism. Here, we present a cohort of 33 individuals with clinical features distinct from FLHS and truncating (mostly de novo) SRCAP variants either proximal (n = 28) or distal (n = 5) to the FLHS locus. Detailed clinical characterization of the proximal SRCAP individuals identified shared characteristics: developmental delay with or without intellectual disability, behavioral and psychiatric problems, non-specific facial features, musculoskeletal issues, and hypotonia. Because FLHS is known to be associated with a unique set of DNA methylation (DNAm) changes in blood, a DNAm signature, we investigated whether there was a distinct signature associated with our affected …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:3fE2CSJIrl8C",
+        "num_citations": 40,
+        "citedby_url": "/scholar?hl=en&cites=10794961842202208685",
+        "cites_id": [
+            "10794961842202208685"
+        ],
+        "pub_url": "https://www.cell.com/ajhg/pdf/S0002-9297(21)00139-7.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:relb8Jloz5UJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 2,
+            "2022": 15,
+            "2023": 18,
+            "2024": 5
         }
     },
     {
@@ -97,28 +137,31 @@
         "bib": {
             "title": "De novo and inherited pathogenic variants in KDM3B cause intellectual disability, short stature, and facial dysmorphism",
             "pub_year": 2019,
-            "author": "Roos van der Donk and Kristina Baltrunaite and Esmé Waanders and Margot RF Reijnders and Alexander JM Dingemans and Rolph Pfundt and Anneke T Vulto-van Silfhout and Laurens Wiel and Christian Gilissen and Julien Thevenon and Laurence Perrin and Alexandra Afenjar and Caroline Nava and Boris Keren and Sarah Bartz and Bethany Peri and Gea Beunders and Nienke Verbeek and Koen van Gassen and Isabelle Thiffault and Maxime Cadieux-Dion and Lina Huerta-Saenz and Matias Wagner and Vassiliki Konstantopoulou and Julia Vodopiutz and Matthias Griese and Annekatrien Boel and Bert Callewaert and Han G Brunner and Tjitske Kleefstra and Nicoline Hoogerbrugge and Bert BA de Vries and Vivian Hwa and Andrew Dauber and Jayne Y Hehir-Kwa and Roland P Kuiper and Marjolijn CJ Jongmans",
+            "citation": "The American Journal of Human Genetics 104 (4), 758-766, 2019",
+            "author": "Illja J Diets and Roos van der Donk and Kristina Baltrunaite and Esmé Waanders and Margot RF Reijnders and Alexander JM Dingemans and Rolph Pfundt and Anneke T Vulto-van Silfhout and Laurens Wiel and Christian Gilissen and Julien Thevenon and Laurence Perrin and Alexandra Afenjar and Caroline Nava and Boris Keren and Sarah Bartz and Bethany Peri and Gea Beunders and Nienke Verbeek and Koen van Gassen and Isabelle Thiffault and Maxime Cadieux-Dion and Lina Huerta-Saenz and Matias Wagner and Vassiliki Konstantopoulou and Julia Vodopiutz and Matthias Griese and Annekatrien Boel and Bert Callewaert and Han G Brunner and Tjitske Kleefstra and Nicoline Hoogerbrugge and Bert BA de Vries and Vivian Hwa and Andrew Dauber and Jayne Y Hehir-Kwa and Roland P Kuiper and Marjolijn CJ Jongmans",
             "journal": "The American Journal of Human Genetics",
             "volume": "104",
             "number": "4",
             "pages": "758-766",
-            "publisher": "Cell Press",
+            "publisher": "Elsevier",
             "abstract": "By using exome sequencing and a gene matching approach, we identified de novo and inherited pathogenic variants in KDM3B in 14 unrelated individuals and three affected parents with varying degrees of intellectual disability (ID) or developmental delay (DD) and short stature. The individuals share additional phenotypic features that include feeding difficulties in infancy, joint hypermobility, and characteristic facial features such as a wide mouth, a pointed chin, long ears, and a low columella. Notably, two individuals developed cancer, acute myeloid leukemia and Hodgkin lymphoma, in childhood. KDM3B encodes for a histone demethylase and is involved in H3K9 demethylation, a crucial part of chromatin modification required for transcriptional regulation. We identified missense and truncating variants, suggesting that KDM3B haploinsufficiency is the underlying mechanism for this syndrome. By using a hybrid …"
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:YsMSGLbcyi4C",
-        "num_citations": 27,
-        "citedby_url": "/scholar?cites=12249369429549311756",
+        "num_citations": 40,
+        "citedby_url": "/scholar?hl=en&cites=9700224122705855480",
         "cites_id": [
-            "12249369429549311756"
+            "9700224122705855480"
         ],
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0002929719300680",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:DOfQopiA_qkJ:scholar.google.com/",
+        "pub_url": "https://www.cell.com/ajhg/pdf/S0002-9297(19)30068-0.pdf",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-MOOE3IenoYJ:scholar.google.com/",
         "cites_per_year": {
             "2019": 1,
             "2020": 4,
-            "2021": 14,
-            "2022": 8
+            "2021": 12,
+            "2022": 9,
+            "2023": 10,
+            "2024": 4
         }
     },
     {
@@ -127,8 +170,9 @@
         "bib": {
             "title": "Redo pull-through surgery in Hirschsprung disease: short-term clinical outcome",
             "pub_year": 2017,
+            "citation": "Journal of pediatric surgery 52 (9), 1446-1450, 2017",
             "author": "AJM Dingemans and HJJ van der Steeg and R Rassouli-Kirchmeier and MW Linssen and IALM van Rooij and I de Blaauw",
-            "journal": "Journal of Pediatric Surgery",
+            "journal": "Journal of pediatric surgery",
             "volume": "52",
             "number": "9",
             "pages": "1446-1450",
@@ -137,8 +181,8 @@
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:qjMakFHDy7sC",
-        "num_citations": 27,
-        "citedby_url": "/scholar?cites=5931893493564471170",
+        "num_citations": 40,
+        "citedby_url": "/scholar?hl=en&cites=5931893493564471170",
         "cites_id": [
             "5931893493564471170"
         ],
@@ -147,10 +191,12 @@
         "cites_per_year": {
             "2017": 2,
             "2018": 2,
-            "2019": 10,
+            "2019": 11,
             "2020": 6,
             "2021": 3,
-            "2022": 3
+            "2022": 4,
+            "2023": 7,
+            "2024": 4
         }
     },
     {
@@ -159,26 +205,29 @@
         "bib": {
             "title": "Mutation-specific pathophysiological mechanisms define different neurodevelopmental disorders associated with SATB1 dysfunction",
             "pub_year": 2021,
-            "author": "Joery Den Hoed and Elke de Boer and Norine Voisin and Alexander JM Dingemans and Nicolas Guex and Laurens Wiel and Christoffer Nellaker and Shivarajan M Amudhavalli and Siddharth Banka and Frederique S Bena and Bruria Ben-Zeev and Vincent R Bonagura and Ange-Line Bruel and Theresa Brunet and Han G Brunner and Hui B Chew and Jacqueline Chrast and Loreta Cimbalistienė and Hilary Coon and The DDD Study and Emmanuèlle C Délot and Florence Démurger and Anne-Sophie Denommé-Pichon and Christel Depienne and Dian Donnai and David A Dyment and Orly Elpeleg and Laurence Faivre and Christian Gilissen and Leslie Granger and Benjamin Haber and Yasuo Hachiya and Yasmin Hamzavi Abedi and Jennifer Hanebeck and Jayne Y Hehir-Kwa and Brooke Horist and Toshiyuki Itai and Adam Jackson and Rosalyn Jewell and Kelly L Jones and Shelagh Joss and Hirofumi Kashii and Mitsuhiro Kato and Anja A Kattentidt-Mouravieva and Fernando Kok and Urania Kotzaeridou and Vidya Krishnamurthy and Vaidutis Kučinskas and Alma Kuechler and Alinoë Lavillaureix and Pengfei Liu and Linda Manwaring and Naomichi Matsumoto and Benoît Mazel and Kirsty McWalter and Vardiella Meiner and Mohamad A Mikati and Satoko Miyatake and Takeshi Mizuguchi and Lip H Moey and Shehla Mohammed and Hagar Mor-Shaked and Hayley Mountford and Ruth Newbury-Ecob and Sylvie Odent and Laura Orec and Matthew Osmond and Timothy B Palculict and Michael Parker and Andrea K Petersen and Rolph Pfundt and Eglė Preikšaitienė and Kelly Radtke and Emmanuelle Ranza and Jill A Rosenfeld and Teresa Santiago-Sim and Caitlin Schwager and Margje Sinnema and Lot Snijders Blok and Rebecca C Spillmann and Alexander PA Stegmann and Isabelle Thiffault and Linh Tran and Adi Vaknin-Dembinsky and Juliana H Vedovato-dos-Santos and Samantha A Schrier Vergano and Eric Vilain and Antonio Vitobello and Matias Wagner and Androu Waheeb and Marcia Willing and Britton Zuccarelli and Usha Kini and Dianne F Newbury and Tjitske Kleefstra and Alexandre Reymond and Simon E Fisher and Lisenka ELM Vissers",
+            "citation": "The American Journal of Human Genetics 108 (2), 346-356, 2021",
+            "author": "Joery Den Hoed and Elke de Boer and Norine Voisin and Alexander JM Dingemans and Nicolas Guex and Laurens Wiel and Christoffer Nellaker and Shivarajan M Amudhavalli and Siddharth Banka and Frederique S Bena and Bruria Ben-Zeev and Vincent R Bonagura and Ange-Line Bruel and Theresa Brunet and Han G Brunner and Hui B Chew and Jacqueline Chrast and Loreta Cimbalistienė and Hilary Coon and Emmanuèlle C Délot and Florence Démurger and Anne-Sophie Denommé-Pichon and Christel Depienne and Dian Donnai and David A Dyment and Orly Elpeleg and Laurence Faivre and Christian Gilissen and Leslie Granger and Benjamin Haber and Yasuo Hachiya and Yasmin Hamzavi Abedi and Jennifer Hanebeck and Jayne Y Hehir-Kwa and Brooke Horist and Toshiyuki Itai and Adam Jackson and Rosalyn Jewell and Kelly L Jones and Shelagh Joss and Hirofumi Kashii and Mitsuhiro Kato and Anja A Kattentidt-Mouravieva and Fernando Kok and Urania Kotzaeridou and Vidya Krishnamurthy and Vaidutis Kučinskas and Alma Kuechler and Alinoë Lavillaureix and Pengfei Liu and Linda Manwaring and Naomichi Matsumoto and Benoît Mazel and Kirsty McWalter and Vardiella Meiner and Mohamad A Mikati and Satoko Miyatake and Takeshi Mizuguchi and Lip H Moey and Shehla Mohammed and Hagar Mor-Shaked and Hayley Mountford and Ruth Newbury-Ecob and Sylvie Odent and Laura Orec and Matthew Osmond and Timothy B Palculict and Michael Parker and Andrea K Petersen and Rolph Pfundt and Eglė Preikšaitienė and Kelly Radtke and Emmanuelle Ranza and Jill A Rosenfeld and Teresa Santiago-Sim and Caitlin Schwager and Margje Sinnema and Lot Snijders Blok and Rebecca C Spillmann and Alexander PA Stegmann and Isabelle Thiffault and Linh Tran and Adi Vaknin-Dembinsky and Juliana H Vedovato-dos-Santos and Samantha A Schrier Vergano and Eric Vilain and Antonio Vitobello and Matias Wagner and Androu Waheeb and Marcia Willing and Britton Zuccarelli and Usha Kini and Dianne F Newbury and Tjitske Kleefstra and Alexandre Reymond and Simon E Fisher and Lisenka ELM Vissers",
             "journal": "The American Journal of Human Genetics",
             "volume": "108",
             "number": "2",
             "pages": "346-356",
-            "publisher": "Cell Press",
+            "publisher": "Elsevier",
             "abstract": "Whereas large-scale statistical analyses can robustly identify disease-gene relationships, they do not accurately capture genotype-phenotype correlations or disease mechanisms. We use multiple lines of independent evidence to show that different variant types in a single gene, SATB1, cause clinically overlapping but distinct neurodevelopmental disorders. Clinical evaluation of 42 individuals carrying SATB1 variants identified overt genotype-phenotype relationships, associated with different pathophysiological mechanisms, established by functional assays. Missense variants in the CUT1 and CUT2 DNA-binding domains result in stronger chromatin binding, increased transcriptional repression, and a severe phenotype. In contrast, variants predicted to result in haploinsufficiency are associated with a milder clinical presentation. A similarly mild phenotype is observed for individuals with premature protein …"
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:UebtZRa9Y70C",
-        "num_citations": 22,
-        "citedby_url": "/scholar?cites=4008845598963125813",
+        "num_citations": 35,
+        "citedby_url": "/scholar?hl=en&cites=4008845598963125813",
         "cites_id": [
             "4008845598963125813"
         ],
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0002929721000070",
+        "pub_url": "https://www.cell.com/ajhg/pdf/S0002-9297(21)00007-0.pdf",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Nc6VHdVHojcJ:scholar.google.com/",
         "cites_per_year": {
             "2021": 8,
-            "2022": 14
+            "2022": 18,
+            "2023": 8,
+            "2024": 1
         }
     },
     {
@@ -187,6 +236,7 @@
         "bib": {
             "title": "A structured bowel management program for patients with severe functional constipation can help decrease emergency department visits, hospital admissions, and healthcare costs",
             "pub_year": 2018,
+            "citation": "Journal of Pediatric Surgery 53 (9), 1737-1741, 2018",
             "author": "Carlos A Reck-Burneo and Alejandra Vilanova-Sanchez and Alessandra C Gasior and Alexander JM Dingemans and Victoria A Lane and Robert Dyckes and Onnalisa Nash and Laura Weaver and Tassiana Maloof and Richard J Wood and Sarah Zobell and Michael D Rollins and Marc A Levitt",
             "journal": "Journal of Pediatric Surgery",
             "volume": "53",
@@ -197,77 +247,51 @@
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:d1gkVwhDpl0C",
-        "num_citations": 21,
-        "citedby_url": "/scholar?cites=3111252099727701721",
+        "num_citations": 26,
+        "citedby_url": "/scholar?hl=en&cites=3111252099727701721",
         "cites_id": [
             "3111252099727701721"
         ],
         "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022346818302094",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:2Tb18kxjLSsJ:scholar.google.com/",
         "cites_per_year": {
-            "2017": 2,
+            "2017": 1,
             "2018": 0,
             "2019": 4,
             "2020": 4,
-            "2021": 1,
-            "2022": 10
+            "2021": 2,
+            "2022": 10,
+            "2023": 5
         }
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Truncating SRCAP variants outside the Floating-Harbor syndrome locus cause a distinct neurodevelopmental disorder with a specific DNA methylation signature",
-            "pub_year": 2021,
-            "author": "Dmitrijs Rots and Eric Chater-Diehl and Alexander JM Dingemans and Sarah J Goodman and Michelle T Siu and Cheryl Cytrynbaum and Sanaa Choufani and Ny Hoang and Susan Walker and Zain Awamleh and Joshua Charkow and Stephen Meyn and Rolph Pfundt and Tuula Rinne and Thatjana Gardeitchik and Bert BA de Vries and A Chantal Deden and Erika Leenders and Michael Kwint and Constance TRM Stumpel and Servi JC Stevens and Jeroen R Vermeulen and Jeske VT van Harssel and Danielle GM Bosch and Koen LI van Gassen and Ellen van Binsbergen and Christa M de Geus and Hein Brackel and Maja Hempel and Davor Lessel and Jonas Denecke and Anne Slavotinek and Jonathan Strober and Amy Crunk and Leandra Folk and Ingrid M Wentzensen and Hui Yang and Fanggeng Zou and Francisca Millan and Richard Person and Yili Xie and Shuxi Liu and Lilian B Ousager and Martin Larsen and Laura Schultz-Rogers and Eva Morava and Eric W Klee and Ian R Berry and Jennifer Campbell and Kristin Lindstrom and Brianna Pruniski and Ann M Neumeyer and Jessica A Radley and Chanika Phornphutkul and Berkley Schmidt and William G Wilson and Katrin Ounap and Karit Reinson and Sander Pajusalu and Arie van Haeringen and Claudia Ruivenkamp and Roos Cuperus and Fernando Santos-Simarro and Maria Palomares-Bralo and Marta Pacio-Míguez and Alyssa Ritter and Elizabeth Bhoj and Elin Tønne and Kristian Tveten and Gerarda Cappuccio and Nicola Brunetti-Pierri and Leah Rowe and Jason Bunn and Margarita Saenz and Konrad Platzer and Mareike Mertens and Oana Caluseriu and Małgorzata JM Nowaczyk and Ronald D Cohn and Peter Kannu and Ebba Alkhunaizi and David Chitayat and Stephen W Scherer and Han G Brunner and Lisenka ELM Vissers and Tjitske Kleefstra and David A Koolen and Rosanna Weksberg",
-            "journal": "The American Journal of Human Genetics",
-            "volume": "108",
-            "number": "6",
-            "pages": "1053-1068",
-            "publisher": "Cell Press",
-            "abstract": "Truncating variants in exons 33 and 34 of the SNF2-related CREBBP activator protein (SRCAP) gene cause the neurodevelopmental disorder (NDD) Floating-Harbor syndrome (FLHS), characterized by short stature, speech delay, and facial dysmorphism. Here, we present a cohort of 33 individuals with clinical features distinct from FLHS and truncating (mostly de novo) SRCAP variants either proximal (n = 28) or distal (n = 5) to the FLHS locus. Detailed clinical characterization of the proximal SRCAP individuals identified shared characteristics: developmental delay with or without intellectual disability, behavioral and psychiatric problems, non-specific facial features, musculoskeletal issues, and hypotonia. Because FLHS is known to be associated with a unique set of DNA methylation (DNAm) changes in blood, a DNAm signature, we investigated whether there was a distinct signature associated with our affected …"
+            "title": "Establishing the phenotypic spectrum of ZTTK syndrome by analysis of 52 individuals with variants in SON",
+            "pub_year": 2022,
+            "citation": "European Journal of Human Genetics 30 (3), 271-281, 2022",
+            "author": "Alexander JM Dingemans and Kim MG Truijen and Jung-Hyun Kim and Zahide Alaçam and Laurence Faivre and Kathleen M Collins and Erica H Gerkes and Mieke van Haelst and Ingrid MBH van de Laar and Kristin Lindstrom and Mathilde Nizon and James Pauling and Edyta Heropolitańska-Pliszka and Astrid S Plomp and Caroline Racine and Rani Sachdev and Margje Sinnema and Jon Skranes and Hermine E Veenstra-Knol and Eline A Verberne and Anneke T Vulto-van Silfhout and Marlon EF Wilsterman and Eun-Young Erin Ahn and Bert BA de Vries and Lisenka ELM Vissers",
+            "journal": "European Journal of Human Genetics",
+            "volume": "30",
+            "number": "3",
+            "pages": "271-281",
+            "publisher": "Springer International Publishing",
+            "abstract": "Zhu–Tokita–Takenouchi–Kim (ZTTK) syndrome, an intellectual disability syndrome first described in 2016, is caused by heterozygous loss-of-function variants in SON. Its encoded protein promotes pre-mRNA splicing of many genes essential for development. Whereas individual phenotypic traits have previously been linked to erroneous splicing of SON target genes, the phenotypic spectrum and the pathogenicity of missense variants have not been further evaluated. We present the phenotypic abnormalities in 52 individuals, including 17 individuals who have not been reported before. In total, loss-of-function variants were detected in 49 individuals (de novo in 47, inheritance unknown in 2), and in 3, a missense variant was observed (2 de novo, 1 inheritance unknown). Phenotypic abnormalities, systematically collected and analyzed in Human Phenotype Ontology, were found in all organ systems. Significant inter …"
         },
         "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:3fE2CSJIrl8C",
-        "num_citations": 14,
-        "citedby_url": "/scholar?cites=10794961842202208685",
+        "author_pub_id": "RCwXcaYAAAAJ:KlAtU1dfN6UC",
+        "num_citations": 21,
+        "citedby_url": "/scholar?hl=en&cites=10968928589278606541",
         "cites_id": [
-            "10794961842202208685"
+            "10968928589278606541"
         ],
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0002929721001397",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:relb8Jloz5UJ:scholar.google.com/",
+        "pub_url": "https://www.nature.com/articles/s41431-021-00960-4",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zfSTom92OZgJ:scholar.google.com/",
         "cites_per_year": {
-            "2021": 2,
-            "2022": 12
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Human disease genes website series: An international, open and dynamic library for up‐to‐date clinical information",
-            "pub_year": 2021,
-            "author": "Alexander JM Dingemans and Diante E Stremmelaar and Lisenka ELM Vissers and Sandra Jansen and Maria J Nabais Sá and Angela van Remortele and Noraly Jonis and Kim Truijen and Sam van de Ven and Jeroen Ewals and Michel Verbruggen and David A Koolen and Han G Brunner and Evan E Eichler and Jozef Gecz and Bert BA de Vries",
-            "journal": "American Journal of Medical Genetics Part A",
-            "volume": "185",
-            "number": "4",
-            "pages": "1039-1046",
-            "publisher": "John Wiley & Sons, Inc.",
-            "abstract": "Since the introduction of next‐generation sequencing, an increasing number of disorders have been discovered to have genetic etiology. To address diverse clinical questions and coordinate research activities that arise with the identification of these rare disorders, we developed the Human Disease Genes website series (HDG website series): an international digital library that records detailed information on the clinical phenotype of novel genetic variants in the human genome (https://humandiseasegenes.info/). Each gene website is moderated by a dedicated team of clinicians and researchers, focused on specific genes, and provides up‐to‐date—including unpublished—clinical information. The HDG website series is expanding rapidly with 424 genes currently adopted by 325 moderators from across the globe. On average, a gene website has detailed phenotypic information of 14.4 patients. There are multiple …"
-        },
-        "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:0EnyYjriUFMC",
-        "num_citations": 11,
-        "citedby_url": "/scholar?cites=7315727049118105312,4229646806392413610",
-        "cites_id": [
-            "7315727049118105312",
-            "4229646806392413610"
-        ],
-        "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.a.62057",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4L5mpP2uhmUJ:scholar.google.com/",
-        "cites_per_year": {
-            "2021": 2,
-            "2022": 9
+            "2022": 8,
+            "2023": 9,
+            "2024": 4
         }
     },
     {
@@ -276,6 +300,7 @@
         "bib": {
             "title": "The use of rotational fluoroscopy and 3-D reconstruction in the diagnosis and surgical planning for complex cloacal malformations",
             "pub_year": 2019,
+            "citation": "Journal of Pediatric Surgery 54 (8), 1590-1594, 2019",
             "author": "Carlos A Reck-Burneo and Victoria Lane and D Gregory Bates and Mark Hogan and Ben Thompson and Alessandra Gasior and Laura Weaver and Alexander JM Dingemans and Tassiana Maloof and Erin Hoover and Renae Gagnon and Richard Wood and Marc Levitt",
             "journal": "Journal of Pediatric Surgery",
             "volume": "54",
@@ -286,8 +311,8 @@
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:u-x6o8ySG0sC",
-        "num_citations": 11,
-        "citedby_url": "/scholar?cites=1388690680857189780",
+        "num_citations": 21,
+        "citedby_url": "/scholar?hl=en&cites=1388690680857189780",
         "cites_id": [
             "1388690680857189780"
         ],
@@ -295,97 +320,12 @@
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:lF1jD9GeRRMJ:scholar.google.com/",
         "cites_per_year": {
             "2018": 1,
-            "2019": 0,
+            "2019": 1,
             "2020": 5,
             "2021": 2,
-            "2022": 3
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Quantitative facial phenotyping for Koolen-de Vries and 22q11. 2 deletion syndrome",
-            "pub_year": 2021,
-            "author": "Alexander JM Dingemans and Diante E Stremmelaar and Roos van der Donk and Lisenka ELM Vissers and David A Koolen and Patrick Rump and Jayne Y Hehir-Kwa and Bert de Vries",
-            "journal": "European Journal of Human Genetics",
-            "volume": "29",
-            "number": "9",
-            "pages": "1418-1423",
-            "publisher": "Nature Publishing Group",
-            "abstract": "The Koolen-de Vries syndrome (KdVS) is a multisystem syndrome with variable facial features caused by a 17q21.31 microdeletion or KANSL1 truncating variant. As the facial gestalt of KdVS has resemblance with the gestalt of the 22q11.2 deletion syndrome (22q11.2DS), we assessed whether our previously described hybrid quantitative facial phenotyping algorithm could distinguish between these two syndromes, and whether there is a facial difference between the molecular KdVS subtypes. We applied our algorithm to 2D photographs of 97 patients with KdVS (78 microdeletions, 19 truncating variants (likely) causing KdVS) and 48 patients with 22q11.2DS as well as age, gender and ethnicity matched controls with intellectual disability (n = 145). The facial gestalts of KdVS and 22q11.2DS were both recognisable through significant clustering by the hybrid model, yet different from one another (p = 7.5 × 10 …"
-        },
-        "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:MXK_kJrjxJIC",
-        "num_citations": 10,
-        "citedby_url": "/scholar?cites=10183748459507650795,7011328246290562659",
-        "cites_id": [
-            "10183748459507650795",
-            "7011328246290562659"
-        ],
-        "pub_url": "https://www.nature.com/articles/s41431-021-00824-x",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:65DiokTxU40J:scholar.google.com/",
-        "cites_per_year": {
-            "2021": 2,
-            "2022": 8
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Sociodemographics and the impact of a colostomy to indigent families and children with colorectal disorders in Honduras",
-            "pub_year": 2018,
-            "author": "W Krois and AJM Dingemans and PX Hernández and ML Metzelder and J Craniotis Rios and CA Reck-Burneo",
-            "journal": "Journal of pediatric surgery",
-            "volume": "53",
-            "number": "4",
-            "pages": "841-846",
-            "publisher": "WB Saunders",
-            "abstract": "To describe the social impact of a colostomy on indigent families and affected children with anorectal malformations (ARM) or Hirschsprung's disease (HD) in San Pedro Sula, Honduras, we specifically targeted very low-income households that attended an international medical brigade for ARM and HD in 2016.The impact of a colostomy on the families and children's daily life was analyzed by personal interviews with a questionnaire.Twenty families with children were included in the study. Children's age ranged from 5 months to 27 years (median 2.31). Annual income was reported to be less than $500 USD in 42.8%. Impairment of daily family life by the colostomy was reported in 85%. Parents of preschool children younger than 7 years are more affected than parents of older children, whereas children older than 7 years reported on more social problems. Moreover, 50% of the school …"
-        },
-        "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:Y0pCki6q_DkC",
-        "num_citations": 10,
-        "citedby_url": "/scholar?cites=9430752910481035810",
-        "cites_id": [
-            "9430752910481035810"
-        ],
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S002234681730310X",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IhK0Sc7D4IIJ:scholar.google.com/",
-        "cites_per_year": {
-            "2018": 1,
-            "2019": 0,
-            "2020": 0,
-            "2021": 5,
-            "2022": 4
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Establishing the phenotypic spectrum of ZTTK syndrome by analysis of 52 individuals with variants in SON",
-            "pub_year": 2022,
-            "author": "Alexander JM Dingemans and Kim MG Truijen and Jung-Hyun Kim and Zahide Alaçam and Laurence Faivre and Kathleen M Collins and Erica H Gerkes and Mieke van Haelst and Ingrid MBH van de Laar and Kristin Lindstrom and Mathilde Nizon and James Pauling and Edyta Heropolitańska-Pliszka and Astrid S Plomp and Caroline Racine and Rani Sachdev and Margje Sinnema and Jon Skranes and Hermine E Veenstra-Knol and Eline A Verberne and Anneke T Vulto-van Silfhout and Marlon EF Wilsterman and Eun-Young Erin Ahn and Bert de Vries and Lisenka ELM Vissers",
-            "journal": "European Journal of Human Genetics",
-            "volume": "30",
-            "number": "3",
-            "pages": "271-281",
-            "publisher": "Nature Publishing Group",
-            "abstract": "Zhu–Tokita–Takenouchi–Kim (ZTTK) syndrome, an intellectual disability syndrome first described in 2016, is caused by heterozygous loss-of-function variants in SON. Its encoded protein promotes pre-mRNA splicing of many genes essential for development. Whereas individual phenotypic traits have previously been linked to erroneous splicing of SON target genes, the phenotypic spectrum and the pathogenicity of missense variants have not been further evaluated. We present the phenotypic abnormalities in 52 individuals, including 17 individuals who have not been reported before. In total, loss-of-function variants were detected in 49 individuals (de novo in 47, inheritance unknown in 2), and in 3, a missense variant was observed (2 de novo, 1 inheritance unknown). Phenotypic abnormalities, systematically collected and analyzed in Human Phenotype Ontology, were found in all organ systems. Significant inter …"
-        },
-        "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:KlAtU1dfN6UC",
-        "num_citations": 8,
-        "citedby_url": "/scholar?cites=10968928589278606541",
-        "cites_id": [
-            "10968928589278606541"
-        ],
-        "pub_url": "https://www.nature.com/articles/s41431-021-00960-4",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zfSTom92OZgJ:scholar.google.com/",
-        "cites_per_year": {
-            "2022": 8
+            "2022": 5,
+            "2023": 3,
+            "2024": 4
         }
     },
     {
@@ -394,18 +334,19 @@
         "bib": {
             "title": "Comprehensive study of 28 individuals with SIN3A-related disorder underscoring the associated mild cognitive and distinctive facial phenotype",
             "pub_year": 2021,
-            "author": "Meena Balasubramanian and Alexander JM Dingemans and Shadi Albaba and Ruth Richardson and Thabo M Yates and Helen Cox and Sofia Douzgou and Ruth Armstrong and Francis H Sansbury and Katherine B Burke and Andrew E Fry and Nicola Ragge and Saba Sharif and Alison Foster and De Sandre-Giovannoli and Sahar Elouej and Pradeep Vasudevan and Sahar Mansour and Kate Wilson and Helen Stewart and Solveig Heide and Caroline Nava and Boris Keren and Serwet Demirdas and Alice S Brooks and Marie Vincent and Bertrand Isidor and Sebastien Küry and Meyke Schouten and Erika Leenders and Wendy K Chung and Arie van Haeringen and Thomas Scheffner and Francois-Guillaume Debray and Susan M White and Maria Irene Valenzuela Palafoll and Rolph Pfundt and Ruth Newbury-Ecob and Tjitske Kleefstra",
+            "citation": "European Journal of Human Genetics 29 (4), 625-636, 2021",
+            "author": "Meena Balasubramanian and Alexander JM Dingemans and Shadi Albaba and Ruth Richardson and Thabo M Yates and Helen Cox and Sofia Douzgou and Ruth Armstrong and Francis H Sansbury and Katherine B Burke and Andrew E Fry and Nicola Ragge and Saba Sharif and Alison Foster and Annachiara De Sandre-Giovannoli and Sahar Elouej and Pradeep Vasudevan and Sahar Mansour and Kate Wilson and Helen Stewart and Solveig Heide and Caroline Nava and Boris Keren and Serwet Demirdas and Alice S Brooks and Marie Vincent and Bertrand Isidor and Sebastien Küry and Meyke Schouten and Erika Leenders and Wendy K Chung and Arie van Haeringen and Thomas Scheffner and Francois-Guillaume Debray and Susan M White and Maria Irene Valenzuela Palafoll and Rolph Pfundt and Ruth Newbury-Ecob and Tjitske Kleefstra",
             "journal": "European Journal of Human Genetics",
             "volume": "29",
             "number": "4",
             "pages": "625-636",
-            "publisher": "Nature Publishing Group",
+            "publisher": "Springer International Publishing",
             "abstract": "Witteveen-Kolk syndrome (OMIM 613406) is a recently defined neurodevelopmental syndrome caused by heterozygous loss-of-function variants in SIN3A. We define the clinical and neurodevelopmental phenotypes related to SIN3A-haploinsufficiency in 28 unreported patients. Patients with SIN3A variants adversely affecting protein function have mild intellectual disability, growth and feeding difficulties. Involvement of a multidisciplinary team including a geneticist, paediatrician and neurologist should be considered in managing these patients. Patients described here were identified through a combination of clinical evaluation and gene matching strategies (GeneMatcher and Decipher). All patients consented to participate in this study. Mean age of this cohort was 8.2 years (17 males, 11 females). Out of 16 patients ≥ 8 years old assessed, eight (50%) had mild intellectual disability (ID), four had moderate ID (22 …"
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:hqOjcs7Dif8C",
-        "num_citations": 7,
-        "citedby_url": "/scholar?cites=12346531266432771109",
+        "num_citations": 19,
+        "citedby_url": "/scholar?hl=en&cites=12346531266432771109",
         "cites_id": [
             "12346531266432771109"
         ],
@@ -413,205 +354,163 @@
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:JaT6p8WwV6sJ:scholar.google.com/",
         "cites_per_year": {
             "2021": 2,
-            "2022": 5
+            "2022": 4,
+            "2023": 8,
+            "2024": 5
         }
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Primary or redo posterior sagittal anorectoplasty without a stoma: to feed or not to feed?",
-            "pub_year": 2019,
-            "author": "Carlos A Reck-Burneo and Clare Skerrit and Alexander Dingemans and Victoria A Lane and Alejandra Vilanova Sanchez and Laura Weaver and Andrea Wagner and Nicole Jenkins and Richard J Wood and Marc A Levitt",
-            "journal": "European Journal of Pediatric Surgery",
-            "volume": "29",
+            "title": "Perioperative complications of transanal pull-through surgery for Hirschsprung's disease",
+            "pub_year": 2018,
+            "citation": "European Journal of Pediatric Surgery 28 (02), 152-155, 2018",
+            "author": "Mikko Pakarinen",
+            "volume": "28",
             "number": "02",
-            "pages": "150-152",
+            "pages": "152-155",
             "publisher": "Georg Thieme Verlag KG",
-            "abstract": " Introduction Repair of anorectal malformations (ARMs), primarily or with a reoperation, may be performed in certain circumstances without a diverting stoma. Postoperatively, the passage of bulky stool can cause wound dehiscence and anastomotic disruption. To avoid this, some surgeons keep patients NPO (nothing by mouth) for a prolonged period. Here, we report the results of a change to our routine from NPO for 7 days to clear fluids or breast milk. Materials and Methods After primary or redo ARM surgery, patients given clear liquids were compared to those who were kept strictly NPO. Age, indication for surgery, incision type, use of a peripherally inserted central catheter (PICC) line, and wound complications were recorded. Results There were 52 patients, including 15 primary and 37 redo cases. Group 1 comprised 11 female and 15 male patients. The mean age at surgery was 4.9 years (standard …"
+            "abstract": "Transanal pull-through is currently one of the most commonly used operation to treat Hirschsprung's disease (HD) worldwide. It has undergone some technical modifications during the last decades and still contains variable surgical practices. As high quality comparative studies between different surgical approaches are missing, debate over the optimal operation for HD still continues. Transanal pull-through is associated with multiple potential complications, which may result in permanently impaired functional outcome, life-long morbidity, and significant social restrictions. Although some of the surgical complications can be successfully managed by repeated surgery, the best changes for optimal bowel function and fecal continence are lost. Surgical complications are best treated by efficient prevention with careful adherence to established surgical techniques and principles during the primary operation."
         },
         "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:zYLM7Y9cAGgC",
-        "num_citations": 7,
-        "citedby_url": "/scholar?cites=8508551318034986586",
+        "author_pub_id": "RCwXcaYAAAAJ:bEWYMUwI8FkC",
+        "num_citations": 19,
+        "citedby_url": "/scholar?hl=en&cites=1649296035228401898",
         "cites_id": [
-            "8508551318034986586"
+            "1649296035228401898"
         ],
-        "pub_url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0037-1608805",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Wjao8FdyFHYJ:scholar.google.com/",
+        "pub_url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0038-1632393",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6sA_dQF64xYJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 4,
+            "2020": 2,
+            "2021": 0,
+            "2022": 4,
+            "2023": 8
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Human disease genes website series: an international, open and dynamic library for up‐to‐date clinical information",
+            "pub_year": 2021,
+            "citation": "American Journal of Medical Genetics Part A 185 (4), 1039-1046, 2021",
+            "author": "Alexander JM Dingemans and Diante E Stremmelaar and Lisenka ELM Vissers and Sandra Jansen and Maria J Nabais Sa and Angela van Remortele and Noraly Jonis and Kim Truijen and Sam van de Ven and Jeroen Ewals and Michel Verbruggen and David A Koolen and Han G Brunner and Evan E Eichler and Jozef Gecz and Bert BA de Vries",
+            "journal": "American Journal of Medical Genetics Part A",
+            "volume": "185",
+            "number": "4",
+            "pages": "1039-1046",
+            "publisher": "John Wiley & Sons, Inc.",
+            "abstract": "Since the introduction of next‐generation sequencing, an increasing number of disorders have been discovered to have genetic etiology. To address diverse clinical questions and coordinate research activities that arise with the identification of these rare disorders, we developed the Human Disease Genes website series (HDG website series): an international digital library that records detailed information on the clinical phenotype of novel genetic variants in the human genome (https://humandiseasegenes.info/). Each gene website is moderated by a dedicated team of clinicians and researchers, focused on specific genes, and provides up‐to‐date—including unpublished—clinical information. The HDG website series is expanding rapidly with 424 genes currently adopted by 325 moderators from across the globe. On average, a gene website has detailed phenotypic information of 14.4 patients. There are multiple …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:0EnyYjriUFMC",
+        "num_citations": 17,
+        "citedby_url": "/scholar?hl=en&cites=7315727049118105312,4229646806392413610",
+        "cites_id": [
+            "7315727049118105312",
+            "4229646806392413610"
+        ],
+        "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.a.62057",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:4L5mpP2uhmUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 3,
+            "2022": 7,
+            "2023": 6,
+            "2024": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "PhenoScore quantifies phenotypic variation for rare genetic diseases by combining facial analysis with other clinical features using a machine-learning framework",
+            "pub_year": 2023,
+            "citation": "Nature Genetics 55 (9), 1598-1607, 2023",
+            "author": "Alexander JM Dingemans and Max Hinne and Kim MG Truijen and Lia Goltstein and Jeroen Van Reeuwijk and Nicole De Leeuw and Janneke Schuurs-Hoeijmakers and Rolph Pfundt and Illja J Diets and Joery Den Hoed and Elke De Boer and Jet Coenen-van Der Spek and Sandra Jansen and Bregje W Van Bon and Noraly Jonis and Charlotte W Ockeloen and Anneke T Vulto-van Silfhout and Tjitske Kleefstra and David A Koolen and Philippe M Campeau and Elizabeth E Palmer and Hilde Van Esch and Gholson J Lyon and Fowzan S Alkuraya and Anita Rauch and Ronit Marom and Diana Baralle and Pleuntje J Van Der Sluijs and Gijs WE Santen and R Frank Kooy and Marcel AJ Van Gerven and Lisenka ELM Vissers and Bert BA de Vries",
+            "journal": "Nature Genetics",
+            "volume": "55",
+            "number": "9",
+            "pages": "1598-1607",
+            "publisher": "Nature Publishing Group US",
+            "abstract": "Several molecular and phenotypic algorithms exist that establish genotype–phenotype correlations, including facial recognition tools. However, no unified framework that investigates both facial data and other phenotypic data directly from individuals exists. We developed PhenoScore: an open-source, artificial intelligence-based phenomics framework, combining facial recognition technology with Human Phenotype Ontology data analysis to quantify phenotypic similarity. Here we show PhenoScore’s ability to recognize distinct phenotypic entities by establishing recognizable phenotypes for 37 of 40 investigated syndromes against clinical features observed in individuals with other neurodevelopmental disorders and show it is an improvement on existing approaches. PhenoScore provides predictions for individuals with variants of unknown significance and enables sophisticated genotype–phenotype studies by …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:R3hNpaxXUhUC",
+        "num_citations": 15,
+        "citedby_url": "/scholar?hl=en&cites=2969395117191689818,14144694520181408414",
+        "cites_id": [
+            "2969395117191689818",
+            "14144694520181408414"
+        ],
+        "pub_url": "https://www.nature.com/articles/s41588-023-01469-w",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Wnb9ZSBpNSkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2023": 7,
+            "2024": 8
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The role of laparoscopy in anorectal malformations",
+            "pub_year": 2020,
+            "citation": "European Journal of Pediatric Surgery 30 (02), 156-163, 2020",
+            "author": "Rebecca M Rentea and Devin R Halleran and Richard J Wood and Marc A Levitt",
+            "volume": "30",
+            "number": "02",
+            "pages": "156-163",
+            "publisher": "Georg Thieme Verlag KG",
+            "abstract": "The use of laparoscopy in the minimally invasive management of anorectal malformations (ARMs) continues to evolve, although the principles guiding the anatomic surgical repair and clinical follow-up remain unchanged. In this review, we detail the advantages, indications, contraindications, complications, and issues unique to the minimally invasive approach to ARM. A comprehensive search of the PubMed and Embase databases was performed (2014–2018). Full-text screening, data abstraction, and quality appraisal were performed of articles describing the use of laparoscopy in ARM and cloaca. While new developments and approaches to ARM utilizing minimally invasive techniques and timing for surgical approach have been detailed, a unique complication profile involving greater risk of rectal prolapse and retention of a remnant of the original fistula are still consistently reported. Analysis of perioperative …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:k_IJM867U9cC",
+        "num_citations": 15,
+        "citedby_url": "/scholar?hl=en&cites=5133071524518309651",
+        "cites_id": [
+            "5133071524518309651"
+        ],
+        "pub_url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1701700",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Ey-W-VpVPEcJ:scholar.google.com/",
         "cites_per_year": {
             "2019": 1,
-            "2020": 3,
-            "2021": 0,
-            "2022": 3
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "The impact of manuscript learning vs. video learning on a surgeon's confidence in performing a difficult procedure",
-            "pub_year": 2018,
-            "author": "Carlos A Reck-Burneo and Alexander JM Dingemans and Victoria A Lane and Jennifer Cooper and Marc A Levitt and Richard J Wood",
-            "journal": "Frontiers in Surgery",
-            "volume": "5",
-            "pages": "67",
-            "publisher": "Frontiers Media SA",
-            "abstract": ""
-        },
-        "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:u5HHmVD_uO8C",
-        "num_citations": 7,
-        "citedby_url": "/scholar?cites=911231466189140588",
-        "cites_id": [
-            "911231466189140588"
-        ],
-        "pub_url": "https://www.frontiersin.org/articles/10.3389/fsurg.2018.00067/full",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bLJcyjBYpQwJ:scholar.google.com/",
-        "cites_per_year": {
             "2020": 2,
             "2021": 3,
-            "2022": 2
+            "2022": 3,
+            "2023": 6
         }
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Behavior and cognitive functioning in Witteveen–Kolk syndrome",
-            "pub_year": 2020,
-            "author": "Linde CM van Dongen and Ellen Wingbermühle and Alexander JM Dingemans and Anja G Bos‐Roubos and Karlijn Vermeulen and Monica Pop‐Purceleanu and Tjitske Kleefstra and Jos IM Egger",
-            "journal": "American Journal of Medical Genetics Part A",
-            "volume": "182",
-            "number": "10",
-            "pages": "2384-2390",
-            "publisher": "John Wiley & Sons, Inc.",
-            "abstract": "Witteveen–Kolk syndrome (WITKOS) is a rare neurodevelopmental disorder characterized by developmental delay/intellectual disability, facial dysmorphisms, and short stature. The syndrome is caused by loss of function of switch‐insensitive 3 transcription regulator family member A (SIN3A). Regarding behavioral functioning, Autism Spectrum Disorders (ASD), obsessive–compulsive behaviors, as well as Attention‐Deficit/Hyperactivity Disorder symptoms (ADHD) have been suggested. The present study explores various aspects of neurocognitive functioning in five individuals (age range 10–23) with WITKOS. Medical records and results of extensive neuropsychological assessment are used to describe developmental trajectories and neurocognitive profiles. Systematic analysis of medical records displays developmental difficulties described as ASD or ADHD in childhood, sleep problems and internalizing …"
-        },
-        "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:roLk4NBRz8UC",
-        "num_citations": 5,
-        "citedby_url": "/scholar?cites=10080718208094489107",
-        "cites_id": [
-            "10080718208094489107"
-        ],
-        "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.a.61775",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:E8pI4szn5YsJ:scholar.google.com/",
-        "cites_per_year": {
-            "2021": 2,
-            "2022": 3
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Does clinic visit education within a multidisciplinary center improve health literacy scores in caregivers of children with complex colorectal conditions?",
-            "pub_year": 2017,
-            "author": "Alexander JM Dingemans and Carlos A Reck and Alejandra Vilanova-Sanchez and Dani O Gonzalez and Alessandra C Gasior and Laura J Weaver and Renae Gagnon and Erin Hoover and Gabriel Sraha and Marc A Levitt and Richard J Wood",
-            "journal": "Journal of Pediatric Surgery",
-            "volume": "52",
-            "number": "12",
-            "pages": "1997-2000",
-            "publisher": "WB Saunders",
-            "abstract": "Health literacy is low in an estimated one-third of the US population. Little is known about the health literacy of caregivers of children with colorectal conditions. The objective of this study was to investigate whether a timed health literacy intervention could improve health literacy in this population.We used the BRIEF Health Literacy screening (BHLS) tool on caregivers of children who came to our colorectal clinic. Health literacy was categorized as inadequate, marginal, or adequate. The number of caregivers with adequate health literacy was compared to the number of clinic visits and socioeconomic status.We included 233 caregivers. The average number of clinic visits was 3.5 over 1.2 years. At the first clinic visit, 70% (n = 98) of caregivers had “adequate” health literacy. Scores improved to 88% (p = 0.024) after the fourth visit. Socioeconomic factors were not associated with health …"
-        },
-        "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:UeHWp8X0CEIC",
-        "num_citations": 5,
-        "citedby_url": "/scholar?cites=6463147157368956414",
-        "cites_id": [
-            "6463147157368956414"
-        ],
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022346817305419",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_mUNrhi2sVkJ:scholar.google.com/",
-        "cites_per_year": {
-            "2018": 3,
-            "2019": 0,
-            "2020": 2
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Urinary outcomes in patients with Down's syndrome and hirschsprung's disease",
-            "pub_year": 2019,
-            "author": "Alexander Johannes Martinus Dingemans and Carlos Albert Reck-Burneo and Molly Fuchs and Alejandra Vilanova Sanchez and Victoria Alison Lane and Erin Hoover and Tassiana Maloof and Laura Weaver and Marc A Levitt and Richard J Wood",
-            "journal": "European Journal of Pediatric Surgery",
-            "volume": "29",
-            "number": "04",
-            "pages": "378-383",
-            "publisher": "Georg Thieme Verlag KG",
-            "abstract": " Introduction Previous research in children with Hirschsprung's disease (HD) and Down's syndrome (DS) has focused on colorectal outcomes. We set out to review urinary outcomes in this patient group. Materials and Methods The medical records of all patients aged five years and older with HD were reviewed, and patients and caregivers filled out the Vancouver Symptom Score at intake, which is designed and validated to diagnose dysfunctional elimination syndrome. Results A total of 104 patients with HD were included in this study. Of these, 16 (15%) patients had DS. There were no significant differences in the prevalence of enterocolitis or colorectal symptoms between patients with or without DS. Five of 88 (6%) patients without DS and 7 of 16 (44%) (p = 0.00001) with DS reported having urinary accidents. Patients with HD and DS scored higher on the Vancouver score (9 vs. 17.5; p = 0.007 …"
-        },
-        "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:W7OEmFMy1HYC",
-        "num_citations": 4,
-        "citedby_url": "/scholar?cites=12074467147729520307",
-        "cites_id": [
-            "12074467147729520307"
-        ],
-        "pub_url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0038-1660509",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:s8aKyOUfkacJ:scholar.google.com/",
-        "cites_per_year": {
-            "2021": 2,
-            "2022": 2
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Health literacy and health-related quality of life in patients with anorectal malformations: A comparison between a charity hospital in Honduras and a tertiary care center in the United States",
-            "pub_year": 2018,
-            "author": "Alexander JM Dingemans and Wilfried Krois and Juan Craniotis Rios and Richard J Wood and Marc A Levitt and Carlos A Reck-Burneo",
-            "journal": "Journal of Pediatric Surgery",
-            "volume": "53",
-            "number": "10",
-            "pages": "1951-1954",
-            "publisher": "WB Saunders",
-            "abstract": "We conduct an annual medical mission to Hospital Ruth Paz para Niños Quemados y Cirugía Pediátrica in Honduras to operate on cases of anorectal malformations (ARM). To improve our knowledge of these patients, we compared their health-related quality of life (HRQoL), and the health literacy of their caregivers from this hospital and ours in the United States.The BRIEF Health Literacy Screen (BHLS) and Pediatric Quality of Life Inventory 4.0 (PedsQL) were used, respectively, to assess the health literacy and HRQoL of their guardians. All patients scheduled for an ARM-related operation in October 2016 were eligible for inclusion, and a matched population was selected in Nationwide Children’s Hospital, Columbus, Ohio.The sample comprised 127 patients, with 22 from Honduras and 105, the US. About 13.6% and 80% of Honduran and American caregivers, respectively …"
-        },
-        "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:_FxGoFyzp5QC",
-        "num_citations": 3,
-        "citedby_url": "/scholar?cites=15577104484621005290",
-        "cites_id": [
-            "15577104484621005290"
-        ],
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022346818301167",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6rH6av_9LNgJ:scholar.google.com/",
-        "cites_per_year": {
-            "2022": 3
-        }
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "A Case Series of Familial ARID1B Variants Illustrating Variable Expression and Suggestions to Update the ACMG Criteria",
-            "pub_year": 2021,
-            "author": "Pleuntje J van der Sluijs and Mariëlle Alders and Alexander JM Dingemans and Kareesma Parbhoo and Bregje W van Bon and Jennifer C Dempsey and Dan Doherty and Johan T Den Dunnen and Erica H Gerkes and Stephanie Moortgat and Debra S Regier and Claudia AL Ruivenkamp and Betsy Schmalz and Thomas Smol and Kyra E Stuurman and Catherine Vincent-Delorme and Bert BA de Vries and Bekim Sadikovic and Scott E Hickey and Jill A Rosenfeld and Isabelle Maystadt and Gijs WE Santen",
-            "journal": "Genes",
+            "title": "The phenotypic spectrum and genotype-phenotype correlations in 106 patients with variants in major autism gene CHD8",
+            "pub_year": 2022,
+            "citation": "Translational psychiatry 12 (1), 421, 2022",
+            "author": "Alexander JM Dingemans and Kim MG Truijen and Sam van de Ven and Raphael Bernier and Ernie MHF Bongers and Arjan Bouman and Laura de Graaff–Herder and Evan E Eichler and Erica H Gerkes and Christa M De Geus and Johanna M van Hagen and Philip R Jansen and Jennifer Kerkhof and Anneke JA Kievit and Tjitske Kleefstra and Saskia M Maas and Stella A de Man and Haley McConkey and Wesley G Patterson and Amy T Dobson and Eloise J Prijoles and Bekim Sadikovic and Raissa Relator and Roger E Stevenson and Connie TRM Stumpel and Malou Heijligers and Kyra E Stuurman and Katharina Löhner and Shimriet Zeidler and Jennifer A Lee and Amanda Lindy and Fanggeng Zou and Matthew L Tedder and Lisenka ELM Vissers and Bert BA de Vries",
+            "journal": "Translational psychiatry",
             "volume": "12",
-            "number": "8",
-            "pages": "1275",
-            "publisher": "MDPI",
-            "abstract": "ARID1B is one of the most frequently mutated genes in intellectual disability (~1%). Most variants are readily classified, since they are de novo and are predicted to lead to loss of function, and therefore classified as pathogenic according to the American College of Medical Genetics and Genomics (ACMG) guidelines for the interpretation of sequence variants. However, familial loss-of-function variants can also occur and can be challenging to interpret. Such variants may be pathogenic with variable expression, causing only a mild phenotype in a parent. Alternatively, since some regions of the ARID1B gene seem to be lacking pathogenic variants, loss-of-function variants in those regions may not lead to ARID1B haploinsufficiency and may therefore be benign. We describe 12 families with potential loss-of-function variants, which were either familial or with unknown inheritance and were in regions where pathogenic variants have not been described or are otherwise challenging to interpret. We performed detailed clinical and DNA methylation studies, which allowed us to confidently classify most variants. In five families we observed transmission of pathogenic variants, confirming their highly variable expression. Our findings provide further evidence for an alternative translational start site and we suggest updates for the ACMG guidelines for the interpretation of sequence variants to incorporate DNA methylation studies and facial analyses."
+            "number": "1",
+            "pages": "421",
+            "publisher": "Nature Publishing Group UK",
+            "abstract": "CHD8, a major autism gene, functions in chromatin remodelling and has various roles involving several biological pathways. Therefore, unsurprisingly, previous studies have shown that intellectual developmental disorder with autism and macrocephaly (IDDAM), the syndrome caused by pathogenic variants in CHD8, consists of a broad range of phenotypic abnormalities. We collected and reviewed 106 individuals with IDDAM, including 36 individuals not previously published, thus enabling thorough genotype–phenotype analyses, involving the CHD8 mutation spectrum, characterization of the CHD8 DNA methylation episignature, and the systematic analysis of phenotypes collected in Human Phenotype Ontology (HPO). We identified 29 unique nonsense, 25 frameshift, 24 missense, and 12 splice site variants. Furthermore, two unique inframe deletions, one larger deletion (exons 26–28), and one translocation …"
         },
         "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:kNdYIx-mwKoC",
-        "num_citations": 2,
-        "citedby_url": "/scholar?cites=2766545916940661091",
+        "author_pub_id": "RCwXcaYAAAAJ:QIV2ME_5wuYC",
+        "num_citations": 14,
+        "citedby_url": "/scholar?hl=en&cites=10302452705531379228",
         "cites_id": [
-            "2766545916940661091"
+            "10302452705531379228"
         ],
-        "pub_url": "https://www.mdpi.com/1237048",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YzEOitq-ZCYJ:scholar.google.com/",
+        "pub_url": "https://www.nature.com/articles/s41398-022-02189-1",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HL51pCaq-Y4J:scholar.google.com/",
         "cites_per_year": {
-            "2021": 1,
-            "2022": 1
+            "2023": 8,
+            "2024": 5
         }
     },
     {
@@ -620,6 +519,7 @@
         "bib": {
             "title": "Missense variants in ANKRD11 cause KBG syndrome by impairment of stability or transcriptional activity of the encoded protein",
             "pub_year": 2022,
+            "citation": "Genetics in Medicine 24 (10), 2051-2064, 2022",
             "author": "Elke De Boer and Charlotte W Ockeloen and Rosalie A Kampen and Juliet E Hampstead and Alexander JM Dingemans and Dmitrijs Rots and Lukas Lütje and Tazeen Ashraf and Rachel Baker and Mouna Barat-Houari and Brad Angle and Nicolas Chatron and Anne-Sophie Denommé-Pichon and Orrin Devinsky and Christèle Dubourg and Frances Elmslie and Houda Zghal Elloumi and Laurence Faivre and Sarah Fitzgerald-Butt and David Geneviève and Jacqueline AC Goos and Benjamin M Helm and Usha Kini and Amaia Lasa-Aranzasti and Gaetan Lesca and Sally A Lynch and Irene MJ Mathijssen and Ruth McGowan and Kristin G Monaghan and Sylvie Odent and Rolph Pfundt and Audrey Putoux and Jeroen Van Reeuwijk and Gijs WE Santen and Erina Sasaki and Arthur Sorlin and Peter J Van der Spek and Alexander PA Stegmann and Sigrid MA Swagemakers and Irene Valenzuela and Eléonore Viora-Dupont and Antonio Vitobello and Stephanie M Ware and Mathys Wéber and Christian Gilissen and Karen J Low and Simon E Fisher and Lisenka ELM Vissers and Maggie MK Wong and Tjitske Kleefstra",
             "journal": "Genetics in Medicine",
             "volume": "24",
@@ -630,15 +530,84 @@
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:M3ejUd6NZC8C",
-        "num_citations": 1,
-        "citedby_url": "/scholar?cites=13575345108649664385",
+        "num_citations": 13,
+        "citedby_url": "/scholar?hl=en&cites=8606997148822573946,14856345879045866529,7624485305096529929,17310920291065778842",
         "cites_id": [
-            "13575345108649664385"
+            "8606997148822573946",
+            "14856345879045866529",
+            "7624485305096529929",
+            "17310920291065778842"
         ],
         "pub_url": "https://www.sciencedirect.com/science/article/pii/S1098360022008164",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:gV9meHNQZbwJ:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:epNeFk4ycncJ:scholar.google.com/",
         "cites_per_year": {
-            "2022": 1
+            "2022": 1,
+            "2023": 8,
+            "2024": 4
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Sociodemographics and the impact of a colostomy to indigent families and children with colorectal disorders in Honduras",
+            "pub_year": 2018,
+            "citation": "Journal of Pediatric Surgery 53 (4), 841-846, 2018",
+            "author": "W Krois and AJM Dingemans and PX Hernández and ML Metzelder and J Craniotis Rios and CA Reck-Burneo",
+            "journal": "Journal of Pediatric Surgery",
+            "volume": "53",
+            "number": "4",
+            "pages": "841-846",
+            "publisher": "WB Saunders",
+            "abstract": "To describe the social impact of a colostomy on indigent families and affected children with anorectal malformations (ARM) or Hirschsprung's disease (HD) in San Pedro Sula, Honduras, we specifically targeted very low-income households that attended an international medical brigade for ARM and HD in 2016.The impact of a colostomy on the families and children's daily life was analyzed by personal interviews with a questionnaire.Twenty families with children were included in the study. Children's age ranged from 5 months to 27 years (median 2.31). Annual income was reported to be less than $500 USD in 42.8%. Impairment of daily family life by the colostomy was reported in 85%. Parents of preschool children younger than 7 years are more affected than parents of older children, whereas children older than 7 years reported on more social problems. Moreover, 50% of the school …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:Y0pCki6q_DkC",
+        "num_citations": 13,
+        "citedby_url": "/scholar?hl=en&cites=9430752910481035810",
+        "cites_id": [
+            "9430752910481035810"
+        ],
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S002234681730310X",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:IhK0Sc7D4IIJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 0,
+            "2020": 1,
+            "2021": 4,
+            "2022": 5,
+            "2023": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Quantitative facial phenotyping for Koolen-de Vries and 22q11. 2 deletion syndrome",
+            "pub_year": 2021,
+            "citation": "European Journal of Human Genetics 29 (9), 1418-1423, 2021",
+            "author": "Alexander JM Dingemans and Diante E Stremmelaar and Roos van der Donk and Lisenka ELM Vissers and David A Koolen and Patrick Rump and Jayne Y Hehir-Kwa and Bert BA de Vries",
+            "journal": "European Journal of Human Genetics",
+            "volume": "29",
+            "number": "9",
+            "pages": "1418-1423",
+            "publisher": "Springer International Publishing",
+            "abstract": "The Koolen-de Vries syndrome (KdVS) is a multisystem syndrome with variable facial features caused by a 17q21.31 microdeletion or KANSL1 truncating variant. As the facial gestalt of KdVS has resemblance with the gestalt of the 22q11.2 deletion syndrome (22q11.2DS), we assessed whether our previously described hybrid quantitative facial phenotyping algorithm could distinguish between these two syndromes, and whether there is a facial difference between the molecular KdVS subtypes. We applied our algorithm to 2D photographs of 97 patients with KdVS (78 microdeletions, 19 truncating variants (likely) causing KdVS) and 48 patients with 22q11.2DS as well as age, gender and ethnicity matched controls with intellectual disability (n = 145). The facial gestalts of KdVS and 22q11.2DS were both recognisable through significant clustering by the hybrid model, yet different from one another (p = 7.5 × 10 …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:MXK_kJrjxJIC",
+        "num_citations": 12,
+        "citedby_url": "/scholar?hl=en&cites=10183748459507650795,7011328246290562659",
+        "cites_id": [
+            "10183748459507650795",
+            "7011328246290562659"
+        ],
+        "pub_url": "https://www.nature.com/articles/s41431-021-00824-x",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:65DiokTxU40J:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 2,
+            "2022": 9,
+            "2023": 1
         }
     },
     {
@@ -647,6 +616,7 @@
         "bib": {
             "title": "Inherited variants in CHD3 show variable expressivity in Snijders Blok-Campeau syndrome",
             "pub_year": 2022,
+            "citation": "Genetics in Medicine 24 (6), 1283-1296, 2022",
             "author": "Jet Van der Spek and Joery Den Hoed and Lot Snijders Blok and Alexander JM Dingemans and Dick Schijven and Christoffer Nellaker and Hanka Venselaar and Galuh DN Astuti and Tahsin Stefan Barakat and E Martina Bebin and Stefanie Beck-Wödl and Gea Beunders and Natasha J Brown and Theresa Brunet and Han G Brunner and Philippe M Campeau and Goran Čuturilo and Christian Gilissen and Tobias B Haack and Irina Hüning and Ralf A Husain and Benjamin Kamien and Sze Chern Lim and Luca Lovrecic and Janine Magg and Ales Maver and Valancy Miranda and Danielle C Monteil and Charlotte W Ockeloen and Lynn S Pais and Vasilica Plaiasu and Laura Raiti and Christopher Richmond and Angelika Rieß and Eva MC Schwaibold and Marleen EH Simon and Stephanie Spranger and Tiong Yang Tan and Michelle L Thompson and Bert BA de Vries and Ella J Wilkins and Marjolein H Willemsen and Clyde Francks and Lisenka ELM Vissers and Simon E Fisher and Tjitske Kleefstra",
             "journal": "Genetics in Medicine",
             "volume": "24",
@@ -657,17 +627,328 @@
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:ULOm3_A8WrAC",
-        "num_citations": 1,
-        "citedby_url": "/scholar?cites=1812689158262952944,591852526218003707,18168459973491069649",
+        "num_citations": 11,
+        "citedby_url": "/scholar?hl=en&cites=1812689158262952944,18168459973491069649,591852526218003707",
         "cites_id": [
             "1812689158262952944",
-            "591852526218003707",
-            "18168459973491069649"
+            "18168459973491069649",
+            "591852526218003707"
         ],
         "pub_url": "https://www.sciencedirect.com/science/article/pii/S1098360022006724",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:0ZLW0xVWI_wJ:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:8BN3di_3JxkJ:scholar.google.com/",
         "cites_per_year": {
-            "2022": 1
+            "2023": 6,
+            "2024": 5
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Why do the patients with Hirschsprung disease get redo pull-through operation?",
+            "pub_year": 2019,
+            "citation": "European Journal of Pediatric Surgery 29 (05), 431-436, 2019",
+            "author": "Ji-Won Han and Joong Kee Youn and Chaeyoun Oh and Hyun-Young Kim and Sung-Eun Jung and Kwi-Won Park",
+            "journal": "European Journal of Pediatric Surgery",
+            "volume": "29",
+            "number": "05",
+            "pages": "431-436",
+            "publisher": "Georg Thieme Verlag KG",
+            "abstract": " Introduction The treatment of Hirschsprung disease (HD) is pull-through (PT) surgery. Redo PT can be performed in 1 to 10% of patients after initial PT. In this study, we reviewed the causes and associated factors of redo PT. Materials and Methods We retrospectively reviewed medical charts of 657 patients with HD who underwent surgeries between September 1979 and January 2016. The indications for redo PT are as follows. First, there were persistent obstructive symptoms after the first operation, (1) with transition zone shown definitely on contrast study, (2) with anatomic problems, and (3) obstructive symptoms persist despite conservative or nonredo surgical treatment without (1) and (2). We analyzed the causes and associated factors of redo PT. Results A total of 49 (7.5%) patients underwent redo PT. Among them, 41 and 8 patients underwent PT twice and three times, respectively. Among 57 cases of …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:maZDTaKrznsC",
+        "num_citations": 11,
+        "citedby_url": "/scholar?hl=en&cites=11420269747757812790",
+        "cites_id": [
+            "11420269747757812790"
+        ],
+        "pub_url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0038-1667038",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Now-EtTyfJ4J:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 1,
+            "2019": 1,
+            "2020": 1,
+            "2021": 3,
+            "2022": 1,
+            "2023": 4
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The impact of manuscript learning vs. video learning on a surgeon's confidence in performing a difficult procedure",
+            "pub_year": 2018,
+            "citation": "Frontiers in Surgery 5, 67, 2018",
+            "author": "Carlos A Reck-Burneo and Alexander JM Dingemans and Victoria A Lane and Jennifer Cooper and Marc A Levitt and Richard J Wood",
+            "journal": "Frontiers in Surgery",
+            "volume": "5",
+            "pages": "67",
+            "publisher": "Frontiers Media SA",
+            "abstract": "Introduction: Operative surgical videos are a popular educational resource, not commonly a part of a peer-reviewed article. We wanted to evaluate the impact of either reading a peer-reviewed manuscript or watching an operative video on a surgeon's confidence in performing a complex case.Methods: Pediatric surgeons and fellows were asked to complete an initial questionnaire to assess their confidence (formulated as a score) in the diagnosis and operative repair of anal stenosis and rectal atresia.Results: Of 101 pediatric surgeons and fellows, 52 (51%) were randomized into a “manuscript” group and 49 (49%) into a “video” group. The mean confidence before the intervention was the same in the two groups (6.4 vs. 6.6). Attending surgeons started with more confidence than trainees (7.1 vs. 5.3, p < 0.001). In the manuscript group, the average confidence increased to 7.7 (p = 0.005), and in the video group the average confidence increased to 7.9 (p = 0.001) globally. Trainees in the video group significantly improved their confidence to a score of 6.6 (p = 0.035), as did attending surgeons to 8.5 (p = 0.01). In the manuscript group, only attendings significantly improved their confidence by 1.5–8.3 (p < 0.001), whereas trainees did not with a difference of 1.3 (p = 0.194). When considering experience level, physicians who reported never having performed this surgery improved only by reading the manuscript (3.9–6.2) (p = 0.004), not by watching the video (5.4–6.6) (p = 0.106). Surgeons with experience doing this operation (>5 times) did not improve their confidence by reading the manuscript (p = 0.10), nor by watching the video (p = 0.112 …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:u5HHmVD_uO8C",
+        "num_citations": 10,
+        "citedby_url": "/scholar?hl=en&cites=911231466189140588",
+        "cites_id": [
+            "911231466189140588"
+        ],
+        "pub_url": "https://www.frontiersin.org/articles/10.3389/fsurg.2018.00067/full",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:bLJcyjBYpQwJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 2,
+            "2021": 3,
+            "2022": 3,
+            "2023": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Does clinic visit education within a multidisciplinary center improve health literacy scores in caregivers of children with complex colorectal conditions?",
+            "pub_year": 2017,
+            "citation": "Journal of Pediatric Surgery 52 (12), 1997-2000, 2017",
+            "author": "Alexander JM Dingemans and Carlos A Reck and Alejandra Vilanova-Sanchez and Dani O Gonzalez and Alessandra C Gasior and Laura J Weaver and Renae Gagnon and Erin Hoover and Gabriel Sraha and Marc A Levitt and Richard J Wood",
+            "journal": "Journal of Pediatric Surgery",
+            "volume": "52",
+            "number": "12",
+            "pages": "1997-2000",
+            "publisher": "WB Saunders",
+            "abstract": "Health literacy is low in an estimated one-third of the US population. Little is known about the health literacy of caregivers of children with colorectal conditions. The objective of this study was to investigate whether a timed health literacy intervention could improve health literacy in this population.We used the BRIEF Health Literacy screening (BHLS) tool on caregivers of children who came to our colorectal clinic. Health literacy was categorized as inadequate, marginal, or adequate. The number of caregivers with adequate health literacy was compared to the number of clinic visits and socioeconomic status.We included 233 caregivers. The average number of clinic visits was 3.5 over 1.2 years. At the first clinic visit, 70% (n = 98) of caregivers had “adequate” health literacy. Scores improved to 88% (p = 0.024) after the fourth visit. Socioeconomic factors were not associated with health …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 10,
+        "citedby_url": "/scholar?hl=en&cites=6463147157368956414",
+        "cites_id": [
+            "6463147157368956414"
+        ],
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022346817305419",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:_mUNrhi2sVkJ:scholar.google.com/",
+        "cites_per_year": {
+            "2018": 3,
+            "2019": 0,
+            "2020": 2,
+            "2021": 0,
+            "2022": 1,
+            "2023": 2,
+            "2024": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Primary or redo posterior sagittal anorectoplasty without a stoma: to feed or not to feed?",
+            "pub_year": 2019,
+            "citation": "European Journal of Pediatric Surgery 29 (02), 150-152, 2019",
+            "author": "Carlos A Reck-Burneo and Clare Skerrit and Alexander Dingemans and Victoria A Lane and Alejandra Vilanova Sanchez and Laura Weaver and Andrea Wagner and Nicole Jenkins and Richard J Wood and Marc A Levitt",
+            "journal": "European Journal of Pediatric Surgery",
+            "volume": "29",
+            "number": "02",
+            "pages": "150-152",
+            "publisher": "Georg Thieme Verlag KG",
+            "abstract": " Introduction Repair of anorectal malformations (ARMs), primarily or with a reoperation, may be performed in certain circumstances without a diverting stoma. Postoperatively, the passage of bulky stool can cause wound dehiscence and anastomotic disruption. To avoid this, some surgeons keep patients NPO (nothing by mouth) for a prolonged period. Here, we report the results of a change to our routine from NPO for 7 days to clear fluids or breast milk. Materials and Methods After primary or redo ARM surgery, patients given clear liquids were compared to those who were kept strictly NPO. Age, indication for surgery, incision type, use of a peripherally inserted central catheter (PICC) line, and wound complications were recorded. Results There were 52 patients, including 15 primary and 37 redo cases. Group 1 comprised 11 female and 15 male patients. The mean age at surgery was 4.9 years (standard …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 9,
+        "citedby_url": "/scholar?hl=en&cites=8508551318034986586",
+        "cites_id": [
+            "8508551318034986586"
+        ],
+        "pub_url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0037-1608805",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Wjao8FdyFHYJ:scholar.google.com/",
+        "cites_per_year": {
+            "2019": 1,
+            "2020": 3,
+            "2021": 0,
+            "2022": 1,
+            "2023": 3,
+            "2024": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Health literacy and health-related quality of life in patients with anorectal malformations: A comparison between a charity hospital in Honduras and a tertiary care center in the United States",
+            "pub_year": 2018,
+            "citation": "Journal of Pediatric Surgery 53 (10), 1951-1954, 2018",
+            "author": "Alexander JM Dingemans and Wilfried Krois and Juan Craniotis Rios and Richard J Wood and Marc A Levitt and Carlos A Reck-Burneo",
+            "journal": "Journal of Pediatric Surgery",
+            "volume": "53",
+            "number": "10",
+            "pages": "1951-1954",
+            "publisher": "WB Saunders",
+            "abstract": "We conduct an annual medical mission to Hospital Ruth Paz para Niños Quemados y Cirugía Pediátrica in Honduras to operate on cases of anorectal malformations (ARM). To improve our knowledge of these patients, we compared their health-related quality of life (HRQoL), and the health literacy of their caregivers from this hospital and ours in the United States.The BRIEF Health Literacy Screen (BHLS) and Pediatric Quality of Life Inventory 4.0 (PedsQL) were used, respectively, to assess the health literacy and HRQoL of their guardians. All patients scheduled for an ARM-related operation in October 2016 were eligible for inclusion, and a matched population was selected in Nationwide Children’s Hospital, Columbus, Ohio.The sample comprised 127 patients, with 22 from Honduras and 105, the US. About 13.6% and 80% of Honduran and American caregivers, respectively …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 9,
+        "citedby_url": "/scholar?hl=en&cites=15577104484621005290",
+        "cites_id": [
+            "15577104484621005290"
+        ],
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022346818301167",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6rH6av_9LNgJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 0,
+            "2022": 6,
+            "2023": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Behavior and cognitive functioning in Witteveen–Kolk syndrome",
+            "pub_year": 2020,
+            "citation": "American Journal of Medical Genetics Part A 182 (10), 2384-2390, 2020",
+            "author": "Linde CM van Dongen and Ellen Wingbermühle and Alexander JM Dingemans and Anja G Bos‐Roubos and Karlijn Vermeulen and Monica Pop‐Purceleanu and Tjitske Kleefstra and Jos IM Egger",
+            "journal": "American Journal of Medical Genetics Part A",
+            "volume": "182",
+            "number": "10",
+            "pages": "2384-2390",
+            "publisher": "John Wiley & Sons, Inc.",
+            "abstract": "Witteveen–Kolk syndrome (WITKOS) is a rare neurodevelopmental disorder characterized by developmental delay/intellectual disability, facial dysmorphisms, and short stature. The syndrome is caused by loss of function of switch‐insensitive 3 transcription regulator family member A (SIN3A). Regarding behavioral functioning, Autism Spectrum Disorders (ASD), obsessive–compulsive behaviors, as well as Attention‐Deficit/Hyperactivity Disorder symptoms (ADHD) have been suggested. The present study explores various aspects of neurocognitive functioning in five individuals (age range 10–23) with WITKOS. Medical records and results of extensive neuropsychological assessment are used to describe developmental trajectories and neurocognitive profiles. Systematic analysis of medical records displays developmental difficulties described as ASD or ADHD in childhood, sleep problems and internalizing …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:roLk4NBRz8UC",
+        "num_citations": 8,
+        "citedby_url": "/scholar?hl=en&cites=10080718208094489107",
+        "cites_id": [
+            "10080718208094489107"
+        ],
+        "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.a.61775",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:E8pI4szn5YsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 2,
+            "2022": 2,
+            "2023": 3,
+            "2024": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Case Series of Familial ARID1B Variants Illustrating Variable Expression and Suggestions to Update the ACMG Criteria",
+            "pub_year": 2021,
+            "citation": "Genes 12 (8), 1275, 2021",
+            "author": "Pleuntje J van der Sluijs and Mariëlle Alders and Alexander JM Dingemans and Kareesma Parbhoo and Bregje W van Bon and Jennifer C Dempsey and Dan Doherty and Johan T Den Dunnen and Erica H Gerkes and Stephanie Moortgat and Debra S Regier and Claudia AL Ruivenkamp and Betsy Schmalz and Thomas Smol and Kyra E Stuurman and Catherine Vincent-Delorme and Bert BA de Vries and Bekim Sadikovic and Scott E Hickey and Jill A Rosenfeld and Isabelle Maystadt and Gijs WE Santen",
+            "journal": "Genes",
+            "volume": "12",
+            "number": "8",
+            "pages": "1275",
+            "publisher": "MDPI",
+            "abstract": "ARID1B is one of the most frequently mutated genes in intellectual disability (~1%). Most variants are readily classified, since they are de novo and are predicted to lead to loss of function, and therefore classified as pathogenic according to the American College of Medical Genetics and Genomics (ACMG) guidelines for the interpretation of sequence variants. However, familial loss-of-function variants can also occur and can be challenging to interpret. Such variants may be pathogenic with variable expression, causing only a mild phenotype in a parent. Alternatively, since some regions of the ARID1B gene seem to be lacking pathogenic variants, loss-of-function variants in those regions may not lead to ARID1B haploinsufficiency and may therefore be benign. We describe 12 families with potential loss-of-function variants, which were either familial or with unknown inheritance and were in regions where pathogenic variants have not been described or are otherwise challenging to interpret. We performed detailed clinical and DNA methylation studies, which allowed us to confidently classify most variants. In five families we observed transmission of pathogenic variants, confirming their highly variable expression. Our findings provide further evidence for an alternative translational start site and we suggest updates for the ACMG guidelines for the interpretation of sequence variants to incorporate DNA methylation studies and facial analyses."
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:kNdYIx-mwKoC",
+        "num_citations": 6,
+        "citedby_url": "/scholar?hl=en&cites=2766545916940661091,7024058149046912423",
+        "cites_id": [
+            "2766545916940661091",
+            "7024058149046912423"
+        ],
+        "pub_url": "https://www.mdpi.com/2073-4425/12/8/1275",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:YzEOitq-ZCYJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 1,
+            "2022": 1,
+            "2023": 3,
+            "2024": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation episignature for Witteveen-Kolk syndrome due to SIN3A haploinsufficiency",
+            "pub_year": 2023,
+            "citation": "Genetics in Medicine 25 (1), 63-75, 2023",
+            "author": "Jet Coenen-van der Spek and Raissa Relator and Jennifer Kerkhof and Haley McConkey and Michael A Levy and Matthew L Tedder and Raymond J Louie and Robin S Fletcher and Hannah W Moore and Anna Childers and Ellyn R Farrelly and Neena L Champaigne and Michael J Lyons and David B Everman and R Curtis Rogers and Steven A Skinner and Alicia Renck and Dena R Matalon and Shelley K Dills and Berrin Monteleone and Serwet Demirdas and Alexander JM Dingemans and Laura Donker Kaat and Sharon M Kolk and Rolph Pfundt and Patrick Rump and Bekim Sadikovic and Tjitske Kleefstra and Kameryn M Butler",
+            "journal": "Genetics in Medicine",
+            "volume": "25",
+            "number": "1",
+            "pages": "63-75",
+            "publisher": "Elsevier",
+            "abstract": "Witteveen-Kolk syndrome (WITKOS) is a rare, autosomal dominant neurodevelopmental disorder caused by heterozygous loss-of-function alterations in the SIN3A gene. WITKOS has variable expressivity that commonly overlaps with other neurodevelopmental disorders. In this study, we characterized a distinct DNA methylation epigenetic signature (episignature) distinguishing WITKOS from unaffected individuals as well as individuals with other neurodevelopmental disorders with episignatures and described 9 previously unpublished individuals with SIN3A haploinsufficiency.We studied the phenotypic characteristics and the genome-wide DNA methylation in the peripheral blood samples of 20 individuals with heterozygous alterations in SIN3A. A total of 14 samples were used for the identification of the episignature and building of a predictive diagnostic biomarker, whereas the diagnostic model …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:7PzlFSSx8tAC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?hl=en&cites=5239367940391020711",
+        "cites_id": [
+            "5239367940391020711"
+        ],
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S109836002200973X",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:p6iT5mH5tUgJ:scholar.google.com/",
+        "cites_per_year": {
+            "2023": 2,
+            "2024": 3
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Urinary outcomes in patients with down's syndrome and Hirschsprung's disease",
+            "pub_year": 2019,
+            "citation": "European Journal of Pediatric Surgery 29 (04), 378-383, 2019",
+            "author": "Alexander Johannes Martinus Dingemans and Carlos Albert Reck-Burneo and Molly Fuchs and Alejandra Vilanova Sanchez and Victoria Alison Lane and Erin Hoover and Tassiana Maloof and Laura Weaver and Marc A Levitt and Richard J Wood",
+            "journal": "European Journal of Pediatric Surgery",
+            "volume": "29",
+            "number": "04",
+            "pages": "378-383",
+            "publisher": "Georg Thieme Verlag KG",
+            "abstract": " Introduction Previous research in children with Hirschsprung's disease (HD) and Down's syndrome (DS) has focused on colorectal outcomes. We set out to review urinary outcomes in this patient group. Materials and Methods The medical records of all patients aged five years and older with HD were reviewed, and patients and caregivers filled out the Vancouver Symptom Score at intake, which is designed and validated to diagnose dysfunctional elimination syndrome. Results A total of 104 patients with HD were included in this study. Of these, 16 (15%) patients had DS. There were no significant differences in the prevalence of enterocolitis or colorectal symptoms between patients with or without DS. Five of 88 (6%) patients without DS and 7 of 16 (44%) (p = 0.00001) with DS reported having urinary accidents. Patients with HD and DS scored higher on the Vancouver score (9 vs. 17.5; p = 0.007 …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?hl=en&cites=12074467147729520307",
+        "cites_id": [
+            "12074467147729520307"
+        ],
+        "pub_url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0038-1660509",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:s8aKyOUfkacJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 2,
+            "2022": 1,
+            "2023": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The Human Phenotype Ontology in 2024: phenotypes around the world.",
+            "pub_year": 2024,
+            "citation": "Nucleic Acids Research 52 (D1), 2024",
+            "author": "Francisco Castellanos and J Caufield and Lauren Chan and Christopher Chute and Jaime Cruz-Rojo and Noémi Dahan-Oliel and Jon Davids and Maud de Dieuleveult and Vinicius de Souza and Bert de Vries and Esther de Vries and J DePaulo and Beata Derfalvi and Ferdinand Dhombres and Claudia Diaz-Byrd and Alexander Dingemans and Bruno Donadille and Michael Duyzend and Reem Elfeky and Shahim Essaid and Carolina Fabrizzi and Giovanna Fico and Helen Firth and Yun Freudenberg-Hua and Janice Fullerton and Davera Gabriel and Kimberly Gilmour and Jessica Giordano and Fernando Goes and Rachel Moses and Ian Green and Matthias Griese and Tudor Groza and Weihong Gu and Julia Guthrie and Benjamin Gyori and Ada Hamosh and Marc Hanauer and Kateřina Hanušová and Yongqun He and Harshad Hegde and Ingo Helbig and Kateřina Holasová and Charles Hoyt and Shangzhi Huang and Eric Hurwitz and Julius Jacobsen and Xiaofeng Jiang and Lisa Joseph and Kamyar Keramatian and Bryan King and Katrin Knoflach and David Koolen and Megan Kraus and Carlo Kroll and Maaike Kusters and Markus Ladewig and David Lagorce and Meng-Chuan Lai and Pablo Lapunzina and Bryan Laraway and David Lewis-Smith and Xiarong Li and Caterina Lucano and Marzieh Majd and Mary Marazita and Victor Martinez-Glez and Toby McHenry and Melvin McInnis and Julie McMurry and Michaela Mihulová and Caitlin Millett and Philip Mitchell and Veronika Moslerová and Kenji Narutomi and Shahrzad Nematollahi and Julian Nevado and Andrew Nierenberg and Nikola Čajbiková and John Nurnberger and Soichi Ogishima and Daniel Olson and Abigail Ortiz and Harry Pachajoa and Guiomar Perez de Nanclares",
+            "journal": "Nucleic Acids Research",
+            "volume": "52",
+            "number": "D1",
+            "abstract": "The Human Phenotype Ontology (HPO) is a widely used resource that comprehensively organizes and defines the phenotypic features of human disease, enabling computational inference and supporting genomic and phenotypic analyses through semantic similarity and machine learning algorithms. The HPO has widespread applications in clinical diagnostics and translational research, including genomic diagnostics, gene-disease discovery, and cohort analytics. In recent years, groups around the world have developed translations of the HPO from English to other languages, and the HPO browser has been internationalized, allowing users to view HPO term labels and in many cases synonyms and definitions in ten languages in addition to English. Since our last report, a total of 2239 new HPO terms and 49235 new HPO annotations were developed, many in collaboration with external groups in the fields of psychiatry, arthrogryposis, immunology and cardiology. The Medical Action Ontology (MAxO) is a new effort to model treatments and other measures taken for clinical management. Finally, the HPO consortium is contributing to efforts to integrate the HPO and the GA4GH Phenopacket Schema into electronic health records (EHRs) with the goal of more standardized and computable integration of rare disease data in EHRs."
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:TFP_iSt0sucC",
+        "num_citations": 4,
+        "citedby_url": "/scholar?hl=en&cites=9001564325233544983,3036974172930339561",
+        "cites_id": [
+            "9001564325233544983",
+            "3036974172930339561"
+        ],
+        "pub_url": "https://escholarship.org/uc/item/7956s6h6",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:F89fvA_763wJ:scholar.google.com/",
+        "cites_per_year": {
+            "2024": 3
         }
     },
     {
@@ -676,6 +957,7 @@
         "bib": {
             "title": "Phenotype based prediction of exome sequencing outcome using machine learning for neurodevelopmental disorders",
             "pub_year": 2022,
+            "citation": "Genetics in Medicine 24 (3), 645-653, 2022",
             "author": "Alexander JM Dingemans and Max Hinne and Sandra Jansen and Jeroen van Reeuwijk and Nicole de Leeuw and Rolph Pfundt and Bregje W van Bon and Anneke T Vulto-van Silfhout and Tjitske Kleefstra and David A Koolen and Marcel AJ van Gerven and Lisenka ELM Vissers and Bert BA de Vries",
             "journal": "Genetics in Medicine",
             "volume": "24",
@@ -686,8 +968,8 @@
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:4TOpqqG69KYC",
-        "num_citations": 1,
-        "citedby_url": "/scholar?cites=8124025767332531662,17157823732140814107",
+        "num_citations": 4,
+        "citedby_url": "/scholar?hl=en&cites=8124025767332531662,17157823732140814107",
         "cites_id": [
             "8124025767332531662",
             "17157823732140814107"
@@ -695,7 +977,67 @@
         "pub_url": "https://www.sciencedirect.com/science/article/pii/S1098360021053715",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zs35d2RWvnAJ:scholar.google.com/",
         "cites_per_year": {
-            "2022": 1
+            "2022": 1,
+            "2023": 2,
+            "2024": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "de novo PHF5A variants are associated with craniofacial abnormalities, developmental delay, and hypospadias",
+            "pub_year": 2023,
+            "citation": "Genetics in Medicine 25 (10), 100927, 2023",
+            "author": "Frederike L Harms and Alexander JM Dingemans and Maja Hempel and Rolph Pfundt and Tatjana Bierhals and Christian Casar and Christian Müller and Jikke-Mien F Niermeijer and Jan Fischer and Arne Jahn and Christoph Hübner and Silvia Majore and Emanuele Agolini and Antonio Novelli and Jasper van der Smagt and Robert Ernst and Ellen van Binsbergen and Grazia MS Mancini and Marjon van Slegtenhorst and Tahsin Stefan Barakat and Emma L Wakeling and Arveen Kamath and Lilian Downie and Lynn Pais and Susan M White and Bert BA de Vries and Kerstin Kutsche",
+            "journal": "Genetics in Medicine",
+            "volume": "25",
+            "number": "10",
+            "pages": "100927",
+            "publisher": "Elsevier",
+            "abstract": "The SF3B splicing complex is composed of SF3B1-6 and PHF5A. We report a developmental disorder caused by de novo variants in PHF5A.Clinical, genomic, and functional studies using subject-derived fibroblasts and a heterologous cellular system were performed.We studied 9 subjects with congenital malformations, including preauricular tags and hypospadias, growth abnormalities, and developmental delay who had de novo heterozygous PHF5A variants, including 4 loss-of-function (LOF), 3 missense, 1 splice, and 1 start-loss variant. In subject-derived fibroblasts with PHF5A LOF variants, wild-type and variant PHF5A mRNAs had a 1:1 ratio, and PHF5A mRNA levels were normal. Transcriptome sequencing revealed alternative promoter use and downregulated genes involved in cell-cycle regulation. Subject and control fibroblasts had similar amounts of PHF5A with the predicted …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:HDshCWvjkbEC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?hl=en&cites=7748573195863839004,13640879923874256200",
+        "cites_id": [
+            "7748573195863839004",
+            "13640879923874256200"
+        ],
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1098360023009401",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:HNGTl0R2iGsJ:scholar.google.com/",
+        "cites_per_year": {
+            "2023": 1,
+            "2024": 2
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Comparing facial feature extraction methods in the diagnosis of rare genetic syndromes",
+            "pub_year": 2022,
+            "citation": "medRxiv, 2022.08. 26.22279217, 2022",
+            "author": "Alexander JM Dingemans and Bert BA de Vries and Lisenka ELM Vissers and Marcel AJ van Gerven and Max Hinne",
+            "journal": "medRxiv",
+            "pages": "2022.08. 26.22279217",
+            "publisher": "Cold Spring Harbor Laboratory Press",
+            "abstract": "Since several genetic disorders exhibit facial characteristics, facial recognition techniques can help clinicians in diagnosing patients. However, currently, there are no open-source models that are feasible for use in clinical practice, which makes clinical application of these methods dependent on proprietary software.In this study, we therefore set out to compare three facial feature extraction methods when classifying 524 individuals with 18 different genetic disorders: two techniques based on convolutional neural networks (VGGFace2, OpenFace) and one method based on facial distances, calculated after detecting 468 landmarks. For every individual, all three methods are used to generate a feature vector of a facial image. These feature vectors are used as input to a Bayesian softmax classifier, to see which feature extraction method would generate the best results.Of the considered algorithms, VGGFace2 results in the best performance, as shown by its accuracy of 0.78 and significantly lowest loss. We inspect the features learned by VGGFace2 by generating activation maps and using Local Interpretable Model-agnostic Explanations, and confirm that the resulting predictors are interpretable and meaningful.All in all, the classifier using the features extracted by VGGFace2 shows not only superior classification performance, but detects faces in almost all images that are processed, in seconds. By not retraining VGGFace2, but instead using the feature vector of the network with its pretrained weights, we avoid overfitting the model. We confirm that it is possible to classify individuals with a rare …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 3,
+        "citedby_url": "/scholar?hl=en&cites=8206900315559643892",
+        "cites_id": [
+            "8206900315559643892"
+        ],
+        "pub_url": "https://www.medrxiv.org/content/10.1101/2022.08.26.22279217.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:9Er531rE5HEJ:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 1,
+            "2023": 1,
+            "2024": 1
         }
     },
     {
@@ -704,111 +1046,136 @@
         "bib": {
             "title": "SETBP1 variants outside the degron disrupt DNA-binding and transcription independent of protein abundance to cause a heterogeneous neurodevelopmental disorder",
             "pub_year": 2022,
-            "author": "Maggie MK Wong and Rosalie A Kampen and Ruth O Braden and Gokberk Alagoz and Michael S Hildebrand and Christopher Barnett and Meghan Barnett and Alfredo Brusco and Diana Carli and Bert BA de Vries and Alexander JM Dingemans and Frances Elmslie and Giovanni B Ferrero and Nadieh A Jansen and Ingrid MBH van de Laar and Alice Moroni and David Mowat and Lucinda Murray and Francesca Novara and Angela Peron and Ingrid E Scheffer and Fabio Sirchia and Samantha J Turner and Aglaia Vignoli and Arianna Vino and Sacha Weber and Wendy K Chung and Marion Gerard and Vanessa Lopez-Gonzalez and Elizabeth Palmer and Angela T Morgan and Bregje W van Bon and Simon E Fisher",
+            "citation": "medRxiv, 2022.03. 04.22271462, 2022",
+            "author": "Maggie MK Wong and Rosalie A Kampen and Ruth O Braden and Gökberk Alagöz and Michael S Hildebrand and Christopher Barnett and Meghan Barnett and Alfredo Brusco and Diana Carli and Bert BA de Vries and Alexander JM Dingemans and Frances Elmslie and Giovanni B Ferrero and Nadieh A Jansen and Ingrid MBH Van de Laar and Alice Moroni and David Mowat and Lucinda Murray and Francesca Novara and Angela Peron and Ingrid E Scheffer and Fabio Sirchia and Samantha J Turner and Aglaia Vignoli and Arianna Vino and Sacha Weber and Wendy K Chung and Marion Gerard and Vanessa López-González and Elizabeth Palmer and Angela T Morgan and Bregje W Van Bon and Simon E Fisher",
             "journal": "medRxiv",
+            "pages": "2022.03. 04.22271462",
             "publisher": "Cold Spring Harbor Laboratory Press",
             "abstract": "Germline de novo SETBP1 variants cause clinically distinct and heterogeneous neurodevelopmental disorders. Heterozygous missense variants at a hotspot encoding a canonical degron lead to SETBP1 accumulation and Schinzel-Giedion syndrome (SGS), a rare severe developmental disorder involving multisystem malformations. Heterozygous loss-of-function variants result in SETBP1 haploinsufficiency disorder which is phenotypically much milder than SGS. Following an initial description of four individuals with atypical SGS carrying heterozygous missense variants adjacent to the degron, a few individual cases of variants outside the degron were reported. Due to the lack of systematic investigation of genotype-phenotype associations of different types of SETBP1 variants, and limited understanding of the roles of the gene in brain development, the extent of clinical heterogeneity and how this relates to underlying pathophysiological mechanisms remain elusive, imposing challenges for diagnosis and patient care. Here, we present a comprehensive investigation of the largest cohort to-date of individuals carrying SETBP1 missense variants outside the degron (n=18, including one in-frame deletion). We performed thorough clinical and speech phenotyping with functional follow-up using cellular assays and transcriptomics. Our findings suggest that such variants cause a clinically and functionally variable developmental syndrome, showing only partial overlaps with classical SGS and SETBP1 haploinsufficiency disorder, and primarily characterised by intellectual disability, epilepsy, speech and motor impairment. We provide evidence of loss-of …"
         },
         "filled": true,
         "author_pub_id": "RCwXcaYAAAAJ:aqlVkmm33-oC",
-        "num_citations": 1,
-        "citedby_url": "/scholar?cites=392056383507767530",
+        "num_citations": 2,
+        "citedby_url": "/scholar?hl=en&cites=392056383507767530",
         "cites_id": [
             "392056383507767530"
         ],
         "pub_url": "https://www.medrxiv.org/content/10.1101/2022.03.04.22271462.abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:6qDnHjTdcAUJ:scholar.google.com/",
         "cites_per_year": {
-            "2022": 1
+            "2022": 1,
+            "2023": 1
         }
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "DNA methylation episignature for Witteveen-Kolk syndrome due to SIN3A haploinsufficiency",
-            "pub_year": 2022,
-            "author": "Jet Coenen-van der Spek and Raissa Relator and Jennifer Kerkhof and Haley McConkey and Michael A Levy and Matthew L Tedder and Raymond J Louie and Robin S Fletcher and Hannah W Moore and Anna Childers and Ellyn R Farrelly and Neena L Champaigne and Michael J Lyons and David B Everman and R Curtis Rogers and Steven A Skinner and Alicia Renck and Dena R Matalon and Shelley K Dills and Berrin Monteleone and Serwet Demirdas and Alexander JM Dingemans and Laura Donker Kaat and Sharon M Kolk and Rolph Pfundt and Patrick Rump and Bekim Sadikovic and Tjitske Kleefstra and Kameryn M Butler",
+            "title": "A new blood DNA methylation signature for Koolen-de Vries syndrome: Classification of missense KANSL1 variants and comparison to fibroblast cells",
+            "pub_year": 2024,
+            "citation": "European Journal of Human Genetics 32 (3), 324-332, 2024",
+            "author": "Zain Awamleh and Sanaa Choufani and Wendy Wu and Dmitrijs Rots and Alexander JM Dingemans and Nael Nadif Kasri and Susana Boronat and Salvador Ibañez-Mico and Laura Cuesta Herraiz and Irene Ferrer and Antonio Martínez Carrascal and Luis A Pérez-Jurado and Gemma Aznar Lain and Juan Dario Ortigoza-Escobar and Bert BA de Vries and David A Koolen and Rosanna Weksberg",
+            "journal": "European Journal of Human Genetics",
+            "volume": "32",
+            "number": "3",
+            "pages": "324-332",
+            "publisher": "Springer International Publishing",
+            "abstract": "Pathogenic variants in KANSL1 and 17q21.31 microdeletions are causative of Koolen-de Vries syndrome (KdVS), a neurodevelopmental syndrome with characteristic facial dysmorphia. Our previous work has shown that syndromic conditions caused by pathogenic variants in epigenetic regulatory genes have identifiable patterns of DNA methylation (DNAm) change: DNAm signatures or episignatures. Given the role of KANSL1 in histone acetylation, we tested whether variants underlying KdVS are associated with a DNAm signature. We profiled whole-blood DNAm for 13 individuals with KANSL1 variants, four individuals with 17q21.31 microdeletions, and 21 typically developing individuals, using Illumina’s Infinium EPIC array. In this study, we identified a robust DNAm signature of 456 significant CpG sites in 8 individuals with KdVS, a pattern independently validated in an additional 7 individuals with KdVS. We …"
+        },
+        "filled": true,
+        "author_pub_id": "RCwXcaYAAAAJ:M3NEmzRMIkIC",
+        "num_citations": 1,
+        "citedby_url": "/scholar?hl=en&cites=17211535580290700096,6154302373682871705",
+        "cites_id": [
+            "17211535580290700096",
+            "6154302373682871705"
+        ],
+        "pub_url": "https://www.nature.com/articles/s41431-024-01538-6",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QFM5bmuo2-4J:scholar.google.com/",
+        "cites_per_year": {
+            "2024": 1
+        }
+    },
+    {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "DNA methylation episignature, extension of the clinical features, and comparative epigenomic profiling of Hao-Fountain syndrome caused by variants in USP7",
+            "pub_year": 2024,
+            "citation": "Genetics in Medicine 26 (3), 101050, 2024",
+            "author": "Liselot van der Laan and Karim Karimi and Kathleen Rooney and Peter Lauffer and Haley McConkey and Pilar Caro and Raissa Relator and Michael A Levy and Pratibha Bhai and Cyril Mignot and Boris Keren and Silvana Briuglia and Andrew K Sobering and Dong Li and Lisenka ELM Vissers and Alexander JM Dingemans and Irene Valenzuela and Eline A Verberne and Mala Misra-Isrie and Petra JG Zwijnenburg and Quinten Waisfisz and Mariëlle Alders and Sebastian Sailer and Christian P Schaaf and Marcel MAM Mannens and Bekim Sadikovic and Mieke M van Haelst and Peter Henneman",
             "journal": "Genetics in Medicine",
+            "volume": "26",
+            "number": "3",
+            "pages": "101050",
             "publisher": "Elsevier",
-            "abstract": "Witteveen-Kolk syndrome (WITKOS) is a rare, autosomal dominant neurodevelopmental disorder caused by heterozygous loss-of-function alterations in the SIN3A gene. WITKOS has variable expressivity that commonly overlaps with other neurodevelopmental disorders. In this study, we characterized a distinct DNA methylation epigenetic signature (episignature) distinguishing WITKOS from unaffected individuals as well as individuals with other neurodevelopmental disorders with episignatures and described 9 previously unpublished individuals with SIN3A haploinsufficiency.We studied the phenotypic characteristics and the genome-wide DNA methylation in the peripheral blood samples of 20 individuals with heterozygous alterations in SIN3A. A total of 14 samples were used for the identification of the episignature and building of a predictive diagnostic biomarker, whereas the diagnostic model …"
+            "abstract": "Hao-Fountain syndrome (HAFOUS) is a neurodevelopmental disorder caused by pathogenic variants in USP7. HAFOUS is characterized by developmental delay, intellectual disability, speech delay, behavioral abnormalities, autism spectrum disorder, seizures, hypogonadism, and mild dysmorphic features. We investigated the phenotype of 18 participants with HAFOUS and performed DNA methylation (DNAm) analysis, aiming to generate a diagnostic biomarker. Furthermore, we performed comparative analysis with known episignatures to gain more insight into the molecular pathophysiology of HAFOUS.We assessed genomic DNAm profiles of 18 individuals with pathogenic variants and variants of uncertain significance (VUS) in USP7 to map and validate a specific episignature. The comparison between the USP7 cohort and 56 rare genetic disorders with earlier reported DNAm episignatures …"
         },
         "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:7PzlFSSx8tAC",
+        "author_pub_id": "RCwXcaYAAAAJ:iH-uZ7U-co4C",
         "num_citations": 0,
-        "pub_url": "https://www.sciencedirect.com/science/article/pii/S109836002200973X",
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1098360023010663",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Z9gAfMhMOdkJ:scholar.google.com/",
         "cites_per_year": {}
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "The phenotypic spectrum and genotype-phenotype correlations in 106 patients with variants in major autism gene CHD8",
-            "pub_year": 2022,
-            "author": "Alexander JM Dingemans and Kim MG Truijen and Sam van de Ven and Raphael Bernier and Ernie MHF Bongers and Arjan Bouman and Laura de Graaff–Herder and Evan E Eichler and Erica H Gerkes and Christa M De Geus and Johanna M van Hagen and Philip R Jansen and Jennifer Kerkhof and Anneke JA Kievit and Tjitske Kleefstra and Saskia M Maas and Stella A de Man and Haley McConkey and Wesley G Patterson and Amy T Dobson and Eloise J Prijoles and Bekim Sadikovic and Raissa Relator and Roger E Stevenson and Connie TRM Stumpel and Malou Heijligers and Kyra E Stuurman and Katharina Löhner and Shimriet Zeidler and Jennifer A Lee and Amanda Lindy and Fanggeng Zou and Matthew L Tedder and Lisenka ELM Vissers and Bert de Vries",
-            "journal": "Translational psychiatry",
-            "volume": "12",
-            "number": "1",
-            "pages": "1-11",
-            "publisher": "Nature Publishing Group",
-            "abstract": "CHD8, a major autism gene, functions in chromatin remodelling and has various roles involving several biological pathways. Therefore, unsurprisingly, previous studies have shown that intellectual developmental disorder with autism and macrocephaly (IDDAM), the syndrome caused by pathogenic variants in CHD8, consists of a broad range of phenotypic abnormalities. We collected and reviewed 106 individuals with IDDAM, including 36 individuals not previously published, thus enabling thorough genotype–phenotype analyses, involving the CHD8 mutation spectrum, characterization of the CHD8 DNA methylation episignature, and the systematic analysis of phenotypes collected in Human Phenotype Ontology (HPO). We identified 29 unique nonsense, 25 frameshift, 24 missense, and 12 splice site variants. Furthermore, two unique inframe deletions, one larger deletion (exons 26–28), and one translocation …"
+            "title": "Loss-of-function of activity-dependent neuroprotective protein (ADNP) by a splice-acceptor site mutation causes Helsmoortel–Van der Aa syndrome",
+            "pub_year": 2024,
+            "citation": "European Journal of Human Genetics, 1-9, 2024",
+            "author": "Claudio Peter D’Incal and Dale John Annear and Ellen Elinck and Jasper J van der Smagt and Mariëlle Alders and Alexander JM Dingemans and Ligia Mateiu and Bert BA de Vries and Wim Vanden Berghe and R Frank Kooy",
+            "journal": "European Journal of Human Genetics",
+            "pages": "1-9",
+            "publisher": "Springer International Publishing",
+            "abstract": "Mutations in ADNP result in Helsmoortel–Van der Aa syndrome. Here, we describe the first de novo intronic deletion, affecting the splice-acceptor site of the first coding ADNP exon in a five-year-old girl with developmental delay and autism. Whereas exome sequencing failed to detect the non-coding deletion, genome-wide CpG methylation analysis revealed an episignature suggestive of a Helsmoortel–Van der Aa syndrome diagnosis. This diagnosis was further supported by PhenoScore, a novel facial recognition software package. Subsequent whole-genome sequencing resolved the three-base pair ADNP deletion c.[-5-1_-4del] with transcriptome sequencing showing this deletion leads to skipping of exon 4. An N-terminal truncated protein could not be detected in transfection experiments with a mutant expression vector in HEK293T cells, strongly suggesting this is a first confirmed diagnosis exclusively due to …"
         },
         "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:QIV2ME_5wuYC",
+        "author_pub_id": "RCwXcaYAAAAJ:blknAaTinKkC",
         "num_citations": 0,
-        "pub_url": "https://www.nature.com/articles/s41398-022-02189-1",
+        "pub_url": "https://www.nature.com/articles/s41431-024-01556-4",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-kj1QoFkP_gJ:scholar.google.com/",
         "cites_per_year": {}
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "Inherited ARID1B variants: evidence of nonpathogenicity or variable expression?",
-            "pub_year": 2022,
-            "author": "PJ van der Sluijs and M Alders and A Dingemans and E Gerkes and BW van Bon and JC Dempsey and D Doherty and I Miller and JA Rosenfeld and S Moortgat and K Parbhoo and M Pastore and D Regier and B Schmalz and T Smol and KE Stuurman and BBA de Vries and SE Hickey and I Maystadt and GWE Santen",
-            "conference": "EUROPEAN JOURNAL OF HUMAN GENETICS",
-            "volume": "30",
-            "number": "SUPPL 1",
-            "pages": "230-230",
-            "publisher": "SPRINGERNATURE"
+            "title": "KMT2C pathogenic variants result in a neurodevelopmental disorder with distinct clinical and DNA methylation features",
+            "pub_year": 2024,
+            "citation": "European Journal of Human Genetics 32, 188-188, 2024",
+            "author": "Dmitrijs Rots and Sanaa Choufani and Victor Faundes and Alexander Dingemans and Lisenka Vissers and Tjitske Kleefstra and Siddharth Banka and Rosanna Weksberg",
+            "journal": "European Journal of Human Genetics",
+            "volume": "32",
+            "pages": "188-188",
+            "publisher": "Springer Nature",
+            "abstract": "KMT2C pathogenic variants result in a neurodevelopmental disorder with distinct clinical and \nDNA methylation features — Research Explorer The University of Manchester Skip to main \nnavigation Skip to search Skip to main content Research Explorer The University of Manchester \nHome Research Explorer The University of Manchester Logo Home Research Profiles Research \nunits Research output Projects Impacts Activities Press/Media Prizes Equipment and Facilities \nDatasets Student theses Search by expertise, name or affiliation KMT2C pathogenic variants \nresult in a neurodevelopmental disorder with distinct clinical and DNA methylation features \nD Rots, S Choufani, V Faundes, A Dingemans, L Vissers, T Kleefstra, S Banka, R Weksberg \nDivision of Evolution, Infection and Genomics Research output: Contribution to journal › \nMeeting Abstract › peer-review Overview Original language English Pages (from-to) 188-…"
         },
         "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:mVmsd5A6BfQC",
+        "author_pub_id": "RCwXcaYAAAAJ:hMod-77fHWUC",
         "num_citations": 0,
-        "pub_url": "https://scholar.google.com/scholar?cluster=7024058149046912423&hl=en&oi=scholarr",
+        "pub_url": "https://research.manchester.ac.uk/en/publications/kmt2c-pathogenic-variants-result-in-a-neurodevelopmental-disorder",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Kg-xtfMl_p0J:scholar.google.com/",
         "cites_per_year": {}
     },
     {
         "container_type": "Publication",
         "source": "AUTHOR_PUBLICATION_ENTRY",
         "bib": {
-            "title": "PhenoScore: AI-based phenomics to quantify rare disease and genetic variation",
-            "pub_year": 2022,
-            "author": "Alexander JM Dingemans and Max Hinne and Kim MG Truijen and Lia Goltstein and Jeroen van Reeuwijk and Nicole de Leeuw and Janneke Schuurs-Hoeijmakers and Rolph Pfundt and Joery den Hoed and Elke de Boer and Jet Coenen-van der Spek and Sandra Jansen and Bregje W van Bon and Noraly Jonis and Charlotte Ockeloen and Anneke T Vulto-van Silfhout and Tjitske Kleefstra and David A Koolen and Hilde Van Esch and Gholson J Lyon and Fowzan S Alkuraya and Anita Rauch and Ronit Marom and Diana Baralle and Pleuntje J van der Sluijs and Gijs WE Santen and R Frank Kooy and Marcel AJ van Gerven and Lisenka ELM Vissers and Bert BA de Vries",
+            "title": "PhenomAD-NDD: the Phenomics Aggregation Database of comorbidities in 51,227 pediatric individuals with NeuroDevelopmental Disorders",
+            "pub_year": 2023,
+            "citation": "medRxiv, 2023.11. 29.23299167, 2023",
+            "author": "Alexander JM Dingemans and Sandra Jansen and Jeroen van Reeuwijk and Nicole de Leeuw and Rolph Pfundt and Janneke Schuurs-Hoeijmakers and Bregje W van Bon and Carlo Marcelis and Charlotte W Ockeloen and Marjolein Willemsen and Pleuntje J Van der Sluijs and Gijs WE Santen and R Frank Kooy and Anneke T Vult-van Silfhout and Tjitske Kleefstra and David A Koolen and Lisenka ELM Vissers and Bert BA de Vries",
             "journal": "medRxiv",
-            "publisher": "Cold Spring Harbor Laboratory Press",
-            "abstract": "While both molecular and phenotypic data are essential when interpreting genetic variants, prediction scores (CADD, PolyPhen, and SIFT) have focused on molecular details to evaluate pathogenicity - omitting phenotypic features. To unlock the full potential of phenotypic data, we developed PhenoScore: an open source, artificial intelligence-based phenomics framework. PhenoScore combines facial recognition technology with Human Phenotype Ontology (HPO) data analysis to quantify phenotypic similarity at both the level of individual patients as well as of cohorts. We prove PhenoScore9s ability to recognize distinct phenotypic entities by establishing recognizable phenotypes for 25 out of 26 investigated genetic syndromes against clinical features observed in individuals with other neurodevelopmental disorders. Moreover, PhenoScore was able to provide objective clinical evidence for two distinct ADNP-related phenotypes, that had already been established functionally, but not yet phenotypically. Hence, PhenoScore will not only be of use to unbiasedly quantify phenotypes to assist genomic variant interpretation at the individual level, such as for reclassifying variants of unknown clinical significance, but is also of importance for detailed genotype-phenotype studies."
+            "pages": "2023.11. 29.23299167",
+            "publisher": "Cold Spring Harbor Laboratory Press"
         },
         "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:dhFuZR0502QC",
+        "author_pub_id": "RCwXcaYAAAAJ:RHpTSmoSYBkC",
         "num_citations": 0,
-        "pub_url": "https://www.medrxiv.org/content/10.1101/2022.10.24.22281480.abstract",
-        "cites_per_year": {}
-    },
-    {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Comparing facial feature extraction methods in the diagnosis of rare genetic syndromes",
-            "pub_year": 2022,
-            "author": "Alexander JM Dingemans and Bert BA de Vries and Lisenka ELM Vissers and Marcel AJ van Gerven and Max Hinne",
-            "journal": "medRxiv",
-            "publisher": "Cold Spring Harbor Laboratory Press",
-            "abstract": "Background and Objective: Since several genetic disorders exhibit facial characteristics, facial recognition techniques can help clinicians in diagnosing patients. However, currently, there are no open-source models that are feasible for use in clinical practice, which makes clinical application of these methods dependent on proprietary software. Methods: In this study, we therefore set out to compare three facial feature extraction methods when classifying 524 individuals with 18 different genetic disorders: two techniques based on convolutional neural networks (VGGFace2, OpenFace) and one method based on facial distances, calculated after detecting 468 landmarks. For every individual, all three methods are used to generate a feature vector of a facial image. These feature vectors are used as input to a Bayesian softmax classifier, to see which feature extraction method would generate the best results. Results: Of the considered algorithms, VGGFace2 results in the best performance, as shown by its accuracy of 0.78 and significantly lowest loss. We inspect the features learned by VGGFace2 by generating activation maps and using Local Interpretable Model-agnostic Explanations, and confirm that the resulting predictors are interpretable and meaningful. Conclusions: All in all, the classifier using the features extracted by VGGFace2 shows not only superior classification performance, but detects faces in almost all images that are processed, in seconds. By not retraining VGGFace2, but instead using the feature vector of the network with its pretrained weights, we avoid overfitting the model. We confirm that it is possible to classify individuals with …"
-        },
-        "filled": true,
-        "author_pub_id": "RCwXcaYAAAAJ:9ZlFYXVOiuMC",
-        "num_citations": 0,
-        "pub_url": "https://www.medrxiv.org/content/10.1101/2022.08.26.22279217.abstract",
+        "pub_url": "https://scholar.google.com/scholar?cluster=13822332833246668222&hl=en&oi=scholarr",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:vuXiXHrK0r8J:scholar.google.com/",
         "cites_per_year": {}
     },
     {
@@ -817,6 +1184,7 @@
         "bib": {
             "title": "Perineal Fistula and Vaginal Agenesis Video Case Report",
             "pub_year": 2017,
+            "citation": "Journal of Pediatric and Adolescent Gynecology 30 (2), 315, 2017",
             "author": "A Vilanova and V Lane and A Dingemans and C Reck and K McCracken and R Wood and G Hewitt and MA Levitt",
             "journal": "Journal of Pediatric and Adolescent Gynecology",
             "volume": "30",
@@ -829,6 +1197,7 @@
         "author_pub_id": "RCwXcaYAAAAJ:eQOLeE2rZwMC",
         "num_citations": 0,
         "pub_url": "https://www.jpagonline.org/article/S1083-3188(17)30220-6/abstract",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Muw03xqau7IJ:scholar.google.com/",
         "cites_per_year": {}
     }
 ]
