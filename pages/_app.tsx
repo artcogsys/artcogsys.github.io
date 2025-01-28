@@ -5,10 +5,11 @@ import CssBaseline from "@mui/material/CssBaseline";
 
 import "../styles/global.css";
 import styles from "../styles/utils.module.css";
+import Footer from "../components/footer";
 
 const darkTheme = createTheme({
   palette: {
-    mode: "dark",
+    mode: "light",
   },
 });
 
@@ -23,6 +24,8 @@ export default function App({ Component, pageProps }: AppProps) {
     <ThemeProvider theme={darkTheme}>
       <CssBaseline />
       <Component {...pageProps} />
+            <Footer></Footer>
+      
     </ThemeProvider>
   );
 }

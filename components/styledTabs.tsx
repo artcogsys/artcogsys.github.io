@@ -35,7 +35,8 @@ export const StyledTab = styled((props: StyledTabProps) => (
   fontWeight: theme.typography.fontWeightRegular,
   fontSize: theme.typography.pxToRem(16),
   marginRight: theme.spacing(1),
-  color: "rgba(255, 255, 255, 1)",
+  color:'black',
+  // color: "rgba(255, 255, 255, 1)",
   "&.Mui-focusVisible": {},
   "&.MuiTab-textColorPrimary": {},
   "&.Mui-selected": {},
@@ -63,6 +64,6 @@ export const StyledTabs = styled((props: StyledTabsProps) => (
   />
 ))({
   "& .MuiTabs-scroller": {
-    backgroundColor: "#121212",
+    backgroundColor: "white", 
   },
 });

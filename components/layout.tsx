@@ -36,7 +36,7 @@ export default function Layout({
        */}
       <header className={styles.header}>
         <Container
-          maxWidth="lg"
+          maxWidth="xl"
           className={utilStyles.mainContainer}
           style={{ marginTop: "0" }}
         >

@@ -55,7 +55,7 @@ export default function PublicationAccordion({
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
-          <p>
+          <p style={{ fontSize: 18 }}>
             {`${apaAuthor} (${publication.bib.pub_year}). `}
             {publication.bib.journal ? (
               <>
@@ -92,7 +92,7 @@ export default function PublicationAccordion({
                 rel="noreferrer"
                 target="_blank"
               >
-                <p>Go to article</p>
+                <>Go to article</>
               </Button>
             </Typography>
           </Stack>

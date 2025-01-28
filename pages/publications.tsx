@@ -35,7 +35,7 @@ export default function Publications({
 
   return (
     <Layout pageIdx={4}>
-      <Stack spacing={1}>
+      <Stack spacing={1} >
         <h1 className={utilStyles.headingXl} style={{ marginTop: "0" }}>
           Publications
         </h1>

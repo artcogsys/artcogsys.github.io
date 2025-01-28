@@ -2,6 +2,7 @@ import { Post } from "../types/post";
 
 
 const posts: Array<Post> = [
+    
     {
         id: "intro",
         title: "Intro",

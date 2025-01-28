@@ -1,19 +1,22 @@
 /* eslint-disable @next/next/no-img-element */
-import * as React from "react";
-
-import Container from "@mui/material/Container";
-import Box from "@mui/material/Box";
-import { Stack } from "@mui/material";
-import { Paper } from "@mui/material";
-import ImageList from "@mui/material/ImageList";
-import ImageListItem from "@mui/material/ImageListItem";
-import ImageListItemBar from "@mui/material/ImageListItemBar";
-import Layout from "../components/layout";
-import { getPeopleData } from "../lib/people";
+import React from "react";
 import { GetStaticProps } from "next";
-import Button from "@mui/material/Button";
-
+import {
+  Container,
+  Stack,
+  Paper,
+  Card,
+  CardContent,
+  CardMedia,
+  Typography,
+  Grid,
+} from "@mui/material";
+import LazyLoad from "react-lazyload";
 import utilStyles from "../styles/utils.module.css";
+import Layout from "../components/layout";
+import { getPeopleData } from "../lib/people"; // Adjust the import path as necessary
+import { on } from "events";
+import { motion } from "framer-motion";
 
 /**
  * The "Team" page. Displays an overview over the team members.
@@ -27,6 +30,7 @@ export default function People({
     title: string;
     id: string;
     image: string;
+    profileLink: string;
   }[];
 }) {
   const titles = [
@@ -38,64 +42,121 @@ export default function People({
   ];
 
   const CardStack = titles.map((title, idx) => (
-    <Paper elevation={3} key={idx}>
+    <Paper elevation={0} key={idx}>
+        <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.5 }}
+          >
       <Container maxWidth="xl" className={utilStyles.padded}>
         <Stack spacing={1}>
-          <h2 className={utilStyles.headingLg} style={{ marginTop: "0" }}>
+          <Typography
+            sx={{ padding: "0 0.5vw" }}
+            variant="h5"
+            component="div"
+            gutterBottom
+          >
             {title}
-          </h2>
-          <ImageList gap={10} cols={3}>
+          </Typography>
+          <Grid container spacing={3}>
             {allPeopleData
               .filter((person) => person.title === title)
-              .sort((a,b) => {
-                const textA = a.name.toUpperCase();
-                const textB = b.name.toUpperCase();
-                return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
-              })
               .map((person) => (
-                <ImageListItem key={person.image}>
-                  <a 
+                <Grid item xs={12} sm={6} md={4} lg={3} key={person.id}>
+                  <Card
+                    component="a"
                     href={`/team/${person.id}`}
-                    style={{
-                      color: "#90caf9",
-                      lineHeight: "1.75",
-                      fontSize: "1.1rem",
-                      fontWeight: "500",
-                      cursor: "pointer"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    elevation={3}
+                    sx={{
+                      borderRadius: "0",
+                      padding: "0",
+                      textDecoration: "none",
+                      position: "relative",
+                      overflow: "hidden",
+                      cursor: "pointer",
+                      "&:hover .MuiCardMedia-root": {
+                        filter: "brightness(70%)",
+                      },
+                      "&:hover .profile": {
+                        transform: "translateY(0)",
+                        opacity: 1,
+                      },
+                      "&:hover .name": {
+                        transform: "translateY(-100%)",
+                      },
                     }}
                   >
-                    <Box sx={{ 
-                      height: {xs: 150, md: 314, lg: 314 },
-                      width: {xs: 150, md: 314, lg: 314 }
-                    }}>
-                    <img
-                        src={`data:image/png;base64,${person.image}`}
-                        alt={person.title}
-                        loading="lazy"
-                        style={{height: "inherit"}}
+                    <LazyLoad height={300} offset={100}>
+                      <CardMedia
+                      
+                        component="img"
+                        height="300"
+                        image={`data:image/png;base64,${person.image}`}
+                        alt={person.name}
+                        sx={{
+                          transition: "filter 0.3s ease",
+                        }}
                       />
-                    </Box>
-                      <ImageListItemBar
-                        title={
-                          <Button
-                            size="large"
-                            sx={{
-                              textTransform: "none",
-                              padding: "0",
-                              fontSize: "1.1rem",
-                            }}
-                          >
-                            {person.name}
-                          </Button>
-                        }
-                        position="below"
-                      />
-                  </a>
-                </ImageListItem>
+                    </LazyLoad>
+                    <CardContent
+
+                      sx={{
+                        textAlign: "center",
+                        height: "100%",
+                        position: "absolute",
+                        top: 0,
+                        left: 0,
+                        right: 0,
+                        bottom: 0,
+                        display: "flex",
+                        flexDirection: "column",
+                        justifyContent: "flex-end",
+                        alignItems: "center",
+                        color: "white",
+                        background:
+                          "linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 130%)",
+                        transition: "background 0.3s ease",
+                      }}
+                    >
+                      <Typography
+                        className="name"
+                        fontSize={20}
+                        fontWeight={600}
+                        component="div"
+                        sx={{
+                          position: "relative",
+                          bottom: "10px",
+                          transition: "transform 0.3s ease",
+                        }}
+                      >
+                        {person.name}
+                      </Typography>
+                      <Typography
+                        className="profile"
+                        fontSize={16}
+                        component="div"
+                        sx={{
+                          position: "absolute",
+                          bottom: "10px",
+                          left: "10px",
+                          right: "10px",
+                          transform: "translateY(100%)",
+                          transition: "transform 0.3s ease, opacity 0.3s ease",
+                          opacity: 0,
+                        }}
+                      >
+                        Go to Profile
+                      </Typography>
+                    </CardContent>
+                  </Card>
+                </Grid>
               ))}
-          </ImageList>
+          </Grid>
         </Stack>
       </Container>
+      </motion.div>
     </Paper>
   ));
 
@@ -107,7 +168,7 @@ export default function People({
 }
 
 /**
- * Invoked by NextJS when the page is loaded. 
+ * Invoked by NextJS when the page is loaded.
  * Is used to retrieve the information of the team members.
  */
 export const getStaticProps: GetStaticProps = async () => {
@@ -118,3 +179,5 @@ export const getStaticProps: GetStaticProps = async () => {
     },
   };
 };
+
+People;
