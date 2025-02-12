@@ -137,13 +137,13 @@ export default function NavTabs({ pageIdx }: { pageIdx: number }) {
                   rel="noreferrer"
                   target="_blank"
                   href={page.path}
-                  style={{ color: "white" }}
+                  style={{ color: "black" }}
                 >
                   <ArrowRightIcon />
                   {page.label}
                 </a>
               ) : (
-                <a href={page.path} style={{ color: "white" }}>
+                <a href={page.path} style={{ color: "black" }}>
                   <ArrowRightIcon />
                   {page.label}
                 </a>

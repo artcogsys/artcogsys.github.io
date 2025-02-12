@@ -11,7 +11,6 @@ import {
   Typography,
   Grid,
 } from "@mui/material";
-import LazyLoad from "react-lazyload";
 import utilStyles from "../styles/utils.module.css";
 import Layout from "../components/layout";
 import { getPeopleData } from "../lib/people"; // Adjust the import path as necessary
@@ -88,7 +87,6 @@ export default function People({
                       },
                     }}
                   >
-                    <LazyLoad height={300} offset={100}>
                       <CardMedia
                       
                         component="img"
@@ -99,7 +97,6 @@ export default function People({
                           transition: "filter 0.3s ease",
                         }}
                       />
-                    </LazyLoad>
                     <CardContent
 
                       sx={{
