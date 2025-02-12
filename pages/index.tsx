@@ -10,7 +10,6 @@ import posts from "../posts/posts"
 import layoutStyles from "../styles/layout.module.css";
 import styles from "../styles/utils.module.css";
 import Header from "./components/Header";
-import CardsRow from "./components/CardsRow";
 import PostCardList from "../components/postCardList";
 import CardComponent from "./components/CardComponent";
 import Footer from "../components/footer";
