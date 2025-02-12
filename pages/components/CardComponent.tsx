@@ -9,6 +9,9 @@ import Date from "../../components/date";
 import utilStyles from "../../styles/utils.module.css";
 
 function CardComponent({ props }) {
+  if (!props) {
+    return null; // or a fallback UI
+  }
   const imgUrl =
     "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/202984001/1200";
 
@@ -55,9 +58,9 @@ function CardComponent({ props }) {
           >
             {props.abstract}
           </Typography>
-          <div className={utilStyles.lightText}>
+          {/* <div className={utilStyles.lightText}>
             <Date dateString={props.date} />
-          </div>
+          </div> */}
         </CardContent>
       </CardActionArea>
     </Card>

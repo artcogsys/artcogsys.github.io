@@ -1,17 +1,14 @@
 /* eslint-disable @next/next/no-img-element */
 import * as React from "react";
-
 import { styled } from "@mui/material/styles";
 import Tabs from "@mui/material/Tabs";
-import Tab from "@mui/material/Tab";
+import Tab, { TabProps } from "@mui/material/Tab";
 
 /**
- *
  * Styled navigation tab.
- *
  */
 
-interface StyledTabProps {
+interface StyledTabProps extends TabProps {
   label: string;
   href?: string;
   component?: any;
@@ -26,7 +23,7 @@ export const StyledTab = styled((props: StyledTabProps) => (
   <Tab
     component="a"
     onClick={(event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
-      //event.preventDefault();
+      // event.preventDefault();
     }}
     {...props}
   />
@@ -35,17 +32,14 @@ export const StyledTab = styled((props: StyledTabProps) => (
   fontWeight: theme.typography.fontWeightRegular,
   fontSize: theme.typography.pxToRem(16),
   marginRight: theme.spacing(1),
-  color:'black',
-  // color: "rgba(255, 255, 255, 1)",
+  color: "black",
   "&.Mui-focusVisible": {},
   "&.MuiTab-textColorPrimary": {},
   "&.Mui-selected": {},
 }));
 
 /**
- *
  * Styled navigation bar.
- *
  */
 
 interface StyledTabsProps {
@@ -64,6 +58,6 @@ export const StyledTabs = styled((props: StyledTabsProps) => (
   />
 ))({
   "& .MuiTabs-scroller": {
-    backgroundColor: "white", 
+    backgroundColor: "white",
   },
 });

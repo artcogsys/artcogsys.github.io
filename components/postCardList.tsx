@@ -27,8 +27,8 @@ export default function PostCardList({
   const PostCardListInner = () => (
     <Grid container spacing={3}>
       {allPostsData.map((post) => (
-        <Grid item xs={12} sm={6} md={4} display="flex" justifyContent="center">
-          <CardComponent props={post} key={post.id} />
+        <Grid  key={post.id}  item xs={12} sm={6} md={4} display="flex" justifyContent="center">
+          <CardComponent props={post}  />
         </Grid>
       ))}
     </Grid>

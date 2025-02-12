@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link'
 
 const Footer: React.FC = () => {
     return (
@@ -8,7 +9,7 @@ const Footer: React.FC = () => {
                 <nav>
                     {/* <a href="/privacy-policy" style={linkStyle}>Privacy Policy</a> |  */}
                     {/* <a href="/terms-of-service" style={linkStyle}>Terms of Service</a> |  */}
-                    <a href="/contact" style={linkStyle}>Contact</a>
+                    <Link href="/contact" style={linkStyle}>Contact</Link>
                 </nav>
             </div>
         </footer>
