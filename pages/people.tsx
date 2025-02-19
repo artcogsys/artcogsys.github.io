@@ -169,12 +169,13 @@ export default function People({
  * Is used to retrieve the information of the team members.
  */
 export const getStaticProps: GetStaticProps = async () => {
-  const allPeopleData = getPeopleData();
+  const allPeopleData = getPeopleData() || []; // Ensure it's always an array
   return {
     props: {
       allPeopleData,
     },
   };
 };
+
 
 People;

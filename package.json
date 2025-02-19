@@ -2,8 +2,13 @@
   "name": "artcogsys",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://artcogsys.github.io/",
   "scripts": {
     "dev": "next dev",
+    "build": "next build",
+    "export": "next export",
+    "predeploy": "npm run build && npm run export",
+    "deploy": "gh-pages -d out",
     "build_dev": "set NODE_ENV=development && next build",
     "build_prod": "set NODE_ENV=production && next build",
     "start": "next start",
@@ -47,6 +52,7 @@
     "@types/react": "^19.0.8",
     "eslint": "9.19.0",
     "eslint-config-next": "15.1.6",
+    "gh-pages": "^6.3.0",
     "typescript": "^5.7.3"
   }
 }
