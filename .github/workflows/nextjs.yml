@@ -119,7 +119,7 @@ jobs:
         run: npm ci
 
       - name: Build and Export Static Site
-        run: |
+        run: | 
           npm run build
           npm run export
 
