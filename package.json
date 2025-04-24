@@ -22,7 +22,7 @@
     "@mdx-js/loader": "^3.1.0",
     "@mui/icons-material": "^6.4.1",
     "@mui/material": "^6.4.1",
-    "@next/mdx": "^15.1.6",
+    "@next/mdx": "^15.3.1",
     "date-fns": "^4.1.0",
     "dayjs": "^1.11.13",
     "framer-motion": "^12.0.6",
@@ -56,6 +56,6 @@
     "typescript": "^5.7.3"
   },
   "engines": {
-  "node": "18.x"
-}
+    "node": "18.x"
+  }
 }
