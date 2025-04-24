@@ -1,19 +1,6 @@
 [build]
-    publish = "public"
-    command = "hugo"
+  command = "npm run build"
+  publish = "out" # or ".next", depending on how you're deploying
 
-[context.production.environment]
-    HUGO_VERSION = "0.80.0"
-    NODE_VERSION = "18.17.1"
-    NPM_VERSION = "9.6.7"
-
-[context.deploy-preview]
-    command = "hugo --buildDrafts --buildFuture"
-
-[context.branch-deploy]
-    command = "hugo --buildDrafts --buildFuture"
-
-[context.next.environment]
-    HUGO_ENABLEGITINFO = "true"
-    NODE_VERSION = "18.17.1"
-    NPM_VERSION = "9.6.7"
+[dev]
+  framework = "next"
