@@ -48,8 +48,6 @@ jobs:
             echo "Unable to determine package manager"
             exit 1
           fi
-      - name: Disable Jekyll
-        run: touch out/.nojekyll
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
